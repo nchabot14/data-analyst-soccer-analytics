@@ -1,0 +1,85 @@
+version: 2
+
+models:
+  - name: stg_competitions
+    description: One row per (competition_code, season). Flattens the competition VARIANT payload into typed columns including current-season date range.
+    columns:
+      - name: competition_id
+        description: football-data.org competition id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_teams
+    description: One row per team in the source competition/season.
+    columns:
+      - name: team_id
+        description: football-data.org team id
+        tests:
+          - unique
+
+  - name: stg_matches
+    description: One row per match. Includes both full-time and half-time scores plus a derived goal_difference (home - away).
+    columns:
+      - name: match_id
+        description: football-data.org match id
+        tests:
+          - unique
+          - not_null
+      - name: utc_date
+        description: Kickoff time in UTC
+        tests:
+          - not_null
+      - name: home_team_id
+        tests:
+          - not_null
+      - name: away_team_id
+        tests:
+          - not_null
+      - name: match_status
+        description: Lifecycle status of the fixture as reported by the API
+        tests:
+          - accepted_values:
+              values:
+                - FINISHED
+                - SCHEDULED
+                - IN_PLAY
+                - PAUSED
+                - POSTPONED
+                - SUSPENDED
+                - CANCELLED
+                - AWARDED
+                - TIMED
+                - LIVE
+
+  - name: stg_standings
+    description: One row per team-position. Flattens the nested standings array (TOTAL/HOME/AWAY blocks) into a long table.
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - competition_code
+            - season
+            - standings_type
+            - position
+            - team_id
+    columns:
+      - name: team_id
+        tests:
+          - not_null
+      - name: position
+        tests:
+          - not_null
+      - name: points
+        tests:
+          - not_null
+
+  - name: stg_scorers
+    description: One row per top-scorer entry returned by the scorers endpoint.
+    columns:
+      - name: player_id
+        description: football-data.org player id
+        tests:
+          - not_null
+      - name: goals
+        tests:
+          - not_null

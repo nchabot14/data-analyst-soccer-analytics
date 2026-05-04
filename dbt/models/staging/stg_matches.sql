@@ -1,0 +1,21 @@
+SELECT
+    payload:id::NUMBER                                                       AS match_id,
+    TRY_TO_TIMESTAMP_NTZ(payload:utcDate::STRING)                            AS utc_date,
+    payload:status::STRING                                                   AS match_status,
+    payload:matchday::NUMBER                                                 AS matchday,
+    payload:homeTeam.id::NUMBER                                              AS home_team_id,
+    payload:homeTeam.name::STRING                                            AS home_team_name,
+    payload:homeTeam.tla::STRING                                             AS home_team_tla,
+    payload:awayTeam.id::NUMBER                                              AS away_team_id,
+    payload:awayTeam.name::STRING                                            AS away_team_name,
+    payload:awayTeam.tla::STRING                                             AS away_team_tla,
+    payload:score.fullTime.home::NUMBER                                      AS full_time_home_goals,
+    payload:score.fullTime.away::NUMBER                                      AS full_time_away_goals,
+    payload:score.halfTime.home::NUMBER                                      AS half_time_home_goals,
+    payload:score.halfTime.away::NUMBER                                      AS half_time_away_goals,
+    payload:score.winner::STRING                                             AS winner,
+    payload:score.fullTime.home::NUMBER - payload:score.fullTime.away::NUMBER AS goal_difference,
+    competition_code,
+    season,
+    extracted_at
+FROM {{ source('raw', 'RAW_MATCHES') }}

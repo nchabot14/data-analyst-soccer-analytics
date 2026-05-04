@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw VARIANT extracts from the football-data.org v4 API
+    database: SOCCER_RECRUITMENT
+    schema: RAW
+    tables:
+      - name: RAW_COMPETITIONS
+        description: One row per (competition_code, season). payload is the competition object.
+      - name: RAW_TEAMS
+        description: One row per team. payload is the team object.
+      - name: RAW_MATCHES
+        description: One row per match. payload is the match object.
+      - name: RAW_STANDINGS
+        description: One row per (competition_code, season). payload.standings is an array of 3 blocks (TOTAL/HOME/AWAY), each with a 20-team table.
+      - name: RAW_SCORERS
+        description: One row per (competition_code, season). payload.scorers is an array of top scorers.
