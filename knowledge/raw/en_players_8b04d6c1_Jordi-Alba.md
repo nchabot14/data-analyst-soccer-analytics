@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-05-04T04:49:48.274527+00:00
+scraped_at: 2026-05-04T05:07:14.549212+00:00
 source: fbref.com
 ---
 

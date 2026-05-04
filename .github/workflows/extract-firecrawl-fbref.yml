@@ -1,4 +1,4 @@
-name: Scrape FBref via Firecrawl to knowledge/raw
+name: Scrape MLS knowledge sources via Firecrawl to knowledge/raw
 
 on:
   schedule:
@@ -32,7 +32,7 @@ jobs:
       - name: Run scraper
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-        run: python extract/extract_fbref_firecrawl.py
+        run: python extract/extract_knowledge_sources.py
 
       - name: Commit refreshed knowledge/raw if changed
         run: |

@@ -1,10 +1,10 @@
 """
-Scrape curated FBref MLS pages via Firecrawl and write one Markdown file per
-URL into knowledge/raw/, each with a YAML front-matter block capturing
-provenance (source URL, scrape time, source domain).
+Scrape curated MLS soccer knowledge pages from multiple sources via Firecrawl
+and write one Markdown file per URL into knowledge/raw/, each with a YAML
+front-matter block capturing provenance (source URL, scrape time, source domain).
 
 Run:
-    .venv/bin/python3 extract/extract_fbref_firecrawl.py
+    .venv/bin/python3 extract/extract_knowledge_sources.py
 
 Required env var (.env):
     FIRECRAWL_API_KEY    API key from firecrawl.dev
@@ -12,9 +12,9 @@ Required env var (.env):
 Output:
     knowledge/raw/<slug>.md   one file per URL in TARGETS
 
-Edit TARGETS below to scrape additional pages. Player profile URLs are
-illustrative — verify the 8-char player IDs against live FBref before relying
-on them; the script logs and skips any individual failure rather than aborting.
+Targets currently span fbref.com, mlssoccer.com, and americansocceranalysis.com.
+The script logs and skips any individual failure (404, network error, empty
+markdown) rather than aborting — partial scrapes are normal.
 
 SDK: firecrawl-py 4.23.0 (v2 client: `from firecrawl import Firecrawl`)
 """
@@ -41,6 +41,7 @@ OUTPUT_DIR = Path('knowledge/raw')
 SLEEP_SECONDS = 2
 
 TARGETS = [
+    # fbref.com — MLS competition stats pages (7)
     'https://fbref.com/en/comps/22/Major-League-Soccer-Stats',
     'https://fbref.com/en/comps/22/stats/Major-League-Soccer-Stats',
     'https://fbref.com/en/comps/22/shooting/Major-League-Soccer-Stats',
@@ -48,9 +49,23 @@ TARGETS = [
     'https://fbref.com/en/comps/22/defense/Major-League-Soccer-Stats',
     'https://fbref.com/en/comps/22/possession/Major-League-Soccer-Stats',
     'https://fbref.com/en/comps/22/misc/Major-League-Soccer-Stats',
+
+    # fbref.com — illustrative MLS-relevant player profiles (3)
     'https://fbref.com/en/players/d70ce98e/Lionel-Messi',
     'https://fbref.com/en/players/00e7e57b/Sergio-Busquets',
     'https://fbref.com/en/players/8b04d6c1/Jordi-Alba',
+
+    # mlssoccer.com — league context and current standings (4)
+    'https://www.mlssoccer.com/about/',
+    'https://www.mlssoccer.com/news/',
+    'https://www.mlssoccer.com/standings/',
+    'https://www.mlssoccer.com/competitions/mls-cup-playoffs',
+
+    # americansocceranalysis.com — long-form MLS analytics articles (4)
+    'https://www.americansocceranalysis.com/home/2024/8/27/state-of-the-mls-academy-system',
+    'https://www.americansocceranalysis.com/home/2024/2/16/breaking-down-mls-roster-rules',
+    'https://www.americansocceranalysis.com/home/2023/11/15/mls-expected-goals-leaders',
+    'https://www.americansocceranalysis.com/home',
 ]
 
 
@@ -66,6 +81,14 @@ def url_to_slug(url):
     return slug or 'index'
 
 
+def url_to_source(url):
+    """Return the bare host (without leading 'www.') for the source: front-matter field."""
+    host = urlparse(url).netloc.lower()
+    if host.startswith('www.'):
+        host = host[4:]
+    return host
+
+
 def write_markdown_file(out_dir, url, markdown):
     slug = url_to_slug(url)
     path = out_dir / f'{slug}.md'
@@ -73,7 +96,7 @@ def write_markdown_file(out_dir, url, markdown):
         '---\n'
         f'source_url: {url}\n'
         f'scraped_at: {datetime.now(timezone.utc).isoformat()}\n'
-        f'source: fbref.com\n'
+        f'source: {url_to_source(url)}\n'
         '---\n\n'
     )
     path.write_text(front_matter + (markdown or ''), encoding='utf-8')
