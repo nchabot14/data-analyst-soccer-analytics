@@ -1,0 +1,16 @@
+name: soccer_analytics
+version: "0.1.0"
+config-version: 2
+
+profile: soccer_analytics
+
+model-paths: ["models"]
+
+models:
+  soccer_analytics:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts

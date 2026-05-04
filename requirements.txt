@@ -2,3 +2,10 @@ python-dotenv==1.1.0
 requests==2.32.3
 snowflake-connector-python==3.12.3
 firecrawl-py==4.23.0
+dbt-adapters==1.22.10
+dbt-common==1.37.5
+dbt-core==1.11.8
+dbt-extractor==0.6.0
+dbt-protos==1.0.474
+dbt-semantic-interfaces==0.9.0
+dbt-snowflake==1.11.4
