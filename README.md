@@ -238,4 +238,4 @@ Unstructured sources are scraped to `knowledge/raw/` (18 Markdown files across 3
 
 ## Author
 
-Built by Nick Chabot for ISBA 4715 (analytics engineering). [github.com/nchabot14](https://github.com/nchabot14)
+Built by Nick Chabot for ISBA 4715 (Developing Business Applications Using SQL). [github.com/nchabot14](https://github.com/nchabot14)
