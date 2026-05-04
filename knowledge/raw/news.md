@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-05-04T05:07:19.546521+00:00
+scraped_at: 2026-05-04T10:53:52.085913+00:00
 source: mlssoccer.com
 ---
 
@@ -79,39 +79,39 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Real Salt Lake sign Noel Caliskan to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pgjx9xlvysm8sua3dyaq)\\
+- [![Real Salt Lake sign Noel Caliskan to contract extension](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
 \\
 **Real Salt Lake sign Noel Caliskan to contract extension**](https://www.mlssoccer.com/news/real-salt-lake-sign-noel-caliskan-to-contract-extension "Real Salt Lake sign Noel Caliskan to contract extension")
-- [![New York City FC sign forward Arnau Farnós](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xxck0jvsd389wemmt6iv)\\
+- [![New York City FC sign forward Arnau Farnós](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
 \\
 **New York City FC sign forward Arnau Farnós**](https://www.mlssoccer.com/news/new-york-city-fc-sign-forward-arnau-farnos "New York City FC sign forward Arnau Farnós")
-- [![Columbus Crew sign Dylan Chambost to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lnxcu2qmxf94x8ckoula)\\
+- [![Columbus Crew sign Dylan Chambost to contract extension](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
 \\
 **Columbus Crew sign Dylan Chambost to contract extension**](https://www.mlssoccer.com/news/columbus-crew-sign-dylan-chambost-to-contract-extension "Columbus Crew sign Dylan Chambost to contract extension")
 
-- [![Charlotte FC sign homegrown midfielder Aron John](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gfrm6unrdm4exug7hfdn)\\
+- [![Charlotte FC sign homegrown midfielder Aron John](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
 \\
 **Charlotte FC sign homegrown midfielder Aron John**](https://www.mlssoccer.com/news/charlotte-fc-sign-homegrown-midfielder-aron-john "Charlotte FC sign homegrown midfielder Aron John")
-- [![Houston Dynamo sign homegrown Mattheo Dimareli](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oag2rd58pceldhaujisg)\\
+- [![Houston Dynamo sign homegrown Mattheo Dimareli](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
 \\
 **Houston Dynamo sign homegrown Mattheo Dimareli**](https://www.mlssoccer.com/news/houston-dynamo-sign-homegrown-mattheo-dimareli "Houston Dynamo sign homegrown Mattheo Dimareli")
-- [![Charlotte FC sign forward Rodolfo Aloko](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/u2jhqopkhied9pdjatqa)\\
+- [![Charlotte FC sign forward Rodolfo Aloko](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
 \\
 **Charlotte FC sign forward Rodolfo Aloko**](https://www.mlssoccer.com/news/charlotte-fc-sign-forward-rodolfo-aloko "Charlotte FC sign forward Rodolfo Aloko")
 
-![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
+![Download the MLS App](<Base64-Image-Removed>)
 
 ## Download the MLS App
 

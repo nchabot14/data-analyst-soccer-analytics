@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/standings/
-scraped_at: 2026-05-04T05:07:22.105770+00:00
+scraped_at: 2026-05-04T10:53:56.086951+00:00
 source: mlssoccer.com
 ---
 
@@ -20,68 +20,13 @@ Come Kick It! Watch MLS on Apple TV
 - [Supporters' Shield Standings](https://www.mlssoccer.com/standings/2026/supporters-shield)
 - [Form Guide](https://www.mlssoccer.com/standings/form-guide/index)
 
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
-![Loader img](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
+![undefined-loading](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
 
 _Official_ Standings = Updated at conclusion of each match.
 
 _Live_ Standings = Updated in real-time during live matches.
 
-Loading...
-
-OfficialLive
-
-|  |
-| --- |
-| Rank | Club | PointsPTS | PPG | GP | W | L | T | GF | GA | GD | Home | Away |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
+![undefined-loading](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
 
 Latest News
 

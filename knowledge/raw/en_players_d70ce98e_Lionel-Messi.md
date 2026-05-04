@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-05-04T05:07:09.401328+00:00
+scraped_at: 2026-05-04T10:53:32.014433+00:00
 source: fbref.com
 ---
 
@@ -328,7 +328,7 @@ Show entire roster
 On this page:
 
 - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-- [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_6088889146)
+- [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_4963805946)
 - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
 - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
 - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -869,7 +869,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  1.08 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.80 (8th)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.80 (7th)
 
 28 Appearances in Top 10
 
@@ -1287,7 +1287,9 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  1.04 (1st)
 
-29 Appearances in Top 10
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.70 (10th)
+
+30 Appearances in Top 10
 
 #### Non-Penalty Goals + Assists/90
 
@@ -1689,10 +1691,10 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
-· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
-· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
-· [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
+· [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
+· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
+· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com

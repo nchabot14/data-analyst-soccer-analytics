@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/comps/22/Major-League-Soccer-Stats
-scraped_at: 2026-05-04T05:06:46.579429+00:00
+scraped_at: 2026-05-04T10:52:33.937871+00:00
 source: fbref.com
 ---
 
@@ -133,12 +133,12 @@ Home/Away
 | 2 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.3c079def.png)[NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 10 | 6 | 1 | 3 | 18 | 12 | +6 | 19 | 1.90 | [W](https://fbref.com/en/matches/ceb1f3cb/New-England-Revolution-DC-United-April-11-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/ecb0e244/New-England-Revolution-Columbus-Crew-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/0d75cd96/Atlanta-United-New-England-Revolution-April-22-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/a950feb5/Inter-Miami-New-England-Revolution-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/488c1b5a/New-England-Revolution-Charlotte-FC-May-2-2026-Major-League-Soccer) | 16,700 | [Carles Gil](https://fbref.com/en/players/11c30a46/Carles-Gil), [Peyton Miller](https://fbref.com/en/players/6cb5be4f/Peyton-Miller) \- 3 | [Matt Turner](https://fbref.com/en/players/4a51ba65/Matt-Turner) |  |
 | 3 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.cb8b86a2.png)[Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 11 | 5 | 4 | 2 | 22 | 19 | +3 | 19 | 1.73 | [D](https://fbref.com/en/matches/76eb9ab4/Inter-Miami-New-York-Red-Bulls-April-11-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/09bbc02f/Colorado-Rapids-Inter-Miami-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/c7fe6f65/Real-Salt-Lake-Inter-Miami-April-22-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/a950feb5/Inter-Miami-New-England-Revolution-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/d070b7ad/Inter-Miami-Orlando-City-May-2-2026-Major-League-Soccer) | 26,433 | [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) \- 8 | [Dayne St. Clair](https://fbref.com/en/players/3f41d25f/Dayne-St-Clair) |  |
 | 4 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.f9940243.png)[Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 10 | 5 | 2 | 3 | 19 | 11 | +8 | 17 | 1.70 | [W](https://fbref.com/en/matches/e266717e/Chicago-Fire-Nashville-SC-April-4-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/67055d29/Chicago-Fire-Atlanta-United-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/8f195d94/FC-Cincinnati-Chicago-Fire-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/27021553/Chicago-Fire-Sporting-Kansas-City-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/ca915ad3/Chicago-Fire-FC-Cincinnati-May-2-2026-Major-League-Soccer) | 17,661 | [Hugo Cuypers](https://fbref.com/en/players/9f417f8c/Hugo-Cuypers) \- 10 | [Chris Brady](https://fbref.com/en/players/a71768a2/Chris-Brady) |  |
-| 5 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.e9ea41b2.png)[FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 11 | 4 | 3 | 4 | 22 | 25 | -3 | 15 | 1.36 | [D](https://fbref.com/en/matches/d6b37279/Toronto-FC-FC-Cincinnati-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/8f195d94/FC-Cincinnati-Chicago-Fire-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/dc4baad9/New-York-City-FC-FC-Cincinnati-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/6cb955cb/FC-Cincinnati-New-York-Red-Bulls-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/ca915ad3/Chicago-Fire-FC-Cincinnati-May-2-2026-Major-League-Soccer) | 25,513 | [Kévin Denkey](https://fbref.com/en/players/0d3585b5/Kevin-Denkey) \- 6 | [Roman Celentano](https://fbref.com/en/players/42ba8628/Roman-Celentano) |  |
-| 6 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.eb57545a.png)[Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 11 | 4 | 2 | 5 | 18 | 19 | -1 | 14 | 1.27 | [L](https://fbref.com/en/matches/7f5ccd88/Charlotte-FC-Nashville-SC-April-11-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/3d539c58/New-York-City-FC-Charlotte-FC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/e72bedb3/Orlando-City-Charlotte-FC-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/bf7f2acc/Nashville-SC-Charlotte-FC-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/488c1b5a/New-England-Revolution-Charlotte-FC-May-2-2026-Major-League-Soccer) | 29,887 | [Pep Biel](https://fbref.com/en/players/1c59240b/Pep-Biel) \- 5 | [Kristijan Kahlina](https://fbref.com/en/players/53e360bb/Kristijan-Kahlina) |  |
-| 7 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.130f43fa.png)[Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 11 | 3 | 5 | 3 | 18 | 20 | -2 | 14 | 1.27 | [D](https://fbref.com/en/matches/d6b37279/Toronto-FC-FC-Cincinnati-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/91c54463/Toronto-FC-Austin-FC-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/871ec922/Toronto-FC-Philadelphia-Union-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c4292fd1/Toronto-FC-Atlanta-United-April-25-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/49a9daaf/Toronto-FC-San-Jose-Earthquakes-May-2-2026-Major-League-Soccer) | 16,144 | [Dániel Sallói](https://fbref.com/en/players/6fcddf5f/Daniel-Salloi) \- 4 | [Luka Gavran](https://fbref.com/en/players/76c220e0/Luka-Gavran) |  |
-| 8 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.64e81410.png)[NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 10 | 3 | 3 | 4 | 19 | 16 | +3 | 12 | 1.20 | [D](https://fbref.com/en/matches/273b77c5/New-York-City-FC-St-Louis-City-April-4-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/ca61095c/Vancouver-Whitecaps-FC-New-York-City-FC-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/3d539c58/New-York-City-FC-Charlotte-FC-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/dc4baad9/New-York-City-FC-FC-Cincinnati-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/df5f3a4d/CF-Montreal-New-York-City-FC-April-25-2026-Major-League-Soccer) | 22,990 | [Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) \- 8 | [Matt Freese](https://fbref.com/en/players/2f49476c/Matt-Freese) |  |
-| 9 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.529ba333.png)[Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 11 | 3 | 3 | 5 | 16 | 16 | 0 | 12 | 1.09 | [D](https://fbref.com/en/matches/e56b3080/Columbus-Crew-Orlando-City-April-12-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/ecb0e244/New-England-Revolution-Columbus-Crew-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/979f89c8/Columbus-Crew-LA-Galaxy-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/5877ea14/Columbus-Crew-Philadelphia-Union-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/1b29c1a3/Columbus-Crew-Minnesota-United-May-2-2026-Major-League-Soccer) | 19,629 | [Wessam Abou Ali](https://fbref.com/en/players/a06467dc/Wessam-Abou-Ali) \- 5 | [Patrick Schulte](https://fbref.com/en/players/b8f47d7c/Patrick-Schulte) |  |
-| 10 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.44117292.png)[D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 10 | 3 | 3 | 4 | 11 | 15 | -4 | 12 | 1.20 | [L](https://fbref.com/en/matches/9cead112/DC-United-FC-Dallas-April-4-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/ceb1f3cb/New-England-Revolution-DC-United-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/b538b59b/Philadelphia-Union-DC-United-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/3b866a36/New-York-Red-Bulls-DC-United-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/c5ad12bf/DC-United-Orlando-City-April-25-2026-Major-League-Soccer) | 30,821 | [Tai Baribo](https://fbref.com/en/players/18a8e594/Tai-Baribo) \- 6 | [Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) |  |
+| 5 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.44117292.png)[D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 11 | 4 | 3 | 4 | 13 | 15 | -2 | 15 | 1.36 | [L](https://fbref.com/en/matches/ceb1f3cb/New-England-Revolution-DC-United-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/b538b59b/Philadelphia-Union-DC-United-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/3b866a36/New-York-Red-Bulls-DC-United-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/c5ad12bf/DC-United-Orlando-City-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/0d85bc35/New-York-City-FC-DC-United-May-3-2026-Major-League-Soccer) | 30,821 | [Tai Baribo](https://fbref.com/en/players/18a8e594/Tai-Baribo) \- 6 | [Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) |  |
+| 6 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.e9ea41b2.png)[FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 11 | 4 | 3 | 4 | 22 | 25 | -3 | 15 | 1.36 | [D](https://fbref.com/en/matches/d6b37279/Toronto-FC-FC-Cincinnati-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/8f195d94/FC-Cincinnati-Chicago-Fire-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/dc4baad9/New-York-City-FC-FC-Cincinnati-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/6cb955cb/FC-Cincinnati-New-York-Red-Bulls-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/ca915ad3/Chicago-Fire-FC-Cincinnati-May-2-2026-Major-League-Soccer) | 25,513 | [Kévin Denkey](https://fbref.com/en/players/0d3585b5/Kevin-Denkey) \- 6 | [Roman Celentano](https://fbref.com/en/players/42ba8628/Roman-Celentano) |  |
+| 7 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.eb57545a.png)[Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 11 | 4 | 2 | 5 | 18 | 19 | -1 | 14 | 1.27 | [L](https://fbref.com/en/matches/7f5ccd88/Charlotte-FC-Nashville-SC-April-11-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/3d539c58/New-York-City-FC-Charlotte-FC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/e72bedb3/Orlando-City-Charlotte-FC-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/bf7f2acc/Nashville-SC-Charlotte-FC-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/488c1b5a/New-England-Revolution-Charlotte-FC-May-2-2026-Major-League-Soccer) | 29,887 | [Pep Biel](https://fbref.com/en/players/1c59240b/Pep-Biel) \- 5 | [Kristijan Kahlina](https://fbref.com/en/players/53e360bb/Kristijan-Kahlina) |  |
+| 8 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.130f43fa.png)[Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 11 | 3 | 5 | 3 | 18 | 20 | -2 | 14 | 1.27 | [D](https://fbref.com/en/matches/d6b37279/Toronto-FC-FC-Cincinnati-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/91c54463/Toronto-FC-Austin-FC-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/871ec922/Toronto-FC-Philadelphia-Union-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c4292fd1/Toronto-FC-Atlanta-United-April-25-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/49a9daaf/Toronto-FC-San-Jose-Earthquakes-May-2-2026-Major-League-Soccer) | 16,144 | [Dániel Sallói](https://fbref.com/en/players/6fcddf5f/Daniel-Salloi) \- 4 | [Luka Gavran](https://fbref.com/en/players/76c220e0/Luka-Gavran) |  |
+| 9 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.64e81410.png)[NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 11 | 3 | 3 | 5 | 19 | 18 | +1 | 12 | 1.09 | [L](https://fbref.com/en/matches/ca61095c/Vancouver-Whitecaps-FC-New-York-City-FC-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/3d539c58/New-York-City-FC-Charlotte-FC-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/dc4baad9/New-York-City-FC-FC-Cincinnati-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/df5f3a4d/CF-Montreal-New-York-City-FC-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/0d85bc35/New-York-City-FC-DC-United-May-3-2026-Major-League-Soccer) | 22,990 | [Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) \- 8 | [Matt Freese](https://fbref.com/en/players/2f49476c/Matt-Freese) |  |
+| 10 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.529ba333.png)[Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 11 | 3 | 3 | 5 | 16 | 16 | 0 | 12 | 1.09 | [D](https://fbref.com/en/matches/e56b3080/Columbus-Crew-Orlando-City-April-12-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/ecb0e244/New-England-Revolution-Columbus-Crew-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/979f89c8/Columbus-Crew-LA-Galaxy-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/5877ea14/Columbus-Crew-Philadelphia-Union-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/1b29c1a3/Columbus-Crew-Minnesota-United-May-2-2026-Major-League-Soccer) | 19,629 | [Wessam Abou Ali](https://fbref.com/en/players/a06467dc/Wessam-Abou-Ali) \- 5 | [Patrick Schulte](https://fbref.com/en/players/b8f47d7c/Patrick-Schulte) |  |
 | 11 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.69a0fb10.png)[NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 11 | 3 | 3 | 5 | 16 | 27 | -11 | 12 | 1.09 | [D](https://fbref.com/en/matches/76eb9ab4/Inter-Miami-New-York-Red-Bulls-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/eff63c62/CF-Montreal-New-York-Red-Bulls-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/3b866a36/New-York-Red-Bulls-DC-United-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/6cb955cb/FC-Cincinnati-New-York-Red-Bulls-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/5ebfa334/New-York-Red-Bulls-FC-Dallas-May-2-2026-Major-League-Soccer) | 17,305 | [Julian Hall](https://fbref.com/en/players/ea7733d4/Julian-Hall) \- 6 | [Ethan Horvath](https://fbref.com/en/players/3f65d5ce/Ethan-Horvath) |  |
 | 12 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.1ebc1a5b.png)[Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 11 | 3 | 1 | 7 | 12 | 18 | -6 | 10 | 0.91 | [L](https://fbref.com/en/matches/67055d29/Chicago-Fire-Atlanta-United-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/7dd294d9/Atlanta-United-Nashville-SC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/0d75cd96/Atlanta-United-New-England-Revolution-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/c4292fd1/Toronto-FC-Atlanta-United-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/6510c975/Atlanta-United-CF-Montreal-May-2-2026-Major-League-Soccer) | 37,232 | [Aleksei Miranchuk](https://fbref.com/en/players/a9aa0d1d/Aleksei-Miranchuk) \- 5 | [Lucas Hoyos](https://fbref.com/en/players/848cbc52/Lucas-Hoyos) |  |
 | 13 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.46ef01d0.png)[Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 11 | 3 | 1 | 7 | 16 | 32 | -16 | 10 | 0.91 | [D](https://fbref.com/en/matches/e56b3080/Columbus-Crew-Orlando-City-April-12-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/13bc4a63/Orlando-City-Houston-Dynamo-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/e72bedb3/Orlando-City-Charlotte-FC-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c5ad12bf/DC-United-Orlando-City-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/d070b7ad/Inter-Miami-Orlando-City-May-2-2026-Major-League-Soccer) | 20,455 | [Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda) \- 7 | [Maxime Crépeau](https://fbref.com/en/players/ea42e480/Maxime-Crepeau) |  |
@@ -155,12 +155,12 @@ Eastern Conference Table
 | 2 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.3c079def.png)[NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 5 | 5 | 0 | 0 | 13 | 2 | +11 | 15 | 3.00 | 5 | 1 | 1 | 3 | 5 | 10 | -5 | 4 | 0.80 |
 | 3 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.cb8b86a2.png)[Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 4 | 0 | 3 | 1 | 8 | 9 | -1 | 3 | 0.75 | 7 | 5 | 1 | 1 | 14 | 10 | +4 | 16 | 2.29 |
 | 4 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.f9940243.png)[Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 6 | 4 | 0 | 2 | 13 | 5 | +8 | 12 | 2.00 | 4 | 1 | 2 | 1 | 6 | 6 | 0 | 5 | 1.25 |
-| 5 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.e9ea41b2.png)[FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 5 | 3 | 1 | 1 | 11 | 7 | +4 | 10 | 2.00 | 6 | 1 | 2 | 3 | 11 | 18 | -7 | 5 | 0.83 |
-| 6 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.eb57545a.png)[Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 5 | 3 | 1 | 1 | 12 | 5 | +7 | 10 | 2.00 | 6 | 1 | 1 | 4 | 6 | 14 | -8 | 4 | 0.67 |
-| 7 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.130f43fa.png)[Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 8 | 2 | 5 | 1 | 15 | 14 | +1 | 11 | 1.38 | 3 | 1 | 0 | 2 | 3 | 6 | -3 | 3 | 1.00 |
-| 8 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.64e81410.png)[NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 6 | 2 | 2 | 2 | 16 | 11 | +5 | 8 | 1.33 | 4 | 1 | 1 | 2 | 3 | 5 | -2 | 4 | 1.00 |
-| 9 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.529ba333.png)[Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 6 | 2 | 2 | 2 | 7 | 6 | +1 | 8 | 1.33 | 5 | 1 | 1 | 3 | 9 | 10 | -1 | 4 | 0.80 |
-| 10 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.44117292.png)[D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 4 | 2 | 0 | 2 | 5 | 8 | -3 | 6 | 1.50 | 6 | 1 | 3 | 2 | 6 | 7 | -1 | 6 | 1.00 |
+| 5 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.44117292.png)[D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 4 | 2 | 0 | 2 | 5 | 8 | -3 | 6 | 1.50 | 7 | 2 | 3 | 2 | 8 | 7 | +1 | 9 | 1.29 |
+| 6 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.e9ea41b2.png)[FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 5 | 3 | 1 | 1 | 11 | 7 | +4 | 10 | 2.00 | 6 | 1 | 2 | 3 | 11 | 18 | -7 | 5 | 0.83 |
+| 7 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.eb57545a.png)[Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 5 | 3 | 1 | 1 | 12 | 5 | +7 | 10 | 2.00 | 6 | 1 | 1 | 4 | 6 | 14 | -8 | 4 | 0.67 |
+| 8 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.130f43fa.png)[Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 8 | 2 | 5 | 1 | 15 | 14 | +1 | 11 | 1.38 | 3 | 1 | 0 | 2 | 3 | 6 | -3 | 3 | 1.00 |
+| 9 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.64e81410.png)[NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 7 | 2 | 2 | 3 | 16 | 13 | +3 | 8 | 1.14 | 4 | 1 | 1 | 2 | 3 | 5 | -2 | 4 | 1.00 |
+| 10 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.529ba333.png)[Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 6 | 2 | 2 | 2 | 7 | 6 | +1 | 8 | 1.33 | 5 | 1 | 1 | 3 | 9 | 10 | -1 | 4 | 0.80 |
 | 11 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.69a0fb10.png)[NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 5 | 2 | 1 | 2 | 9 | 11 | -2 | 7 | 1.40 | 6 | 1 | 2 | 3 | 7 | 16 | -9 | 5 | 0.83 |
 | 12 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.1ebc1a5b.png)[Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 7 | 2 | 1 | 4 | 10 | 12 | -2 | 7 | 1.00 | 4 | 1 | 0 | 3 | 2 | 6 | -4 | 3 | 0.75 |
 | 13 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.46ef01d0.png)[Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 5 | 2 | 0 | 3 | 9 | 9 | 0 | 6 | 1.20 | 6 | 1 | 1 | 4 | 7 | 23 | -16 | 4 | 0.67 |
@@ -193,10 +193,10 @@ Home/Away
 | 8 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.0d885416.png)[Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 10 | 5 | 0 | 5 | 13 | 18 | -5 | 15 | 1.50 | [L](https://fbref.com/en/matches/bb5ce64a/Colorado-Rapids-Houston-Dynamo-April-11-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/13bc4a63/Orlando-City-Houston-Dynamo-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/c0935944/Houston-Dynamo-San-Diego-FC-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/71a3d916/Austin-FC-Houston-Dynamo-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/81bc0832/Houston-Dynamo-Colorado-Rapids-May-2-2026-Major-League-Soccer) | 18,445 | [Guilherme](https://fbref.com/en/players/58649f05/Guilherme) \- 5 | [Jonathan Bond](https://fbref.com/en/players/c3a86eea/Jonathan-Bond) |  |
 | 9 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.415b4465.png)[Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 11 | 4 | 1 | 6 | 22 | 19 | +3 | 13 | 1.18 | [W](https://fbref.com/en/matches/bb5ce64a/Colorado-Rapids-Houston-Dynamo-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/09bbc02f/Colorado-Rapids-Inter-Miami-April-18-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/df9fb549/Los-Angeles-FC-Colorado-Rapids-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/98f49249/Vancouver-Whitecaps-FC-Colorado-Rapids-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/81bc0832/Houston-Dynamo-Colorado-Rapids-May-2-2026-Major-League-Soccer) | 30,402 | [Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) \- 7 | [Zack Steffen](https://fbref.com/en/players/42130443/Zack-Steffen) |  |
 | 10 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.d8b46897.png)[LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 11 | 3 | 4 | 4 | 16 | 17 | -1 | 13 | 1.18 | [W](https://fbref.com/en/matches/97ede36e/Austin-FC-LA-Galaxy-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/4e4da07d/FC-Dallas-LA-Galaxy-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/979f89c8/Columbus-Crew-LA-Galaxy-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/a901a09e/LA-Galaxy-Real-Salt-Lake-April-26-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/ba9d5a10/LA-Galaxy-Vancouver-Whitecaps-FC-May-2-2026-Major-League-Soccer) | 20,852 | [Klauss](https://fbref.com/en/players/f5ae006d/Klauss) \- 5 | [J.T. Marcinkowski](https://fbref.com/en/players/977791f4/JT-Marcinkowski) |  |
-| 11 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.91b092e1.png)[San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 11 | 3 | 3 | 5 | 19 | 19 | 0 | 12 | 1.09 | [L](https://fbref.com/en/matches/6910c735/San-Diego-FC-Minnesota-United-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/7f1598fa/Real-Salt-Lake-San-Diego-FC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c0935944/Houston-Dynamo-San-Diego-FC-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/41b3e3b8/San-Diego-FC-Portland-Timbers-April-25-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/1fc3cd59/San-Diego-FC-Los-Angeles-FC-May-2-2026-Major-League-Soccer) | 23,457 | [Marcus Ingvartsen](https://fbref.com/en/players/271b8617/Marcus-Ingvartsen) \- 7 | [Duran Ferree](https://fbref.com/en/players/56b6d34f/Duran-Ferree) |  |
-| 12 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.d076914e.png)[Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 10 | 3 | 1 | 6 | 13 | 21 | -8 | 10 | 1.00 | [L](https://fbref.com/en/matches/9fbf55d0/Vancouver-Whitecaps-FC-Portland-Timbers-April-4-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/5e5754cc/Portland-Timbers-Los-Angeles-FC-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/be3df254/Minnesota-United-Portland-Timbers-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/41b3e3b8/San-Diego-FC-Portland-Timbers-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/bb849591/Real-Salt-Lake-Portland-Timbers-May-2-2026-Major-League-Soccer) | 23,111 | [Kristoffer Velde](https://fbref.com/en/players/c5c1627c/Kristoffer-Velde) \- 3 | [James Pantemis](https://fbref.com/en/players/901408ac/James-Pantemis) |  |
-| 13 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.b918956d.png)[Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 10 | 2 | 4 | 4 | 14 | 19 | -5 | 10 | 1.00 | [D](https://fbref.com/en/matches/f5bc1151/Inter-Miami-Austin-FC-April-4-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/97ede36e/Austin-FC-LA-Galaxy-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/91c54463/Toronto-FC-Austin-FC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c52ff5d0/San-Jose-Earthquakes-Austin-FC-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/71a3d916/Austin-FC-Houston-Dynamo-April-25-2026-Major-League-Soccer) | 20,738 | [Myrto Uzuni](https://fbref.com/en/players/01da7812/Myrto-Uzuni) \- 3 | [Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) |  |
-| 14 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.bd97ac1f.png)[St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 9 | 1 | 3 | 5 | 9 | 16 | -7 | 6 | 0.67 | [W](https://fbref.com/en/matches/d52c0b34/St-Louis-City-New-England-Revolution-March-21-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/273b77c5/New-York-City-FC-St-Louis-City-April-4-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/f3fc601b/FC-Dallas-St-Louis-City-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/d8e1f0c6/Seattle-Sounders-St-Louis-City-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/a32de9dc/St-Louis-City-San-Jose-Earthquakes-April-25-2026-Major-League-Soccer) | 22,423 | [Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) \- 3 | [Roman Bürki](https://fbref.com/en/players/9d12e142/Roman-Burki) |  |
+| 11 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.b918956d.png)[Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 11 | 3 | 4 | 4 | 16 | 19 | -3 | 13 | 1.18 | [L](https://fbref.com/en/matches/97ede36e/Austin-FC-LA-Galaxy-April-11-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/91c54463/Toronto-FC-Austin-FC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c52ff5d0/San-Jose-Earthquakes-Austin-FC-April-22-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/71a3d916/Austin-FC-Houston-Dynamo-April-25-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/f9b5cbd2/Austin-FC-St-Louis-City-May-3-2026-Major-League-Soccer) | 20,738 | [Myrto Uzuni](https://fbref.com/en/players/01da7812/Myrto-Uzuni) \- 4 | [Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) |  |
+| 12 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.91b092e1.png)[San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 11 | 3 | 3 | 5 | 19 | 19 | 0 | 12 | 1.09 | [L](https://fbref.com/en/matches/6910c735/San-Diego-FC-Minnesota-United-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/7f1598fa/Real-Salt-Lake-San-Diego-FC-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/c0935944/Houston-Dynamo-San-Diego-FC-April-22-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/41b3e3b8/San-Diego-FC-Portland-Timbers-April-25-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/1fc3cd59/San-Diego-FC-Los-Angeles-FC-May-2-2026-Major-League-Soccer) | 23,457 | [Marcus Ingvartsen](https://fbref.com/en/players/271b8617/Marcus-Ingvartsen) \- 7 | [Duran Ferree](https://fbref.com/en/players/56b6d34f/Duran-Ferree) |  |
+| 13 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.d076914e.png)[Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 10 | 3 | 1 | 6 | 13 | 21 | -8 | 10 | 1.00 | [L](https://fbref.com/en/matches/9fbf55d0/Vancouver-Whitecaps-FC-Portland-Timbers-April-4-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/5e5754cc/Portland-Timbers-Los-Angeles-FC-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/be3df254/Minnesota-United-Portland-Timbers-April-18-2026-Major-League-Soccer)<br>[W](https://fbref.com/en/matches/41b3e3b8/San-Diego-FC-Portland-Timbers-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/bb849591/Real-Salt-Lake-Portland-Timbers-May-2-2026-Major-League-Soccer) | 23,111 | [Kristoffer Velde](https://fbref.com/en/players/c5c1627c/Kristoffer-Velde) \- 3 | [James Pantemis](https://fbref.com/en/players/901408ac/James-Pantemis) |  |
+| 14 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.bd97ac1f.png)[St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 10 | 1 | 3 | 6 | 9 | 18 | -9 | 6 | 0.60 | [D](https://fbref.com/en/matches/273b77c5/New-York-City-FC-St-Louis-City-April-4-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/f3fc601b/FC-Dallas-St-Louis-City-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/d8e1f0c6/Seattle-Sounders-St-Louis-City-April-18-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/a32de9dc/St-Louis-City-San-Jose-Earthquakes-April-25-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/f9b5cbd2/Austin-FC-St-Louis-City-May-3-2026-Major-League-Soccer) | 22,423 | [Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) \- 3 | [Roman Bürki](https://fbref.com/en/players/9d12e142/Roman-Burki) |  |
 | 15 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.4acb0537.png)[Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 10 | 1 | 2 | 7 | 8 | 26 | -18 | 5 | 0.50 | [L](https://fbref.com/en/matches/b40780df/Real-Salt-Lake-Sporting-Kansas-City-April-4-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/54312afa/Sporting-Kansas-City-San-Jose-Earthquakes-April-11-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/f5077d35/Vancouver-Whitecaps-FC-Sporting-Kansas-City-April-17-2026-Major-League-Soccer)<br>[L](https://fbref.com/en/matches/27021553/Chicago-Fire-Sporting-Kansas-City-April-25-2026-Major-League-Soccer)<br>[D](https://fbref.com/en/matches/62d836c4/Sporting-Kansas-City-Seattle-Sounders-May-2-2026-Major-League-Soccer) | 16,630 | [Dejan Joveljić](https://fbref.com/en/players/95a24690/Dejan-Joveljic) \- 5 | [John Pulskamp](https://fbref.com/en/players/6b306c92/John-Pulskamp) |  |
 
 Western Conference Table
@@ -215,10 +215,10 @@ Western Conference Table
 | 8 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.0d885416.png)[Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 6 | 4 | 0 | 2 | 7 | 6 | +1 | 12 | 2.00 | 4 | 1 | 0 | 3 | 6 | 12 | -6 | 3 | 0.75 |
 | 9 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.415b4465.png)[Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 4 | 3 | 0 | 1 | 14 | 6 | +8 | 9 | 2.25 | 7 | 1 | 1 | 5 | 8 | 13 | -5 | 4 | 0.57 |
 | 10 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.d8b46897.png)[LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 6 | 2 | 2 | 2 | 9 | 7 | +2 | 8 | 1.33 | 5 | 1 | 2 | 2 | 7 | 10 | -3 | 5 | 1.00 |
-| 11 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.91b092e1.png)[San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 6 | 2 | 2 | 2 | 13 | 8 | +5 | 8 | 1.33 | 5 | 1 | 1 | 3 | 6 | 11 | -5 | 4 | 0.80 |
-| 12 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.d076914e.png)[Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 4 | 2 | 1 | 1 | 7 | 8 | -1 | 7 | 1.75 | 6 | 1 | 0 | 5 | 6 | 13 | -7 | 3 | 0.50 |
-| 13 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.b918956d.png)[Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 5 | 2 | 2 | 1 | 6 | 4 | +2 | 8 | 1.60 | 5 | 0 | 2 | 3 | 8 | 15 | -7 | 2 | 0.40 |
-| 14 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.bd97ac1f.png)[St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 4 | 1 | 1 | 2 | 6 | 6 | 0 | 4 | 1.00 | 5 | 0 | 2 | 3 | 3 | 10 | -7 | 2 | 0.40 |
+| 11 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.b918956d.png)[Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 6 | 3 | 2 | 1 | 8 | 4 | +4 | 11 | 1.83 | 5 | 0 | 2 | 3 | 8 | 15 | -7 | 2 | 0.40 |
+| 12 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.91b092e1.png)[San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 6 | 2 | 2 | 2 | 13 | 8 | +5 | 8 | 1.33 | 5 | 1 | 1 | 3 | 6 | 11 | -5 | 4 | 0.80 |
+| 13 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.d076914e.png)[Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 4 | 2 | 1 | 1 | 7 | 8 | -1 | 7 | 1.75 | 6 | 1 | 0 | 5 | 6 | 13 | -7 | 3 | 0.50 |
+| 14 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.bd97ac1f.png)[St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 4 | 1 | 1 | 2 | 6 | 6 | 0 | 4 | 1.00 | 6 | 0 | 2 | 4 | 3 | 12 | -9 | 2 | 0.33 |
 | 15 | ![Club Crest](https://cdn.ssref.net/req/202604204/tlogo/fb/mini.4acb0537.png)[Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 5 | 0 | 2 | 3 | 5 | 11 | -6 | 2 | 0.40 | 5 | 1 | 0 | 4 | 3 | 15 | -12 | 3 | 0.60 |
 
 Western Conference Table
@@ -240,13 +240,13 @@ Opponent Stats
 | Squad | \# Pl | Age | Poss | MP | Starts | Min | 90s | Gls | Ast | G+A | G-PK | PK | PKatt | CrdY | CrdR | Gls | Ast | G+A | G-PK | G+A-PK |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 27.5 | 53.9 | 11 | 121 | 990 | 11.0 | 12 | 9 | 21 | 12 | 0 | 0 | 25 | 0 | 1.09 | 0.82 | 1.91 | 1.09 | 1.91 |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 29.2 | 46.7 | 10 | 110 | 900 | 10.0 | 13 | 7 | 20 | 13 | 0 | 0 | 21 | 1 | 1.30 | 0.70 | 2.00 | 1.30 | 2.00 |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 29.3 | 47.5 | 11 | 121 | 990 | 11.0 | 15 | 9 | 24 | 15 | 0 | 0 | 23 | 1 | 1.36 | 0.82 | 2.18 | 1.36 | 2.18 |
 | [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 24.8 | 46.8 | 10 | 110 | 900 | 10.0 | 14 | 9 | 23 | 11 | 3 | 3 | 21 | 2 | 1.40 | 0.90 | 2.30 | 1.10 | 2.00 |
 | [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 29.6 | 48.0 | 11 | 121 | 990 | 11.0 | 18 | 14 | 32 | 17 | 1 | 2 | 27 | 0 | 1.64 | 1.27 | 2.91 | 1.55 | 2.82 |
 | [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 27.2 | 52.6 | 10 | 110 | 900 | 10.0 | 19 | 9 | 28 | 16 | 3 | 5 | 22 | 1 | 1.90 | 0.90 | 2.80 | 1.60 | 2.50 |
 | [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 24.4 | 56.5 | 11 | 121 | 990 | 11.0 | 21 | 14 | 35 | 20 | 1 | 1 | 29 | 2 | 1.91 | 1.27 | 3.18 | 1.82 | 3.09 |
 | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 27.7 | 55.7 | 11 | 121 | 990 | 11.0 | 15 | 11 | 26 | 15 | 0 | 1 | 17 | 0 | 1.36 | 1.00 | 2.36 | 1.36 | 2.36 |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 27.4 | 41.5 | 10 | 110 | 900 | 10.0 | 11 | 8 | 19 | 10 | 1 | 1 | 20 | 0 | 1.10 | 0.80 | 1.90 | 1.00 | 1.80 |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 27.4 | 40.2 | 11 | 121 | 990 | 11.0 | 13 | 8 | 21 | 11 | 2 | 2 | 24 | 0 | 1.18 | 0.73 | 1.91 | 1.00 | 1.73 |
 | [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 26.8 | 50.0 | 11 | 121 | 990 | 11.0 | 21 | 12 | 33 | 17 | 4 | 4 | 25 | 5 | 1.91 | 1.09 | 3.00 | 1.55 | 2.64 |
 | [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 26.5 | 44.8 | 11 | 121 | 990 | 11.0 | 19 | 13 | 32 | 18 | 1 | 1 | 25 | 0 | 1.73 | 1.18 | 2.91 | 1.64 | 2.82 |
 | [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 28.9 | 42.1 | 10 | 110 | 900 | 10.0 | 13 | 8 | 21 | 13 | 0 | 0 | 21 | 5 | 1.30 | 0.80 | 2.10 | 1.30 | 2.10 |
@@ -257,7 +257,7 @@ Opponent Stats
 | [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 27.6 | 54.0 | 10 | 110 | 900 | 10.0 | 21 | 14 | 35 | 20 | 1 | 1 | 17 | 1 | 2.10 | 1.40 | 3.50 | 2.00 | 3.40 |
 | [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 25.9 | 46.4 | 10 | 110 | 900 | 10.0 | 18 | 11 | 29 | 16 | 2 | 2 | 18 | 0 | 1.80 | 1.10 | 2.90 | 1.60 | 2.70 |
 | [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 24.0 | 57.5 | 11 | 121 | 990 | 11.0 | 14 | 10 | 24 | 14 | 0 | 0 | 18 | 1 | 1.27 | 0.91 | 2.18 | 1.27 | 2.18 |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 27.5 | 57.7 | 10 | 110 | 900 | 10.0 | 19 | 11 | 30 | 17 | 2 | 2 | 15 | 1 | 1.90 | 1.10 | 3.00 | 1.70 | 2.80 |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 27.5 | 59.1 | 11 | 121 | 990 | 11.0 | 19 | 11 | 30 | 17 | 2 | 2 | 16 | 1 | 1.73 | 1.00 | 2.73 | 1.55 | 2.55 |
 | [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 25.8 | 44.2 | 11 | 121 | 990 | 11.0 | 16 | 12 | 28 | 15 | 1 | 1 | 30 | 2 | 1.45 | 1.09 | 2.55 | 1.36 | 2.45 |
 | [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 25.2 | 48.5 | 11 | 121 | 990 | 11.0 | 9 | 7 | 16 | 8 | 1 | 2 | 25 | 3 | 0.82 | 0.64 | 1.45 | 0.73 | 1.36 |
 | [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 26.4 | 45.6 | 10 | 110 | 900 | 10.0 | 13 | 9 | 22 | 13 | 0 | 1 | 19 | 2 | 1.30 | 0.90 | 2.20 | 1.30 | 2.20 |
@@ -266,7 +266,7 @@ Opponent Stats
 | [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 27.4 | 52.8 | 9 | 99 | 810 | 9.0 | 13 | 10 | 23 | 12 | 1 | 2 | 18 | 0 | 1.44 | 1.11 | 2.56 | 1.33 | 2.44 |
 | [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 26.4 | 49.5 | 11 | 121 | 990 | 11.0 | 25 | 20 | 45 | 22 | 3 | 3 | 22 | 0 | 2.27 | 1.82 | 4.09 | 2.00 | 3.82 |
 | [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 24.8 | 43.3 | 10 | 110 | 900 | 10.0 | 8 | 6 | 14 | 8 | 0 | 0 | 12 | 0 | 0.80 | 0.60 | 1.40 | 0.80 | 1.40 |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 27.5 | 51.2 | 9 | 99 | 810 | 9.0 | 9 | 7 | 16 | 9 | 0 | 0 | 13 | 0 | 1.00 | 0.78 | 1.78 | 1.00 | 1.78 |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 27.5 | 50.5 | 10 | 110 | 900 | 10.0 | 9 | 7 | 16 | 9 | 0 | 0 | 16 | 0 | 0.90 | 0.70 | 1.60 | 0.90 | 1.60 |
 | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 27.7 | 47.9 | 11 | 121 | 990 | 11.0 | 16 | 12 | 28 | 16 | 0 | 0 | 22 | 1 | 1.45 | 1.09 | 2.55 | 1.45 | 2.55 |
 | [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 26.8 | 54.6 | 10 | 110 | 900 | 10.0 | 26 | 15 | 41 | 22 | 4 | 4 | 18 | 0 | 2.60 | 1.50 | 4.10 | 2.20 | 3.70 |
 
@@ -277,13 +277,13 @@ Squad Standard Stats 2026 Major League Soccer Table
 | Squad | \# Pl | Age | Poss | MP | Starts | Min | 90s | Gls | Ast | G+A | G-PK | PK | PKatt | CrdY | CrdR | Gls | Ast | G+A | G-PK | G+A-PK |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 26.5 | 46.1 | 11 | 121 | 990 | 11.0 | 18 | 16 | 34 | 18 | 0 | 1 | 13 | 1 | 1.64 | 1.45 | 3.09 | 1.64 | 3.09 |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 28.0 | 53.3 | 10 | 110 | 900 | 10.0 | 18 | 12 | 30 | 17 | 1 | 1 | 25 | 0 | 1.80 | 1.20 | 3.00 | 1.70 | 2.90 |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 27.9 | 52.5 | 11 | 121 | 990 | 11.0 | 18 | 12 | 30 | 17 | 1 | 1 | 28 | 0 | 1.64 | 1.09 | 2.73 | 1.55 | 2.64 |
 | [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 26.2 | 53.2 | 10 | 110 | 900 | 10.0 | 22 | 13 | 35 | 21 | 1 | 1 | 25 | 3 | 2.20 | 1.30 | 3.50 | 2.10 | 3.40 |
 | [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 26.3 | 52.0 | 11 | 121 | 990 | 11.0 | 18 | 13 | 31 | 17 | 1 | 1 | 27 | 2 | 1.64 | 1.18 | 2.82 | 1.55 | 2.73 |
 | [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 26.7 | 47.4 | 10 | 110 | 900 | 10.0 | 10 | 3 | 13 | 7 | 3 | 3 | 19 | 1 | 1.00 | 0.30 | 1.30 | 0.70 | 1.00 |
 | [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 28.1 | 43.5 | 11 | 121 | 990 | 11.0 | 18 | 12 | 30 | 17 | 1 | 1 | 27 | 4 | 1.64 | 1.09 | 2.73 | 1.55 | 2.64 |
 | [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 26.7 | 44.3 | 11 | 121 | 990 | 11.0 | 16 | 13 | 29 | 15 | 1 | 1 | 23 | 1 | 1.45 | 1.18 | 2.64 | 1.36 | 2.55 |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 26.4 | 58.5 | 10 | 110 | 900 | 10.0 | 15 | 9 | 24 | 14 | 1 | 1 | 17 | 1 | 1.50 | 0.90 | 2.40 | 1.40 | 2.30 |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 26.5 | 59.8 | 11 | 121 | 990 | 11.0 | 15 | 9 | 24 | 14 | 1 | 1 | 18 | 1 | 1.36 | 0.82 | 2.18 | 1.27 | 2.09 |
 | [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 26.6 | 50.0 | 11 | 121 | 990 | 11.0 | 23 | 14 | 37 | 21 | 2 | 3 | 20 | 0 | 2.09 | 1.27 | 3.36 | 1.91 | 3.18 |
 | [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 27.3 | 55.2 | 11 | 121 | 990 | 11.0 | 15 | 10 | 25 | 13 | 2 | 3 | 20 | 2 | 1.36 | 0.91 | 2.27 | 1.18 | 2.09 |
 | [vs Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 26.8 | 57.9 | 10 | 110 | 900 | 10.0 | 16 | 12 | 28 | 15 | 1 | 2 | 25 | 1 | 1.60 | 1.20 | 2.80 | 1.50 | 2.70 |
@@ -294,7 +294,7 @@ Squad Standard Stats 2026 Major League Soccer Table
 | [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 26.9 | 46.0 | 10 | 110 | 900 | 10.0 | 6 | 5 | 11 | 5 | 1 | 2 | 14 | 0 | 0.60 | 0.50 | 1.10 | 0.50 | 1.00 |
 | [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 27.2 | 53.6 | 10 | 110 | 900 | 10.0 | 12 | 6 | 18 | 12 | 0 | 0 | 22 | 1 | 1.20 | 0.60 | 1.80 | 1.20 | 1.80 |
 | [vs NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 27.0 | 42.5 | 11 | 121 | 990 | 11.0 | 27 | 18 | 45 | 24 | 3 | 3 | 18 | 1 | 2.45 | 1.64 | 4.09 | 2.18 | 3.82 |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 26.4 | 42.3 | 10 | 110 | 900 | 10.0 | 16 | 12 | 28 | 14 | 2 | 2 | 30 | 3 | 1.60 | 1.20 | 2.80 | 1.40 | 2.60 |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 26.5 | 40.9 | 11 | 121 | 990 | 11.0 | 18 | 12 | 30 | 15 | 3 | 3 | 34 | 3 | 1.64 | 1.09 | 2.73 | 1.36 | 2.45 |
 | [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 27.5 | 55.8 | 11 | 121 | 990 | 11.0 | 31 | 23 | 54 | 29 | 2 | 2 | 22 | 0 | 2.82 | 2.09 | 4.91 | 2.64 | 4.73 |
 | [vs Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 27.2 | 51.5 | 11 | 121 | 990 | 11.0 | 16 | 13 | 29 | 16 | 0 | 0 | 29 | 0 | 1.45 | 1.18 | 2.64 | 1.45 | 2.64 |
 | [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 26.7 | 54.4 | 10 | 110 | 900 | 10.0 | 21 | 16 | 37 | 19 | 2 | 2 | 17 | 1 | 2.10 | 1.60 | 3.70 | 1.90 | 3.50 |
@@ -303,7 +303,7 @@ Squad Standard Stats 2026 Major League Soccer Table
 | [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 26.6 | 47.2 | 9 | 99 | 810 | 9.0 | 5 | 3 | 8 | 5 | 0 | 0 | 15 | 0 | 0.56 | 0.33 | 0.89 | 0.56 | 0.89 |
 | [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 26.4 | 50.5 | 11 | 121 | 990 | 11.0 | 6 | 5 | 11 | 6 | 0 | 0 | 23 | 1 | 0.55 | 0.45 | 1.00 | 0.55 | 1.00 |
 | [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 26.7 | 56.7 | 10 | 110 | 900 | 10.0 | 26 | 18 | 44 | 26 | 0 | 2 | 16 | 0 | 2.60 | 1.80 | 4.40 | 2.60 | 4.40 |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 27.7 | 48.8 | 9 | 99 | 810 | 9.0 | 16 | 12 | 28 | 14 | 2 | 2 | 14 | 0 | 1.78 | 1.33 | 3.11 | 1.56 | 2.89 |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 28.0 | 49.5 | 10 | 110 | 900 | 10.0 | 18 | 14 | 32 | 16 | 2 | 2 | 16 | 0 | 1.80 | 1.40 | 3.20 | 1.60 | 3.00 |
 | [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 26.5 | 52.1 | 11 | 121 | 990 | 11.0 | 20 | 10 | 30 | 19 | 1 | 1 | 27 | 3 | 1.82 | 0.91 | 2.73 | 1.73 | 2.64 |
 | [vs Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 26.2 | 45.4 | 10 | 110 | 900 | 10.0 | 6 | 3 | 9 | 6 | 0 | 0 | 20 | 0 | 0.60 | 0.30 | 0.90 | 0.60 | 0.90 |
 
@@ -326,13 +326,13 @@ Opponent Stats
 | Squad | \# Pl | MP | Starts | Min | 90s | GA | GA90 | SoTA | Saves | Save% | W | D | L | CS | CS% | PKatt | PKA | PKsv | PKm | Save% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 1 | 11 | 11 | 990 | 11.0 | 18 | 1.64 | 44 | 26 | 59.1 | 3 | 1 | 7 | 1 | 9.1 | 1 | 0 | 0 | 1 |  |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 19 | 1.90 | 73 | 55 | 75.3 | 2 | 4 | 4 | 3 | 30.0 | 1 | 1 | 0 | 0 | 0.0 |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 19 | 1.73 | 78 | 60 | 76.9 | 3 | 4 | 4 | 4 | 36.4 | 1 | 1 | 0 | 0 | 0.0 |
 | [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 1 | 10 | 10 | 900 | 10.0 | 23 | 2.30 | 55 | 33 | 60.0 | 3 | 0 | 7 | 2 | 20.0 | 1 | 1 | 0 | 0 | 0.0 |
 | [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 19 | 1.73 | 68 | 50 | 73.5 | 4 | 2 | 5 | 1 | 9.1 | 1 | 1 | 0 | 0 | 0.0 |
 | [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 1 | 10 | 10 | 900 | 10.0 | 11 | 1.10 | 36 | 28 | 77.8 | 5 | 2 | 3 | 5 | 50.0 | 3 | 3 | 0 | 0 | 0.0 |
 | [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 2 | 11 | 11 | 990 | 11.0 | 19 | 1.73 | 56 | 38 | 67.9 | 4 | 1 | 6 | 2 | 18.2 | 1 | 1 | 0 | 0 | 0.0 |
 | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 1 | 11 | 11 | 990 | 11.0 | 16 | 1.45 | 40 | 25 | 62.5 | 3 | 3 | 5 | 2 | 18.2 | 1 | 1 | 0 | 0 | 0.0 |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 1 | 10 | 10 | 900 | 10.0 | 15 | 1.50 | 47 | 32 | 70.2 | 3 | 3 | 4 | 3 | 30.0 | 1 | 1 | 0 | 0 | 0.0 |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 1 | 11 | 11 | 990 | 11.0 | 15 | 1.36 | 51 | 36 | 72.5 | 4 | 3 | 4 | 4 | 36.4 | 1 | 1 | 0 | 0 | 0.0 |
 | [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 2 | 11 | 11 | 990 | 11.0 | 25 | 2.27 | 67 | 45 | 65.7 | 4 | 3 | 4 | 2 | 18.2 | 3 | 2 | 1 | 0 | 33.3 |
 | [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 1 | 11 | 11 | 990 | 11.0 | 15 | 1.36 | 38 | 26 | 65.8 | 4 | 4 | 3 | 3 | 27.3 | 3 | 2 | 1 | 0 | 33.3 |
 | [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 2 | 10 | 10 | 900 | 10.0 | 18 | 1.80 | 42 | 26 | 59.5 | 5 | 0 | 5 | 3 | 30.0 | 2 | 1 | 1 | 0 | 50.0 |
@@ -343,7 +343,7 @@ Opponent Stats
 | [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 6 | 0.60 | 22 | 18 | 77.3 | 7 | 2 | 1 | 5 | 50.0 | 2 | 1 | 1 | 0 | 50.0 |
 | [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 1 | 10 | 10 | 900 | 10.0 | 12 | 1.20 | 61 | 49 | 80.3 | 6 | 1 | 3 | 3 | 30.0 | 0 | 0 | 0 | 0 |  |
 | [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 1 | 11 | 11 | 990 | 11.0 | 27 | 2.45 | 59 | 35 | 59.3 | 3 | 3 | 5 | 1 | 9.1 | 3 | 3 | 0 | 0 | 0.0 |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 16 | 1.60 | 48 | 34 | 70.8 | 3 | 3 | 4 | 1 | 10.0 | 2 | 2 | 0 | 0 | 0.0 |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 18 | 1.64 | 54 | 39 | 72.2 | 3 | 3 | 5 | 1 | 9.1 | 3 | 3 | 0 | 0 | 0.0 |
 | [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 2 | 11 | 11 | 987 | 11.0 | 37 | 3.37 | 85 | 50 | 58.8 | 3 | 1 | 7 | 0 | 0.0 | 2 | 2 | 0 | 0 | 0.0 |
 | [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 1 | 11 | 11 | 990 | 11.0 | 17 | 1.55 | 41 | 24 | 58.5 | 1 | 3 | 7 | 2 | 18.2 | 0 | 0 | 0 | 0 |  |
 | [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 1 | 10 | 10 | 900 | 10.0 | 21 | 2.10 | 70 | 51 | 72.9 | 3 | 1 | 6 | 0 | 0.0 | 2 | 2 | 0 | 0 | 0.0 |
@@ -352,7 +352,7 @@ Opponent Stats
 | [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 1 | 9 | 9 | 810 | 9.0 | 5 | 0.56 | 38 | 33 | 86.8 | 6 | 2 | 1 | 5 | 55.6 | 0 | 0 | 0 | 0 |  |
 | [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 2 | 11 | 11 | 990 | 11.0 | 7 | 0.64 | 32 | 25 | 78.1 | 9 | 1 | 1 | 5 | 45.5 | 0 | 0 | 0 | 0 |  |
 | [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 2 | 10 | 10 | 900 | 10.0 | 26 | 2.60 | 56 | 32 | 53.6 | 1 | 2 | 7 | 0 | 0.0 | 2 | 0 | 2 | 0 | 100.0 |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 1 | 9 | 9 | 810 | 9.0 | 16 | 1.78 | 41 | 27 | 65.9 | 1 | 3 | 5 | 0 | 0.0 | 2 | 2 | 0 | 0 | 0.0 |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 1 | 10 | 10 | 900 | 10.0 | 18 | 1.80 | 47 | 31 | 66.0 | 1 | 3 | 6 | 0 | 0.0 | 2 | 2 | 0 | 0 | 0.0 |
 | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 20 | 1.82 | 44 | 25 | 56.8 | 3 | 5 | 3 | 1 | 9.1 | 1 | 1 | 0 | 0 | 0.0 |
 | [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 6 | 0.60 | 23 | 17 | 73.9 | 8 | 1 | 1 | 5 | 50.0 | 0 | 0 | 0 | 0 |  |
 
@@ -363,13 +363,13 @@ Squad Goalkeeping 2026 Major League Soccer Table
 | Squad | \# Pl | MP | Starts | Min | 90s | GA | GA90 | SoTA | Saves | Save% | W | D | L | CS | CS% | PKatt | PKA | PKsv | PKm | Save% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 1 | 11 | 11 | 990 | 11.0 | 12 | 1.09 | 46 | 34 | 73.9 | 7 | 1 | 3 | 5 | 45.5 | 0 | 0 | 0 | 0 |  |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 14 | 1.40 | 39 | 25 | 64.1 | 4 | 4 | 2 | 1 | 10.0 | 0 | 0 | 0 | 0 |  |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 16 | 1.45 | 45 | 29 | 64.4 | 4 | 4 | 3 | 1 | 9.1 | 0 | 0 | 0 | 0 |  |
 | [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 1 | 10 | 10 | 900 | 10.0 | 14 | 1.40 | 41 | 30 | 73.2 | 7 | 0 | 3 | 3 | 30.0 | 3 | 3 | 0 | 0 | 0.0 |
 | [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 18 | 1.64 | 50 | 34 | 66.0 | 5 | 2 | 4 | 3 | 27.3 | 2 | 1 | 1 | 0 | 50.0 |
 | [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 1 | 10 | 10 | 900 | 10.0 | 19 | 1.90 | 42 | 28 | 61.9 | 3 | 2 | 5 | 1 | 10.0 | 5 | 3 | 2 | 0 | 40.0 |
 | [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 2 | 11 | 11 | 990 | 11.0 | 22 | 2.00 | 54 | 32 | 61.1 | 6 | 1 | 4 | 3 | 27.3 | 1 | 1 | 0 | 0 | 0.0 |
 | [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 1 | 11 | 11 | 990 | 11.0 | 16 | 1.45 | 48 | 33 | 66.7 | 5 | 3 | 3 | 2 | 18.2 | 1 | 0 | 1 | 0 | 100.0 |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 1 | 10 | 10 | 900 | 10.0 | 11 | 1.10 | 30 | 20 | 66.7 | 4 | 3 | 3 | 5 | 50.0 | 1 | 1 | 0 | 0 | 0.0 |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 1 | 11 | 11 | 990 | 11.0 | 13 | 1.18 | 36 | 25 | 69.4 | 4 | 3 | 4 | 5 | 45.5 | 2 | 2 | 0 | 0 | 0.0 |
 | [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 2 | 11 | 11 | 990 | 11.0 | 22 | 2.00 | 55 | 37 | 67.3 | 4 | 3 | 4 | 2 | 18.2 | 4 | 4 | 0 | 0 | 0.0 |
 | [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 1 | 11 | 11 | 990 | 11.0 | 20 | 1.82 | 51 | 32 | 62.7 | 3 | 4 | 4 | 3 | 27.3 | 1 | 1 | 0 | 0 | 0.0 |
 | [vs Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 2 | 10 | 10 | 900 | 10.0 | 13 | 1.30 | 45 | 32 | 71.1 | 5 | 0 | 5 | 3 | 30.0 | 0 | 0 | 0 | 0 |  |
@@ -380,7 +380,7 @@ Squad Goalkeeping 2026 Major League Soccer Table
 | [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 21 | 2.10 | 53 | 33 | 62.3 | 1 | 2 | 7 | 3 | 30.0 | 1 | 1 | 0 | 0 | 0.0 |
 | [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 1 | 10 | 10 | 900 | 10.0 | 18 | 1.80 | 40 | 24 | 60.0 | 3 | 1 | 6 | 1 | 10.0 | 2 | 2 | 0 | 0 | 0.0 |
 | [vs NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 1 | 11 | 11 | 990 | 11.0 | 16 | 1.45 | 60 | 44 | 73.3 | 5 | 3 | 3 | 3 | 27.3 | 0 | 0 | 0 | 0 |  |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 1 | 10 | 10 | 897 | 10.0 | 24 | 2.41 | 60 | 38 | 63.3 | 4 | 3 | 3 | 2 | 20.0 | 2 | 2 | 0 | 0 | 0.0 |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 1 | 11 | 11 | 987 | 11.0 | 24 | 2.19 | 64 | 42 | 65.6 | 5 | 3 | 3 | 3 | 27.3 | 2 | 2 | 0 | 0 | 0.0 |
 | [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 2 | 11 | 11 | 990 | 11.0 | 16 | 1.45 | 47 | 32 | 68.1 | 7 | 1 | 3 | 4 | 36.4 | 1 | 1 | 0 | 0 | 0.0 |
 | [vs Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 1 | 11 | 11 | 990 | 11.0 | 9 | 0.82 | 41 | 32 | 80.5 | 7 | 3 | 1 | 5 | 45.5 | 2 | 1 | 0 | 1 | 0.0 |
 | [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 1 | 10 | 10 | 900 | 10.0 | 13 | 1.30 | 40 | 28 | 67.5 | 6 | 1 | 3 | 3 | 30.0 | 1 | 0 | 1 | 0 | 100.0 |
@@ -389,7 +389,7 @@ Squad Goalkeeping 2026 Major League Soccer Table
 | [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 1 | 9 | 9 | 810 | 9.0 | 13 | 1.44 | 45 | 34 | 73.3 | 1 | 2 | 6 | 1 | 11.1 | 2 | 1 | 1 | 0 | 50.0 |
 | [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 2 | 11 | 11 | 990 | 11.0 | 26 | 2.36 | 61 | 38 | 62.3 | 1 | 1 | 9 | 1 | 9.1 | 3 | 3 | 0 | 0 | 0.0 |
 | [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 2 | 10 | 10 | 900 | 10.0 | 8 | 0.80 | 29 | 21 | 72.4 | 7 | 2 | 1 | 4 | 40.0 | 0 | 0 | 0 | 0 |  |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 1 | 9 | 9 | 810 | 9.0 | 9 | 1.00 | 43 | 34 | 79.1 | 5 | 3 | 1 | 3 | 33.3 | 0 | 0 | 0 | 0 |  |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 1 | 10 | 10 | 900 | 10.0 | 9 | 0.90 | 48 | 39 | 81.3 | 6 | 3 | 1 | 4 | 40.0 | 0 | 0 | 0 | 0 |  |
 | [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 1 | 11 | 11 | 990 | 11.0 | 18 | 1.64 | 51 | 33 | 64.7 | 3 | 5 | 3 | 1 | 9.1 | 0 | 0 | 0 | 0 |  |
 | [vs Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 1 | 10 | 10 | 900 | 10.0 | 26 | 2.60 | 65 | 43 | 66.2 | 1 | 1 | 8 | 1 | 10.0 | 4 | 4 | 0 | 0 | 0.0 |
 
@@ -412,13 +412,13 @@ Opponent Stats
 | Squad | \# Pl | 90s | Gls | Sh | SoT | SoT% | Sh/90 | SoT/90 | G/Sh | G/SoT | PK | PKatt |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 11.0 | 12 | 137 | 46 | 33.6 | 12.45 | 4.18 | 0.09 | 0.26 | 0 | 0 |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 10.0 | 13 | 104 | 39 | 37.5 | 10.40 | 3.90 | 0.13 | 0.33 | 0 | 0 |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 11.0 | 15 | 119 | 45 | 37.8 | 10.82 | 4.09 | 0.13 | 0.33 | 0 | 0 |
 | [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 10.0 | 14 | 110 | 44 | 40.0 | 11.00 | 4.40 | 0.10 | 0.25 | 3 | 3 |
 | [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 11.0 | 18 | 118 | 54 | 45.8 | 10.73 | 4.91 | 0.14 | 0.31 | 1 | 2 |
 | [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 10.0 | 19 | 152 | 51 | 33.6 | 15.20 | 5.10 | 0.11 | 0.31 | 3 | 5 |
 | [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 11.0 | 21 | 125 | 53 | 42.4 | 11.36 | 4.82 | 0.16 | 0.38 | 1 | 1 |
 | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 11.0 | 15 | 135 | 50 | 37.0 | 12.27 | 4.55 | 0.11 | 0.30 | 0 | 1 |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 10.0 | 11 | 106 | 32 | 30.2 | 10.60 | 3.20 | 0.09 | 0.31 | 1 | 1 |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 11.0 | 13 | 125 | 39 | 31.2 | 11.36 | 3.55 | 0.09 | 0.28 | 2 | 2 |
 | [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 11.0 | 21 | 151 | 60 | 39.7 | 13.73 | 5.45 | 0.11 | 0.28 | 4 | 4 |
 | [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 11.0 | 19 | 140 | 53 | 37.9 | 12.73 | 4.82 | 0.13 | 0.34 | 1 | 1 |
 | [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 10.0 | 13 | 133 | 46 | 34.6 | 13.30 | 4.60 | 0.10 | 0.28 | 0 | 0 |
@@ -429,7 +429,7 @@ Opponent Stats
 | [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 10.0 | 21 | 120 | 53 | 44.2 | 12.00 | 5.30 | 0.17 | 0.38 | 1 | 1 |
 | [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 10.0 | 18 | 100 | 44 | 44.0 | 10.00 | 4.40 | 0.16 | 0.36 | 2 | 2 |
 | [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 11.0 | 14 | 158 | 57 | 36.1 | 14.36 | 5.18 | 0.09 | 0.25 | 0 | 0 |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 10.0 | 19 | 131 | 56 | 42.7 | 13.10 | 5.60 | 0.13 | 0.30 | 2 | 2 |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 11.0 | 19 | 140 | 60 | 42.9 | 12.73 | 5.45 | 0.12 | 0.28 | 2 | 2 |
 | [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 11.0 | 16 | 121 | 49 | 40.5 | 11.00 | 4.45 | 0.12 | 0.31 | 1 | 1 |
 | [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 11.0 | 9 | 153 | 41 | 26.8 | 13.91 | 3.73 | 0.05 | 0.20 | 1 | 2 |
 | [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 10.0 | 13 | 109 | 41 | 37.6 | 10.90 | 4.10 | 0.12 | 0.32 | 0 | 1 |
@@ -438,7 +438,7 @@ Opponent Stats
 | [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 9.0 | 13 | 108 | 48 | 44.4 | 12.00 | 5.33 | 0.11 | 0.25 | 1 | 2 |
 | [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 11.0 | 25 | 169 | 65 | 38.5 | 15.36 | 5.91 | 0.13 | 0.34 | 3 | 3 |
 | [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 10.0 | 8 | 69 | 30 | 43.5 | 6.90 | 3.00 | 0.12 | 0.27 | 0 | 0 |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 9.0 | 9 | 126 | 44 | 34.9 | 14.00 | 4.89 | 0.07 | 0.20 | 0 | 0 |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 10.0 | 9 | 141 | 49 | 34.8 | 14.10 | 4.90 | 0.06 | 0.18 | 0 | 0 |
 | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 11.0 | 16 | 129 | 52 | 40.3 | 11.73 | 4.73 | 0.12 | 0.31 | 0 | 0 |
 | [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 10.0 | 26 | 178 | 69 | 38.8 | 17.80 | 6.90 | 0.12 | 0.32 | 4 | 4 |
 
@@ -449,13 +449,13 @@ Squad Shooting 2026 Major League Soccer Table
 | Squad | \# Pl | 90s | Gls | Sh | SoT | SoT% | Sh/90 | SoT/90 | G/Sh | G/SoT | PK | PKatt |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 11.0 | 18 | 128 | 45 | 35.2 | 11.64 | 4.09 | 0.14 | 0.40 | 0 | 1 |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 10.0 | 18 | 183 | 73 | 39.9 | 18.30 | 7.30 | 0.09 | 0.23 | 1 | 1 |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 11.0 | 18 | 198 | 78 | 39.4 | 18.00 | 7.09 | 0.09 | 0.22 | 1 | 1 |
 | [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 10.0 | 22 | 125 | 56 | 44.8 | 12.50 | 5.60 | 0.17 | 0.38 | 1 | 1 |
 | [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 11.0 | 18 | 163 | 68 | 41.7 | 14.82 | 6.18 | 0.10 | 0.25 | 1 | 1 |
 | [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 10.0 | 10 | 120 | 42 | 35.0 | 12.00 | 4.20 | 0.06 | 0.17 | 3 | 3 |
 | [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 11.0 | 18 | 140 | 56 | 40.0 | 12.73 | 5.09 | 0.12 | 0.30 | 1 | 1 |
 | [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 11.0 | 16 | 98 | 42 | 42.9 | 8.91 | 3.82 | 0.15 | 0.36 | 1 | 1 |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 10.0 | 15 | 123 | 48 | 39.0 | 12.30 | 4.80 | 0.11 | 0.29 | 1 | 1 |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 11.0 | 15 | 132 | 52 | 39.4 | 12.00 | 4.73 | 0.11 | 0.27 | 1 | 1 |
 | [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 11.0 | 23 | 185 | 70 | 37.8 | 16.82 | 6.36 | 0.11 | 0.30 | 2 | 3 |
 | [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 11.0 | 15 | 94 | 42 | 44.7 | 8.55 | 3.82 | 0.14 | 0.31 | 2 | 3 |
 | [vs Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 10.0 | 16 | 121 | 44 | 36.4 | 12.10 | 4.40 | 0.12 | 0.34 | 1 | 2 |
@@ -466,7 +466,7 @@ Squad Shooting 2026 Major League Soccer Table
 | [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 10.0 | 6 | 97 | 25 | 25.8 | 9.70 | 2.50 | 0.05 | 0.20 | 1 | 2 |
 | [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 10.0 | 12 | 144 | 62 | 43.1 | 14.40 | 6.20 | 0.08 | 0.19 | 0 | 0 |
 | [vs NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 11.0 | 27 | 142 | 64 | 45.1 | 12.91 | 5.82 | 0.17 | 0.38 | 3 | 3 |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 10.0 | 16 | 123 | 51 | 41.5 | 12.30 | 5.10 | 0.11 | 0.27 | 2 | 2 |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 11.0 | 18 | 142 | 58 | 40.8 | 12.91 | 5.27 | 0.11 | 0.26 | 3 | 3 |
 | [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 11.0 | 31 | 198 | 82 | 41.4 | 18.00 | 7.45 | 0.15 | 0.35 | 2 | 2 |
 | [vs Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 11.0 | 16 | 99 | 39 | 39.4 | 9.00 | 3.55 | 0.16 | 0.41 | 0 | 0 |
 | [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 10.0 | 21 | 190 | 73 | 38.4 | 19.00 | 7.30 | 0.10 | 0.26 | 2 | 2 |
@@ -475,7 +475,7 @@ Squad Shooting 2026 Major League Soccer Table
 | [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 9.0 | 5 | 113 | 40 | 35.4 | 12.56 | 4.44 | 0.04 | 0.13 | 0 | 0 |
 | [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 11.0 | 6 | 113 | 33 | 29.2 | 10.27 | 3.00 | 0.05 | 0.18 | 0 | 0 |
 | [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 10.0 | 26 | 177 | 61 | 34.5 | 17.70 | 6.10 | 0.15 | 0.43 | 0 | 2 |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 9.0 | 16 | 99 | 42 | 42.4 | 11.00 | 4.67 | 0.14 | 0.33 | 2 | 2 |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 10.0 | 18 | 114 | 48 | 42.1 | 11.40 | 4.80 | 0.14 | 0.33 | 2 | 2 |
 | [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 11.0 | 20 | 114 | 45 | 39.5 | 10.36 | 4.09 | 0.17 | 0.42 | 1 | 1 |
 | [vs Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 10.0 | 6 | 77 | 23 | 29.9 | 7.70 | 2.30 | 0.08 | 0.26 | 0 | 0 |
 
@@ -500,13 +500,13 @@ Opponent Stats
 | Squad | \# Pl | Age | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 27.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 83 | 76 | 46 | 18 | 53 | 0.91 | 12 | 18 | -6 | -0.55 |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 29.2 | 10 | 900 | 90 | 100 | 10.0 | 110 | 81 | 63 | 47 | 21 | 43 | 1.00 | 14 | 19 | -5 | -0.50 |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 29.3 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 69 | 52 | 20 | 46 | 1.18 | 16 | 19 | -3 | -0.27 |
 | [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 24.8 | 10 | 900 | 90 | 100 | 10.0 | 110 | 80 | 63 | 46 | 24 | 44 | 0.90 | 14 | 23 | -9 | -0.90 |
 | [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 29.6 | 11 | 990 | 90 | 100 | 11.0 | 121 | 82 | 73 | 48 | 20 | 51 | 1.27 | 18 | 19 | -1 | -0.09 |
 | [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 27.2 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 71 | 38 | 17 | 50 | 1.70 | 19 | 11 | +8 | +0.80 |
 | [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 24.4 | 11 | 990 | 90 | 100 | 11.0 | 121 | 80 | 70 | 51 | 22 | 48 | 1.18 | 22 | 19 | +3 | +0.27 |
 | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 27.7 | 11 | 990 | 90 | 100 | 11.0 | 121 | 84 | 77 | 44 | 18 | 55 | 1.09 | 16 | 16 | 0 | 0.00 |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 27.4 | 10 | 900 | 90 | 100 | 10.0 | 110 | 85 | 73 | 37 | 15 | 53 | 1.20 | 11 | 15 | -4 | -0.40 |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 27.4 | 11 | 990 | 90 | 100 | 11.0 | 121 | 85 | 80 | 41 | 16 | 58 | 1.36 | 13 | 15 | -2 | -0.18 |
 | [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 26.8 | 11 | 990 | 90 | 100 | 11.0 | 121 | 80 | 62 | 57 | 19 | 37 | 1.36 | 22 | 25 | -3 | -0.27 |
 | [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 26.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 82 | 69 | 52 | 18 | 47 | 1.45 | 20 | 15 | +5 | +0.45 |
 | [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 28.9 | 10 | 900 | 90 | 100 | 10.0 | 110 | 82 | 60 | 47 | 18 | 41 | 1.50 | 13 | 18 | -5 | -0.50 |
@@ -517,7 +517,7 @@ Opponent Stats
 | [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 27.6 | 10 | 900 | 90 | 100 | 10.0 | 110 | 82 | 60 | 49 | 18 | 41 | 2.30 | 21 | 6 | +15 | +1.50 |
 | [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 25.9 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 74 | 38 | 18 | 52 | 1.90 | 18 | 12 | +6 | +0.60 |
 | [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 24.0 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 70 | 51 | 21 | 48 | 1.09 | 16 | 27 | -11 | -1.00 |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 27.5 | 10 | 900 | 90 | 100 | 10.0 | 110 | 85 | 69 | 40 | 13 | 50 | 1.20 | 19 | 16 | +3 | +0.30 |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 27.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 85 | 75 | 45 | 14 | 53 | 1.09 | 19 | 18 | +1 | +0.09 |
 | [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 25.8 | 11 | 990 | 90 | 100 | 11.0 | 121 | 79 | 70 | 49 | 25 | 50 | 0.91 | 16 | 32 | -16 | -1.45 |
 | [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 25.2 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 70 | 48 | 22 | 50 | 0.55 | 9 | 17 | -8 | -0.73 |
 | [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 26.4 | 10 | 900 | 90 | 100 | 10.0 | 110 | 83 | 69 | 39 | 18 | 45 | 1.00 | 13 | 21 | -8 | -0.80 |
@@ -526,7 +526,7 @@ Opponent Stats
 | [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 27.4 | 9 | 810 | 90 | 100 | 9.0 | 99 | 79 | 57 | 42 | 25 | 35 | 2.22 | 13 | 5 | +8 | +0.89 |
 | [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 26.4 | 11 | 990 | 90 | 100 | 11.0 | 121 | 82 | 72 | 49 | 20 | 49 | 2.55 | 26 | 7 | +19 | +1.73 |
 | [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 24.8 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 74 | 36 | 18 | 51 | 0.50 | 8 | 26 | -18 | -1.80 |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 27.5 | 9 | 810 | 90 | 100 | 9.0 | 99 | 84 | 60 | 40 | 15 | 41 | 0.67 | 9 | 16 | -7 | -0.78 |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 27.5 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 66 | 45 | 16 | 45 | 0.60 | 9 | 18 | -9 | -0.90 |
 | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 27.7 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 77 | 43 | 23 | 56 | 1.27 | 18 | 20 | -2 | -0.18 |
 | [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 26.8 | 10 | 900 | 90 | 100 | 10.0 | 110 | 82 | 66 | 44 | 19 | 46 | 2.50 | 26 | 6 | +20 | +2.00 |
 
@@ -537,13 +537,13 @@ Squad Playing Time 2026 Major League Soccer Table
 | Squad | \# Pl | Age | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 26.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 83 | 71 | 50 | 20 | 49 | 2.00 | 18 | 12 | +6 | +0.55 |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 28.0 | 10 | 900 | 90 | 100 | 10.0 | 110 | 81 | 69 | 41 | 19 | 48 | 1.60 | 19 | 14 | +5 | +0.50 |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 27.9 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 75 | 46 | 19 | 52 | 1.45 | 19 | 16 | +3 | +0.27 |
 | [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 26.2 | 10 | 900 | 90 | 100 | 10.0 | 110 | 80 | 64 | 44 | 21 | 45 | 2.10 | 23 | 14 | +9 | +0.90 |
 | [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 26.3 | 11 | 990 | 90 | 100 | 11.0 | 121 | 82 | 70 | 49 | 17 | 50 | 1.55 | 19 | 18 | +1 | +0.09 |
 | [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 26.7 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 68 | 41 | 18 | 47 | 1.10 | 11 | 19 | -8 | -0.80 |
 | [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 28.1 | 11 | 990 | 90 | 100 | 11.0 | 121 | 80 | 70 | 47 | 20 | 50 | 1.73 | 19 | 22 | -3 | -0.27 |
 | [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 26.7 | 11 | 990 | 90 | 100 | 11.0 | 121 | 84 | 74 | 46 | 23 | 52 | 1.64 | 16 | 16 | 0 | 0.00 |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 26.4 | 10 | 900 | 90 | 100 | 10.0 | 110 | 85 | 72 | 38 | 18 | 51 | 1.50 | 15 | 11 | +4 | +0.40 |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 26.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 85 | 78 | 43 | 19 | 54 | 1.36 | 15 | 13 | +2 | +0.18 |
 | [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 26.6 | 11 | 990 | 90 | 100 | 11.0 | 121 | 80 | 74 | 47 | 13 | 52 | 1.36 | 25 | 22 | +3 | +0.27 |
 | [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 27.3 | 11 | 990 | 90 | 100 | 11.0 | 121 | 82 | 73 | 46 | 18 | 51 | 1.18 | 15 | 20 | -5 | -0.45 |
 | [vs Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 26.8 | 10 | 900 | 90 | 100 | 10.0 | 110 | 82 | 65 | 45 | 18 | 42 | 1.50 | 18 | 13 | +5 | +0.50 |
@@ -554,7 +554,7 @@ Squad Playing Time 2026 Major League Soccer Table
 | [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 26.9 | 10 | 900 | 90 | 100 | 10.0 | 110 | 82 | 68 | 42 | 23 | 47 | 0.50 | 6 | 21 | -15 | -1.50 |
 | [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 27.2 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 68 | 42 | 17 | 48 | 1.00 | 12 | 18 | -6 | -0.60 |
 | [vs NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 27.0 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 71 | 50 | 20 | 49 | 1.64 | 27 | 16 | +11 | +1.00 |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 26.4 | 10 | 900 | 90 | 100 | 10.0 | 110 | 85 | 63 | 45 | 22 | 42 | 1.50 | 16 | 19 | -3 | -0.30 |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 26.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 85 | 70 | 49 | 22 | 47 | 1.64 | 18 | 19 | -1 | -0.09 |
 | [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 27.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 79 | 73 | 48 | 22 | 50 | 2.00 | 32 | 16 | +16 | +1.45 |
 | [vs Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 27.2 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 80 | 42 | 18 | 57 | 2.18 | 17 | 9 | +8 | +0.73 |
 | [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 26.7 | 10 | 900 | 90 | 100 | 10.0 | 110 | 83 | 62 | 48 | 21 | 42 | 1.90 | 21 | 13 | +8 | +0.80 |
@@ -563,7 +563,7 @@ Squad Playing Time 2026 Major League Soccer Table
 | [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 26.6 | 9 | 810 | 90 | 100 | 9.0 | 99 | 79 | 60 | 40 | 19 | 41 | 0.56 | 5 | 13 | -8 | -0.89 |
 | [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 26.4 | 11 | 990 | 90 | 100 | 11.0 | 121 | 82 | 71 | 49 | 23 | 49 | 0.36 | 7 | 26 | -19 | -1.73 |
 | [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 26.7 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 64 | 46 | 16 | 44 | 2.30 | 26 | 8 | +18 | +1.80 |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 27.7 | 9 | 810 | 90 | 100 | 9.0 | 99 | 84 | 57 | 43 | 24 | 37 | 2.00 | 16 | 9 | +7 | +0.78 |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 28.0 | 10 | 900 | 90 | 100 | 10.0 | 110 | 84 | 63 | 48 | 22 | 40 | 2.10 | 18 | 9 | +9 | +0.90 |
 | [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 26.5 | 11 | 990 | 90 | 100 | 11.0 | 121 | 81 | 69 | 50 | 16 | 49 | 1.27 | 20 | 18 | +2 | +0.18 |
 | [vs Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 26.2 | 10 | 900 | 90 | 100 | 10.0 | 110 | 82 | 66 | 44 | 22 | 44 | 0.40 | 6 | 26 | -20 | -2.00 |
 
@@ -586,13 +586,13 @@ Opponent Stats
 | Squad | \# Pl | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 11.0 | 25 | 0 | 0 | 138 | 95 | 26 | 197 | 104 | 114 |  |  | 0 |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 10.0 | 21 | 1 | 0 | 118 | 118 | 9 | 151 | 82 | 81 |  |  | 1 |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 11.0 | 23 | 1 | 0 | 132 | 136 | 11 | 165 | 90 | 86 |  |  | 1 |
 | [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 10.0 | 21 | 2 | 0 | 144 | 132 | 32 | 129 | 109 | 95 |  |  | 1 |
 | [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 11.0 | 27 | 0 | 0 | 112 | 126 | 12 | 156 | 79 | 74 |  |  | 1 |
 | [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 10.0 | 22 | 1 | 0 | 136 | 101 | 11 | 132 | 83 | 105 |  |  | 1 |
 | [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 11.0 | 29 | 2 | 1 | 153 | 155 | 10 | 170 | 110 | 111 |  |  | 1 |
 | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 11.0 | 17 | 0 | 0 | 121 | 94 | 20 | 204 | 107 | 120 |  |  | 0 |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 10.0 | 20 | 0 | 0 | 135 | 109 | 12 | 157 | 129 | 128 |  |  | 0 |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 11.0 | 24 | 0 | 0 | 152 | 118 | 12 | 173 | 142 | 148 |  |  | 0 |
 | [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 11.0 | 25 | 5 | 1 | 129 | 127 | 18 | 162 | 110 | 114 |  |  | 2 |
 | [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 11.0 | 25 | 0 | 0 | 142 | 112 | 29 | 185 | 109 | 106 |  |  | 0 |
 | [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 10.0 | 21 | 5 | 1 | 101 | 134 | 13 | 154 | 96 | 89 |  |  | 2 |
@@ -603,7 +603,7 @@ Opponent Stats
 | [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 10.0 | 17 | 1 | 1 | 124 | 93 | 15 | 128 | 67 | 94 |  |  | 0 |
 | [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 10.0 | 18 | 0 | 0 | 118 | 138 | 14 | 128 | 104 | 91 |  |  | 0 |
 | [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 11.0 | 18 | 1 | 0 | 130 | 110 | 14 | 214 | 95 | 95 |  |  | 0 |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 10.0 | 15 | 1 | 1 | 118 | 130 | 33 | 159 | 75 | 114 |  |  | 0 |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 11.0 | 16 | 1 | 1 | 128 | 147 | 37 | 189 | 84 | 127 |  |  | 0 |
 | [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 11.0 | 30 | 2 | 1 | 117 | 142 | 12 | 153 | 84 | 96 |  |  | 1 |
 | [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 11.0 | 25 | 3 | 1 | 173 | 148 | 12 | 270 | 137 | 117 |  |  | 1 |
 | [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 10.0 | 19 | 2 | 0 | 100 | 120 | 22 | 178 | 114 | 81 |  |  | 0 |
@@ -612,7 +612,7 @@ Opponent Stats
 | [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 9.0 | 18 | 0 | 0 | 83 | 88 | 16 | 149 | 80 | 96 |  |  | 0 |
 | [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 11.0 | 22 | 0 | 0 | 128 | 150 | 11 | 266 | 80 | 95 |  |  | 1 |
 | [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 10.0 | 12 | 0 | 0 | 123 | 124 | 12 | 119 | 83 | 94 |  |  | 0 |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 9.0 | 13 | 0 | 0 | 101 | 89 | 21 | 206 | 97 | 66 |  |  | 0 |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 10.0 | 16 | 0 | 0 | 121 | 102 | 22 | 221 | 105 | 73 |  |  | 0 |
 | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 11.0 | 22 | 1 | 0 | 142 | 151 | 21 | 215 | 111 | 117 |  |  | 0 |
 | [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 10.0 | 18 | 0 | 0 | 161 | 126 | 18 | 201 | 78 | 111 |  |  | 0 |
 
@@ -623,13 +623,13 @@ Squad Miscellaneous Stats 2026 Major League Soccer Table
 | Squad | \# Pl | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 23 | 11.0 | 13 | 1 | 0 | 101 | 129 | 31 | 195 | 111 | 118 |  |  | 0 |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 23 | 10.0 | 25 | 0 | 0 | 124 | 112 | 12 | 194 | 76 | 84 |  |  | 1 |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 25 | 11.0 | 28 | 0 | 0 | 144 | 125 | 13 | 209 | 84 | 91 |  |  | 1 |
 | [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 23 | 10.0 | 25 | 3 | 1 | 139 | 137 | 8 | 152 | 74 | 90 |  |  | 0 |
 | [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 20 | 11.0 | 27 | 2 | 0 | 135 | 106 | 19 | 200 | 83 | 115 |  |  | 0 |
 | [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 23 | 10.0 | 19 | 1 | 0 | 107 | 130 | 14 | 161 | 128 | 98 |  |  | 0 |
 | [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 25 | 11.0 | 27 | 4 | 1 | 157 | 146 | 27 | 156 | 100 | 112 |  |  | 1 |
 | [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 21 | 11.0 | 23 | 1 | 0 | 105 | 120 | 21 | 159 | 117 | 125 |  |  | 1 |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 10.0 | 17 | 1 | 0 | 117 | 129 | 7 | 162 | 87 | 96 |  |  | 0 |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 21 | 11.0 | 18 | 1 | 0 | 127 | 146 | 11 | 192 | 96 | 109 |  |  | 0 |
 | [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 24 | 11.0 | 20 | 0 | 0 | 133 | 125 | 20 | 190 | 96 | 130 |  |  | 1 |
 | [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 23 | 11.0 | 20 | 2 | 2 | 114 | 137 | 19 | 171 | 109 | 81 |  |  | 1 |
 | [vs Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 23 | 10.0 | 25 | 1 | 0 | 136 | 97 | 15 | 168 | 74 | 81 |  |  | 0 |
@@ -640,7 +640,7 @@ Squad Miscellaneous Stats 2026 Major League Soccer Table
 | [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 21 | 10.0 | 14 | 0 | 0 | 99 | 113 | 11 | 154 | 97 | 94 |  |  | 0 |
 | [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 23 | 10.0 | 22 | 1 | 0 | 145 | 116 | 10 | 184 | 72 | 88 |  |  | 0 |
 | [vs NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) | 24 | 11.0 | 18 | 1 | 0 | 118 | 121 | 38 | 141 | 121 | 135 |  |  | 2 |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 10.0 | 30 | 3 | 2 | 135 | 113 | 11 | 124 | 90 | 79 |  |  | 0 |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 22 | 11.0 | 34 | 3 | 2 | 152 | 122 | 11 | 140 | 103 | 99 |  |  | 0 |
 | [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 27 | 11.0 | 22 | 0 | 0 | 148 | 111 | 31 | 199 | 79 | 111 |  |  | 0 |
 | [vs Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 24 | 11.0 | 29 | 0 | 0 | 150 | 162 | 19 | 126 | 114 | 105 |  |  | 0 |
 | [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 21 | 10.0 | 17 | 1 | 0 | 125 | 95 | 17 | 207 | 87 | 102 |  |  | 0 |
@@ -649,7 +649,7 @@ Squad Miscellaneous Stats 2026 Major League Soccer Table
 | [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 21 | 9.0 | 15 | 0 | 0 | 93 | 80 | 10 | 209 | 70 | 93 |  |  | 0 |
 | [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 22 | 11.0 | 23 | 1 | 0 | 158 | 123 | 16 | 185 | 86 | 111 |  |  | 1 |
 | [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 23 | 10.0 | 16 | 0 | 0 | 127 | 118 | 12 | 212 | 98 | 81 |  |  | 0 |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 21 | 9.0 | 14 | 0 | 0 | 92 | 96 | 21 | 126 | 85 | 79 |  |  | 0 |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 22 | 10.0 | 16 | 0 | 0 | 106 | 114 | 23 | 140 | 93 | 84 |  |  | 0 |
 | [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 25 | 11.0 | 27 | 3 | 2 | 160 | 135 | 15 | 197 | 110 | 107 |  |  | 2 |
 | [vs Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) | 22 | 10.0 | 20 | 0 | 0 | 132 | 157 | 25 | 121 | 77 | 100 |  |  | 0 |
 
@@ -701,17 +701,17 @@ Show #2-7
 
 6.[Klauss](https://fbref.com/en/players/f5ae006d/Klauss) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 0.82
 
-7.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 0.81
-
-8.[Wessam Abou Ali](https://fbref.com/en/players/a06467dc/Wessam-Abou-Ali) • [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) 0.80
+7.[Wessam Abou Ali](https://fbref.com/en/players/a06467dc/Wessam-Abou-Ali) • [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) 0.80
 
 [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) • [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) 0.80
 
-10.[Timo Werner](https://fbref.com/en/players/49fe9070/Timo-Werner) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 0.79
+9.[Timo Werner](https://fbref.com/en/players/49fe9070/Timo-Werner) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 0.79
+
+10.[Tai Baribo](https://fbref.com/en/players/18a8e594/Tai-Baribo) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 0.78
 
 Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=b017b770&p1yrfrom=2026&player_id2=9f417f8c&p2yrfrom=2026&player_id3=4567a0b4&p3yrfrom=2026&player_id4=271b8617&p4yrfrom=2026&player_id5=54c948de&p5yrfrom=2026&player_id6=f5ae006d&p6yrfrom=2026&player_id7=3409de86&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=b017b770&p1yrfrom=2026&player_id2=9f417f8c&p2yrfrom=2026&player_id3=4567a0b4&p3yrfrom=2026&player_id4=271b8617&p4yrfrom=2026&player_id5=54c948de&p5yrfrom=2026&player_id6=f5ae006d&p6yrfrom=2026&player_id7=a06467dc&p7yrfrom=2026)
 
 #### Assists
 
@@ -753,9 +753,9 @@ Show #2-7
 
 2.[Luca Langoni](https://fbref.com/en/players/b9532512/Luca-Langoni) • [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) 0.82
 
-3.[Maximiliano Moralez](https://fbref.com/en/players/f99f37fc/Maximiliano-Moralez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 0.65
+3.[Timo Werner](https://fbref.com/en/players/49fe9070/Timo-Werner) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 0.59
 
-4.[Timo Werner](https://fbref.com/en/players/49fe9070/Timo-Werner) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 0.59
+[Maximiliano Moralez](https://fbref.com/en/players/f99f37fc/Maximiliano-Moralez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 0.59
 
 5.[Prince Owusu](https://fbref.com/en/players/8377ba6a/Prince-Owusu) • [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) 0.56
 
@@ -773,7 +773,7 @@ Show #2-7
 
 Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=92e7e919&p1yrfrom=2026&player_id2=b9532512&p2yrfrom=2026&player_id3=f99f37fc&p3yrfrom=2026&player_id4=49fe9070&p4yrfrom=2026&player_id5=8377ba6a&p5yrfrom=2026&player_id6=9142b22f&p6yrfrom=2026&player_id7=0adeafaa&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=92e7e919&p1yrfrom=2026&player_id2=b9532512&p2yrfrom=2026&player_id3=49fe9070&p3yrfrom=2026&player_id4=f99f37fc&p4yrfrom=2026&player_id5=8377ba6a&p5yrfrom=2026&player_id6=9142b22f&p6yrfrom=2026&player_id7=0adeafaa&p7yrfrom=2026)
 
 #### Goals + Assists
 
@@ -845,9 +845,9 @@ Show #2-8
 
 [Timo Werner](https://fbref.com/en/players/49fe9070/Timo-Werner) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 2
 
-8.[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 1
+8.[Maximiliano Moralez](https://fbref.com/en/players/f99f37fc/Maximiliano-Moralez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 1
 
-[Maximiliano Moralez](https://fbref.com/en/players/f99f37fc/Maximiliano-Moralez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 1
+[Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 1
 
 [Sebastian Berhalter](https://fbref.com/en/players/f33ee427/Sebastian-Berhalter) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 1
 
@@ -865,7 +865,9 @@ Show #2-8
 
 [Brian White](https://fbref.com/en/players/54c948de/Brian-White) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 1
 
-[Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 1
+[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 1
+
+[Louis Munteanu](https://fbref.com/en/players/4692ecb3/Louis-Munteanu) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 1
 
 [Petar Musa](https://fbref.com/en/players/4567a0b4/Petar-Musa) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 1
 
@@ -937,7 +939,9 @@ Show #2-9
 
 9.[Marcus Ingvartsen](https://fbref.com/en/players/271b8617/Marcus-Ingvartsen) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 0.72
 
-10.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 0.71
+10.[Preston Judd](https://fbref.com/en/players/00534d73/Preston-Judd) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 0.70
+
+[Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) • [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) 0.70
 
 Show #2-10
 
@@ -987,15 +991,17 @@ Show #2-10
 
 [Evander](https://fbref.com/en/players/4352d221/Evander) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 36
 
-8.[Zavier Gozo](https://fbref.com/en/players/bc2eb719/Zavier-Gozo) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 35
+8.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 35
 
-9.[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 34
+[Zavier Gozo](https://fbref.com/en/players/bc2eb719/Zavier-Gozo) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 35
+
+10.[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 34
 
 [Milan Iloski](https://fbref.com/en/players/4f87c75f/Milan-Iloski) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 34
 
 [Philip Zinckernagel](https://fbref.com/en/players/a5ea254c/Philip-Zinckernagel) • [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) 34
 
-Show #2-9
+Show #2-10
 
 [Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=d70ce98e&p1yrfrom=2026&player_id2=54c948de&p2yrfrom=2026&player_id3=c37ce1ca&p3yrfrom=2026&player_id4=4567a0b4&p4yrfrom=2026&player_id5=00534d73&p5yrfrom=2026&player_id6=0b0cbe5b&p6yrfrom=2026&player_id7=4352d221&p7yrfrom=2026)
 
@@ -1015,9 +1021,9 @@ Show #2-9
 
 7.[Morgan Guilavogui](https://fbref.com/en/players/79b51257/Morgan-Guilavogui) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 3.92
 
-8.[Sam Surridge](https://fbref.com/en/players/b017b770/Sam-Surridge) • [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) 3.90
+8.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 3.90
 
-9.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 3.89
+[Sam Surridge](https://fbref.com/en/players/b017b770/Sam-Surridge) • [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) 3.90
 
 10.[Philip Zinckernagel](https://fbref.com/en/players/a5ea254c/Philip-Zinckernagel) • [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) 3.82
 
@@ -1031,13 +1037,13 @@ Show #2-10
 
 2.[Brian White](https://fbref.com/en/players/54c948de/Brian-White) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 22
 
-3.[Gabriel Chaves](https://fbref.com/en/players/c37ce1ca/Gabriel-Chaves) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 21
+3.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 21
 
-4.[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 20
+[Gabriel Chaves](https://fbref.com/en/players/c37ce1ca/Gabriel-Chaves) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 21
 
-5.[Preston Judd](https://fbref.com/en/players/00534d73/Preston-Judd) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 19
+5.[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 20
 
-[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 19
+6.[Preston Judd](https://fbref.com/en/players/00534d73/Preston-Judd) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 19
 
 [Petar Musa](https://fbref.com/en/players/4567a0b4/Petar-Musa) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 19
 
@@ -1045,11 +1051,13 @@ Show #2-10
 
 [Anders Dreyer](https://fbref.com/en/players/c6486b01/Anders-Dreyer) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 18
 
-10.[Hugo Cuypers](https://fbref.com/en/players/9f417f8c/Hugo-Cuypers) • [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) 17
+10.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 17
+
+[Hugo Cuypers](https://fbref.com/en/players/9f417f8c/Hugo-Cuypers) • [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) 17
 
 Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=d70ce98e&p1yrfrom=2026&player_id2=54c948de&p2yrfrom=2026&player_id3=c37ce1ca&p3yrfrom=2026&player_id4=4b5ab509&p4yrfrom=2026&player_id5=00534d73&p5yrfrom=2026&player_id6=3409de86&p6yrfrom=2026&player_id7=4567a0b4&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=d70ce98e&p1yrfrom=2026&player_id2=54c948de&p2yrfrom=2026&player_id3=3409de86&p3yrfrom=2026&player_id4=c37ce1ca&p4yrfrom=2026&player_id5=4b5ab509&p5yrfrom=2026&player_id6=00534d73&p6yrfrom=2026&player_id7=4567a0b4&p7yrfrom=2026)
 
 #### Shots on target/90
 
@@ -1067,11 +1075,11 @@ Show #2-10
 
 7.[Sergi Solans](https://fbref.com/en/players/a5c74923/Sergi-Solans) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 2.08
 
-8.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 2.01
+8.[Klauss](https://fbref.com/en/players/f5ae006d/Klauss) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 1.98
 
-9.[Klauss](https://fbref.com/en/players/f5ae006d/Klauss) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 1.98
+9.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 1.94
 
-10.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 1.93
+10.[Evander](https://fbref.com/en/players/4352d221/Evander) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 1.92
 
 Show #2-10
 
@@ -1079,19 +1087,19 @@ Show #2-10
 
 #### Shots on Target %
 
-1.[Brendan McSorley](https://fbref.com/en/players/9a01d4ba/Brendan-McSorley) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 83.3
+1.[Paul Rothrock](https://fbref.com/en/players/875e8269/Paul-Rothrock) • [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) 80.0
 
-2.[Paul Rothrock](https://fbref.com/en/players/875e8269/Paul-Rothrock) • [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) 80.0
+2.[Sam Surridge](https://fbref.com/en/players/b017b770/Sam-Surridge) • [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) 78.9
 
-3.[Sam Surridge](https://fbref.com/en/players/b017b770/Sam-Surridge) • [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) 78.9
+3.[Liel Abada](https://fbref.com/en/players/1339039e/Liel-Abada) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 77.8
 
-4.[Liel Abada](https://fbref.com/en/players/1339039e/Liel-Abada) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 77.8
+4.[Archie Goodwin](https://fbref.com/en/players/569362ab/Archie-Goodwin) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 75.0
 
-5.[Archie Goodwin](https://fbref.com/en/players/569362ab/Archie-Goodwin) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 75.0
+5.[Marco Reus](https://fbref.com/en/players/36a3ff67/Marco-Reus) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 72.7
 
-6.[Marco Reus](https://fbref.com/en/players/36a3ff67/Marco-Reus) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 72.7
+6.[Alexander Aravena](https://fbref.com/en/players/4535ab5d/Alexander-Aravena) • [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) 71.4
 
-7.[Alexander Aravena](https://fbref.com/en/players/4535ab5d/Alexander-Aravena) • [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) 71.4
+[Brendan McSorley](https://fbref.com/en/players/9a01d4ba/Brendan-McSorley) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 71.4
 
 [Duncan McGuire](https://fbref.com/en/players/e0d45022/Duncan-McGuire) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 71.4
 
@@ -1113,7 +1121,7 @@ Show #2-10
 
 Show #2-9
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=9a01d4ba&p1yrfrom=2026&player_id2=875e8269&p2yrfrom=2026&player_id3=b017b770&p3yrfrom=2026&player_id4=1339039e&p4yrfrom=2026&player_id5=569362ab&p5yrfrom=2026&player_id6=36a3ff67&p6yrfrom=2026&player_id7=4535ab5d&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=875e8269&p1yrfrom=2026&player_id2=b017b770&p2yrfrom=2026&player_id3=1339039e&p3yrfrom=2026&player_id4=569362ab&p4yrfrom=2026&player_id5=36a3ff67&p5yrfrom=2026&player_id6=4535ab5d&p6yrfrom=2026&player_id7=9a01d4ba&p7yrfrom=2026)
 
 #### Goals/Shot
 
@@ -1173,91 +1181,87 @@ Show #2-9
 
 2.[Niko Tsakiris](https://fbref.com/en/players/cb501677/Niko-Tsakiris) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 82
 
-3.[Facundo Torres](https://fbref.com/en/players/4de3b2c0/Facundo-Torres) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 68
+3.[Facundo Torres](https://fbref.com/en/players/4de3b2c0/Facundo-Torres) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 74
 
 4.[Milan Iloski](https://fbref.com/en/players/4f87c75f/Milan-Iloski) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 66
 
 5.[Kristoffer Velde](https://fbref.com/en/players/c5c1627c/Kristoffer-Velde) • [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) 64
 
-6.[Anders Dreyer](https://fbref.com/en/players/c6486b01/Anders-Dreyer) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 61
+6.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 61
 
-7.[Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 60
+[Anders Dreyer](https://fbref.com/en/players/c6486b01/Anders-Dreyer) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 61
 
-8.[Alonso Coello](https://fbref.com/en/players/00eb5be4/Alonso-Coello) • [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) 58
+8.[Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 60
 
-9.[Francis Westfield](https://fbref.com/en/players/4cafc4bb/Francis-Westfield) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 57
+9.[Alonso Coello](https://fbref.com/en/players/00eb5be4/Alonso-Coello) • [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) 58
 
-10.[Marcel Hartel](https://fbref.com/en/players/614eca9b/Marcel-Hartel) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 56
+10.[Francis Westfield](https://fbref.com/en/players/4cafc4bb/Francis-Westfield) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 57
 
 Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=f33ee427&p1yrfrom=2026&player_id2=cb501677&p2yrfrom=2026&player_id3=4de3b2c0&p3yrfrom=2026&player_id4=4f87c75f&p4yrfrom=2026&player_id5=c5c1627c&p5yrfrom=2026&player_id6=c6486b01&p6yrfrom=2026&player_id7=016a7f95&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=f33ee427&p1yrfrom=2026&player_id2=cb501677&p2yrfrom=2026&player_id3=4de3b2c0&p3yrfrom=2026&player_id4=4f87c75f&p4yrfrom=2026&player_id5=c5c1627c&p5yrfrom=2026&player_id6=614eca9b&p6yrfrom=2026&player_id7=c6486b01&p7yrfrom=2026)
 
 #### Tackles Won
 
 1.[Andrés Cubas](https://fbref.com/en/players/9b40a6ea/Andres-Cubas) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 22
 
-2.[Raheem Edwards](https://fbref.com/en/players/b828d56a/Raheem-Edwards) • [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) 21
+2.[Peglow](https://fbref.com/en/players/8a861bc5/Peglow) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 21
 
-3.[Peglow](https://fbref.com/en/players/8a861bc5/Peglow) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 20
+[Raheem Edwards](https://fbref.com/en/players/b828d56a/Raheem-Edwards) • [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) 21
+
+[Silvan Hefti](https://fbref.com/en/players/f8342731/Silvan-Hefti) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 21
+
+5.[Matti Peltola](https://fbref.com/en/players/7af31216/Matti-Peltola) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 20
 
 [Tayvon Gray](https://fbref.com/en/players/c839e1b2/Tayvon-Gray) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 20
 
-[Silvan Hefti](https://fbref.com/en/players/f8342731/Silvan-Hefti) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 20
-
-6.[Anthony Markanich](https://fbref.com/en/players/565fde4a/Anthony-Markanich) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 18
+7.[Anthony Markanich](https://fbref.com/en/players/565fde4a/Anthony-Markanich) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 18
 
 [Zavier Gozo](https://fbref.com/en/players/bc2eb719/Zavier-Gozo) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 18
 
-8.[Iván Angulo](https://fbref.com/en/players/55a5d959/Ivan-Angulo) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 17
+9.[Iván Angulo](https://fbref.com/en/players/55a5d959/Ivan-Angulo) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 17
 
 [Jake Davis](https://fbref.com/en/players/79d3a503/Jake-Davis) • [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) 17
 
-10.[Bryan Ramírez](https://fbref.com/en/players/226685d8/Bryan-Ramirez) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 16
+Show #2-9
 
-[Matti Peltola](https://fbref.com/en/players/7af31216/Matti-Peltola) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 16
-
-[Jeppe Tverskov](https://fbref.com/en/players/898b9fd1/Jeppe-Tverskov) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 16
-
-[Miki Yamane](https://fbref.com/en/players/b712e02d/Miki-Yamane) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 16
-
-[Tristan Muyumba](https://fbref.com/en/players/bf7ba1d8/Tristan-Muyumba) • [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) 16
-
-[Taha Habroune](https://fbref.com/en/players/edc3b063/Taha-Habroune) • [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) 16
-
-Show #2-10
-
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=9b40a6ea&p1yrfrom=2026&player_id2=b828d56a&p2yrfrom=2026&player_id3=8a861bc5&p3yrfrom=2026&player_id4=c839e1b2&p4yrfrom=2026&player_id5=f8342731&p5yrfrom=2026&player_id6=565fde4a&p6yrfrom=2026&player_id7=bc2eb719&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=9b40a6ea&p1yrfrom=2026&player_id2=8a861bc5&p2yrfrom=2026&player_id3=b828d56a&p3yrfrom=2026&player_id4=f8342731&p4yrfrom=2026&player_id5=7af31216&p5yrfrom=2026&player_id6=c839e1b2&p6yrfrom=2026&player_id7=565fde4a&p7yrfrom=2026)
 
 #### Interceptions
 
 1.[Nathan Harriel](https://fbref.com/en/players/b3edbeff/Nathan-Harriel) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 33
 
-2.[Dante Polvara](https://fbref.com/en/players/03748579/Dante-Polvara) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 24
+2.[Dante Polvara](https://fbref.com/en/players/03748579/Dante-Polvara) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 25
 
-3.[Silvan Hefti](https://fbref.com/en/players/f8342731/Silvan-Hefti) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 21
+3.[Silvan Hefti](https://fbref.com/en/players/f8342731/Silvan-Hefti) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 23
 
-4.[Bryan Ramírez](https://fbref.com/en/players/226685d8/Bryan-Ramirez) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 20
+4.[Chris Durkin](https://fbref.com/en/players/0ffd4373/Chris-Durkin) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 21
+
+[Kye Rowles](https://fbref.com/en/players/8caf6772/Kye-Rowles) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 21
+
+[Keisuke Kurokawa](https://fbref.com/en/players/dddab740/Keisuke-Kurokawa) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 21
+
+7.[Bryan Ramírez](https://fbref.com/en/players/226685d8/Bryan-Ramirez) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 20
 
 [Francis Westfield](https://fbref.com/en/players/4cafc4bb/Francis-Westfield) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 20
 
 [Adri Mehmeti](https://fbref.com/en/players/5178f39c/Adri-Mehmeti) • [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) 20
 
-7.[Chris Durkin](https://fbref.com/en/players/0ffd4373/Chris-Durkin) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 19
-
-[Nolan Norris](https://fbref.com/en/players/3391e359/Nolan-Norris) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 19
+10.[Nolan Norris](https://fbref.com/en/players/3391e359/Nolan-Norris) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 19
 
 [Morrison Agyemang](https://fbref.com/en/players/65bf5126/Morrison-Agyemang) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 19
 
-[Kye Rowles](https://fbref.com/en/players/8caf6772/Kye-Rowles) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 19
+[Matti Peltola](https://fbref.com/en/players/7af31216/Matti-Peltola) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 19
 
-Show #2-7
+Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=b3edbeff&p1yrfrom=2026&player_id2=03748579&p2yrfrom=2026&player_id3=f8342731&p3yrfrom=2026&player_id4=226685d8&p4yrfrom=2026&player_id5=4cafc4bb&p5yrfrom=2026&player_id6=5178f39c&p6yrfrom=2026&player_id7=0ffd4373&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=b3edbeff&p1yrfrom=2026&player_id2=03748579&p2yrfrom=2026&player_id3=f8342731&p3yrfrom=2026&player_id4=0ffd4373&p4yrfrom=2026&player_id5=8caf6772&p5yrfrom=2026&player_id6=dddab740&p6yrfrom=2026&player_id7=226685d8&p7yrfrom=2026)
 
 #### Minutes
 
 1.[Morris Duggan](https://fbref.com/en/players/04391c12/Morris-Duggan) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 990
+
+[Matt Freese](https://fbref.com/en/players/2f49476c/Matt-Freese) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 990
 
 [Sean Zawadzki](https://fbref.com/en/players/380ee265/Sean-Zawadzki) • [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) 990
 
@@ -1266,6 +1270,8 @@ Show #2-7
 [Kristijan Kahlina](https://fbref.com/en/players/53e360bb/Kristijan-Kahlina) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 990
 
 [Braian Ojeda](https://fbref.com/en/players/60953af0/Braian-Ojeda) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 990
+
+[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 990
 
 [Lucas Herrington](https://fbref.com/en/players/6f808c85/Lucas-Herrington) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 990
 
@@ -1281,17 +1287,21 @@ Show #2-7
 
 [Patrick Schulte](https://fbref.com/en/players/b8f47d7c/Patrick-Schulte) • [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) 990
 
+[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 990
+
 [Nathan Byrne](https://fbref.com/en/players/c4041fbc/Nathan-Byrne) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 990
 
 [Drake Callender](https://fbref.com/en/players/c4d9567d/Drake-Callender) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 990
 
 [Daniel Munie](https://fbref.com/en/players/ce44f0de/Daniel-Munie) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 990
 
+[Keisuke Kurokawa](https://fbref.com/en/players/dddab740/Keisuke-Kurokawa) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 990
+
 [Michael Collodi](https://fbref.com/en/players/e5857da0/Michael-Collodi) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 990
 
-Show all 16 players tied with 990
+Show all 20 players tied with 990
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=04391c12&p1yrfrom=2026&player_id2=380ee265&p2yrfrom=2026&player_id3=3f65d5ce&p3yrfrom=2026&player_id4=53e360bb&p4yrfrom=2026&player_id5=60953af0&p5yrfrom=2026&player_id6=6f808c85&p6yrfrom=2026&player_id7=70106ff6&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=04391c12&p1yrfrom=2026&player_id2=2f49476c&p2yrfrom=2026&player_id3=380ee265&p3yrfrom=2026&player_id4=3f65d5ce&p4yrfrom=2026&player_id5=53e360bb&p5yrfrom=2026&player_id6=60953af0&p6yrfrom=2026&player_id7=6a1940d5&p7yrfrom=2026)
 
 #### Substitute Appearances
 
@@ -1299,9 +1309,13 @@ Show all 16 players tied with 990
 
 2.[Mamadou Dieng](https://fbref.com/en/players/31429cca/Mamadou-Dieng) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 9
 
+[Brendan McSorley](https://fbref.com/en/players/9a01d4ba/Brendan-McSorley) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 9
+
 [Jamal Thiaré](https://fbref.com/en/players/ecca2f67/Jamal-Thiare) • [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) 9
 
-4.[Eric Maxim Choupo-Moting](https://fbref.com/en/players/0e6bc38c/Eric-Maxim-Choupo-Moting) • [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) 8
+[CJ Fodrey](https://fbref.com/en/players/ee4a0679/CJ-Fodrey) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 9
+
+6.[Eric Maxim Choupo-Moting](https://fbref.com/en/players/0e6bc38c/Eric-Maxim-Choupo-Moting) • [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) 8
 
 [Archie Goodwin](https://fbref.com/en/players/569362ab/Archie-Goodwin) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 8
 
@@ -1311,15 +1325,11 @@ Show all 16 players tied with 990
 
 [Ian Harkes](https://fbref.com/en/players/73fdc4c2/Ian-Harkes) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 8
 
-[Brendan McSorley](https://fbref.com/en/players/9a01d4ba/Brendan-McSorley) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 8
-
 [Stephen Afrifa](https://fbref.com/en/players/cea02b5b/Stephen-Afrifa) • [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) 8
 
-[CJ Fodrey](https://fbref.com/en/players/ee4a0679/CJ-Fodrey) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 8
+Show #2-6
 
-Show #2-4
-
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=64c98878&p1yrfrom=2026&player_id2=31429cca&p2yrfrom=2026&player_id3=ecca2f67&p3yrfrom=2026&player_id4=0e6bc38c&p4yrfrom=2026&player_id5=569362ab&p5yrfrom=2026&player_id6=62045652&p6yrfrom=2026&player_id7=6fde84aa&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=64c98878&p1yrfrom=2026&player_id2=31429cca&p2yrfrom=2026&player_id3=9a01d4ba&p3yrfrom=2026&player_id4=ecca2f67&p4yrfrom=2026&player_id5=ee4a0679&p5yrfrom=2026&player_id6=0e6bc38c&p6yrfrom=2026&player_id7=569362ab&p7yrfrom=2026)
 
 #### Points per Match
 
@@ -1423,6 +1433,8 @@ Show #2-10
 
 [Kévin Denkey](https://fbref.com/en/players/0d3585b5/Kevin-Denkey) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 4
 
+[Chris Durkin](https://fbref.com/en/players/0ffd4373/Chris-Durkin) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 4
+
 [Lucas Sanabria](https://fbref.com/en/players/1d9b8c4d/Lucas-Sanabria) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 4
 
 [Hamzat Ojediran](https://fbref.com/en/players/25124a21/Hamzat-Ojediran) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 4
@@ -1440,6 +1452,8 @@ Show #2-10
 [Innocent Dje](https://fbref.com/en/players/6b561720/Innocent-Dje) • [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) 4
 
 [Ronald Donkor](https://fbref.com/en/players/82a10738/Ronald-Donkor) • [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) 4
+
+[Peglow](https://fbref.com/en/players/8a861bc5/Peglow) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 4
 
 [Andrés Cubas](https://fbref.com/en/players/9b40a6ea/Andres-Cubas) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 4
 
@@ -1537,35 +1551,33 @@ Show #2
 
 3.[Hamzat Ojediran](https://fbref.com/en/players/25124a21/Hamzat-Ojediran) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 23
 
+[Joseph Rosales](https://fbref.com/en/players/6a29d06b/Joseph-Rosales) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 23
+
 [Prince Owusu](https://fbref.com/en/players/8377ba6a/Prince-Owusu) • [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) 23
 
-5.[Japhet Sery](https://fbref.com/en/players/03e7a498/Japhet-Sery) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 22
+6.[Japhet Sery](https://fbref.com/en/players/03e7a498/Japhet-Sery) • [Philadelphia Union](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) 22
 
-6.[Sebastian Berhalter](https://fbref.com/en/players/f33ee427/Sebastian-Berhalter) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 21
+7.[Chris Durkin](https://fbref.com/en/players/0ffd4373/Chris-Durkin) • [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) 21
 
-7.[Telasco Segovia](https://fbref.com/en/players/9142b22f/Telasco-Segovia) • [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) 20
+[Sebastian Berhalter](https://fbref.com/en/players/f33ee427/Sebastian-Berhalter) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 21
+
+9.[Peglow](https://fbref.com/en/players/8a861bc5/Peglow) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 20
+
+[Telasco Segovia](https://fbref.com/en/players/9142b22f/Telasco-Segovia) • [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) 20
 
 [Philip Zinckernagel](https://fbref.com/en/players/a5ea254c/Philip-Zinckernagel) • [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) 20
 
-9.[Bryan Ramírez](https://fbref.com/en/players/226685d8/Bryan-Ramirez) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 19
-
-[Cooper Sanchez](https://fbref.com/en/players/4fcf3b14/Cooper-Sanchez) • [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) 19
-
-[Joseph Rosales](https://fbref.com/en/players/6a29d06b/Joseph-Rosales) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 19
-
-[Wilfried Zaha](https://fbref.com/en/players/b2bc3b1f/Wilfried-Zaha) • [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) 19
-
 Show #2-9
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=b4caa0c5&p1yrfrom=2026&player_id2=0b0cbe5b&p2yrfrom=2026&player_id3=25124a21&p3yrfrom=2026&player_id4=8377ba6a&p4yrfrom=2026&player_id5=03e7a498&p5yrfrom=2026&player_id6=f33ee427&p6yrfrom=2026&player_id7=9142b22f&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=b4caa0c5&p1yrfrom=2026&player_id2=0b0cbe5b&p2yrfrom=2026&player_id3=25124a21&p3yrfrom=2026&player_id4=6a29d06b&p4yrfrom=2026&player_id5=8377ba6a&p5yrfrom=2026&player_id6=03e7a498&p6yrfrom=2026&player_id7=0ffd4373&p7yrfrom=2026)
 
 #### Fouls Drawn
 
 1.[Richie Laryea](https://fbref.com/en/players/276fdbe4/Richie-Laryea) • [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) 42
 
-2.[Guilherme](https://fbref.com/en/players/58649f05/Guilherme) • [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) 34
+2.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 36
 
-3.[Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 31
+3.[Guilherme](https://fbref.com/en/players/58649f05/Guilherme) • [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) 34
 
 4.[Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro) • [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) 29
 
@@ -1583,7 +1595,7 @@ Show #2-9
 
 Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=276fdbe4&p1yrfrom=2026&player_id2=58649f05&p2yrfrom=2026&player_id3=3409de86&p3yrfrom=2026&player_id4=4b5ab509&p4yrfrom=2026&player_id5=b2bc3b1f&p5yrfrom=2026&player_id6=c5c1627c&p6yrfrom=2026&player_id7=6ed1a2a2&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=276fdbe4&p1yrfrom=2026&player_id2=3409de86&p2yrfrom=2026&player_id3=58649f05&p3yrfrom=2026&player_id4=4b5ab509&p4yrfrom=2026&player_id5=b2bc3b1f&p5yrfrom=2026&player_id6=c5c1627c&p6yrfrom=2026&player_id7=6ed1a2a2&p7yrfrom=2026)
 
 #### Own Goals
 
@@ -1633,23 +1645,23 @@ Show all 14 players tied with 1
 
 [Andrew Thomas](https://fbref.com/en/players/1425ee30/Andrew-Thomas) • [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) 5
 
-7.[Drake Callender](https://fbref.com/en/players/c4d9567d/Drake-Callender) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 4
+7.[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 4
 
-8.[Michael Collodi](https://fbref.com/en/players/e5857da0/Michael-Collodi) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 3
+[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 4
+
+[Drake Callender](https://fbref.com/en/players/c4d9567d/Drake-Callender) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 4
+
+10.[Michael Collodi](https://fbref.com/en/players/e5857da0/Michael-Collodi) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 3
 
 [Matt Turner](https://fbref.com/en/players/4a51ba65/Matt-Turner) • [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) 3
 
-[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 3
-
 [Duran Ferree](https://fbref.com/en/players/56b6d34f/Duran-Ferree) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 3
-
-[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 3
 
 [Jonathan Bond](https://fbref.com/en/players/c3a86eea/Jonathan-Bond) • [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) 3
 
-Show #2-8
+Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=8f62b6ee&p1yrfrom=2026&player_id2=e287eefa&p2yrfrom=2026&player_id3=a71768a2&p3yrfrom=2026&player_id4=52be0b7d&p4yrfrom=2026&player_id5=636fc976&p5yrfrom=2026&player_id6=1425ee30&p6yrfrom=2026&player_id7=c4d9567d&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=8f62b6ee&p1yrfrom=2026&player_id2=e287eefa&p2yrfrom=2026&player_id3=a71768a2&p3yrfrom=2026&player_id4=52be0b7d&p4yrfrom=2026&player_id5=636fc976&p5yrfrom=2026&player_id6=1425ee30&p6yrfrom=2026&player_id7=c164335e&p7yrfrom=2026)
 
 #### Clean Sheet Percentage
 
@@ -1667,23 +1679,19 @@ Show #2-8
 
 7.[Drake Callender](https://fbref.com/en/players/c4d9567d/Drake-Callender) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 36.4
 
-8.[Duran Ferree](https://fbref.com/en/players/56b6d34f/Duran-Ferree) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 33.3
+[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 36.4
 
-9.[Matt Turner](https://fbref.com/en/players/4a51ba65/Matt-Turner) • [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) 30.0
+[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 36.4
 
-[Jonathan Bond](https://fbref.com/en/players/c3a86eea/Jonathan-Bond) • [Houston Dynamo](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) 30.0
+10.[Duran Ferree](https://fbref.com/en/players/56b6d34f/Duran-Ferree) • [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) 33.3
 
-[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 30.0
-
-[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 30.0
-
-Show #2-9
+Show #2-10
 
 [Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=8f62b6ee&p1yrfrom=2026&player_id2=1425ee30&p2yrfrom=2026&player_id3=a71768a2&p3yrfrom=2026&player_id4=e287eefa&p4yrfrom=2026&player_id5=52be0b7d&p5yrfrom=2026&player_id6=636fc976&p6yrfrom=2026&player_id7=c4d9567d&p7yrfrom=2026)
 
 #### Saves
 
-1.[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 55
+1.[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 60
 
 2.[James Pantemis](https://fbref.com/en/players/901408ac/James-Pantemis) • [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) 51
 
@@ -1693,19 +1701,19 @@ Show #2-9
 
 5.[Maxime Crépeau](https://fbref.com/en/players/ea42e480/Maxime-Crepeau) • [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) 46
 
-6.[Drake Callender](https://fbref.com/en/players/c4d9567d/Drake-Callender) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 39
+6.[Matt Freese](https://fbref.com/en/players/2f49476c/Matt-Freese) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 39
 
-7.[Roman Celentano](https://fbref.com/en/players/42ba8628/Roman-Celentano) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 38
+[Drake Callender](https://fbref.com/en/players/c4d9567d/Drake-Callender) • [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) 39
 
-8.[Ethan Horvath](https://fbref.com/en/players/3f65d5ce/Ethan-Horvath) • [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) 35
+8.[Roman Celentano](https://fbref.com/en/players/42ba8628/Roman-Celentano) • [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) 38
 
-9.[Matt Freese](https://fbref.com/en/players/2f49476c/Matt-Freese) • [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) 34
+9.[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 36
 
-[Rafael Cabral](https://fbref.com/en/players/806f7a26/Rafael-Cabral) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 34
+10.[Ethan Horvath](https://fbref.com/en/players/3f65d5ce/Ethan-Horvath) • [NY Red Bulls](https://fbref.com/en/squads/69a0fb10/New-York-Red-Bulls-Stats) 35
 
-Show #2-9
+Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=6a1940d5&p1yrfrom=2026&player_id2=901408ac&p2yrfrom=2026&player_id3=53e360bb&p3yrfrom=2026&player_id4=4a51ba65&p4yrfrom=2026&player_id5=ea42e480&p5yrfrom=2026&player_id6=c4d9567d&p6yrfrom=2026&player_id7=42ba8628&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=6a1940d5&p1yrfrom=2026&player_id2=901408ac&p2yrfrom=2026&player_id3=53e360bb&p3yrfrom=2026&player_id4=4a51ba65&p4yrfrom=2026&player_id5=ea42e480&p5yrfrom=2026&player_id6=2f49476c&p6yrfrom=2026&player_id7=c4d9567d&p7yrfrom=2026)
 
 #### Save Percentage
 
@@ -1719,9 +1727,9 @@ Show #2-9
 
 5.[Brian Schwake](https://fbref.com/en/players/e287eefa/Brian-Schwake) • [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) 77.3
 
-6.[Daniel](https://fbref.com/en/players/636fc976/Daniel) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 76.7
+6.[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 76.9
 
-7.[Brad Stuver](https://fbref.com/en/players/6a1940d5/Brad-Stuver) • [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) 75.3
+7.[Daniel](https://fbref.com/en/players/636fc976/Daniel) • [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) 76.7
 
 8.[Yohei Takaoka](https://fbref.com/en/players/52be0b7d/Yohei-Takaoka) • [Vancouver W'caps](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-FC-Stats) 73.9
 
@@ -1731,7 +1739,7 @@ Show #2-9
 
 Show #2-10
 
-[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=1425ee30&p1yrfrom=2026&player_id2=8f62b6ee&p2yrfrom=2026&player_id3=4a51ba65&p3yrfrom=2026&player_id4=a71768a2&p4yrfrom=2026&player_id5=e287eefa&p5yrfrom=2026&player_id6=636fc976&p6yrfrom=2026&player_id7=6a1940d5&p7yrfrom=2026)
+[Compare Leaders](https://fbref.com/en/stathead/player_comparison.cgi?request=1&sum=0&comp_type=spec&dom_lg=1&spec_comps=22&player_id1=1425ee30&p1yrfrom=2026&player_id2=8f62b6ee&p2yrfrom=2026&player_id3=4a51ba65&p3yrfrom=2026&player_id4=a71768a2&p4yrfrom=2026&player_id5=e287eefa&p5yrfrom=2026&player_id6=6a1940d5&p6yrfrom=2026&player_id7=636fc976&p7yrfrom=2026)
 
 #### Goals Against/90
 
@@ -1751,9 +1759,9 @@ Show #2-10
 
 8.[Michael Collodi](https://fbref.com/en/players/e5857da0/Michael-Collodi) • [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) 1.36
 
-9.[Rafael Cabral](https://fbref.com/en/players/806f7a26/Rafael-Cabral) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 1.40
+[Sean Johnson](https://fbref.com/en/players/c164335e/Sean-Johnson) • [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) 1.36
 
-10.[J.T. Marcinkowski](https://fbref.com/en/players/977791f4/JT-Marcinkowski) • [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) 1.43
+10.[Rafael Cabral](https://fbref.com/en/players/806f7a26/Rafael-Cabral) • [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) 1.40
 
 Show #2-10
 
@@ -1763,10 +1771,10 @@ Show #2-10
 
 | Rk | Nation | \# Players | Min | List |
 | --- | --- | --- | --- | --- |
-| 1 | [us United States](https://fbref.com/en/country/USA/United-States-Football) | 314 | 100,499 | [Preston Judd](https://fbref.com/en/players/00534d73/Preston-Judd), [Julian Hall](https://fbref.com/en/players/ea7733d4/Julian-Hall), [Brian White](https://fbref.com/en/players/54c948de/Brian-White), [Max Arfsten](https://fbref.com/en/players/668f881e/Max-Arfsten), [Niko Tsakiris](https://fbref.com/en/players/cb501677/Niko-Tsakiris), [Zavier Gozo](https://fbref.com/en/players/bc2eb719/Zavier-Gozo), [Sebastian Berhalter](https://fbref.com/en/players/f33ee427/Sebastian-Berhalter), [Daniel Munie](https://fbref.com/en/players/ce44f0de/Daniel-Munie), [Paxten Aaronson](https://fbref.com/en/players/4cd41883/Paxten-Aaronson), [Milan Iloski](https://fbref.com/en/players/4f87c75f/Milan-Iloski) ... |
-| 2 | [ca Canada](https://fbref.com/en/country/CAN/Canada-Football) | 45 | 14,621 | [Jonathan Osorio](https://fbref.com/en/players/70106ff6/Jonathan-Osorio), [Richie Laryea](https://fbref.com/en/players/276fdbe4/Richie-Laryea), [Luka Gavran](https://fbref.com/en/players/76c220e0/Luka-Gavran), [Victor Loturi](https://fbref.com/en/players/6bc235e5/Victor-Loturi), [James Pantemis](https://fbref.com/en/players/901408ac/James-Pantemis), [Dayne St. Clair](https://fbref.com/en/players/3f41d25f/Dayne-St-Clair), [Jahkeele Marshall-Rutty](https://fbref.com/en/players/b9459f85/Jahkeele-Marshall-Rutty), [Maxime Crépeau](https://fbref.com/en/players/ea42e480/Maxime-Crepeau), [Mathieu Choiniere](https://fbref.com/en/players/017459bb/Mathieu-Choiniere), [Kobe Franklin](https://fbref.com/en/players/407325c4/Kobe-Franklin) ... |
-| 3 | [br Brazil](https://fbref.com/en/country/BRA/Brazil-Football) | 34 | 16,881 | [Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro), [Guilherme](https://fbref.com/en/players/58649f05/Guilherme), [Evander](https://fbref.com/en/players/4352d221/Evander), [Gabriel Chaves](https://fbref.com/en/players/c37ce1ca/Gabriel-Chaves), [Peglow](https://fbref.com/en/players/8a861bc5/Peglow), [Klauss](https://fbref.com/en/players/f5ae006d/Klauss), [Micael](https://fbref.com/en/players/ea95d7a6/Micael), [Daniel](https://fbref.com/en/players/636fc976/Daniel), [Rafael Cabral](https://fbref.com/en/players/806f7a26/Rafael-Cabral), [Antony](https://fbref.com/en/players/6a2381f7/Antony) ... |
-| 4 | [ar Argentina](https://fbref.com/en/country/ARG/Argentina-Football) | 31 | 17,452 | [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi), [Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez), [Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda), [Maximiliano Moralez](https://fbref.com/en/players/f99f37fc/Maximiliano-Moralez), [Luca Langoni](https://fbref.com/en/players/b9532512/Luca-Langoni), [Joaquín Pereyra](https://fbref.com/en/players/98af660d/Joaquin-Pereyra), [Agustin Ojeda](https://fbref.com/en/players/0dfc20ce/Agustin-Ojeda), [Tomás Chancalay](https://fbref.com/en/players/317be364/Tomas-Chancalay), [Cristian Espinoza](https://fbref.com/en/players/9c794a80/Cristian-Espinoza), [Rodrigo De Paul](https://fbref.com/en/players/162efffd/Rodrigo-De-Paul) ... |
+| 1 | [us United States](https://fbref.com/en/country/USA/United-States-Football) | 316 | 101,791 | [Preston Judd](https://fbref.com/en/players/00534d73/Preston-Judd), [Julian Hall](https://fbref.com/en/players/ea7733d4/Julian-Hall), [Brian White](https://fbref.com/en/players/54c948de/Brian-White), [Max Arfsten](https://fbref.com/en/players/668f881e/Max-Arfsten), [Niko Tsakiris](https://fbref.com/en/players/cb501677/Niko-Tsakiris), [Zavier Gozo](https://fbref.com/en/players/bc2eb719/Zavier-Gozo), [Sebastian Berhalter](https://fbref.com/en/players/f33ee427/Sebastian-Berhalter), [Daniel Munie](https://fbref.com/en/players/ce44f0de/Daniel-Munie), [Paxten Aaronson](https://fbref.com/en/players/4cd41883/Paxten-Aaronson), [Milan Iloski](https://fbref.com/en/players/4f87c75f/Milan-Iloski) ... |
+| 2 | [ca Canada](https://fbref.com/en/country/CAN/Canada-Football) | 45 | 14,709 | [Jonathan Osorio](https://fbref.com/en/players/70106ff6/Jonathan-Osorio), [Richie Laryea](https://fbref.com/en/players/276fdbe4/Richie-Laryea), [Luka Gavran](https://fbref.com/en/players/76c220e0/Luka-Gavran), [Victor Loturi](https://fbref.com/en/players/6bc235e5/Victor-Loturi), [James Pantemis](https://fbref.com/en/players/901408ac/James-Pantemis), [Dayne St. Clair](https://fbref.com/en/players/3f41d25f/Dayne-St-Clair), [Jahkeele Marshall-Rutty](https://fbref.com/en/players/b9459f85/Jahkeele-Marshall-Rutty), [Maxime Crépeau](https://fbref.com/en/players/ea42e480/Maxime-Crepeau), [Mathieu Choiniere](https://fbref.com/en/players/017459bb/Mathieu-Choiniere), [Kobe Franklin](https://fbref.com/en/players/407325c4/Kobe-Franklin) ... |
+| 3 | [br Brazil](https://fbref.com/en/country/BRA/Brazil-Football) | 34 | 17,220 | [Rafael Navarro](https://fbref.com/en/players/4b5ab509/Rafael-Navarro), [Guilherme](https://fbref.com/en/players/58649f05/Guilherme), [Evander](https://fbref.com/en/players/4352d221/Evander), [Gabriel Chaves](https://fbref.com/en/players/c37ce1ca/Gabriel-Chaves), [Peglow](https://fbref.com/en/players/8a861bc5/Peglow), [Klauss](https://fbref.com/en/players/f5ae006d/Klauss), [Micael](https://fbref.com/en/players/ea95d7a6/Micael), [Daniel](https://fbref.com/en/players/636fc976/Daniel), [Rafael Cabral](https://fbref.com/en/players/806f7a26/Rafael-Cabral), [Thiago Martins](https://fbref.com/en/players/4d6ec370/Thiago-Martins) ... |
+| 4 | [ar Argentina](https://fbref.com/en/country/ARG/Argentina-Football) | 31 | 17,712 | [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi), [Nicolás Ezequiel Fernández](https://fbref.com/en/players/3409de86/Nicolas-Ezequiel-Fernandez), [Martín Ojeda](https://fbref.com/en/players/016a7f95/Martin-Ojeda), [Maximiliano Moralez](https://fbref.com/en/players/f99f37fc/Maximiliano-Moralez), [Agustin Ojeda](https://fbref.com/en/players/0dfc20ce/Agustin-Ojeda), [Luca Langoni](https://fbref.com/en/players/b9532512/Luca-Langoni), [Joaquín Pereyra](https://fbref.com/en/players/98af660d/Joaquin-Pereyra), [Tomás Chancalay](https://fbref.com/en/players/317be364/Tomas-Chancalay), [Cristian Espinoza](https://fbref.com/en/players/9c794a80/Cristian-Espinoza), [Rodrigo De Paul](https://fbref.com/en/players/162efffd/Rodrigo-De-Paul) ... |
 |  |  |  |  | [View Complete Nationalities Table](https://fbref.com/en/comps/22/nations/Major-League-Soccer-Nationalities) |
 
 Nationalities 2026 Major League Soccer Table

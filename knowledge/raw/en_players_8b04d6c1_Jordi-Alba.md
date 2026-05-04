@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-05-04T05:07:14.549212+00:00
+scraped_at: 2026-05-04T10:53:45.511878+00:00
 source: fbref.com
 ---
 
@@ -247,10 +247,10 @@ Roster
 
 Show entire roster
 
-- [Denmark](https://fbref.com/en/squads/29a4e4af/2026/Denmark-Men-Stats)
+- [Denmark](https://fbref.com/en/squads/29a4e4af/Denmark-Men-Stats)
 
 
-[Denmark](https://fbref.com/en/squads/29a4e4af/2026/Denmark-Men-Stats)
+[Denmark](https://fbref.com/en/squads/29a4e4af/Denmark-Men-Stats)
 
 
 
@@ -312,7 +312,7 @@ Show entire roster
 On this page:
 
 - [Last 5 Matches](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_last_5_matchlogs)
-- [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_9417809687)
+- [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_1730609050)
 - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
 - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
 - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
@@ -661,9 +661,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
-· [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
-· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
+· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
+· [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
 ### About FBref.com
