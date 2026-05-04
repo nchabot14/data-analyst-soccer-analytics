@@ -74,7 +74,13 @@ models:
           - not_null
 
   - name: stg_scorers
-    description: One row per top-scorer entry returned by the scorers endpoint.
+    description: One row per top-scorer entry returned by the scorers endpoint. Deduplicated by (competition_code, season) keeping the most recent extracted_at to defend against multiple raw extracts.
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - competition_code
+            - season
+            - player_id
     columns:
       - name: player_id
         description: football-data.org player id

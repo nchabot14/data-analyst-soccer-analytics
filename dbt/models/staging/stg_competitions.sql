@@ -1,3 +1,9 @@
+WITH latest_raw AS (
+    SELECT *
+    FROM {{ source('raw', 'RAW_COMPETITIONS') }}
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY competition_code, season ORDER BY extracted_at DESC) = 1
+)
+
 SELECT
     payload:id::NUMBER                                      AS competition_id,
     payload:code::STRING                                    AS competition_code,
@@ -8,4 +14,4 @@ SELECT
     TRY_TO_DATE(payload:currentSeason.endDate::STRING)      AS current_season_end_date,
     season::NUMBER                                          AS season_year,
     extracted_at
-FROM {{ source('raw', 'RAW_COMPETITIONS') }}
+FROM latest_raw

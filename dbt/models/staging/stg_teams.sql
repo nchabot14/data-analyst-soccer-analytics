@@ -1,3 +1,9 @@
+WITH latest_raw AS (
+    SELECT *
+    FROM {{ source('raw', 'RAW_TEAMS') }}
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY competition_code, season, team_id ORDER BY extracted_at DESC) = 1
+)
+
 SELECT
     payload:id::NUMBER              AS team_id,
     payload:name::STRING            AS team_name,
@@ -12,4 +18,4 @@ SELECT
     competition_code,
     season,
     extracted_at
-FROM {{ source('raw', 'RAW_TEAMS') }}
+FROM latest_raw

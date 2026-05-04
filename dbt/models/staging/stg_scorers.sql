@@ -1,3 +1,9 @@
+WITH latest_raw AS (
+    SELECT *
+    FROM {{ source('raw', 'RAW_SCORERS') }}
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY competition_code, season ORDER BY extracted_at DESC) = 1
+)
+
 SELECT
     s.competition_code,
     s.season,
@@ -13,5 +19,5 @@ SELECT
     scorer.value:penalties::NUMBER                          AS penalties,
     scorer.value:playedMatches::NUMBER                      AS played_matches,
     s.extracted_at
-FROM {{ source('raw', 'RAW_SCORERS') }} s,
+FROM latest_raw s,
      LATERAL FLATTEN(input => s.payload:scorers) AS scorer

@@ -1,3 +1,9 @@
+WITH latest_raw AS (
+    SELECT *
+    FROM {{ source('raw', 'RAW_MATCHES') }}
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY competition_code, season, match_id ORDER BY extracted_at DESC) = 1
+)
+
 SELECT
     payload:id::NUMBER                                                       AS match_id,
     TRY_TO_TIMESTAMP_NTZ(payload:utcDate::STRING)                            AS utc_date,
@@ -18,4 +24,4 @@ SELECT
     competition_code,
     season,
     extracted_at
-FROM {{ source('raw', 'RAW_MATCHES') }}
+FROM latest_raw

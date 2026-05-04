@@ -1,3 +1,9 @@
+WITH latest_raw AS (
+    SELECT *
+    FROM {{ source('raw', 'RAW_STANDINGS') }}
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY competition_code, season ORDER BY extracted_at DESC) = 1
+)
+
 SELECT
     s.competition_code,
     s.season,
@@ -14,6 +20,6 @@ SELECT
     team_row.value:goalsAgainst::NUMBER     AS goals_against,
     team_row.value:goalDifference::NUMBER   AS goal_difference,
     s.extracted_at
-FROM {{ source('raw', 'RAW_STANDINGS') }} s,
+FROM latest_raw s,
      LATERAL FLATTEN(input => s.payload:standings) AS block,
      LATERAL FLATTEN(input => block.value:table)   AS team_row
