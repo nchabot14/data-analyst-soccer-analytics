@@ -1,0 +1,64 @@
+version: 2
+
+models:
+  - name: dim_team
+    description: One row per team. team_key is the surrogate primary key for joins from facts.
+    columns:
+      - name: team_key
+        description: Surrogate key (md5 of team_id)
+        tests:
+          - unique
+          - not_null
+      - name: team_id
+        description: Natural key from football-data.org
+
+  - name: dim_competition
+    description: One row per (competition_code, season).
+    columns:
+      - name: competition_key
+        description: Surrogate key (md5 of competition_code + season_year)
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_date
+    description: Daily date spine covering 2024-01-01 through 2025-12-31. date_key is the date itself, used directly as the join key.
+    columns:
+      - name: date_key
+        description: The date, used as the natural primary key
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_match_results
+    description: One row per FINISHED match. Foreign keys join to dim_team (twice, home/away), dim_competition, and dim_date. Includes derived points columns (3-1-0).
+    columns:
+      - name: match_key
+        description: Surrogate key (md5 of match_id)
+        tests:
+          - unique
+          - not_null
+      - name: match_date_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_key
+      - name: home_team_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_team')
+              field: team_key
+      - name: away_team_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_team')
+              field: team_key
+      - name: competition_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_competition')
+              field: competition_key
