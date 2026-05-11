@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-05-04T10:53:52.085913+00:00
+scraped_at: 2026-05-11T11:55:11.088017+00:00
 source: mlssoccer.com
 ---
 
@@ -33,27 +33,27 @@ Come Kick It! Watch MLS on Apple TV
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Made for prime time: Austin FC stars return in latest marquee win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nlczzq1vj1fcrwyenfpo)\\
+- [![Jack McGlynn makes World Cup case as Dynamo stun LAFC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gdwx4rpnr6nrhysgbfn2)\\
 \\
-**Made for prime time: Austin FC stars return in latest marquee win**](https://www.mlssoccer.com/news/made-for-prime-time-austin-fc-stars-return-in-latest-marquee-win "Made for prime time: Austin FC stars return in latest marquee win")
+**Jack McGlynn makes World Cup case as Dynamo stun LAFC**](https://www.mlssoccer.com/news/jack-mcglynn-makes-world-cup-case-in-dynamo-rout-of-lafc "Jack McGlynn makes World Cup case as Dynamo stun LAFC")
 
-- [![Orlando's Miami miracle, Cincinnati's Windy City heroics & more from Matchday 11](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/k7f4g0hqgcuxg1uo44s6)\\
+- [![Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/p0pspcdidgdmjujfpl6i)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Orlando's Miami miracle, Cincinnati's Windy City heroics & more from Matchday 11**](https://www.mlssoccer.com/news/orlando-s-miami-miracle-cincinnati-s-windy-city-heroics-more-from-matchday-11 "Orlando's Miami miracle, Cincinnati's Windy City heroics & more from Matchday 11")
-- [![LAFC shock San Diego late to boost CCC momentum](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wqctci50cgvkazwimtzh)\\
+**Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12**](https://www.mlssoccer.com/news/messi-takes-over-toronto-gil-has-revs-soaring-more-from-matchday-12 "Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12")
+- [![James Rodríguez delivers for Minnesota United ahead of World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z15ez3rllauo3pdfxomx)\\
 \\
-**LAFC shock San Diego late to boost CCC momentum**](https://www.mlssoccer.com/news/lafc-stun-san-diego-late-to-boost-ccc-momentum "LAFC shock San Diego late to boost CCC momentum")
-- [![Evander's first MLS hat trick paces wild FC Cincinnati win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/opwxdn5twna42jvlo2i7)\\
+**James Rodríguez delivers for Minnesota United ahead of World Cup**](https://www.mlssoccer.com/news/james-rodriguez-colombian-star-showcases-class "James Rodríguez delivers for Minnesota United ahead of World Cup")
+- [![Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qa6ikqi11nhr4lbpuzwz)\\
 \\
-**Evander's first MLS hat trick paces wild FC Cincinnati win**](https://www.mlssoccer.com/news/evander-s-first-mls-hat-trick-paces-wild-fc-cincinnati-win "Evander's first MLS hat trick paces wild FC Cincinnati win")
-- [![Orlando City stun Miami in Florida Derby comeback for the ages](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dmhbffhiarhhqxii4dci)\\
+**Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle**](https://www.mlssoccer.com/news/sebastian-berhalter-furthers-world-cup-dream-in-supporters-shield-battle "Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle ")
+- [![Goalfest! Portland Timbers lay historic beatdown on Sporting KC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gzvkmet4bdnquv0f0inl)\\
 \\
-**Orlando City stun Miami in Florida Derby comeback for the ages**](https://www.mlssoccer.com/news/orlando-city-deliver-comeback-for-the-ages-in-florida-derby-win-over-inter-miami "Orlando City stun Miami in Florida Derby comeback for the ages")
-- [![Petar Musa makes World Cup statement in FC Dallas win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/obbi2gmykgwuei75kpfb)\\
+**Goalfest! Portland Timbers lay historic beatdown on Sporting KC**](https://www.mlssoccer.com/news/goalfest-portland-timbers-lay-historic-beatdown-on-sporting-kc "Goalfest! Portland Timbers lay historic beatdown on Sporting KC")
+- [![MVP man: Carles Gil’s late heroics propel Revolution to record start ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qafsu5tgw5e0d4lpna18)\\
 \\
-**Petar Musa makes World Cup statement in FC Dallas win**](https://www.mlssoccer.com/news/petar-musa-makes-world-cup-statment-in-fc-dallas-win "Petar Musa makes World Cup statement in FC Dallas win")
+**MVP man: Carles Gil’s late heroics propel Revolution to record start**](https://www.mlssoccer.com/news/mvp-man-carles-gil-s-late-heroics-propel-revolution-to-record-start "MVP man: Carles Gil’s late heroics propel Revolution to record start ")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -79,6 +79,20 @@ Transfer Tracker
 Transfer Tracker
 
 
+- [![DC United sign English midfielder Andre Dozzell](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**DC United sign English midfielder Andre Dozzell**](https://www.mlssoccer.com/news/dc-united-sign-english-midfielder-andre-dozzell "DC United sign English midfielder Andre Dozzell")
+- [![Colorado Rapids sign Darren Yapi to contract extension](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**Colorado Rapids sign Darren Yapi to contract extension**](https://www.mlssoccer.com/news/colorado-rapids-sign-darren-yapi-to-contract-extension "Colorado Rapids sign Darren Yapi to contract extension")
+- [![MLS legend Kei Kamara retires from professional soccer](<Base64-Image-Removed>)\\
+\\
+**MLS legend Kei Kamara retires from professional soccer**](https://www.mlssoccer.com/news/mls-legend-kei-kamara-retires-from-professional-soccer "MLS legend Kei Kamara retires from professional soccer")
+
 - [![Real Salt Lake sign Noel Caliskan to contract extension](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
@@ -94,22 +108,6 @@ Transfer Tracker\\
 Transfer Tracker\\
 \\
 **Columbus Crew sign Dylan Chambost to contract extension**](https://www.mlssoccer.com/news/columbus-crew-sign-dylan-chambost-to-contract-extension "Columbus Crew sign Dylan Chambost to contract extension")
-
-- [![Charlotte FC sign homegrown midfielder Aron John](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Charlotte FC sign homegrown midfielder Aron John**](https://www.mlssoccer.com/news/charlotte-fc-sign-homegrown-midfielder-aron-john "Charlotte FC sign homegrown midfielder Aron John")
-- [![Houston Dynamo sign homegrown Mattheo Dimareli](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Houston Dynamo sign homegrown Mattheo Dimareli**](https://www.mlssoccer.com/news/houston-dynamo-sign-homegrown-mattheo-dimareli "Houston Dynamo sign homegrown Mattheo Dimareli")
-- [![Charlotte FC sign forward Rodolfo Aloko](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Charlotte FC sign forward Rodolfo Aloko**](https://www.mlssoccer.com/news/charlotte-fc-sign-forward-rodolfo-aloko "Charlotte FC sign forward Rodolfo Aloko")
 
 ![Download the MLS App](<Base64-Image-Removed>)
 

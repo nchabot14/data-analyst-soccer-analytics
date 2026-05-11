@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/standings/
-scraped_at: 2026-05-04T10:53:56.086951+00:00
+scraped_at: 2026-05-11T11:55:14.820773+00:00
 source: mlssoccer.com
 ---
 
@@ -20,40 +20,36 @@ Come Kick It! Watch MLS on Apple TV
 - [Supporters' Shield Standings](https://www.mlssoccer.com/standings/2026/supporters-shield)
 - [Form Guide](https://www.mlssoccer.com/standings/form-guide/index)
 
-![undefined-loading](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
 _Official_ Standings = Updated at conclusion of each match.
 
 _Live_ Standings = Updated in real-time during live matches.
 
-![undefined-loading](https://www.mlssoccer.com/assets/images/Fallbacklogo-grey.png)
-
 Latest News
 
 
 Latest News
 
 
-- [![Made for prime time: Austin FC stars return in latest marquee win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nlczzq1vj1fcrwyenfpo)\\
+- [![Jack McGlynn makes World Cup case as Dynamo stun LAFC](<Base64-Image-Removed>)\\
 \\
-**Made for prime time: Austin FC stars return in latest marquee win**](https://www.mlssoccer.com/news/made-for-prime-time-austin-fc-stars-return-in-latest-marquee-win "Made for prime time: Austin FC stars return in latest marquee win")
-- [![Orlando's Miami miracle, Cincinnati's Windy City heroics & more from Matchday 11](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/k7f4g0hqgcuxg1uo44s6)\\
+**Jack McGlynn makes World Cup case as Dynamo stun LAFC**](https://www.mlssoccer.com/news/jack-mcglynn-makes-world-cup-case-in-dynamo-rout-of-lafc "Jack McGlynn makes World Cup case as Dynamo stun LAFC")
+- [![Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12](<Base64-Image-Removed>)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Orlando's Miami miracle, Cincinnati's Windy City heroics & more from Matchday 11**](https://www.mlssoccer.com/news/orlando-s-miami-miracle-cincinnati-s-windy-city-heroics-more-from-matchday-11 "Orlando's Miami miracle, Cincinnati's Windy City heroics & more from Matchday 11")
-- [![LAFC shock San Diego late to boost CCC momentum](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wqctci50cgvkazwimtzh)\\
+**Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12**](https://www.mlssoccer.com/news/messi-takes-over-toronto-gil-has-revs-soaring-more-from-matchday-12 "Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12")
+- [![James Rodríguez delivers for Minnesota United ahead of World Cup](<Base64-Image-Removed>)\\
 \\
-**LAFC shock San Diego late to boost CCC momentum**](https://www.mlssoccer.com/news/lafc-stun-san-diego-late-to-boost-ccc-momentum "LAFC shock San Diego late to boost CCC momentum")
-- [![Evander's first MLS hat trick paces wild FC Cincinnati win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/opwxdn5twna42jvlo2i7)\\
+**James Rodríguez delivers for Minnesota United ahead of World Cup**](https://www.mlssoccer.com/news/james-rodriguez-colombian-star-showcases-class "James Rodríguez delivers for Minnesota United ahead of World Cup")
+- [![Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle ](<Base64-Image-Removed>)\\
 \\
-**Evander's first MLS hat trick paces wild FC Cincinnati win**](https://www.mlssoccer.com/news/evander-s-first-mls-hat-trick-paces-wild-fc-cincinnati-win "Evander's first MLS hat trick paces wild FC Cincinnati win")
-- [![Orlando City stun Miami in Florida Derby comeback for the ages](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dmhbffhiarhhqxii4dci)\\
+**Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle**](https://www.mlssoccer.com/news/sebastian-berhalter-furthers-world-cup-dream-in-supporters-shield-battle "Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle ")
+- [![Goalfest! Portland Timbers lay historic beatdown on Sporting KC](<Base64-Image-Removed>)\\
 \\
-**Orlando City stun Miami in Florida Derby comeback for the ages**](https://www.mlssoccer.com/news/orlando-city-deliver-comeback-for-the-ages-in-florida-derby-win-over-inter-miami "Orlando City stun Miami in Florida Derby comeback for the ages")
-- [![Petar Musa makes World Cup statement in FC Dallas win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/obbi2gmykgwuei75kpfb)\\
+**Goalfest! Portland Timbers lay historic beatdown on Sporting KC**](https://www.mlssoccer.com/news/goalfest-portland-timbers-lay-historic-beatdown-on-sporting-kc "Goalfest! Portland Timbers lay historic beatdown on Sporting KC")
+- [![MVP man: Carles Gil’s late heroics propel Revolution to record start ](<Base64-Image-Removed>)\\
 \\
-**Petar Musa makes World Cup statement in FC Dallas win**](https://www.mlssoccer.com/news/petar-musa-makes-world-cup-statment-in-fc-dallas-win "Petar Musa makes World Cup statement in FC Dallas win")
+**MVP man: Carles Gil’s late heroics propel Revolution to record start**](https://www.mlssoccer.com/news/mvp-man-carles-gil-s-late-heroics-propel-revolution-to-record-start "MVP man: Carles Gil’s late heroics propel Revolution to record start ")
 
 _Official_ Standings = Updated at conclusion of each match.
 
@@ -65,23 +61,23 @@ Latest Video
 Latest Video
 
 
-- [![HIGHLIGHTS: Austin FC vs. St. Louis CITY SC | May 3, 2026](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/s5cgllysse8szvopbn0s)\\
+- [![HIGHLIGHTS: Los Angeles Football Club vs. Houston Dynamo FC | May 10, 2026](<Base64-Image-Removed>)\\
 \\
-10:29\\
+10:32\\
 \\
-**HIGHLIGHTS: Austin FC vs. St. Louis CITY SC \| May 3, 2026**](https://www.mlssoccer.com/video/highlights-austin-fc-vs-st-louis-city-sc-may-3-2026 "HIGHLIGHTS: Austin FC vs. St. Louis CITY SC | May 3, 2026")
-- [![MATCH SNAPSHOT: Austin vs. St. Louis](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/shhpzz7ylcsx3pdidyev)\\
+**HIGHLIGHTS: Los Angeles Football Club vs. Houston Dynamo FC \| May 10, 2026**](https://www.mlssoccer.com/competitions/mls-regular-season/video/highlights-los-angeles-football-club-vs-houston-dynamo-fc-may-10-2026 "HIGHLIGHTS: Los Angeles Football Club vs. Houston Dynamo FC | May 10, 2026")
+- [![MATCH SNAPSHOT: LAFC vs. Houston](<Base64-Image-Removed>)\\
 \\
-0:59\\
+1:00\\
 \\
-**MATCH SNAPSHOT: Austin vs. St. Louis**](https://www.mlssoccer.com/video/match-snapshot-austin-vs-st-louis-x6821 "MATCH SNAPSHOT: Austin vs. St. Louis")
-- [![Goal: M. Uzuni vs. STL, 81'](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ibfuyzjrkrvvzjvaqmlc)\\
+**MATCH SNAPSHOT: LAFC vs. Houston**](https://www.mlssoccer.com/competitions/mls-regular-season/video/match-snapshot-lafc-vs-houston-x3223 "MATCH SNAPSHOT: LAFC vs. Houston")
+- [![Goal: J. McGlynn vs. LAFC, 55'](<Base64-Image-Removed>)\\
 \\
-1:06\\
+1:01\\
 \\
-**Goal: M. Uzuni vs. STL, 81'**](https://www.mlssoccer.com/video/goal-m-uzuni-vs-stl-81 "Goal: M. Uzuni vs. STL, 81'")
-- [![Goal: C. Ramírez vs. STL, 69'](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/aygj2l0zkrs1tct6qbbl)\\
+**Goal: J. McGlynn vs. LAFC, 55'**](https://www.mlssoccer.com/competitions/mls-regular-season/video/goal-j-mcglynn-vs-lafc-55 "Goal: J. McGlynn vs. LAFC, 55'")
+- [![Goal: M. Bogusz vs. LAFC, 51'](<Base64-Image-Removed>)\\
 \\
-0:51\\
+0:53\\
 \\
-**Goal: C. Ramírez vs. STL, 69'**](https://www.mlssoccer.com/video/goal-c-ramirez-vs-stl-69 "Goal: C. Ramírez vs. STL, 69'")
+**Goal: M. Bogusz vs. LAFC, 51'**](https://www.mlssoccer.com/competitions/mls-regular-season/video/goal-m-bogusz-vs-lafc-51 "Goal: M. Bogusz vs. LAFC, 51'")
