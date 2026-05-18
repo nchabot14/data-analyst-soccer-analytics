@@ -1,18 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-05-11T11:55:11.088017+00:00
+scraped_at: 2026-05-18T12:20:17.329168+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/news/#main-content)
 
-![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+![All-Star Tickets Slim Alert](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1778617634/assets/logos/mls-clubs/ASW26_week_Logo_Horiz_LTBG_RGB_mgq0k7.png)
 
-Come Kick It! Watch MLS on Apple TV
+Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star Skills Challenge presented by AT&T.
 
-[Subscribe](https://soc.cr/4krM2op "Subscribe")
+[Game Tickets](https://www.ticketmaster.com/2026-mls-all-star-game-presented-charlotte-north-carolina-07-29-2026/event/2D006462A8FEC872?CAMEFROM=CFC_MLG_MOBILE_APP_2026ASG "Game Tickets")
 
-[Learn More](https://soc.cr/4rLRnJO "Learn More")
+[Skills Tickets](https://www.ticketmaster.com/2026-mls-skills-challenge-presented-by-charlotte-north-carolina-07-28-2026/event/2D00646C9647BFEB?CAMEFROM=CFC_MLG_WEB_SITE_2026SKILLS "Skills Tickets")
 
 # News
 
@@ -33,27 +33,27 @@ Come Kick It! Watch MLS on Apple TV
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Jack McGlynn makes World Cup case as Dynamo stun LAFC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gdwx4rpnr6nrhysgbfn2)\\
+- [![Hany Mukhtar’s must-see hat trick powers Nashville SC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oiawjnrkclndwnqglvoy)\\
 \\
-**Jack McGlynn makes World Cup case as Dynamo stun LAFC**](https://www.mlssoccer.com/news/jack-mcglynn-makes-world-cup-case-in-dynamo-rout-of-lafc "Jack McGlynn makes World Cup case as Dynamo stun LAFC")
+**Hany Mukhtar’s must-see hat trick powers Nashville SC**](https://www.mlssoccer.com/news/hany-mukhtar-nashville-sc-star-s-brilliant-hat-trick-downs-lafc "Hany Mukhtar’s must-see hat trick powers Nashville SC")
 
-- [![Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/p0pspcdidgdmjujfpl6i)\\
+- [![FC Dallas' new hero, FC Cincinnati's late exploits & more from Matchday 14](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zn1kasd1mgdoruwtyj9h)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12**](https://www.mlssoccer.com/news/messi-takes-over-toronto-gil-has-revs-soaring-more-from-matchday-12 "Messi takes over Toronto, Gil has Revs soaring & more from Matchday 12")
-- [![James Rodríguez delivers for Minnesota United ahead of World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z15ez3rllauo3pdfxomx)\\
+**FC Dallas' new hero, FC Cincinnati's late exploits & more from Matchday 14**](https://www.mlssoccer.com/news/fc-dallas-new-hero-fc-cincinnati-s-late-exploits-more-from-matchday-14 "FC Dallas' new hero, FC Cincinnati's late exploits & more from Matchday 14")
+- [![Lionel Messi dazzles in Inter Miami's first win at Nu Stadium](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lmktl34j9tkl2riqakge)\\
 \\
-**James Rodríguez delivers for Minnesota United ahead of World Cup**](https://www.mlssoccer.com/news/james-rodriguez-colombian-star-showcases-class "James Rodríguez delivers for Minnesota United ahead of World Cup")
-- [![Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qa6ikqi11nhr4lbpuzwz)\\
+**Lionel Messi dazzles in Inter Miami's first win at Nu Stadium**](https://www.mlssoccer.com/news/history-maker-lionel-messi-dazzles-in-first-inter-miami-win-at-nu-stadium "Lionel Messi dazzles in Inter Miami's first win at Nu Stadium")
+- [![Columbus Crew part ways with head coach Henrik Rydström](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wgtnud3dizvx64u7goax)\\
 \\
-**Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle**](https://www.mlssoccer.com/news/sebastian-berhalter-furthers-world-cup-dream-in-supporters-shield-battle "Sebastian Berhalter furthers World Cup dream in Supporters' Shield battle ")
-- [![Goalfest! Portland Timbers lay historic beatdown on Sporting KC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gzvkmet4bdnquv0f0inl)\\
+**Columbus Crew part ways with head coach Henrik Rydström**](https://www.mlssoccer.com/news/columbus-crew-part-ways-with-henrik-rydstrom-of-head-coaching-dutiespa "Columbus Crew part ways with head coach Henrik Rydström")
+- [![EPIC beer celebration: FC Dallas forward Sam Sarver goes viral](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z4wswt3srjrplu5vla5b)\\
 \\
-**Goalfest! Portland Timbers lay historic beatdown on Sporting KC**](https://www.mlssoccer.com/news/goalfest-portland-timbers-lay-historic-beatdown-on-sporting-kc "Goalfest! Portland Timbers lay historic beatdown on Sporting KC")
-- [![MVP man: Carles Gil’s late heroics propel Revolution to record start ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qafsu5tgw5e0d4lpna18)\\
+**EPIC beer celebration: FC Dallas forward Sam Sarver goes viral**](https://www.mlssoccer.com/news/king-of-beers-sam-sarver-s-epic-goal-celebration-highlights "EPIC beer celebration: FC Dallas forward Sam Sarver goes viral")
+- [![Next stop, World Cup?! Zavier Gozo adds to USMNT case](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/x9lwne5qrgelilwuts0x)\\
 \\
-**MVP man: Carles Gil’s late heroics propel Revolution to record start**](https://www.mlssoccer.com/news/mvp-man-carles-gil-s-late-heroics-propel-revolution-to-record-start "MVP man: Carles Gil’s late heroics propel Revolution to record start ")
+**Next stop, World Cup?! Zavier Gozo adds to USMNT case**](https://www.mlssoccer.com/news/world-cup-bound-zavier-gozo-sparks-rsl-comeback-victory-in-rocky-mountain-cup "Next stop, World Cup?! Zavier Gozo adds to USMNT case")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -79,6 +79,11 @@ Transfer Tracker
 Transfer Tracker
 
 
+- [![Inter Miami sign homegrown midfielder Preston Plambeck](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**Inter Miami sign homegrown midfielder Preston Plambeck**](https://www.mlssoccer.com/news/inter-miami-sign-homegrown-midfielder-preston-plambeck "Inter Miami sign homegrown midfielder Preston Plambeck")
 - [![DC United sign English midfielder Andre Dozzell](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
@@ -89,10 +94,10 @@ Transfer Tracker\\
 Transfer Tracker\\
 \\
 **Colorado Rapids sign Darren Yapi to contract extension**](https://www.mlssoccer.com/news/colorado-rapids-sign-darren-yapi-to-contract-extension "Colorado Rapids sign Darren Yapi to contract extension")
+
 - [![MLS legend Kei Kamara retires from professional soccer](<Base64-Image-Removed>)\\
 \\
 **MLS legend Kei Kamara retires from professional soccer**](https://www.mlssoccer.com/news/mls-legend-kei-kamara-retires-from-professional-soccer "MLS legend Kei Kamara retires from professional soccer")
-
 - [![Real Salt Lake sign Noel Caliskan to contract extension](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
@@ -103,11 +108,6 @@ Transfer Tracker\\
 Transfer Tracker\\
 \\
 **New York City FC sign forward Arnau Farnós**](https://www.mlssoccer.com/news/new-york-city-fc-sign-forward-arnau-farnos "New York City FC sign forward Arnau Farnós")
-- [![Columbus Crew sign Dylan Chambost to contract extension](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Columbus Crew sign Dylan Chambost to contract extension**](https://www.mlssoccer.com/news/columbus-crew-sign-dylan-chambost-to-contract-extension "Columbus Crew sign Dylan Chambost to contract extension")
 
 ![Download the MLS App](<Base64-Image-Removed>)
 

@@ -1,18 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-05-11T11:55:06.028448+00:00
+scraped_at: 2026-05-18T12:20:13.445278+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/about/#main-content)
 
-![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+![All-Star Tickets Slim Alert](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1778617634/assets/logos/mls-clubs/ASW26_week_Logo_Horiz_LTBG_RGB_mgq0k7.png)
 
-Come Kick It! Watch MLS on Apple TV
+Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star Skills Challenge presented by AT&T.
 
-[Subscribe](https://soc.cr/4krM2op "Subscribe")
+[Game Tickets](https://www.ticketmaster.com/2026-mls-all-star-game-presented-charlotte-north-carolina-07-29-2026/event/2D006462A8FEC872?CAMEFROM=CFC_MLG_MOBILE_APP_2026ASG "Game Tickets")
 
-[Learn More](https://soc.cr/4rLRnJO "Learn More")
+[Skills Tickets](https://www.ticketmaster.com/2026-mls-skills-challenge-presented-by-charlotte-north-carolina-07-28-2026/event/2D00646C9647BFEB?CAMEFROM=CFC_MLG_WEB_SITE_2026SKILLS "Skills Tickets")
 
 # About MLS
 
