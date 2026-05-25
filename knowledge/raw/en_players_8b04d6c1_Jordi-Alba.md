@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-05-18T12:20:09.646225+00:00
+scraped_at: 2026-05-25T12:17:19.007444+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 30-286d)
+(Age: 30-293d)
 
 in Copenhagen, Denmark
 
@@ -116,7 +116,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=0db169ae&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=4d224fe8&p4yrfrom=2025-2026&player_id5=57d88cf9&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=a9202def&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=57d88cf9&p4yrfrom=2025-2026&player_id5=4d224fe8&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
 
 - Stats by Competition
 
@@ -176,7 +176,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=0db169ae&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=4d224fe8&p4yrfrom=2025-2026&player_id5=57d88cf9&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=a9202def&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=57d88cf9&p4yrfrom=2025-2026&player_id5=4d224fe8&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
 
 - [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats)
 
@@ -312,7 +312,7 @@ Show entire roster
 On this page:
 
 - [Last 5 Matches](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_last_5_matchlogs)
-- [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_6092035200)
+- [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_2237273557)
 - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
 - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
 - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
@@ -361,7 +361,7 @@ Javascript is required for the selection of a player.
 
 Choice is:
 
-Ex: Sandro Tonali, Elliot Anderson, Casemiro
+Ex: Éderson, Elliot Anderson, Jude Bellingham
 
 Career
 
@@ -650,10 +650,10 @@ Player Club Summary Table
 | 2022-2023 | 26 | [Tottenham Hotspur](https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | **£ 100,000** (€ 116,237, $127,101) | **£ 5,200,000** (€ 6,044,330, $6,609,237) |  |
 | 2023-2024 | 27 | [Tottenham Hotspur](https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | **£ 100,000** (€ 118,369, $127,204) | **£ 5,200,000** (€ 6,155,169, $6,614,600) |  |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | **€ 118,846** (£ 100,296, $134,638) | **€ 6,180,000** (£ 5,215,400, $7,001,184) | Unverified estimation |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 106,095, $143,480) | **€ 6,360,000** (£ 5,516,919, $7,460,978) | Unverified estimation |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,845, $142,189) | **€ 6,360,000** (£ 5,503,919, $7,393,824) | Unverified estimation |
 |  |  |  |  |  |  |  |  |
-| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 106,095, $143,480) | **€ 6,360,000** (£ 5,516,919, $7,460,978) | Unverified estimation |
-| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 106,095, $143,480) | **€ 6,360,000** (£ 5,516,919, $7,460,978) | Unverified estimation |
+| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,845, $142,189) | **€ 6,360,000** (£ 5,503,919, $7,393,824) | Unverified estimation |
+| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,845, $142,189) | **€ 6,360,000** (£ 5,503,919, $7,393,824) | Unverified estimation |
 | [13 Seasons](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#coverage)\* |  | 6 Clubs |  |  |  |  |  |
 
 Wages Table
@@ -661,9 +661,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
+· [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
-· [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
 ### About FBref.com
@@ -727,4 +727,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=0db169ae&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=4d224fe8&p4yrfrom=2025-2026&player_id5=57d88cf9&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=a9202def&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=57d88cf9&p4yrfrom=2025-2026&player_id5=4d224fe8&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)

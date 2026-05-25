@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-05-18T12:20:17.329168+00:00
+scraped_at: 2026-05-25T12:17:24.548662+00:00
 source: mlssoccer.com
 ---
 
@@ -33,27 +33,29 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Hany Mukhtar’s must-see hat trick powers Nashville SC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oiawjnrkclndwnqglvoy)\\
-\\
-**Hany Mukhtar’s must-see hat trick powers Nashville SC**](https://www.mlssoccer.com/news/hany-mukhtar-nashville-sc-star-s-brilliant-hat-trick-downs-lafc "Hany Mukhtar’s must-see hat trick powers Nashville SC")
-
-- [![FC Dallas' new hero, FC Cincinnati's late exploits & more from Matchday 14](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zn1kasd1mgdoruwtyj9h)\\
+- [![Nashville set the pace, Zaha's swan song & more from Matchday 15](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g2musbp68lg4zedxexnk)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**FC Dallas' new hero, FC Cincinnati's late exploits & more from Matchday 14**](https://www.mlssoccer.com/news/fc-dallas-new-hero-fc-cincinnati-s-late-exploits-more-from-matchday-14 "FC Dallas' new hero, FC Cincinnati's late exploits & more from Matchday 14")
-- [![Lionel Messi dazzles in Inter Miami's first win at Nu Stadium](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lmktl34j9tkl2riqakge)\\
+**Nashville set the pace, Zaha's swan song & more from Matchday 15**](https://www.mlssoccer.com/news/nashville-set-the-pace-zaha-s-swan-song-more-from-matchday-15 "Nashville set the pace, Zaha's swan song & more from Matchday 15")
+
+- [![Inter Miami overcome Philadelphia Union in WILD 10-goal game](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ifzowlgdis1hn7qlffbd)\\
 \\
-**Lionel Messi dazzles in Inter Miami's first win at Nu Stadium**](https://www.mlssoccer.com/news/history-maker-lionel-messi-dazzles-in-first-inter-miami-win-at-nu-stadium "Lionel Messi dazzles in Inter Miami's first win at Nu Stadium")
-- [![Columbus Crew part ways with head coach Henrik Rydström](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wgtnud3dizvx64u7goax)\\
+**Inter Miami overcome Philadelphia Union in WILD 10-goal game**](https://www.mlssoccer.com/news/inter-miami-erupt-for-six-goals-in-historic-mls "Inter Miami overcome Philadelphia Union in WILD 10-goal game")
+- [![Lionel Messi exits Inter Miami's last game before World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lpqcwavbmgceakbifkk0)\\
 \\
-**Columbus Crew part ways with head coach Henrik Rydström**](https://www.mlssoccer.com/news/columbus-crew-part-ways-with-henrik-rydstrom-of-head-coaching-dutiespa "Columbus Crew part ways with head coach Henrik Rydström")
-- [![EPIC beer celebration: FC Dallas forward Sam Sarver goes viral](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z4wswt3srjrplu5vla5b)\\
+**Lionel Messi exits Inter Miami's last game before World Cup**](https://www.mlssoccer.com/news/lionel-messi-exits-last-game-before-world-cup-with-injury-inter-miami-argentina "Lionel Messi exits Inter Miami's last game before World Cup")
+- [![Wilfried Zaha to depart Charlotte FC following loan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dun7v5joqnvoiqht2zxr)\\
 \\
-**EPIC beer celebration: FC Dallas forward Sam Sarver goes viral**](https://www.mlssoccer.com/news/king-of-beers-sam-sarver-s-epic-goal-celebration-highlights "EPIC beer celebration: FC Dallas forward Sam Sarver goes viral")
-- [![Next stop, World Cup?! Zavier Gozo adds to USMNT case](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/x9lwne5qrgelilwuts0x)\\
+Transfer Tracker\\
 \\
-**Next stop, World Cup?! Zavier Gozo adds to USMNT case**](https://www.mlssoccer.com/news/world-cup-bound-zavier-gozo-sparks-rsl-comeback-victory-in-rocky-mountain-cup "Next stop, World Cup?! Zavier Gozo adds to USMNT case")
+**Wilfried Zaha to depart Charlotte FC following loan**](https://www.mlssoccer.com/news/wilfried-zaha-confirms-exit-from-charlotte-fc "Wilfried Zaha to depart Charlotte FC following loan")
+- [![Nashville SC enter World Cup pause on historic pace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xvvvam2rs68leett5s08)\\
+\\
+**Nashville SC enter World Cup pause on historic pace**](https://www.mlssoccer.com/news/nashville-sc-enter-world-cup-pause-on-historic-pace "Nashville SC enter World Cup pause on historic pace")
+- [![Preston Judd gets San Jose Earthquakes back on track](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/afzptinqbvyhxmhdzyxo)\\
+\\
+**Preston Judd gets San Jose Earthquakes back on track**](https://www.mlssoccer.com/news/preston-judd-brace-gets-earthquakes-back-on-track "Preston Judd gets San Jose Earthquakes back on track")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -79,37 +81,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Inter Miami sign homegrown midfielder Preston Plambeck](<Base64-Image-Removed>)\\
+- [![Wilfried Zaha to depart Charlotte FC following loan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dun7v5joqnvoiqht2zxr)\\
+\\
+Transfer Tracker\\
+\\
+**Wilfried Zaha to depart Charlotte FC following loan**](https://www.mlssoccer.com/news/wilfried-zaha-confirms-exit-from-charlotte-fc "Wilfried Zaha to depart Charlotte FC following loan")
+- [![San Jose Earthquakes acquire forward Darius Johnson](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mudfu3ri1b5advzpkft9)\\
+\\
+Transfer Tracker\\
+\\
+**San Jose Earthquakes acquire forward Darius Johnson**](https://www.mlssoccer.com/news/san-jose-earthquakes-acquire-forward-darius-johnson "San Jose Earthquakes acquire forward Darius Johnson")
+- [![Inter Miami sign homegrown midfielder Preston Plambeck](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rzp9ktxlnwxv4pn5x9c4)\\
 \\
 Transfer Tracker\\
 \\
 **Inter Miami sign homegrown midfielder Preston Plambeck**](https://www.mlssoccer.com/news/inter-miami-sign-homegrown-midfielder-preston-plambeck "Inter Miami sign homegrown midfielder Preston Plambeck")
-- [![DC United sign English midfielder Andre Dozzell](<Base64-Image-Removed>)\\
+
+- [![DC United sign English midfielder Andre Dozzell](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xpgeolzomyy4ddtc0klf)\\
 \\
 Transfer Tracker\\
 \\
 **DC United sign English midfielder Andre Dozzell**](https://www.mlssoccer.com/news/dc-united-sign-english-midfielder-andre-dozzell "DC United sign English midfielder Andre Dozzell")
-- [![Colorado Rapids sign Darren Yapi to contract extension](<Base64-Image-Removed>)\\
+- [![Colorado Rapids sign Darren Yapi to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mcw8p3vjt4utyghr9hch)\\
 \\
 Transfer Tracker\\
 \\
 **Colorado Rapids sign Darren Yapi to contract extension**](https://www.mlssoccer.com/news/colorado-rapids-sign-darren-yapi-to-contract-extension "Colorado Rapids sign Darren Yapi to contract extension")
-
-- [![MLS legend Kei Kamara retires from professional soccer](<Base64-Image-Removed>)\\
+- [![MLS legend Kei Kamara retires from professional soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/kfdfdrvvvihmr8aeendj)\\
 \\
 **MLS legend Kei Kamara retires from professional soccer**](https://www.mlssoccer.com/news/mls-legend-kei-kamara-retires-from-professional-soccer "MLS legend Kei Kamara retires from professional soccer")
-- [![Real Salt Lake sign Noel Caliskan to contract extension](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Real Salt Lake sign Noel Caliskan to contract extension**](https://www.mlssoccer.com/news/real-salt-lake-sign-noel-caliskan-to-contract-extension "Real Salt Lake sign Noel Caliskan to contract extension")
-- [![New York City FC sign forward Arnau Farnós](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**New York City FC sign forward Arnau Farnós**](https://www.mlssoccer.com/news/new-york-city-fc-sign-forward-arnau-farnos "New York City FC sign forward Arnau Farnós")
 
-![Download the MLS App](<Base64-Image-Removed>)
+![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 
 ## Download the MLS App
 
