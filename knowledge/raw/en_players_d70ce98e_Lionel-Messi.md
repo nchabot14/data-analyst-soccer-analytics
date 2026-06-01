@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-05-25T12:17:04.840854+00:00
+scraped_at: 2026-06-01T14:46:22.368950+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 June 24, 1987
-(Age: 38-335d)
+(Age: 38-342d)
 
 in Rosario, Argentina
 
@@ -78,6 +78,8 @@ More Player Info
 
 \\* see our [coverage note](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)
 
+**Lionel Messi** Menu
+
 - [Lionel Messi Overview](https://fbref.com/en/players/d70ce98e/Lionel-Messi)
 - More Lionel Messi Pages
 
@@ -131,13 +133,9 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - Stats by Competition
-
-
-Stats by Competition
-
 
 
   - [All Competitions](https://fbref.com/en/players/d70ce98e/all_comps/Lionel-Messi-Stats---All-Competitions)
@@ -147,10 +145,6 @@ Stats by Competition
   - [National Team](https://fbref.com/en/players/d70ce98e/nat_tm/Lionel-Messi-National-Team-Stats)
 
 - Match Logs
-
-
-Match Logs (Summary)
-
 
 
   - [2004-2005](https://fbref.com/en/players/d70ce98e/matchlogs/2004-2005/summary/Lionel-Messi-Match-Logs)
@@ -181,10 +175,6 @@ Match Logs (Summary)
 - Goal Logs
 
 
-Goal Logs by Competition
-
-
-
   - [All Competitions](https://fbref.com/en/players/d70ce98e/goallogs/all_comps/Lionel-Messi-Goal-Log)
   - [Domestic Leagues](https://fbref.com/en/players/d70ce98e/goallogs/dom_lg/Lionel-Messi-Goal-Log)
   - [Domestic Cups](https://fbref.com/en/players/d70ce98e/goallogs/dom_cup/Lionel-Messi-Goal-Log)
@@ -194,150 +184,32 @@ Goal Logs by Competition
 - Stathead/Compare
 
 
-Stathead & Player Comparison
-
-
-
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
-- [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats)
-
-
-[Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats)
-
-(9-4-2, 4th place in Major League Soccer)
+- On this page
 
 
+  - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_5944563985)
+  - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
+  - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
+  - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
+  - [Miscellaneous Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_misc)
+  - [Player Club Summary](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_player_summary_d70ce98e)
+  - [Leaderboard Appearances, Awards, and Honors](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_leaders)
+  - [Wages](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_wages)
+  - [Additional Resources](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_resources_other)
+  - [Full Site Menu](https://fbref.com/en/players/d70ce98e/Lionel-Messi#site_menu_link)
 
+**Keyboard Shortcuts**
 
+\ to toggle sidebar navigation
 
+/ to toggle search input
 
-
-Roster
-
-
-
-  - [Ezequiel Abadia-Reda](https://fbref.com/en/players/629aac47/Ezequiel-Abadia-Reda)
-  - [Noah Allen](https://fbref.com/en/players/043f389a/Noah-Allen)
-  - [Tadeo Allende](https://fbref.com/en/players/75a66bed/Tadeo-Allende)
-  - [David Ayala](https://fbref.com/en/players/06dafc0e/David-Ayala)
-  - [Luis Barraza](https://fbref.com/en/players/e6f22a6b/Luis-Barraza)
-  - [Germán Berterame](https://fbref.com/en/players/fa61a2db/German-Berterame)
-  - [Yannick Bright](https://fbref.com/en/players/83b115d4/Yannick-Bright)
-  - [Rodrigo De Paul](https://fbref.com/en/players/162efffd/Rodrigo-De-Paul)
-  - [Maximiliano Falcón](https://fbref.com/en/players/8470a4c2/Maximiliano-Falcon)
-  - [Ian Fray](https://fbref.com/en/players/f09cbe39/Ian-Fray)
-
-[Gonzalo Luján](https://fbref.com/en/players/209aad11/Gonzalo-Lujan)
-[Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi)
-[Micael](https://fbref.com/en/players/ea95d7a6/Micael)
-[Santi Morales](https://fbref.com/en/players/5a50abf2/Santi-Morales)
-[Facundo Mura](https://fbref.com/en/players/5d16dfc2/Facundo-Mura)
-[Dániel Pintér](https://fbref.com/en/players/93e4e1de/Daniel-Pinter)
-[Preston Plambeck](https://fbref.com/en/players/72953e4e/Preston-Plambeck)
-[Sergio Reguilón](https://fbref.com/en/players/3353737a/Sergio-Reguilon)
-[Rocco Ríos Novo](https://fbref.com/en/players/f59bd2d3/Rocco-Rios-Novo)
-[David Ruíz](https://fbref.com/en/players/14cbe9d4/David-Ruiz)
-[Telasco Segovia](https://fbref.com/en/players/9142b22f/Telasco-Segovia)
-[Alexander Shaw](https://fbref.com/en/players/773d5387/Alexander-Shaw)
-[Mateo Silvetti](https://fbref.com/en/players/12a2d3e0/Mateo-Silvetti)
-[Dayne St. Clair](https://fbref.com/en/players/3f41d25f/Dayne-St-Clair)
-[Luis Suárez](https://fbref.com/en/players/a6154613/Luis-Suarez)
-[Daniel Sumalla](https://fbref.com/en/players/c6353b86/Daniel-Sumalla)
-
-Show entire roster
-
-- [Argentina](https://fbref.com/en/squads/f9fddd6e/Argentina-Men-Stats)
-
-
-[Argentina](https://fbref.com/en/squads/f9fddd6e/Argentina-Men-Stats)
-
-
-
-
-
-
-
-Roster
-
-
-
-  - [Marcos Acuña](https://fbref.com/en/players/81442ecb/Marcos-Acuna)
-  - [Thiago Almada](https://fbref.com/en/players/27f33438/Thiago-Almada)
-  - [Julián Álvarez](https://fbref.com/en/players/15ab5a2b/Julian-Alvarez)
-  - [Franco Armani](https://fbref.com/en/players/b3e42951/Franco-Armani)
-  - [Leonardo Balerdi](https://fbref.com/en/players/7c3ed041/Leonardo-Balerdi)
-  - [Valentín Barco](https://fbref.com/en/players/b9f282ec/Valentin-Barco)
-  - [Enzo Barrenechea](https://fbref.com/en/players/6caffe81/Enzo-Barrenechea)
-  - [Walter Benítez](https://fbref.com/en/players/8a2248b4/Walter-Benitez)
-  - [Emi Buendía](https://fbref.com/en/players/66b76d44/Emi-Buendia)
-  - [Facundo Buonanotte](https://fbref.com/en/players/468a7a91/Facundo-Buonanotte)
-
-[Valentín Castellanos](https://fbref.com/en/players/da76bab4/Valentin-Castellanos)
-[Santiago Castro](https://fbref.com/en/players/ee5565ae/Santiago-Castro)
-[Ángel Correa](https://fbref.com/en/players/01eb744d/Angel-Correa)
-[Rodrigo De Paul](https://fbref.com/en/players/162efffd/Rodrigo-De-Paul)
-[Ángel Di María](https://fbref.com/en/players/19cda00b/Angel-Di-Maria)
-[Benjamín Domínguez](https://fbref.com/en/players/a83b47fa/Benjamin-Dominguez)
-[Paulo Dybala](https://fbref.com/en/players/e0921a4f/Paulo-Dybala)
-[Enzo Fernández](https://fbref.com/en/players/5ff4ab71/Enzo-Fernandez)
-[Juan Foyth](https://fbref.com/en/players/6c7762c3/Juan-Foyth)
-[Alejandro Garnacho](https://fbref.com/en/players/7aa8adfe/Alejandro-Garnacho)
-[Agustín Giay](https://fbref.com/en/players/8047b72e/Agustin-Giay)
-[Nicolás González](https://fbref.com/en/players/2374aaca/Nicolas-Gonzalez)
-[Giovani Lo Celso](https://fbref.com/en/players/d7553721/Giovani-Lo-Celso)
-[Kevin Lomónaco](https://fbref.com/en/players/dd5ddb83/Kevin-Lomonaco)
-[Alexis Mac Allister](https://fbref.com/en/players/83d074ff/Alexis-Mac-Allister)
-[José Manuel López](https://fbref.com/en/players/e1426a52/Jose-Manuel-Lopez)
-[Emiliano Martínez](https://fbref.com/en/players/7956236f/Emiliano-Martinez)
-[Lautaro Martínez](https://fbref.com/en/players/f7036e1c/Lautaro-Martinez)
-[Lisandro Martínez](https://fbref.com/en/players/bac46a10/Lisandro-Martinez)
-[Lucas Martínez Quarta](https://fbref.com/en/players/3ec3c1c9/Lucas-Martinez-Quarta)
-[Franco Mastantuono](https://fbref.com/en/players/633b2b1f/Franco-Mastantuono)
-[Facundo Medina](https://fbref.com/en/players/6f5ec8bb/Facundo-Medina)
-[Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi)
-[Nahuel Molina](https://fbref.com/en/players/23610943/Nahuel-Molina)
-[Gonzalo Montiel](https://fbref.com/en/players/374d5158/Gonzalo-Montiel)
-[Juan Musso](https://fbref.com/en/players/a111cf41/Juan-Musso)
-[Lucas Ocampos](https://fbref.com/en/players/a08b974a/Lucas-Ocampos)
-[Nicolás Otamendi](https://fbref.com/en/players/0d267745/Nicolas-Otamendi)
-[Exequiel Palacios](https://fbref.com/en/players/e82adcab/Exequiel-Palacios)
-[Leandro Paredes](https://fbref.com/en/players/dff153a4/Leandro-Paredes)
-[Nicolás Paz](https://fbref.com/en/players/01bb93d5/Nicolas-Paz)
-[Nehuén Pérez](https://fbref.com/en/players/f7c491f1/Nehuen-Perez)
-[Máximo Perrone](https://fbref.com/en/players/53552942/Maximo-Perrone)
-[Germán Pezzella](https://fbref.com/en/players/8c725b43/German-Pezzella)
-[Gianluca Prestianni](https://fbref.com/en/players/d203fb17/Gianluca-Prestianni)
-[Guido Rodríguez](https://fbref.com/en/players/34e393f2/Guido-Rodriguez)
-[Gabriel Rojas](https://fbref.com/en/players/79ad7358/Gabriel-Rojas)
-[Cristian Romero](https://fbref.com/en/players/a3d94a58/Cristian-Romero)
-[Gerónimo Rulli](https://fbref.com/en/players/625c144a/Geronimo-Rulli)
-[Marcos Senesi](https://fbref.com/en/players/35141f4c/Marcos-Senesi)
-[Giuliano Simeone](https://fbref.com/en/players/a6536561/Giuliano-Simeone)
-[Julio Soler](https://fbref.com/en/players/98c8559a/Julio-Soler)
-[Matìas Soulé](https://fbref.com/en/players/c13ddd3e/Matias-Soule)
-[Nicolás Tagliafico](https://fbref.com/en/players/f0661424/Nicolas-Tagliafico)
-[Alan Varela](https://fbref.com/en/players/9ffb2ce6/Alan-Varela)
-
-Show entire roster
-
-- [Back to top](https://fbref.com/en/players/d70ce98e/Lionel-Messi#header)
-
-On this page:
-
-- [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-- [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_5160517005)
-- [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
-- [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
-- [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
-- [Miscellaneous Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_misc)
-- [Player Club Summary](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_player_summary_d70ce98e)
-- [Leaderboard Appearances, Awards, and Honors](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_leaders)
-- [Wages](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_wages)
-- [Additional Resources](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_resources_other)
-- [Full Site Menu](https://fbref.com/en/players/d70ce98e/Lionel-Messi#site_menu_link)
+[More about this update](https://www.sports-reference.com/blog/2025/11/in-page-navigation-redesign-on-basketball-reference/)
 
 #### Competition Types
 
@@ -399,9 +271,15 @@ POWERED BY
 - [Player News Archive](https://fbref.com/en/news/d70ce98e)
 - [Player News RSS Feed](https://fbref.com/en/news/d70ce98e/rss)
 
-- **3/2** [www.cualpodcast.com: Messi contra la nueva camada: Seattle Sounders buscará la gloria en casa](https://cualpodcast.com/messi-contra-la-nueva-camada-seattle-sounders-buscara-la-gloria-en-casa/): _Dionel Vecchini \| 20-Aug-2025 El Seattle Sounders enfrentará_...
+- **5/28** [Philly Sports Reports: Bradley Carnell Pays the Price for MLS-Worst Union’s Deeper Problems](https://phillysportsreports.com/2026/05/28/bradley-carnell-pays-the-price-for-mls-worst-unions-deeper-problems/): _The Philadelphia Union parted ways with head coach Bradley_...
 
-- **2/21** [Vendetta Sports Media: 2026 MLS Season Preview](https://vendettasportsmedia.com/2026-mls-season-preview/): _2026 MLS Season Preview It seems like just yesterday that Lionel_...
+- **5/27** [www.cualpodcast.com: Copa Mundial 2026 – Grupo J](https://cualpodcast.com/copa-mundial-2026-grupo-j/): _Argentina ??, Argelia ??, Austria ??, Jordania ??. La Albiceleste_...
+
+- **5/26** [www.cualpodcast.com: Mundial de la FIFA 2026: guía rápida de la Copa del Mundo](https://cualpodcast.com/mundial-de-la-fifa-2026-guia-rapida-de-la-copa-del-mundo/): _Consulta la guía rápida del Mundial de Fútbol 2026 con sedes,_...
+
+- **5/26** [Vendetta Sports Media: 2026 FIFA World Cup Team Previews: Argentina](https://vendettasportsmedia.com/2026-fifa-world-cup-team-previews-argentina/): _2026 FIFA World Cup Team Previews: Argentina The 2026 FIFA World_...
+
+- **3/2** [www.cualpodcast.com: Messi contra la nueva camada: Seattle Sounders buscará la gloria en casa](https://cualpodcast.com/messi-contra-la-nueva-camada-seattle-sounders-buscara-la-gloria-en-casa/): _Dionel Vecchini \| 20-Aug-2025 El Seattle Sounders enfrentará_...
 
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
@@ -1684,10 +1562,10 @@ Player Club Summary Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | **$230,769** (€ 211,478, £ 181,806) | **$12,000,000** (€ 10,996,853, £ 9,453,934) | Official |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | **$230,769** (€ 219,167, £ 180,651) | **$12,000,000** (€ 11,396,677, £ 9,393,870) | Official |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | **$230,769** (€ 199,448, £ 176,151) | **$12,000,000** (€ 10,371,314, £ 9,159,866) | Official |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,556, £ 357,888) | **$25,000,000** (€ 21,504,889, £ 18,610,167) | Official |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,635, £ 358,246) | **$25,000,000** (€ 21,508,996, £ 18,628,766) | Official |
 |  |  |  |  |  |  |  |  |
-| 2027 | 39 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,556, £ 357,888) | **$25,000,000** (€ 21,504,889, £ 18,610,167) | Official |
-| 2028 | 40 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,556, £ 357,888) | **$25,000,000** (€ 21,504,889, £ 18,610,167) | Official |
+| 2027 | 39 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,635, £ 358,246) | **$25,000,000** (€ 21,508,996, £ 18,628,766) | Official |
+| 2028 | 40 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,635, £ 358,246) | **$25,000,000** (€ 21,508,996, £ 18,628,766) | Official |
 | [14 Seasons](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)\* |  | 3 Clubs |  |  |  |  |  |
 
 Wages Table
@@ -1695,9 +1573,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
+· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
-· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
@@ -1771,4 +1649,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)

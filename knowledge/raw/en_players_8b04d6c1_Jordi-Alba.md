@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-05-25T12:17:19.007444+00:00
+scraped_at: 2026-06-01T14:46:39.709704+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 30-293d)
+(Age: 30-300d)
 
 in Copenhagen, Denmark
 
@@ -72,6 +72,8 @@ More Player Info
 
 \\* see our [coverage note](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#coverage)
 
+**Pierre Højbjerg** Menu
+
 - [Pierre Højbjerg Overview](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg)
 - More Pierre Højbjerg Pages
 
@@ -121,10 +123,6 @@ Stathead & Player Comparison
 - Stats by Competition
 
 
-Stats by Competition
-
-
-
   - [All Competitions](https://fbref.com/en/players/8b04d6c1/all_comps/Pierre-Hojbjerg-Stats---All-Competitions)
   - [Domestic Leagues](https://fbref.com/en/players/8b04d6c1/dom_lg/Pierre-Hojbjerg-Domestic-League-Stats)
   - [Domestic Cups](https://fbref.com/en/players/8b04d6c1/dom_cup/Pierre-Hojbjerg-Domestic-Cup-Stats)
@@ -132,10 +130,6 @@ Stats by Competition
   - [National Team](https://fbref.com/en/players/8b04d6c1/nat_tm/Pierre-Hojbjerg-National-Team-Stats)
 
 - Match Logs
-
-
-Match Logs (Summary)
-
 
 
   - [2012-2013](https://fbref.com/en/players/8b04d6c1/matchlogs/2012-2013/summary/Pierre-Hojbjerg-Match-Logs)
@@ -157,10 +151,6 @@ Match Logs (Summary)
 - Goal Logs
 
 
-Goal Logs by Competition
-
-
-
   - [All Competitions](https://fbref.com/en/players/8b04d6c1/goallogs/all_comps/Pierre-Hojbjerg-Goal-Log)
   - [Domestic Leagues](https://fbref.com/en/players/8b04d6c1/goallogs/dom_lg/Pierre-Hojbjerg-Goal-Log)
   - [Domestic Cups](https://fbref.com/en/players/8b04d6c1/goallogs/dom_cup/Pierre-Hojbjerg-Goal-Log)
@@ -170,158 +160,31 @@ Goal Logs by Competition
 - Stathead/Compare
 
 
-Stathead & Player Comparison
-
-
-
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=a9202def&p2yrfrom=2025-2026&player_id3=de31038e&p3yrfrom=2025-2026&player_id4=57d88cf9&p4yrfrom=2025-2026&player_id5=4d224fe8&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
 
-- [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats)
+- On this page
 
 
-[Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats)
+  - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_1076786953)
+  - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
+  - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
+  - [Miscellaneous Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_misc)
+  - [Player Club Summary](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_player_summary_8b04d6c1)
+  - [Leaderboard Appearances, Awards, and Honors](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_leaders)
+  - [Wages](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_wages)
+  - [Additional Resources](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_resources_other)
+  - [Full Site Menu](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#site_menu_link)
 
-(18-5-11, 5th place in Ligue 1)
+**Keyboard Shortcuts**
 
+\ to toggle sidebar navigation
 
+/ to toggle search input
 
-
-
-
-
-Roster
-
-
-
-  - [Keyliane Abdallah](https://fbref.com/en/players/7310786d/Keyliane-Abdallah)
-  - [Himad Abdelli](https://fbref.com/en/players/7978cbf0/Himad-Abdelli)
-  - [Nayef Aguerd](https://fbref.com/en/players/288e1e13/Nayef-Aguerd)
-  - [Michael Amir Murillo](https://fbref.com/en/players/349cae8f/Michael-Amir-Murillo)
-  - [Pierre-Emerick Aubameyang](https://fbref.com/en/players/d5dd5f1f/Pierre-Emerick-Aubameyang)
-  - [Darryl Bakola](https://fbref.com/en/players/57de24a3/Darryl-Bakola)
-  - [Leonardo Balerdi](https://fbref.com/en/players/7c3ed041/Leonardo-Balerdi)
-  - [Kelyann Bezahaf](https://fbref.com/en/players/1c1f87da/Kelyann-Bezahaf)
-  - [Fodé Camara](https://fbref.com/en/players/5f895fb4/Fode-Camara)
-  - [Mathis Clement](https://fbref.com/en/players/a997f4a1/Mathis-Clement)
-
-[Derek Cornelius](https://fbref.com/en/players/577744b8/Derek-Cornelius)
-[Jeffrey De Lange](https://fbref.com/en/players/c31cf14b/Jeffrey-De-Lange)
-[Anis Doubal](https://fbref.com/en/players/430f558a/Anis-Doubal)
-[CJ Egan-Riley](https://fbref.com/en/players/d313e8ff/CJ-Egan-Riley)
-[Ulisses Garcia](https://fbref.com/en/players/c952f633/Ulisses-Garcia)
-[Angel Gomes](https://fbref.com/en/players/645a3363/Angel-Gomes)
-[Amine Gouiri](https://fbref.com/en/players/aad56ca3/Amine-Gouiri)
-[Mason Greenwood](https://fbref.com/en/players/58eee997/Mason-Greenwood)
-[Hilan Hamzaoui](https://fbref.com/en/players/479d6fe7/Hilan-Hamzaoui)
-[Amine Harit](https://fbref.com/en/players/e7d59f4f/Amine-Harit)
-[Pierre Højbjerg](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg)
-[Hamed Junior Traorè](https://fbref.com/en/players/570bb4b9/Hamed-Junior-Traore)
-[Nouhoum Kamissoko](https://fbref.com/en/players/aafda472/Nouhoum-Kamissoko)
-[Geoffrey Kondogbia](https://fbref.com/en/players/cce181df/Geoffrey-Kondogbia)
-[Emmanuel Lago](https://fbref.com/en/players/f14f630f/Emmanuel-Lago)
-[Ugo Lamare](https://fbref.com/en/players/a9388a3c/Ugo-Lamare)
-[Pol Lirola](https://fbref.com/en/players/ff800ed8/Pol-Lirola)
-[Neal Maupay](https://fbref.com/en/players/4bcf39f6/Neal-Maupay)
-[Facundo Medina](https://fbref.com/en/players/6f5ec8bb/Facundo-Medina)
-[Tadjidine Mmadi](https://fbref.com/en/players/61666aa6/Tadjidine-Mmadi)
-[Rayan Ouro Bang Na](https://fbref.com/en/players/d314e80d/Rayan-Ouro-Bang-Na)
-[Bilal Nadir](https://fbref.com/en/players/226673c2/Bilal-Nadir)
-[Tochukwu Nnadi](https://fbref.com/en/players/23c7594c/Tochukwu-Nnadi)
-[Ethan Nwaneri](https://fbref.com/en/players/7f94982c/Ethan-Nwaneri)
-[Pladi Nzinga Pambani](https://fbref.com/en/players/4b2c5e7a/Pladi-Nzinga-Pambani)
-[Matt O'Riley](https://fbref.com/en/players/fb495bb8/Matt-ORiley)
-[Igor Paixão](https://fbref.com/en/players/089c7323/Igor-Paixao)
-[Emerson Palmieri](https://fbref.com/en/players/e0bc6fdc/Emerson-Palmieri)
-[Benjamin Pavard](https://fbref.com/en/players/45a03961/Benjamin-Pavard)
-[Adrien Rabiot](https://fbref.com/en/players/8794e251/Adrien-Rabiot)
-[Jonathan Rowe](https://fbref.com/en/players/8c12f884/Jonathan-Rowe)
-[Gerónimo Rulli](https://fbref.com/en/players/625c144a/Geronimo-Rulli)
-[Quinten Timber](https://fbref.com/en/players/803e7aca/Quinten-Timber)
-[Jelle Van Neck](https://fbref.com/en/players/8d3ce404/Jelle-Van-Neck)
-[Robinio Vaz](https://fbref.com/en/players/74fb9321/Robinio-Vaz)
-[Arthur Vermeeren](https://fbref.com/en/players/722494dc/Arthur-Vermeeren)
-[Théo Vermot](https://fbref.com/en/players/b1d72aed/Theo-Vermot)
-[Timothy Weah](https://fbref.com/en/players/8eec784d/Timothy-Weah)
-
-Show entire roster
-
-- [Denmark](https://fbref.com/en/squads/29a4e4af/Denmark-Men-Stats)
-
-
-[Denmark](https://fbref.com/en/squads/29a4e4af/Denmark-Men-Stats)
-
-
-
-
-
-
-
-Roster
-
-
-
-  - [Joachim Andersen](https://fbref.com/en/players/e34fc66d/Joachim-Andersen)
-  - [Alexander Bah](https://fbref.com/en/players/78f21137/Alexander-Bah)
-  - [Mika Biereth](https://fbref.com/en/players/a1d95db3/Mika-Biereth)
-  - [Philip Billing](https://fbref.com/en/players/d328a254/Philip-Billing)
-  - [Jacob Bruun Larsen](https://fbref.com/en/players/4e204552/Jacob-Bruun-Larsen)
-  - [Andreas Christensen](https://fbref.com/en/players/1cb49278/Andreas-Christensen)
-  - [Mikkel Damsgaard](https://fbref.com/en/players/215f3907/Mikkel-Damsgaard)
-  - [Kasper Dolberg](https://fbref.com/en/players/cc83b74d/Kasper-Dolberg)
-  - [Patrick Dorgu](https://fbref.com/en/players/e6536124/Patrick-Dorgu)
-  - [Anders Dreyer](https://fbref.com/en/players/c6486b01/Anders-Dreyer)
-
-[Christian Eriksen](https://fbref.com/en/players/980522ec/Christian-Eriksen)
-[Morten Frendrup](https://fbref.com/en/players/f4d60499/Morten-Frendrup)
-[Victor Froholdt](https://fbref.com/en/players/046ca6db/Victor-Froholdt)
-[Anton Gaaei](https://fbref.com/en/players/6f7d7bc2/Anton-Gaaei)
-[Albert Grønbaek](https://fbref.com/en/players/0da5076f/Albert-Gronbaek)
-[Mads Hermansen](https://fbref.com/en/players/c924b17d/Mads-Hermansen)
-[Morten Hjulmand](https://fbref.com/en/players/d4456fb3/Morten-Hjulmand)
-[Lucas Høgsberg](https://fbref.com/en/players/7e598f96/Lucas-Hogsberg)
-[Pierre Højbjerg](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg)
-[Rasmus Højlund](https://fbref.com/en/players/491a433d/Rasmus-Hojlund)
-[Gustav Isaksen](https://fbref.com/en/players/5715bb71/Gustav-Isaksen)
-[Mathias Jensen](https://fbref.com/en/players/0f134faf/Mathias-Jensen)
-[Andreas Jungdal](https://fbref.com/en/players/66c6680a/Andreas-Jungdal)
-[Filip Jørgensen](https://fbref.com/en/players/0107757e/Filip-Jorgensen)
-[Rasmus Kristensen](https://fbref.com/en/players/39769cff/Rasmus-Kristensen)
-[Jesper Lindstrøm](https://fbref.com/en/players/37dc1a48/Jesper-Lindstrom)
-[Joakim Mæhle](https://fbref.com/en/players/c459a650/Joakim-Maehle)
-[Nikolas Nartey](https://fbref.com/en/players/30261ba1/Nikolas-Nartey)
-[Noah Nartey](https://fbref.com/en/players/4c90fabc/Noah-Nartey)
-[Victor Nelsson](https://fbref.com/en/players/e53b5534/Victor-Nelsson)
-[Oliver Nielsen](https://fbref.com/en/players/e97adead/Oliver-Nielsen)
-[Christian Nørgaard](https://fbref.com/en/players/df0a4c90/Christian-Norgaard)
-[Matt O'Riley](https://fbref.com/en/players/fb495bb8/Matt-ORiley)
-[William Osula](https://fbref.com/en/players/7b355808/William-Osula)
-[Mads Roerslev](https://fbref.com/en/players/57c94db2/Mads-Roerslev)
-[Frederik Rønnow](https://fbref.com/en/players/a70b8345/Frederik-Ronnow)
-[Kasper Schmeichel](https://fbref.com/en/players/53af52f3/Kasper-Schmeichel)
-[Andreas Skov Olsen](https://fbref.com/en/players/c50cee19/Andreas-Skov-Olsen)
-[Jannik Vestergaard](https://fbref.com/en/players/1900032e/Jannik-Vestergaard)
-[Kasper Waarst Høgh](https://fbref.com/en/players/a99ea089/Kasper-Waarst-Hogh)
-[Jonas Wind](https://fbref.com/en/players/2077ae86/Jonas-Wind)
-
-Show entire roster
-
-- [Back to top](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#header)
-
-On this page:
-
-- [Last 5 Matches](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_last_5_matchlogs)
-- [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_2237273557)
-- [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
-- [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
-- [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
-- [Miscellaneous Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_misc)
-- [Player Club Summary](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_player_summary_8b04d6c1)
-- [Leaderboard Appearances, Awards, and Honors](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_leaders)
-- [Wages](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_wages)
-- [Additional Resources](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_resources_other)
-- [Full Site Menu](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#site_menu_link)
+[More about this update](https://www.sports-reference.com/blog/2025/11/in-page-navigation-redesign-on-basketball-reference/)
 
 #### Competition Types
 
@@ -340,46 +203,6 @@ Domestic Leagues
 [Sign up](https://fbref.com/email/) for the free **FBref Mailing List** and get curated stats, news, and updates about the FBref site to your inbox every day.
 
 [Sign Up For Free](https://fbref.com/en/email/?)
-
-## Last 5 Matches
-
-|  | Performance |  |
-| --- | --- | --- |
-| Date | Day | Comp | Round | Venue | Result | Squad | Opponent | Start | Pos | Min | Gls | Ast | PK | PKatt | Sh | SoT | CrdY | CrdR | Fls | Fld | Off | Crs | TklW | Int | OG | PKwon | PKcon | Match Report |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [2026-05-17](https://fbref.com/en/matches/1a49354a/Marseille-Rennes-May-17-2026-Ligue-1) | Sun | [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | [Matchweek 34](https://fbref.com/en/comps/13/Ligue-1-Stats) | Home | W 3–1 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [Rennes](https://fbref.com/en/squads/b3072e00/Rennes-Stats) | Y\* | DM | 81 | 1 | 1 | 0 | 0 | 3 | 1 | 1 | 0 | 4 | 2 | 0 | 0 | 1 | 1 | 0 |  |  | [Match Report](https://fbref.com/en/matches/1a49354a/Marseille-Rennes-May-17-2026-Ligue-1) |
-| [2026-05-10](https://fbref.com/en/matches/3cd45852/Le-Havre-Marseille-May-10-2026-Ligue-1) | Sun | [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | [Matchweek 33](https://fbref.com/en/comps/13/Ligue-1-Stats) | Away | W 1–0 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [Le Havre](https://fbref.com/en/squads/5c2737db/Le-Havre-Stats) | Y\* | DM | 90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 3 | 1 | 0 |  |  | [Match Report](https://fbref.com/en/matches/3cd45852/Le-Havre-Marseille-May-10-2026-Ligue-1) |
-| [2026-05-02](https://fbref.com/en/matches/97234c57/Nantes-Marseille-May-2-2026-Ligue-1) | Sat | [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | [Matchweek 32](https://fbref.com/en/comps/13/Ligue-1-Stats) | Away | L 0–3 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [Nantes](https://fbref.com/en/squads/d7a486cd/Nantes-Stats) | Y\* | DM | 90 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 | 3 | 0 | 0 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/97234c57/Nantes-Marseille-May-2-2026-Ligue-1) |
-| [2026-04-26](https://fbref.com/en/matches/0216f8d3/Marseille-Nice-April-26-2026-Ligue-1) | Sun | [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | [Matchweek 31](https://fbref.com/en/comps/13/Ligue-1-Stats) | Home | D 1–1 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [Nice](https://fbref.com/en/squads/132ebc33/Nice-Stats) | Y\* | CM | 90 | 1 | 0 | 0 | 0 | 4 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | 0 |  |  | [Match Report](https://fbref.com/en/matches/0216f8d3/Marseille-Nice-April-26-2026-Ligue-1) |
-| [2026-04-18](https://fbref.com/en/matches/b4af5a6d/Lorient-Marseille-April-18-2026-Ligue-1) | Sat | [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | [Matchweek 30](https://fbref.com/en/comps/13/Ligue-1-Stats) | Away | L 0–2 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [Lorient](https://fbref.com/en/squads/d2c87802/Lorient-Stats) | Y\* | DM | 75 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 0 |  |  | [Match Report](https://fbref.com/en/matches/b4af5a6d/Lorient-Marseille-April-18-2026-Ligue-1) |
-
-Last 5 Matches Table
-
-## Compare Pierre Højbjerg to
-
-Javascript is required for the selection of a player.
-
-Choice is:
-
-Ex: Éderson, Elliot Anderson, Jude Bellingham
-
-Career
-
-
-2025-2026
-
-
-Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-logo.svg)
-
-## Player News
-
-- [Add Your Blog Posts Here](https://fbref.com/en/linker/newsfeed.cgi)
-- [Player News Archive](https://fbref.com/en/news/8b04d6c1)
-- [Player News RSS Feed](https://fbref.com/en/news/8b04d6c1/rss)
-
-- Bloggers! Put your articles here for free. See the [Sports Reference Linker](https://fbref.com/en/linker/) for details.
-
-[Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
 ## Standard Stats: Domestic Leagues
 
@@ -424,6 +247,32 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 | PL2 — Div. 1 (1 Season) |  |  |  | 2 | 2 | 180 | 2.0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |  |
 
 Standard Stats: Domestic Leagues Table
+
+## Compare Pierre Højbjerg to
+
+Javascript is required for the selection of a player.
+
+Choice is:
+
+Ex: Éderson, Elliot Anderson, Jude Bellingham
+
+Career
+
+
+2025-2026
+
+
+Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-logo.svg)
+
+## Player News
+
+- [Add Your Blog Posts Here](https://fbref.com/en/linker/newsfeed.cgi)
+- [Player News Archive](https://fbref.com/en/news/8b04d6c1)
+- [Player News RSS Feed](https://fbref.com/en/news/8b04d6c1/rss)
+
+- Bloggers! Put your articles here for free. See the [Sports Reference Linker](https://fbref.com/en/linker/) for details.
+
+[Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
 ## Shooting: Domestic Leagues
 
@@ -650,10 +499,10 @@ Player Club Summary Table
 | 2022-2023 | 26 | [Tottenham Hotspur](https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | **£ 100,000** (€ 116,237, $127,101) | **£ 5,200,000** (€ 6,044,330, $6,609,237) |  |
 | 2023-2024 | 27 | [Tottenham Hotspur](https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | **£ 100,000** (€ 118,369, $127,204) | **£ 5,200,000** (€ 6,155,169, $6,614,600) |  |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | **€ 118,846** (£ 100,296, $134,638) | **€ 6,180,000** (£ 5,215,400, $7,001,184) | Unverified estimation |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,845, $142,189) | **€ 6,360,000** (£ 5,503,919, $7,393,824) | Unverified estimation |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,925, $142,166) | **€ 6,360,000** (£ 5,508,124, $7,392,650) | Unverified estimation |
 |  |  |  |  |  |  |  |  |
-| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,845, $142,189) | **€ 6,360,000** (£ 5,503,919, $7,393,824) | Unverified estimation |
-| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,845, $142,189) | **€ 6,360,000** (£ 5,503,919, $7,393,824) | Unverified estimation |
+| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,925, $142,166) | **€ 6,360,000** (£ 5,508,124, $7,392,650) | Unverified estimation |
+| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,925, $142,166) | **€ 6,360,000** (£ 5,508,124, $7,392,650) | Unverified estimation |
 | [13 Seasons](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#coverage)\* |  | 6 Clubs |  |  |  |  |  |
 
 Wages Table
@@ -661,9 +510,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
+· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
-· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
 ### About FBref.com

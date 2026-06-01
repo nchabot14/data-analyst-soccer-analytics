@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home
-scraped_at: 2026-05-25T12:17:45.890441+00:00
+scraped_at: 2026-06-01T14:47:19.053638+00:00
 source: americansocceranalysis.com
 ---
 

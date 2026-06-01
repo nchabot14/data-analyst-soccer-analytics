@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-05-25T12:17:24.548662+00:00
+scraped_at: 2026-06-01T14:46:49.134230+00:00
 source: mlssoccer.com
 ---
 
@@ -33,29 +33,27 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Nashville set the pace, Zaha's swan song & more from Matchday 15](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g2musbp68lg4zedxexnk)\\
+- [![Nashville SC's Ahmed Qasem makes Iraq's  2026 World Cup roster](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ltgjwgh5pgxvtx5gcxcz)\\
+\\
+**Nashville SC's Ahmed Qasem makes Iraq's 2026 World Cup roster**](https://www.mlssoccer.com/news/nashville-sc-ahmed-qasem-makes-iraq-2026-world-cup-roster "Nashville SC's Ahmed Qasem makes Iraq's  2026 World Cup roster")
+
+- [![USMNT coach hails Sebastian Berhalter: "He's a monster"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/npttiuquj9vhcm1psoze)\\
+\\
+**USMNT coach hails Sebastian Berhalter: "He's a monster"**](https://www.mlssoccer.com/news/sebastian-berhalter-put-he-s-a-monster "USMNT coach hails Sebastian Berhalter: \"He's a monster\"")
+- [![Canada find extra World Cup motivation amid Marcelo Flores heartbreak](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/l3j3dskbzuwnyi1x2nw9)\\
+\\
+**Canada find extra World Cup motivation amid Marcelo Flores heartbreak**](https://www.mlssoccer.com/news/canada-find-extra-world-cup-motivation-amid-marcelo-flores-heartbreak "Canada find extra World Cup motivation amid Marcelo Flores heartbreak")
+- [![USMNT build World Cup momentum with bounce-back Senegal win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ngdtuykfjzqvpsag7nbm)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Nashville set the pace, Zaha's swan song & more from Matchday 15**](https://www.mlssoccer.com/news/nashville-set-the-pace-zaha-s-swan-song-more-from-matchday-15 "Nashville set the pace, Zaha's swan song & more from Matchday 15")
-
-- [![Inter Miami overcome Philadelphia Union in WILD 10-goal game](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ifzowlgdis1hn7qlffbd)\\
+**USMNT build World Cup momentum with bounce-back Senegal win**](https://www.mlssoccer.com/news/usmnt-build-good-feelings-with-bounceback-senegal-win "USMNT build World Cup momentum with bounce-back Senegal win")
+- [![USMNT top Senegal in pre-World Cup friendly](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/o34esay1shoznkkpdfbm)\\
 \\
-**Inter Miami overcome Philadelphia Union in WILD 10-goal game**](https://www.mlssoccer.com/news/inter-miami-erupt-for-six-goals-in-historic-mls "Inter Miami overcome Philadelphia Union in WILD 10-goal game")
-- [![Lionel Messi exits Inter Miami's last game before World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lpqcwavbmgceakbifkk0)\\
+**USMNT top Senegal in pre-World Cup friendly**](https://www.mlssoccer.com/news/usmnt-top-senegal-in-pre-world-cup-friendly "USMNT top Senegal in pre-World Cup friendly")
+- [![Australia's 2026 World Cup roster: 3 MLS players called in](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fri4lzyb2bj3dgeuanwq)\\
 \\
-**Lionel Messi exits Inter Miami's last game before World Cup**](https://www.mlssoccer.com/news/lionel-messi-exits-last-game-before-world-cup-with-injury-inter-miami-argentina "Lionel Messi exits Inter Miami's last game before World Cup")
-- [![Wilfried Zaha to depart Charlotte FC following loan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dun7v5joqnvoiqht2zxr)\\
-\\
-Transfer Tracker\\
-\\
-**Wilfried Zaha to depart Charlotte FC following loan**](https://www.mlssoccer.com/news/wilfried-zaha-confirms-exit-from-charlotte-fc "Wilfried Zaha to depart Charlotte FC following loan")
-- [![Nashville SC enter World Cup pause on historic pace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xvvvam2rs68leett5s08)\\
-\\
-**Nashville SC enter World Cup pause on historic pace**](https://www.mlssoccer.com/news/nashville-sc-enter-world-cup-pause-on-historic-pace "Nashville SC enter World Cup pause on historic pace")
-- [![Preston Judd gets San Jose Earthquakes back on track](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/afzptinqbvyhxmhdzyxo)\\
-\\
-**Preston Judd gets San Jose Earthquakes back on track**](https://www.mlssoccer.com/news/preston-judd-brace-gets-earthquakes-back-on-track "Preston Judd gets San Jose Earthquakes back on track")
+**Australia's 2026 World Cup roster: 3 MLS players called in**](https://www.mlssoccer.com/news/australia-2026-world-cup-roster-3-mls-players-herrington-oneill-trewin "Australia's 2026 World Cup roster: 3 MLS players called in")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -81,6 +79,22 @@ Transfer Tracker
 Transfer Tracker
 
 
+- [![DC United sign Jackson Hopkins to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/amnx01odyilhmgzaa2tb)\\
+\\
+Transfer Tracker\\
+\\
+**DC United sign Jackson Hopkins to contract extension**](https://www.mlssoccer.com/news/dc-united-sign-jackson-hopkins-to-contract-extension "DC United sign Jackson Hopkins to contract extension")
+- [![Sergio Córdova to depart St. Louis CITY after loan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oyf2ndvof9plaab6b3vf)\\
+\\
+Transfer Tracker\\
+\\
+**Sergio Córdova to depart St. Louis CITY after loan**](https://www.mlssoccer.com/news/sergio-cordova-to-depart-st-louis-city-after-loan "Sergio Córdova to depart St. Louis CITY after loan")
+- [![Cedric Teuchert to leave St. Louis CITY this summer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/e6qj54dlorvjsvygg2xo)\\
+\\
+Transfer Tracker\\
+\\
+**Cedric Teuchert to leave St. Louis CITY this summer**](https://www.mlssoccer.com/news/cedric-teuchert-to-leave-st-louis-city-this-summer "Cedric Teuchert to leave St. Louis CITY this summer")
+
 - [![Wilfried Zaha to depart Charlotte FC following loan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dun7v5joqnvoiqht2zxr)\\
 \\
 Transfer Tracker\\
@@ -96,20 +110,6 @@ Transfer Tracker\\
 Transfer Tracker\\
 \\
 **Inter Miami sign homegrown midfielder Preston Plambeck**](https://www.mlssoccer.com/news/inter-miami-sign-homegrown-midfielder-preston-plambeck "Inter Miami sign homegrown midfielder Preston Plambeck")
-
-- [![DC United sign English midfielder Andre Dozzell](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xpgeolzomyy4ddtc0klf)\\
-\\
-Transfer Tracker\\
-\\
-**DC United sign English midfielder Andre Dozzell**](https://www.mlssoccer.com/news/dc-united-sign-english-midfielder-andre-dozzell "DC United sign English midfielder Andre Dozzell")
-- [![Colorado Rapids sign Darren Yapi to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mcw8p3vjt4utyghr9hch)\\
-\\
-Transfer Tracker\\
-\\
-**Colorado Rapids sign Darren Yapi to contract extension**](https://www.mlssoccer.com/news/colorado-rapids-sign-darren-yapi-to-contract-extension "Colorado Rapids sign Darren Yapi to contract extension")
-- [![MLS legend Kei Kamara retires from professional soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/kfdfdrvvvihmr8aeendj)\\
-\\
-**MLS legend Kei Kamara retires from professional soccer**](https://www.mlssoccer.com/news/mls-legend-kei-kamara-retires-from-professional-soccer "MLS legend Kei Kamara retires from professional soccer")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 
