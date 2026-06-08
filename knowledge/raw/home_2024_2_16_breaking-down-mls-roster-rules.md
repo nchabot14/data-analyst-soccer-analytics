@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2024/2/16/breaking-down-mls-roster-rules
-scraped_at: 2026-06-01T14:47:08.176652+00:00
+scraped_at: 2026-06-08T12:57:22.300383+00:00
 source: americansocceranalysis.com
 ---
 
