@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-06-08T12:56:37.546527+00:00
+scraped_at: 2026-06-15T14:53:36.021252+00:00
 source: mlssoccer.com
 ---
 
@@ -37,7 +37,7 @@ Major League Soccer
 
 PENN 2, 2 Pennsylvania Plaza, Floor 15
 
-New York, NY, 10018
+New York, NY, 10121
 
 Phone: (212) 450-1200
 

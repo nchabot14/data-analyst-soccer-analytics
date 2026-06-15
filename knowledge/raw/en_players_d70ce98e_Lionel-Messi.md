@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-06-08T12:56:04.086494+00:00
+scraped_at: 2026-06-15T14:53:18.719518+00:00
 source: fbref.com
 ---
 
@@ -12,11 +12,11 @@ source: fbref.com
 
 **Position:** FW-MF (AM-WM) ▪  **Footed:** Left
 
-170cm, 72kg (5-7, 159lb)
+170cm, 67kg (5-7, 148lb)
 
 **Born:**
 June 24, 1987
-(Age: 38-349d)
+(Age: 38-356d)
 
 in Rosario, Argentina
 
@@ -133,7 +133,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=82ec26c1&p5yrfrom=2025-2026&player_id6=1f44ac21&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - Stats by Competition
 
@@ -186,13 +186,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=82ec26c1&p5yrfrom=2025-2026&player_id6=1f44ac21&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_6013745815)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_6855787137)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -271,15 +271,15 @@ POWERED BY
 - [Player News Archive](https://fbref.com/en/news/d70ce98e)
 - [Player News RSS Feed](https://fbref.com/en/news/d70ce98e/rss)
 
+- **6/10** [Philly Sports Reports: The World Cup is Almost Here, Philadelphia: All the Details](https://phillysportsreports.com/2026/06/10/the-world-cup-is-almost-here-philadelphia-all-the-details/): _The city of Philadelphia is preparing not just for the MLB All-Star_...
+
+- **6/8** [Vendetta Sports Media: Divock Origi Retires From Professional Soccer](https://vendettasportsmedia.com/divock-origi-retires-from-professional-soccer/): _Divock Origi Retires From Professional Soccer Earlier today, soccer_...
+
 - **5/28** [Philly Sports Reports: Bradley Carnell Pays the Price for MLS-Worst Union’s Deeper Problems](https://phillysportsreports.com/2026/05/28/bradley-carnell-pays-the-price-for-mls-worst-unions-deeper-problems/): _The Philadelphia Union parted ways with head coach Bradley_...
 
 - **5/27** [www.cualpodcast.com: Copa Mundial 2026 – Grupo J](https://cualpodcast.com/copa-mundial-2026-grupo-j/): _Argentina ??, Argelia ??, Austria ??, Jordania ??. La Albiceleste_...
 
 - **5/26** [www.cualpodcast.com: Mundial de la FIFA 2026: guía rápida de la Copa del Mundo](https://cualpodcast.com/mundial-de-la-fifa-2026-guia-rapida-de-la-copa-del-mundo/): _Consulta la guía rápida del Mundial de Fútbol 2026 con sedes,_...
-
-- **5/26** [Vendetta Sports Media: 2026 FIFA World Cup Team Previews: Argentina](https://vendettasportsmedia.com/2026-fifa-world-cup-team-previews-argentina/): _2026 FIFA World Cup Team Previews: Argentina The 2026 FIFA World_...
-
-- **3/2** [www.cualpodcast.com: Messi contra la nueva camada: Seattle Sounders buscará la gloria en casa](https://cualpodcast.com/messi-contra-la-nueva-camada-seattle-sounders-buscara-la-gloria-en-casa/): _Dionel Vecchini \| 20-Aug-2025 El Seattle Sounders enfrentará_...
 
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
@@ -1562,10 +1562,10 @@ Player Club Summary Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | **$230,769** (€ 211,478, £ 181,806) | **$12,000,000** (€ 10,996,853, £ 9,453,934) | Official |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | **$230,769** (€ 219,167, £ 180,651) | **$12,000,000** (€ 11,396,677, £ 9,393,870) | Official |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | **$230,769** (€ 199,448, £ 176,151) | **$12,000,000** (€ 10,371,314, £ 9,159,866) | Official |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,635, £ 358,246) | **$25,000,000** (€ 21,508,996, £ 18,628,766) | Official |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 415,422, £ 358,383) | **$25,000,000** (€ 21,601,963, £ 18,635,890) | Official |
 |  |  |  |  |  |  |  |  |
-| 2027 | 39 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,635, £ 358,246) | **$25,000,000** (€ 21,508,996, £ 18,628,766) | Official |
-| 2028 | 40 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 413,635, £ 358,246) | **$25,000,000** (€ 21,508,996, £ 18,628,766) | Official |
+| 2027 | 39 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 415,422, £ 358,383) | **$25,000,000** (€ 21,601,963, £ 18,635,890) | Official |
+| 2028 | 40 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | **$480,769** (€ 415,422, £ 358,383) | **$25,000,000** (€ 21,601,963, £ 18,635,890) | Official |
 | [14 Seasons](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)\* |  | 3 Clubs |  |  |  |  |  |
 
 Wages Table
@@ -1573,10 +1573,10 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
-· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
-· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
+· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
+· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com
@@ -1649,4 +1649,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=82ec26c1&p5yrfrom=2025-2026&player_id6=1f44ac21&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
