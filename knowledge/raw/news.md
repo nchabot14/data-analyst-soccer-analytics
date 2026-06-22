@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-06-15T14:53:39.930142+00:00
+scraped_at: 2026-06-22T14:22:33.227511+00:00
 source: mlssoccer.com
 ---
 
@@ -33,27 +33,25 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Brazil vs. Haiti: How to watch, stream Group C match](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uun89vqnobzodihr0pob)\\
+- [![USA's path to World Cup final: Dates, times & locations](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jhn7n4kdfieaoy0hqrmm)\\
 \\
-**Brazil vs. Haiti: How to watch, stream Group C match**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/brazil-vs-haiti-how-to-watch-stream-group-c-match "Brazil vs. Haiti: How to watch, stream Group C match")
+**USA's path to World Cup final: Dates, times & locations**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/usa-usmnt-path-to-2026-world-cup-final-dates-times-locations "USA's path to World Cup final: Dates, times & locations")
 
-- [![Matt Freese & USMNT “just getting started” after World Cup statement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b4tdqhc24lcrhzjdxsr4)\\
+- [![Paraguay vs. Australia: How to watch, stream World Cup Group D finale](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fnwadogztvjdjdmjx4vf)\\
 \\
-National Writer: Charles Boehm\\
+**Paraguay vs. Australia: How to watch, stream World Cup Group D finale**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/paraguay-vs-australia-how-to-watch-stream-world-cup-group-d-finale "Paraguay vs. Australia: How to watch, stream World Cup Group D finale")
+- [![Türkiye vs. United States: How to watch, stream World Cup Group D finale](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/doveyyqkhrilkahfymcb)\\
 \\
-**Matt Freese & USMNT “just getting started” after World Cup statement**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/matt-freese-usmnt-just-getting-started-after-world-cup-statement "Matt Freese & USMNT “just getting started” after World Cup statement")
-- [![USA vs. Australia: How to watch, stream World Cup Group D match](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fshjoxcch5ed3btywu1n)\\
+**Türkiye vs. United States: How to watch, stream World Cup Group D finale**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/turkiye-vs-united-states-how-to-watch-stream-world-cup-group-d-finale "Türkiye vs. United States: How to watch, stream World Cup Group D finale")
+- [![Portland's Finn Surman scores first World Cup goal for New Zealand](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vg1lcn6xqptdxhvgrmyu)\\
 \\
-**USA vs. Australia: How to watch, stream World Cup Group D match**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/usa-vs-australia-how-to-watch-stream-world-cup-group-d-match-usmnt "USA vs. Australia: How to watch, stream World Cup Group D match")
-- [![Canada vs. Qatar: How to watch, stream World Cup Group B match](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/r9jrwixfcullseagmwaz)\\
+**Portland's Finn Surman scores first World Cup goal for New Zealand**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/finn-surman-scores-first-world-cup-goal-new-zealand-portland-timbers "Portland's Finn Surman scores first World Cup goal for New Zealand")
+- [![Steven Moreira & Cape Verde make more World Cup history vs. Uruguay](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iogn7qagwhdivq5wc4nb)\\
 \\
-**Canada vs. Qatar: How to watch, stream World Cup Group B match**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-vs-qatar-how-to-watch-stream-world-cup-group-b-match "Canada vs. Qatar: How to watch, stream World Cup Group B match")
-- [![Miguel Almirón: Anything is possible with family & country](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/o9dizxpvifjhkacwfyxt)\\
+**Steven Moreira & Cape Verde make more World Cup history vs. Uruguay**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/steven-moreira-cape-verde-make-more-world-cup-history-vs-uruguay "Steven Moreira & Cape Verde make more World Cup history vs. Uruguay")
+- [![FIFA World Cup knockout stage tracker: Who's in, who's out?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lppojlx95rjibl2dsyjh)\\
 \\
-**Miguel Almirón: Anything is possible with family & country**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/miguel-almiron-anything-is-possible-with-family-country "Miguel Almirón: Anything is possible with family & country")
-- [![NYCFC's Aiden O'Neill helps Australia stun Türkiye at World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pyxncix4osoimfpe1ynn)\\
-\\
-**NYCFC's Aiden O'Neill helps Australia stun Türkiye at World Cup**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/nycfc-aiden-oneill-helps-australia-stun-turkiye-at-world-cup "NYCFC's Aiden O'Neill helps Australia stun Türkiye at World Cup")
+**FIFA World Cup knockout stage tracker: Who's in, who's out?**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/fifa-world-cup-knockout-stage-tracker-advance-eliminate-in-out-teams "FIFA World Cup knockout stage tracker: Who's in, who's out?")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -210,6 +208,22 @@ Transfer Tracker
 Transfer Tracker
 
 
+- [![James Sands returns to New York City FC from FC St. Pauli](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**James Sands returns to New York City FC from FC St. Pauli**](https://www.mlssoccer.com/news/james-sands-returns-to-new-york-city-fc-from-fc-st-pauli "James Sands returns to New York City FC from FC St. Pauli")
+- [![Colorado Rapids transfer Connor Ronan to Aberdeen](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**Colorado Rapids transfer Connor Ronan to Aberdeen**](https://www.mlssoccer.com/news/colorado-rapids-transfer-connor-ronan-to-aberdeen "Colorado Rapids transfer Connor Ronan to Aberdeen")
+- [![Philadelphia Union waive defender Olivier Mbaizo](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**Philadelphia Union waive defender Olivier Mbaizo**](https://www.mlssoccer.com/news/philadelphia-union-waive-defender-olivier-mbaizo "Philadelphia Union waive defender Olivier Mbaizo")
+
 - [![DC United waive defender Aarón Herrera](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
@@ -225,22 +239,6 @@ Transfer Tracker\\
 Transfer Tracker\\
 \\
 **LAFC acquire Yevhen Cheberko from Columbus Crew**](https://www.mlssoccer.com/news/lafc-acquire-yevhen-cheberko-from-columbus-crew "LAFC acquire Yevhen Cheberko from Columbus Crew")
-
-- [![New England Revolution sign Will Sands to contract extension](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**New England Revolution sign Will Sands to contract extension**](https://www.mlssoccer.com/news/new-england-revolution-sign-will-sands-to-contract-extension "New England Revolution sign Will Sands to contract extension")
-- [![DC United sign Jackson Hopkins to contract extension](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**DC United sign Jackson Hopkins to contract extension**](https://www.mlssoccer.com/news/dc-united-sign-jackson-hopkins-to-contract-extension "DC United sign Jackson Hopkins to contract extension")
-- [![Sergio Córdova to depart St. Louis CITY after loan](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Sergio Córdova to depart St. Louis CITY after loan**](https://www.mlssoccer.com/news/sergio-cordova-to-depart-st-louis-city-after-loan "Sergio Córdova to depart St. Louis CITY after loan")
 
 ![Download the MLS App](<Base64-Image-Removed>)
 
