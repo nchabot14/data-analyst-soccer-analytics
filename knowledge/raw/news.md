@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-06-22T14:22:33.227511+00:00
+scraped_at: 2026-06-29T12:55:27.099151+00:00
 source: mlssoccer.com
 ---
 
@@ -33,25 +33,27 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![USA's path to World Cup final: Dates, times & locations](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jhn7n4kdfieaoy0hqrmm)\\
+- [![Stephen Eustáquio: Canada's ideal World Cup hero](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rph07pgdd4sh7wxltggl)\\
 \\
-**USA's path to World Cup final: Dates, times & locations**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/usa-usmnt-path-to-2026-world-cup-final-dates-times-locations "USA's path to World Cup final: Dates, times & locations")
+National Writer: Charles Boehm\\
+\\
+**Stephen Eustáquio: Canada's ideal World Cup hero**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lafc-s-stephen-eustaquio-canada-s-ideal-world-cup-hero "Stephen Eustáquio: Canada's ideal World Cup hero")
 
-- [![Paraguay vs. Australia: How to watch, stream World Cup Group D finale](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fnwadogztvjdjdmjx4vf)\\
+- [!["Canadian heroes" celebrate landmark World Cup Round of 32 win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uj8xv1mfmh6et9ph6yoj)\\
 \\
-**Paraguay vs. Australia: How to watch, stream World Cup Group D finale**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/paraguay-vs-australia-how-to-watch-stream-world-cup-group-d-finale "Paraguay vs. Australia: How to watch, stream World Cup Group D finale")
-- [![Türkiye vs. United States: How to watch, stream World Cup Group D finale](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/doveyyqkhrilkahfymcb)\\
+**"Canadian heroes" celebrate landmark World Cup Round of 32 win**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canadian-heroes-celebrate-landmark-world-cup-round-of-32-win "\"Canadian heroes\" celebrate landmark World Cup Round of 32 win")
+- [![Mbekezeli Mbokazi's profile surges with breakout World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mj6fnoysuusclhbibay4)\\
 \\
-**Türkiye vs. United States: How to watch, stream World Cup Group D finale**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/turkiye-vs-united-states-how-to-watch-stream-world-cup-group-d-finale "Türkiye vs. United States: How to watch, stream World Cup Group D finale")
-- [![Portland's Finn Surman scores first World Cup goal for New Zealand](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vg1lcn6xqptdxhvgrmyu)\\
+**Mbekezeli Mbokazi's profile surges with breakout World Cup**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/mbekezeli-mbokazi-s-global-profile-surges-with-breakout-world-cup "Mbekezeli Mbokazi's profile surges with breakout World Cup")
+- [![Canada ERUPTS after Stephen Eustáquio's World Cup winner](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nslqiyqfjndge0ypz2bt)\\
 \\
-**Portland's Finn Surman scores first World Cup goal for New Zealand**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/finn-surman-scores-first-world-cup-goal-new-zealand-portland-timbers "Portland's Finn Surman scores first World Cup goal for New Zealand")
-- [![Steven Moreira & Cape Verde make more World Cup history vs. Uruguay](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iogn7qagwhdivq5wc4nb)\\
+**Canada ERUPTS after Stephen Eustáquio's World Cup winner**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-erupts-after-stephen-eustaquio-s-world-cup-winner "Canada ERUPTS after Stephen Eustáquio's World Cup winner")
+- [![Canada ADVANCE! Eustáquio golazo keeps World Cup dream alive](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vuxe4dac2fvpifh3q4mc)\\
 \\
-**Steven Moreira & Cape Verde make more World Cup history vs. Uruguay**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/steven-moreira-cape-verde-make-more-world-cup-history-vs-uruguay "Steven Moreira & Cape Verde make more World Cup history vs. Uruguay")
-- [![FIFA World Cup knockout stage tracker: Who's in, who's out?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lppojlx95rjibl2dsyjh)\\
+**Canada ADVANCE! Eustáquio golazo keeps World Cup dream alive**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-advance-eustaquio-golazo-keeps-world-cup-dream-alive "Canada ADVANCE! Eustáquio golazo keeps World Cup dream alive")
+- [![Canada starting lineup vs. South Africa: World Cup Round of 32](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ue5xivkeubc3zjwndhf5)\\
 \\
-**FIFA World Cup knockout stage tracker: Who's in, who's out?**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/fifa-world-cup-knockout-stage-tracker-advance-eliminate-in-out-teams "FIFA World Cup knockout stage tracker: Who's in, who's out?")
+**Canada starting lineup vs. South Africa: World Cup Round of 32**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-starting-lineup-vs-south-africa-world-cup-round-of-32 "Canada starting lineup vs. South Africa: World Cup Round of 32")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -208,6 +210,25 @@ Transfer Tracker
 Transfer Tracker
 
 
+- [![San Diego FC acquire Ian Murphy from Colorado Rapids](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**San Diego FC acquire Ian Murphy from Colorado Rapids**](https://www.mlssoccer.com/news/san-diego-fc-acquires-ian-murphy-from-colorado-rapids "San Diego FC acquire Ian Murphy from Colorado Rapids")
+- [![Inter Miami transfer Benjamin Cremaschi to Parma](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**Inter Miami transfer Benjamin Cremaschi to Parma**](https://www.mlssoccer.com/news/inter-miami-transfer-homegrown-benjamin-cremaschi-to-parma "Inter Miami transfer Benjamin Cremaschi to Parma")
+- [![Sporting KC acquire defender Emir Karic from Sturm Graz](<Base64-Image-Removed>)\\
+\\
+Transfer Tracker\\
+\\
+**Sporting KC acquire defender Emir Karic from Sturm Graz**](https://www.mlssoccer.com/news/sporting-kc-acquire-defender-emir-karic-from-sturm-graz "Sporting KC acquire defender Emir Karic from Sturm Graz")
+
+- [![Juan Berrocal, Matías Galarza depart Atlanta United after loan ](<Base64-Image-Removed>)\\
+\\
+**Juan Berrocal, Matías Galarza depart Atlanta United after loan**](https://www.mlssoccer.com/news/juan-berrocal-matias-galarza-depart-atlanta-united-after-loan "Juan Berrocal, Matías Galarza depart Atlanta United after loan ")
 - [![James Sands returns to New York City FC from FC St. Pauli](<Base64-Image-Removed>)\\
 \\
 Transfer Tracker\\
@@ -218,27 +239,6 @@ Transfer Tracker\\
 Transfer Tracker\\
 \\
 **Colorado Rapids transfer Connor Ronan to Aberdeen**](https://www.mlssoccer.com/news/colorado-rapids-transfer-connor-ronan-to-aberdeen "Colorado Rapids transfer Connor Ronan to Aberdeen")
-- [![Philadelphia Union waive defender Olivier Mbaizo](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Philadelphia Union waive defender Olivier Mbaizo**](https://www.mlssoccer.com/news/philadelphia-union-waive-defender-olivier-mbaizo "Philadelphia Union waive defender Olivier Mbaizo")
-
-- [![DC United waive defender Aarón Herrera](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**DC United waive defender Aarón Herrera**](https://www.mlssoccer.com/news/dc-united-waive-defender-aaron-herrera "DC United waive defender Aarón Herrera")
-- [![Columbus Crew sign defender Brooks Lennon](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**Columbus Crew sign defender Brooks Lennon**](https://www.mlssoccer.com/news/columbus-crew-sign-defender-brooks-lennon "Columbus Crew sign defender Brooks Lennon")
-- [![LAFC acquire Yevhen Cheberko from Columbus Crew](<Base64-Image-Removed>)\\
-\\
-Transfer Tracker\\
-\\
-**LAFC acquire Yevhen Cheberko from Columbus Crew**](https://www.mlssoccer.com/news/lafc-acquire-yevhen-cheberko-from-columbus-crew "LAFC acquire Yevhen Cheberko from Columbus Crew")
 
 ![Download the MLS App](<Base64-Image-Removed>)
 

@@ -1,10 +1,10 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-06-22T14:22:15.755468+00:00
+scraped_at: 2026-06-29T12:55:07.597329+00:00
 source: fbref.com
 ---
 
-We're hiring a Senior Software Engineer and Software Engineer to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/).
+We're hiring a Senior Software Engineer to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/p/9befdf74c0e5-senior-software-engineer).
 
 ![Lionel Messi headshot](https://fbref.com/req/202302030/images/headshots/d70ce98e_2022.jpg)
 
@@ -18,7 +18,7 @@ We're hiring a Senior Software Engineer and Software Engineer to join our team! 
 
 **Born:**
 June 24, 1987
-(Age: 38-363d)
+(Age: 39-005d)
 
 in Rosario, Argentina
 
@@ -135,7 +135,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - Stats by Competition
 
@@ -188,13 +188,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_4859913570)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_3024307108)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -245,7 +245,7 @@ Javascript is required for the selection of a player.
 
 Choice is:
 
-Ex: Neymar, Son Heung-min, James Rodríguez
+Ex: Neymar, James Rodríguez, Son Heung-min
 
 Career
 
@@ -1575,10 +1575,10 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
-· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
 · [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
+· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com
@@ -1651,4 +1651,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1f44ac21&p5yrfrom=2025-2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
