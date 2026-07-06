@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2024/8/27/state-of-the-mls-academy-system
-scraped_at: 2026-06-29T12:55:42.192248+00:00
+scraped_at: 2026-07-06T12:38:13.190376+00:00
 source: americansocceranalysis.com
 ---
 
@@ -8,7 +8,7 @@ American Soccer Analysis — American Soccer Analysis
 
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
-![ASAlogo.png](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1583345552222-KI88BLW48F32BESTQZXI/ASAlogo.png?format=2500w)
+![ASAlogo.png](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1583345552222-KI88BLW48F32BESTQZXI/ASAlogo.png)
 
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 

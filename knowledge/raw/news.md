@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-06-29T12:55:27.099151+00:00
+scraped_at: 2026-07-06T12:38:01.878232+00:00
 source: mlssoccer.com
 ---
 
@@ -33,27 +33,31 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Stephen Eustáquio: Canada's ideal World Cup hero](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rph07pgdd4sh7wxltggl)\\
+- [![World Cup drama increases around USA vs. Belgium clash](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lyh8ahwlnx7upf68teye)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Stephen Eustáquio: Canada's ideal World Cup hero**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lafc-s-stephen-eustaquio-canada-s-ideal-world-cup-hero "Stephen Eustáquio: Canada's ideal World Cup hero")
+**World Cup drama increases around USA vs. Belgium clash**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/world-cup-drama-increases-around-usa-vs-belgium-clash "World Cup drama increases around USA vs. Belgium clash")
 
-- [!["Canadian heroes" celebrate landmark World Cup Round of 32 win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uj8xv1mfmh6et9ph6yoj)\\
+- [![USMNT's Folarin Balogun available vs. Belgium after FIFA ruling](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qbwaobumqlvkar97e8tv)\\
 \\
-**"Canadian heroes" celebrate landmark World Cup Round of 32 win**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canadian-heroes-celebrate-landmark-world-cup-round-of-32-win "\"Canadian heroes\" celebrate landmark World Cup Round of 32 win")
-- [![Mbekezeli Mbokazi's profile surges with breakout World Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mj6fnoysuusclhbibay4)\\
+National Writer: Charles Boehm\\
 \\
-**Mbekezeli Mbokazi's profile surges with breakout World Cup**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/mbekezeli-mbokazi-s-global-profile-surges-with-breakout-world-cup "Mbekezeli Mbokazi's profile surges with breakout World Cup")
-- [![Canada ERUPTS after Stephen Eustáquio's World Cup winner](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nslqiyqfjndge0ypz2bt)\\
+**USMNT's Folarin Balogun available vs. Belgium after FIFA ruling**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/usmnt-striker-folarin-balogun-available-vs-belgium-after-fifa-ruling "USMNT's Folarin Balogun available vs. Belgium after FIFA ruling")
+- [![Bring on Belgium: USA can make World Cup history in Seattle](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rhqgnalvuij8ycit7can)\\
 \\
-**Canada ERUPTS after Stephen Eustáquio's World Cup winner**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-erupts-after-stephen-eustaquio-s-world-cup-winner "Canada ERUPTS after Stephen Eustáquio's World Cup winner")
-- [![Canada ADVANCE! Eustáquio golazo keeps World Cup dream alive](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vuxe4dac2fvpifh3q4mc)\\
+World Cup Voices\\
 \\
-**Canada ADVANCE! Eustáquio golazo keeps World Cup dream alive**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-advance-eustaquio-golazo-keeps-world-cup-dream-alive "Canada ADVANCE! Eustáquio golazo keeps World Cup dream alive")
-- [![Canada starting lineup vs. South Africa: World Cup Round of 32](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ue5xivkeubc3zjwndhf5)\\
+**Bring on Belgium: USA can make World Cup history in Seattle**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/bring-on-belgium-usa-can-make-world-cup-history-in-seattle-usmnt "Bring on Belgium: USA can make World Cup history in Seattle")
+- [![Paraguay exit World Cup with loss to France](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/t4nhjx4ggf6yq66txo8j)\\
 \\
-**Canada starting lineup vs. South Africa: World Cup Round of 32**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-starting-lineup-vs-south-africa-world-cup-round-of-32 "Canada starting lineup vs. South Africa: World Cup Round of 32")
+**Paraguay exit World Cup with loss to France**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/paraguay-exit-world-cup-with-loss-to-france "Paraguay exit World Cup with loss to France")
+- [![Canada embrace “so many firsts” as World Cup dream ends in Round of 16](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pfphvwsjkjowtxya2imr)\\
+\\
+**Canada embrace “so many firsts” as World Cup dream ends in Round of 16**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-embrace-so-many-firsts-as-world-cup-dream-ends "Canada embrace “so many firsts” as World Cup dream ends in Round of 16")
+- [![Canada faithful show appreciation for unforgettable World Cup campaign](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zyy8gl6jghrm3nhhbi0c)\\
+\\
+**Canada faithful show appreciation for unforgettable World Cup campaign**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-faithful-show-appreciation-for-unforgettable-world-cup-campaign "Canada faithful show appreciation for unforgettable World Cup campaign")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -93,20 +97,20 @@ Power Rankings
 Power Rankings
 
 
-- [![Power Rankings: Where every team stands at the midseason break](<Base64-Image-Removed>)\\
+- [![Power Rankings: Where every team stands at the midseason break](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nc3bzvvyluemmzkzik5e)\\
 \\
 **Power Rankings: Where every team stands at the midseason break**](https://www.mlssoccer.com/news/power-rankings-where-every-team-stands-at-the-midseason-break "Power Rankings: Where every team stands at the midseason break")
 
-- [![Power Rankings: Nashville overtake San Jose, Vancouver for top spot](<Base64-Image-Removed>)\\
+- [![Power Rankings: Nashville overtake San Jose, Vancouver for top spot](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pkqkksuaqmutzrujilbp)\\
 \\
 **Power Rankings: Nashville overtake San Jose, Vancouver for top spot**](https://www.mlssoccer.com/news/power-rankings-nashville-overtake-san-jose-vancouver-for-top-spot "Power Rankings: Nashville overtake San Jose, Vancouver for top spot")
-- [![Power Rankings: Nashville, New England battle for East supremacy](<Base64-Image-Removed>)\\
+- [![Power Rankings: Nashville, New England battle for East supremacy](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/kvc48lzjm6ygoqj2ct6j)\\
 \\
 **Power Rankings: Nashville, New England battle for East supremacy**](https://www.mlssoccer.com/news/power-rankings-nashville-new-england-battle-for-east-supremacy "Power Rankings: Nashville, New England battle for East supremacy")
-- [![Power Rankings: Evander sparks life into FC Cincinnati](<Base64-Image-Removed>)\\
+- [![Power Rankings: Evander sparks life into FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/x6ykdbketfsaoyindxfl)\\
 \\
 **Power Rankings: Evander sparks life into FC Cincinnati**](https://www.mlssoccer.com/news/power-rankings-evander-sparks-life-into-fc-cincinnati "Power Rankings: Evander sparks life into FC Cincinnati")
-- [![Power Rankings: San Jose Earthquakes surge to the top](<Base64-Image-Removed>)\\
+- [![Power Rankings: San Jose Earthquakes surge to the top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bmtvyzen6nngk4x2emtv)\\
 \\
 **Power Rankings: San Jose Earthquakes surge to the top**](https://www.mlssoccer.com/news/power-rankings-san-jose-earthquakes-surge-to-the-top "Power Rankings: San Jose Earthquakes surge to the top")
 
@@ -118,24 +122,24 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
-- [![Preston Judd gets San Jose Earthquakes back on track](<Base64-Image-Removed>)\\
+- [![Preston Judd gets San Jose Earthquakes back on track](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/afzptinqbvyhxmhdzyxo)\\
 \\
 **Preston Judd gets San Jose Earthquakes back on track**](https://www.mlssoccer.com/news/preston-judd-brace-gets-earthquakes-back-on-track "Preston Judd gets San Jose Earthquakes back on track")
 
-- [![How Preston Judd became San Jose's goal-scoring machine](<Base64-Image-Removed>)\\
+- [![How Preston Judd became San Jose's goal-scoring machine](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qcjrbkgkv2pmkbxunw6i)\\
 \\
 National Writer: Charles Boehm\\
 \\
 **How Preston Judd became San Jose's goal-scoring machine**](https://www.mlssoccer.com/news/the-grit-reaper-how-preston-judd-became-san-jose-earthquakes-goal-scoring-machine "How Preston Judd became San Jose's goal-scoring machine")
-- [![Portland Timbers vs. San Jose Earthquakes: What to know for Walmart Saturday Showdown](<Base64-Image-Removed>)\\
+- [![Portland Timbers vs. San Jose Earthquakes: What to know for Walmart Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/y7l7ufvqitrvjm0t643n)\\
 \\
 **Portland Timbers vs. San Jose Earthquakes: What to know for Walmart Saturday Showdown**](https://www.mlssoccer.com/news/portland-timbers-san-jose-earthquakes-what-to-know-walmart-saturday-showdown-md15-2026 "Portland Timbers vs. San Jose Earthquakes: What to know for Walmart Saturday Showdown")
-- [![Adri Mehmeti: USMNT prospect & Red Bull New York rising star](<Base64-Image-Removed>)\\
+- [![Adri Mehmeti: USMNT prospect & Red Bull New York rising star](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qxw1lt6ftbvfoebj72ha)\\
 \\
 National Writer: Charles Boehm\\
 \\
 **Adri Mehmeti: USMNT prospect & Red Bull New York rising star**](https://www.mlssoccer.com/news/adri-mehmeti-usmnt-prospect-red-bull-new-york-rising-star "Adri Mehmeti: USMNT prospect & Red Bull New York rising star")
-- [![Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown](<Base64-Image-Removed>)\\
+- [![Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/w4b8j29wjlup03cf2vn8)\\
 \\
 **Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown**](https://www.mlssoccer.com/news/red-bull-new-york-vs-new-york-city-fc-what-to-know-walmart-saturday-showdown-md14-2026 "Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown")
 
@@ -147,22 +151,22 @@ Sunday Night Soccer pres. by Continental Tire
 Sunday Night Soccer pres. by Continental Tire
 
 
-- [![Columbus Crew "of old" soar into World Cup break](<Base64-Image-Removed>)\\
+- [![Columbus Crew "of old" soar into World Cup break](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fzlvwpsvzb91cyrgx7xx)\\
 \\
 **Columbus Crew "of old" soar into World Cup break**](https://www.mlssoccer.com/news/columbus-crew-of-old-soar-into-world-cup-break "Columbus Crew \"of old\" soar into World Cup break")
 
-- [![Steven Moreira ready for Cape Verde's historic World Cup journey](<Base64-Image-Removed>)\\
+- [![Steven Moreira ready for Cape Verde's historic World Cup journey](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ukmyrkj2cazhal1cvdmp)\\
 \\
 Voices: Sam Jones\\
 \\
 **Steven Moreira ready for Cape Verde's historic World Cup journey**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/steven-moreira-cape-verde-historic-fifa-world-cup-columbus-crew "Steven Moreira ready for Cape Verde's historic World Cup journey")
-- [![Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer](<Base64-Image-Removed>)\\
+- [![Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hunrtazy7wcnembl9lew)\\
 \\
 **Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer**](https://www.mlssoccer.com/news/columbus-crew-atlanta-united-what-to-know-sunday-night-soccer-md15-2026 "Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer")
-- [![Hany Mukhtar’s must-see hat trick powers Nashville SC](<Base64-Image-Removed>)\\
+- [![Hany Mukhtar’s must-see hat trick powers Nashville SC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oiawjnrkclndwnqglvoy)\\
 \\
 **Hany Mukhtar’s must-see hat trick powers Nashville SC**](https://www.mlssoccer.com/news/hany-mukhtar-nashville-sc-star-s-brilliant-hat-trick-downs-lafc "Hany Mukhtar’s must-see hat trick powers Nashville SC")
-- [![Lionel Messi dazzles in Inter Miami's first win at Nu Stadium](<Base64-Image-Removed>)\\
+- [![Lionel Messi dazzles in Inter Miami's first win at Nu Stadium](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/naae1tpiyfigj34cufqv)\\
 \\
 **Lionel Messi dazzles in Inter Miami's first win at Nu Stadium**](https://www.mlssoccer.com/news/history-maker-lionel-messi-dazzles-in-first-inter-miami-win-at-nu-stadium "Lionel Messi dazzles in Inter Miami's first win at Nu Stadium")
 
@@ -174,7 +178,7 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Prince Owusu, Luis Suárez net hat tricks](<Base64-Image-Removed>)\\
+- [![Team of the Matchday: Prince Owusu, Luis Suárez net hat tricks](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
@@ -186,7 +190,7 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![Inter Miami's Luis Suárez wins Goal of the Matchday](<Base64-Image-Removed>)\\
+- [![Inter Miami's Luis Suárez wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ecxdcq2iumglcokd8u9e)\\
 \\
 Goal of the Matchday\\
 \\
@@ -198,7 +202,7 @@ Energy Moment of the Matchday
 Energy Moment of the Matchday
 
 
-- [![Hennadii Synchuk caps epic Montréal comeback | Energy Moment of the Matchday](<Base64-Image-Removed>)\\
+- [![Hennadii Synchuk caps epic Montréal comeback | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iz13pprdepqlafas6y7c)\\
 \\
 Energy Moment of the Matchday\\
 \\
@@ -210,37 +214,39 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![San Diego FC acquire Ian Murphy from Colorado Rapids](<Base64-Image-Removed>)\\
+- [![Columbus Crew transfer Diego Rossi to CF Monterrey](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/t66z7fly7zendb4isdqx)\\
 \\
 Transfer Tracker\\
 \\
-**San Diego FC acquire Ian Murphy from Colorado Rapids**](https://www.mlssoccer.com/news/san-diego-fc-acquires-ian-murphy-from-colorado-rapids "San Diego FC acquire Ian Murphy from Colorado Rapids")
-- [![Inter Miami transfer Benjamin Cremaschi to Parma](<Base64-Image-Removed>)\\
+**Columbus Crew transfer Diego Rossi to CF Monterrey**](https://www.mlssoccer.com/news/columbus-crew-transfer-diego-rossi-to-cf-monterrey "Columbus Crew transfer Diego Rossi to CF Monterrey")
+- [![Columbus Crew acquire Brais Méndez from Real Sociedad](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fa9jyilk2h3whvipfver)\\
 \\
 Transfer Tracker\\
 \\
-**Inter Miami transfer Benjamin Cremaschi to Parma**](https://www.mlssoccer.com/news/inter-miami-transfer-homegrown-benjamin-cremaschi-to-parma "Inter Miami transfer Benjamin Cremaschi to Parma")
-- [![Sporting KC acquire defender Emir Karic from Sturm Graz](<Base64-Image-Removed>)\\
+**Columbus Crew acquire Brais Méndez from Real Sociedad**](https://www.mlssoccer.com/news/columbus-crew-acquire-dp-midfielder-brais-mendez-from-real-sociedad "Columbus Crew acquire Brais Méndez from Real Sociedad")
+- [![CF Montréal acquire Dani Pereira from Austin FC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zgexqu0cophodm0ygsel)\\
 \\
 Transfer Tracker\\
 \\
-**Sporting KC acquire defender Emir Karic from Sturm Graz**](https://www.mlssoccer.com/news/sporting-kc-acquire-defender-emir-karic-from-sturm-graz "Sporting KC acquire defender Emir Karic from Sturm Graz")
+**CF Montréal acquire Dani Pereira from Austin FC**](https://www.mlssoccer.com/news/cf-montreal-acquire-dani-pereira-from-austin-fc "CF Montréal acquire Dani Pereira from Austin FC")
 
-- [![Juan Berrocal, Matías Galarza depart Atlanta United after loan ](<Base64-Image-Removed>)\\
-\\
-**Juan Berrocal, Matías Galarza depart Atlanta United after loan**](https://www.mlssoccer.com/news/juan-berrocal-matias-galarza-depart-atlanta-united-after-loan "Juan Berrocal, Matías Galarza depart Atlanta United after loan ")
-- [![James Sands returns to New York City FC from FC St. Pauli](<Base64-Image-Removed>)\\
+- [![LA Galaxy transfer Mauricio Cuevas to Santos Laguna](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/efkadxcaw1cuhqfc8gln)\\
 \\
 Transfer Tracker\\
 \\
-**James Sands returns to New York City FC from FC St. Pauli**](https://www.mlssoccer.com/news/james-sands-returns-to-new-york-city-fc-from-fc-st-pauli "James Sands returns to New York City FC from FC St. Pauli")
-- [![Colorado Rapids transfer Connor Ronan to Aberdeen](<Base64-Image-Removed>)\\
+**LA Galaxy transfer Mauricio Cuevas to Santos Laguna**](https://www.mlssoccer.com/news/la-galaxy-transfer-mauricio-cuevas-to-santos-laguna "LA Galaxy transfer Mauricio Cuevas to Santos Laguna")
+- [![New England Revolution sign forward Wilson Harris](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pv5eeh6rad2ynxinebvw)\\
 \\
 Transfer Tracker\\
 \\
-**Colorado Rapids transfer Connor Ronan to Aberdeen**](https://www.mlssoccer.com/news/colorado-rapids-transfer-connor-ronan-to-aberdeen "Colorado Rapids transfer Connor Ronan to Aberdeen")
+**New England Revolution sign forward Wilson Harris**](https://www.mlssoccer.com/news/new-england-revolution-sign-forward-wilson-harris "New England Revolution sign forward Wilson Harris")
+- [![Columbus Crew fully acquire Andrés Herrera from River Plate](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ypgrcrdhh7oivzbrhzwc)\\
+\\
+Transfer Tracker\\
+\\
+**Columbus Crew fully acquire Andrés Herrera from River Plate**](https://www.mlssoccer.com/news/columbus-crew-fully-acquire-andres-herrera-from-river-plate "Columbus Crew fully acquire Andrés Herrera from River Plate")
 
-![Download the MLS App](<Base64-Image-Removed>)
+![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 
 ## Download the MLS App
 
