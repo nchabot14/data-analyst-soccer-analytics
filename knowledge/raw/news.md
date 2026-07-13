@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-07-06T12:38:01.878232+00:00
+scraped_at: 2026-07-13T11:47:56.656704+00:00
 source: mlssoccer.com
 ---
 
@@ -33,31 +33,31 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![World Cup drama increases around USA vs. Belgium clash](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lyh8ahwlnx7upf68teye)\\
+- [![CF Montréal advance to Canadian Championship semifinals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xw7unupl5tii4wwc8yaa)\\
 \\
-National Writer: Charles Boehm\\
-\\
-**World Cup drama increases around USA vs. Belgium clash**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/world-cup-drama-increases-around-usa-vs-belgium-clash "World Cup drama increases around USA vs. Belgium clash")
+**CF Montréal advance to Canadian Championship semifinals**](https://www.mlssoccer.com/news/cf-montreal-advance-to-canadian-championship-semifinals-x4189 "CF Montréal advance to Canadian Championship semifinals")
 
-- [![USMNT's Folarin Balogun available vs. Belgium after FIFA ruling](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qbwaobumqlvkar97e8tv)\\
+- [![Messi & Argentina's World Cup heroics continue: "It's in our blood"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pnc5ivpipn9ox9rvdw5p)\\
 \\
-National Writer: Charles Boehm\\
+**Messi & Argentina's World Cup heroics continue: "It's in our blood"**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-argentina-s-world-cup-heroics-continue-it-s-in-our-blood "Messi & Argentina's World Cup heroics continue: \"It's in our blood\"")
+- [![Lionel Messi, Argentina march on to World Cup semifinals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xe7d4jvxbulcddhetf3f)\\
 \\
-**USMNT's Folarin Balogun available vs. Belgium after FIFA ruling**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/usmnt-striker-folarin-balogun-available-vs-belgium-after-fifa-ruling "USMNT's Folarin Balogun available vs. Belgium after FIFA ruling")
-- [![Bring on Belgium: USA can make World Cup history in Seattle](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rhqgnalvuij8ycit7can)\\
+**Lionel Messi, Argentina march on to World Cup semifinals**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/argentina-lionel-messi-march-on-to-world-cup-semifinals "Lionel Messi, Argentina march on to World Cup semifinals")
+- [![Your team-by-team bandwagon guide to MLS fandom](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jisneeevy9vjztquv2og)\\
+\\
+Voices: Sam Jones\\
+\\
+**Your team-by-team bandwagon guide to MLS fandom**](https://www.mlssoccer.com/news/your-team-by-team-bandwagon-guide-to-mls-fandom "Your team-by-team bandwagon guide to MLS fandom")
+- [![Canada's 2026 World Cup comes to a close: What we learned](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/svl56ooktenbtixprxls)\\
 \\
 World Cup Voices\\
 \\
-**Bring on Belgium: USA can make World Cup history in Seattle**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/bring-on-belgium-usa-can-make-world-cup-history-in-seattle-usmnt "Bring on Belgium: USA can make World Cup history in Seattle")
-- [![Paraguay exit World Cup with loss to France](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/t4nhjx4ggf6yq66txo8j)\\
+**Canada's 2026 World Cup comes to a close: What we learned**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-s-2026-world-cup-comes-to-a-close-what-we-learned "Canada's 2026 World Cup comes to a close: What we learned")
+- [![MLS restart: 10 must-know storylines for the 2026 season](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ktvywqvd41pu7jfukrmm)\\
 \\
-**Paraguay exit World Cup with loss to France**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/paraguay-exit-world-cup-with-loss-to-france "Paraguay exit World Cup with loss to France")
-- [![Canada embrace “so many firsts” as World Cup dream ends in Round of 16](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pfphvwsjkjowtxya2imr)\\
+National Writer: Charles Boehm\\
 \\
-**Canada embrace “so many firsts” as World Cup dream ends in Round of 16**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-embrace-so-many-firsts-as-world-cup-dream-ends "Canada embrace “so many firsts” as World Cup dream ends in Round of 16")
-- [![Canada faithful show appreciation for unforgettable World Cup campaign](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zyy8gl6jghrm3nhhbi0c)\\
-\\
-**Canada faithful show appreciation for unforgettable World Cup campaign**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-faithful-show-appreciation-for-unforgettable-world-cup-campaign "Canada faithful show appreciation for unforgettable World Cup campaign")
+**MLS restart: 10 must-know storylines for the 2026 season**](https://www.mlssoccer.com/news/mls-restart-10-must-know-storylines-for-the-2026-season "MLS restart: 10 must-know storylines for the 2026 season")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -214,37 +214,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Columbus Crew transfer Diego Rossi to CF Monterrey](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/t66z7fly7zendb4isdqx)\\
+- [![Houston Dynamo acquire Duncan McGuire from Orlando City](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cj5j4nwrmvvqhsycdtzl)\\
 \\
 Transfer Tracker\\
 \\
-**Columbus Crew transfer Diego Rossi to CF Monterrey**](https://www.mlssoccer.com/news/columbus-crew-transfer-diego-rossi-to-cf-monterrey "Columbus Crew transfer Diego Rossi to CF Monterrey")
-- [![Columbus Crew acquire Brais Méndez from Real Sociedad](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fa9jyilk2h3whvipfver)\\
+**Houston Dynamo acquire Duncan McGuire from Orlando City**](https://www.mlssoccer.com/news/houston-dynamo-acquire-duncan-mcguire-from-orlando-city "Houston Dynamo acquire Duncan McGuire from Orlando City")
+- [![FC Dallas acquire Daniel from San Jose Earthquakes](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b5iog4psp4quxe9uu98h)\\
 \\
 Transfer Tracker\\
 \\
-**Columbus Crew acquire Brais Méndez from Real Sociedad**](https://www.mlssoccer.com/news/columbus-crew-acquire-dp-midfielder-brais-mendez-from-real-sociedad "Columbus Crew acquire Brais Méndez from Real Sociedad")
-- [![CF Montréal acquire Dani Pereira from Austin FC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zgexqu0cophodm0ygsel)\\
+**FC Dallas acquire Daniel from San Jose Earthquakes**](https://www.mlssoccer.com/news/fc-dallas-acquire-daniel-from-san-jose-earthquakes "FC Dallas acquire Daniel from San Jose Earthquakes")
+- [![San Diego FC acquire Gabriel Pirani from DC United](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/obvzwg644ih5jafqw2vs)\\
 \\
 Transfer Tracker\\
 \\
-**CF Montréal acquire Dani Pereira from Austin FC**](https://www.mlssoccer.com/news/cf-montreal-acquire-dani-pereira-from-austin-fc "CF Montréal acquire Dani Pereira from Austin FC")
+**San Diego FC acquire Gabriel Pirani from DC United**](https://www.mlssoccer.com/news/san-diego-fc-acquire-gabriel-pirani-from-dc-united "San Diego FC acquire Gabriel Pirani from DC United")
 
-- [![LA Galaxy transfer Mauricio Cuevas to Santos Laguna](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/efkadxcaw1cuhqfc8gln)\\
+- [![San Jose Earthquakes sign Scottish goalkeeper Angus Gunn ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qpxhe7d0gzorrpl9h0ed)\\
 \\
 Transfer Tracker\\
 \\
-**LA Galaxy transfer Mauricio Cuevas to Santos Laguna**](https://www.mlssoccer.com/news/la-galaxy-transfer-mauricio-cuevas-to-santos-laguna "LA Galaxy transfer Mauricio Cuevas to Santos Laguna")
-- [![New England Revolution sign forward Wilson Harris](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pv5eeh6rad2ynxinebvw)\\
+**San Jose Earthquakes sign Scottish goalkeeper Angus Gunn**](https://www.mlssoccer.com/news/san-jose-earthquakes-sign-scottish-goalkeeper-angus-gunn "San Jose Earthquakes sign Scottish goalkeeper Angus Gunn ")
+- [![LA Galaxy transfer Gabriel Pec to Cruzeiro for club-record fee](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/prltwtykdcdudnh3s78i)\\
 \\
 Transfer Tracker\\
 \\
-**New England Revolution sign forward Wilson Harris**](https://www.mlssoccer.com/news/new-england-revolution-sign-forward-wilson-harris "New England Revolution sign forward Wilson Harris")
-- [![Columbus Crew fully acquire Andrés Herrera from River Plate](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ypgrcrdhh7oivzbrhzwc)\\
+**LA Galaxy transfer Gabriel Pec to Cruzeiro for club-record fee**](https://www.mlssoccer.com/news/la-galaxy-transfer-gabriel-pec-to-cruzeiro "LA Galaxy transfer Gabriel Pec to Cruzeiro for club-record fee")
+- [![Toronto FC acquire Nelson Palacio from Real Salt Lake](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pdlhscw4xfdkwshgdw72)\\
 \\
 Transfer Tracker\\
 \\
-**Columbus Crew fully acquire Andrés Herrera from River Plate**](https://www.mlssoccer.com/news/columbus-crew-fully-acquire-andres-herrera-from-river-plate "Columbus Crew fully acquire Andrés Herrera from River Plate")
+**Toronto FC acquire Nelson Palacio from Real Salt Lake**](https://www.mlssoccer.com/news/toronto-fc-acquire-nelson-palacio-from-real-salt-lake "Toronto FC acquire Nelson Palacio from Real Salt Lake")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 

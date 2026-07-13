@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home
-scraped_at: 2026-07-06T12:38:28.364934+00:00
+scraped_at: 2026-07-13T11:48:21.983959+00:00
 source: americansocceranalysis.com
 ---
 
@@ -15,6 +15,24 @@ American Soccer Analysis — American Soccer Analysis
 # American Soccer Analysis
 
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
+
+No results found
+
+[By Kieran Doyle](https://bsky.app/profile/kierdoyle.bsky.social)
+
+MLS is back on Thursday, as we return from the World Cup break into a season finely poised to be one of the most fun we’ve had in quite some time. At the same time, our friends [John Muller](https://bsky.app/profile/johnspacemuller.com) and [Mike Imburgio](https://bsky.app/profile/mimburgio.bsky.social) have launched their new app, [Futi](https://bsky.app/profile/futi.live). I’m sure they agonized over every word of their tagline, so I’ll copy it here:
+
+_The new app that makes football make sense. Follow your favorite teams and players with real-time scores, shareable data visuals and pro analytics made simple._
+
+While ideologically we believe it’s called soccer, the app definitely does what it says on the tin. As such, I thought it’d be fun to dig in and see what Futi tells me to keep an eye on as we welcome MLS Saturday night’s back into our hearts. If you like what you see here (every image in here will be right out of the iOS app), head to [futi.live](https://futi.live/) and check it out for yourself.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/7/11/mls-is-back-futi-style)
+
+[By Theresa Pham](https://www.linkedin.com/in/theresap90/)
+
+Expected Threat (xT) is a model that estimates the value of a pass or carry based on its likelihood of leading to a shot and the danger associated with that shot. Unlike [Karun Singh’s original xT framework](https://karun.in/blog/expected-threat.html), which relies entirely on historical transition probabilities, this version incorporates a logistic expected goals (xG) component to better capture shot quality. This analysis is inspired by [similar work conducted by Chloe Sainsbury in 2025](https://beyondthetouchline.substack.com/p/who-is-the-most-dangerous-passer).
+
+[Read More](https://www.americansocceranalysis.com/home/2026/7/7/a-2026-nwsl-midseason-analysis-from-the-lens-of-expected-threat)
 
 ## Towards a manual for the most common restart
 
@@ -65,18 +83,6 @@ _Our 2026 NWSL Season Previews have started and today we hit Chicago and Bay. If
 _If you’re more of an audio person, our friends at Expected Own Goals_ [_spoke to the Everything Bay Goals podcast_](https://open.spotify.com/episode/0kh4jB2sbeDTi7siwK1WM1?si=f-i2_AzQSTmefHXtaKdVeg) _to talk Bay, and_ [_Lesley Ryder of Gal Pal Sports_](https://open.spotify.com/episode/6hgCUTU20K82kbyoTDyU4p?si=mH1LQ4QKQyq-lcP8HflpYg) _to talk the Stars. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
 
 [Read More](https://www.americansocceranalysis.com/home/2026/3/5/2026-nwsl-previews-chicago-stars-bay-fc)
-
-_Our 2026 NWSL Season Previews have started and today we hit Denver and Boston. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals have episodes_ [_for Denver with Catalina and Kieran_](https://open.spotify.com/episode/1vQLVUIwIgvr0og4wEEXJb?si=hKTZlxYqSfyOZ1hR4H2Hzg) _who wrote these previews, and for_ [_Boston with Emma Healy of the Boston Globe_](https://open.spotify.com/episode/0GvmK8WgaenSX937p7hry2?si=3q3MtyvrRlusc6D3cm4nQA) _, wherever you get your podcasts. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/5/2026-nwsl-previews-denver-summit-boston-legacy)
-
-_Our 2026 MLS Season Previews are ending and we finish with Inter Miami, FC Cincinnati, and Philadelphia. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/2/19/2026-mls-previews)
-
-No results found
 
 0items
 

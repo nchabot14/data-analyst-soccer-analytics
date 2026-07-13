@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/standings/
-scraped_at: 2026-07-06T12:38:05.328589+00:00
+scraped_at: 2026-07-13T11:47:59.892820+00:00
 source: mlssoccer.com
 ---
 
@@ -30,30 +30,30 @@ Latest News
 Latest News
 
 
-- [![World Cup drama increases around USA vs. Belgium clash](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lyh8ahwlnx7upf68teye)\\
+- [![CF Montréal advance to Canadian Championship semifinals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xw7unupl5tii4wwc8yaa)\\
 \\
-National Writer: Charles Boehm\\
+**CF Montréal advance to Canadian Championship semifinals**](https://www.mlssoccer.com/news/cf-montreal-advance-to-canadian-championship-semifinals-x4189 "CF Montréal advance to Canadian Championship semifinals")
+- [![Messi & Argentina's World Cup heroics continue: "It's in our blood"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pnc5ivpipn9ox9rvdw5p)\\
 \\
-**World Cup drama increases around USA vs. Belgium clash**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/world-cup-drama-increases-around-usa-vs-belgium-clash "World Cup drama increases around USA vs. Belgium clash")
-- [![USMNT's Folarin Balogun available vs. Belgium after FIFA ruling](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qbwaobumqlvkar97e8tv)\\
+**Messi & Argentina's World Cup heroics continue: "It's in our blood"**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-argentina-s-world-cup-heroics-continue-it-s-in-our-blood "Messi & Argentina's World Cup heroics continue: \"It's in our blood\"")
+- [![Lionel Messi, Argentina march on to World Cup semifinals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xe7d4jvxbulcddhetf3f)\\
 \\
-National Writer: Charles Boehm\\
+**Lionel Messi, Argentina march on to World Cup semifinals**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/argentina-lionel-messi-march-on-to-world-cup-semifinals "Lionel Messi, Argentina march on to World Cup semifinals")
+- [![Your team-by-team bandwagon guide to MLS fandom](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jisneeevy9vjztquv2og)\\
 \\
-**USMNT's Folarin Balogun available vs. Belgium after FIFA ruling**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/usmnt-striker-folarin-balogun-available-vs-belgium-after-fifa-ruling "USMNT's Folarin Balogun available vs. Belgium after FIFA ruling")
-- [![Bring on Belgium: USA can make World Cup history in Seattle](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rhqgnalvuij8ycit7can)\\
+Voices: Sam Jones\\
+\\
+**Your team-by-team bandwagon guide to MLS fandom**](https://www.mlssoccer.com/news/your-team-by-team-bandwagon-guide-to-mls-fandom "Your team-by-team bandwagon guide to MLS fandom")
+- [![Canada's 2026 World Cup comes to a close: What we learned](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/svl56ooktenbtixprxls)\\
 \\
 World Cup Voices\\
 \\
-**Bring on Belgium: USA can make World Cup history in Seattle**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/bring-on-belgium-usa-can-make-world-cup-history-in-seattle-usmnt "Bring on Belgium: USA can make World Cup history in Seattle")
-- [![Paraguay exit World Cup with loss to France](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/t4nhjx4ggf6yq66txo8j)\\
+**Canada's 2026 World Cup comes to a close: What we learned**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-s-2026-world-cup-comes-to-a-close-what-we-learned "Canada's 2026 World Cup comes to a close: What we learned")
+- [![MLS restart: 10 must-know storylines for the 2026 season](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ktvywqvd41pu7jfukrmm)\\
 \\
-**Paraguay exit World Cup with loss to France**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/paraguay-exit-world-cup-with-loss-to-france "Paraguay exit World Cup with loss to France")
-- [![Canada embrace “so many firsts” as World Cup dream ends in Round of 16](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pfphvwsjkjowtxya2imr)\\
+National Writer: Charles Boehm\\
 \\
-**Canada embrace “so many firsts” as World Cup dream ends in Round of 16**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-embrace-so-many-firsts-as-world-cup-dream-ends "Canada embrace “so many firsts” as World Cup dream ends in Round of 16")
-- [![Canada faithful show appreciation for unforgettable World Cup campaign](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zyy8gl6jghrm3nhhbi0c)\\
-\\
-**Canada faithful show appreciation for unforgettable World Cup campaign**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-faithful-show-appreciation-for-unforgettable-world-cup-campaign "Canada faithful show appreciation for unforgettable World Cup campaign")
+**MLS restart: 10 must-know storylines for the 2026 season**](https://www.mlssoccer.com/news/mls-restart-10-must-know-storylines-for-the-2026-season "MLS restart: 10 must-know storylines for the 2026 season")
 
 _Official_ Standings = Updated at conclusion of each match.
 
@@ -65,23 +65,23 @@ Latest Video
 Latest Video
 
 
+- [![The heartbeat of Canada's World Cup run | Field Notes pres. by Coca-Cola](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/y0ngfge5nfgrslvvpk8s)\\
+\\
+2:29\\
+\\
+**The heartbeat of Canada's World Cup run \| Field Notes pres. by Coca-Cola**](https://www.mlssoccer.com/video/the-heartbeat-of-canada-s-world-cup-run-field-notes-pres-by-coca-cola "The heartbeat of Canada's World Cup run | Field Notes pres. by Coca-Cola")
 - [![How Lionel Messi changed soccer in North America](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yhtux163ekqvjubixpzz)\\
 \\
 12:39\\
 \\
 **How Lionel Messi changed soccer in North America**](https://www.mlssoccer.com/video/how-lionel-messi-changed-soccer-in-north-america "How Lionel Messi changed soccer in North America")
-- [![Argentina: World Cup champions, Messi magic & more](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jnyovxsejpvuvzuifki7)\\
+- [![How Brazil became Haiti's second team | Field Notes pres. by Coca-Cola](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g3av3d2qga8pzlsy9syd)\\
 \\
-7:29\\
+5:15\\
 \\
-**Argentina: World Cup champions, Messi magic & more**](https://www.mlssoccer.com/video/argentina-world-cup-champions-messi-magic-more "Argentina: World Cup champions, Messi magic & more")
-- [![ Why Colombia still believe in James Rodríguez](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lqixajuodlwombltowtn)\\
+**How Brazil became Haiti's second team \| Field Notes pres. by Coca-Cola**](https://www.mlssoccer.com/video/how-brazil-became-haiti-s-second-team-field-notes-pres-by-coca-cola "How Brazil became Haiti's second team | Field Notes pres. by Coca-Cola")
+- [![The secret to the Bay Area's soccer boom | Field Notes pres. by Coca-Cola](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/haqfjwa38wltjooqsyof)\\
 \\
-10:26\\
+6:35\\
 \\
-**Why Colombia still believe in James Rodríguez**](https://www.mlssoccer.com/video/why-colombia-still-believe-in-james-rodriguez " Why Colombia still believe in James Rodríguez")
-- [![How FC Dallas is fueling the USMNT Golden Generation](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hqym0or9ipvyogu8qkk4)\\
-\\
-10:12\\
-\\
-**How FC Dallas is fueling the USMNT Golden Generation**](https://www.mlssoccer.com/video/how-fc-dallas-is-fueling-the-usmnt-golden-generation "How FC Dallas is fueling the USMNT Golden Generation")
+**The secret to the Bay Area's soccer boom \| Field Notes pres. by Coca-Cola**](https://www.mlssoccer.com/video/the-secret-to-the-bay-area-s-soccer-boom-field-notes-pres-by-coca-cola "The secret to the Bay Area's soccer boom | Field Notes pres. by Coca-Cola")
