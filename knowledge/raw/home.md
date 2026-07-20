@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home
-scraped_at: 2026-07-13T11:48:21.983959+00:00
+scraped_at: 2026-07-20T11:35:54.856317+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,16 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+## How scoring in the Men's World Cup compares to domestic leagues
+
+By [Jamon Moore](https://bsky.app/profile/jamonm.bsky.social)
+
+During the pandemic, when [Carlon Carpenter](https://bsky.app/profile/carloncarpenter.bsky.social) and I researched the impact of certain types of soccer passes, we were blown away by how important they were to goal scoring. We wrote 10 articles about them throughout 2021, called the “ [Where Goals Come From](https://www.americansocceranalysis.com/?offset=1614099600614&tag=Where+Goals+Come+From)” series. Even from those 10 articles, we never imagined the reach they would have in clubs across the world.
+
+Now, we examine the world’s premier competition and compare it to our original and ongoing research on how shots are created and goals are scored in domestic league competitions.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/7/18/where-goals-come-from-fifa-mens-world-cup-edition)
 
 [By Kieran Doyle](https://bsky.app/profile/kierdoyle.bsky.social)
 
@@ -77,12 +87,6 @@ _Our 2026 NWSL Season Previews have started and today we hit Chicago and Bay. If
 _If you’re more of an audio person, our friends at Expected Own Goals spoke to our own_ [_Catalina Bush on Utah Royals_](https://open.spotify.com/episode/0eimqQKnnYPY3WfnKTsRKm?si=-cemAB9qSG2EIeVmUkVBfg) _, and_ [_Trebor Tracy of Angels on Parade on Angel City_](https://open.spotify.com/episode/7J1c7VOYbqXc0JORD7YU3U?si=8lIMEgkGQ_W6_GNcGrkQBg) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
 
 [Read More](https://www.americansocceranalysis.com/home/2026/3/7/2026-nwsl-previews-utah-royals-angel-city)
-
-_Our 2026 NWSL Season Previews have started and today we hit Chicago and Bay. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals_ [_spoke to the Everything Bay Goals podcast_](https://open.spotify.com/episode/0kh4jB2sbeDTi7siwK1WM1?si=f-i2_AzQSTmefHXtaKdVeg) _to talk Bay, and_ [_Lesley Ryder of Gal Pal Sports_](https://open.spotify.com/episode/6hgCUTU20K82kbyoTDyU4p?si=mH1LQ4QKQyq-lcP8HflpYg) _to talk the Stars. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/5/2026-nwsl-previews-chicago-stars-bay-fc)
 
 0items
 

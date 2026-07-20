@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-07-13T11:47:56.656704+00:00
+scraped_at: 2026-07-20T11:35:32.060318+00:00
 source: mlssoccer.com
 ---
 
@@ -33,31 +33,29 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![CF Montréal advance to Canadian Championship semifinals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xw7unupl5tii4wwc8yaa)\\
-\\
-**CF Montréal advance to Canadian Championship semifinals**](https://www.mlssoccer.com/news/cf-montreal-advance-to-canadian-championship-semifinals-x4189 "CF Montréal advance to Canadian Championship semifinals")
-
-- [![Messi & Argentina's World Cup heroics continue: "It's in our blood"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pnc5ivpipn9ox9rvdw5p)\\
-\\
-**Messi & Argentina's World Cup heroics continue: "It's in our blood"**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-argentina-s-world-cup-heroics-continue-it-s-in-our-blood "Messi & Argentina's World Cup heroics continue: \"It's in our blood\"")
-- [![Lionel Messi, Argentina march on to World Cup semifinals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xe7d4jvxbulcddhetf3f)\\
-\\
-**Lionel Messi, Argentina march on to World Cup semifinals**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/argentina-lionel-messi-march-on-to-world-cup-semifinals "Lionel Messi, Argentina march on to World Cup semifinals")
-- [![Your team-by-team bandwagon guide to MLS fandom](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jisneeevy9vjztquv2og)\\
-\\
-Voices: Sam Jones\\
-\\
-**Your team-by-team bandwagon guide to MLS fandom**](https://www.mlssoccer.com/news/your-team-by-team-bandwagon-guide-to-mls-fandom "Your team-by-team bandwagon guide to MLS fandom")
-- [![Canada's 2026 World Cup comes to a close: What we learned](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/svl56ooktenbtixprxls)\\
-\\
-World Cup Voices\\
-\\
-**Canada's 2026 World Cup comes to a close: What we learned**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/canada-s-2026-world-cup-comes-to-a-close-what-we-learned "Canada's 2026 World Cup comes to a close: What we learned")
-- [![MLS restart: 10 must-know storylines for the 2026 season](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ktvywqvd41pu7jfukrmm)\\
+- [![Lionel Messi's magical World Cup falls just short of repeat](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/m5sacxhugy6oxutxnnwu)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**MLS restart: 10 must-know storylines for the 2026 season**](https://www.mlssoccer.com/news/mls-restart-10-must-know-storylines-for-the-2026-season "MLS restart: 10 must-know storylines for the 2026 season")
+**Lionel Messi's magical World Cup falls just short of repeat**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-s-magical-world-cup-falls-just-short-of-repeat "Lionel Messi's magical World Cup falls just short of repeat")
+
+- [![Lionel Messi's legend grows with 2026 World Cup to remember](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gerlpm1ac6y27mfgvkbg)\\
+\\
+**Lionel Messi's legend grows with 2026 World Cup to remember**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-s-legend-grows-with-2026-world-cup-to-remember "Lionel Messi's legend grows with 2026 World Cup to remember")
+- [![Spain defeat Argentina to win World Cup title](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fx4zlmqxfwxftd3oeukl)\\
+\\
+**Spain defeat Argentina to win World Cup title**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/spain-defeat-argentina-to-win-world-cup-title "Spain defeat Argentina to win World Cup title")
+- [![Portland make history, LAFC take El Tráfico & more from Matchday 16](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/txq7aydrnno4xieuwavy)\\
+\\
+National Writer: Charles Boehm\\
+\\
+**Portland make history, LAFC take El Tráfico & more from Matchday 16**](https://www.mlssoccer.com/news/portland-make-history-lafc-take-el-trafico-more-from-matchday-16 "Portland make history, LAFC take El Tráfico & more from Matchday 16")
+- [![Son Heung-Min scores statement goal in LAFC’s El Tráfico rout ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zsuwezys47frsiloyjut)\\
+\\
+**Son Heung-Min scores statement goal in LAFC’s El Tráfico rout**](https://www.mlssoccer.com/news/son-heung-min-scores-statement-first-goal-in-lafc-s-el-trafico-rout "Son Heung-Min scores statement goal in LAFC’s El Tráfico rout ")
+- [![Nashville SC keep up Supporters’ Shield pace in MLS restart](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/p56z0fghgwrnozofivt4)\\
+\\
+**Nashville SC keep up Supporters’ Shield pace in MLS restart**](https://www.mlssoccer.com/news/nashville-sc-keep-up-supporters-shield-pace-in-mls-restart "Nashville SC keep up Supporters’ Shield pace in MLS restart")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -76,20 +74,6 @@ Our top stories, must-see matches, exclusive offers, and more.
 |  |  | By checking this box, I hereby consent to receive additional information from Major League Soccer, its Clubs, Soccer United Marketing and each of their respective affiliates and marketing partners and I agree to the MLSSoccer.com [Privacy Policy](https://www.mlssoccer.com/legal/privacy-policy) and [Terms & Conditions](https://www.mlssoccer.com/legal/terms-of-service). |
 
 Sign Up
-
-World Cup
-
-
-World Cup
-
-
-[![WCP26-680-Generic-Web-(Player-Profiles) - English](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/yh8m6b6hi9swcsl4xbav.png)](https://soc.cr/4ueclBS)
-
-[![WCP26-680-Generic-Web-(MLS-Call-Ups) - English](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/pp1abzxfwssyxc9ajej1.png)](https://soc.cr/4o5OvXn)
-
-[![WCP26-680 Generic Web (World Cup Voices) - English](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/tu4j6h2ha0cyjxowfbao.png)](https://soc.cr/43iKq8O)
-
-[![WCP26-680-Generic-Web-(Player-Letters) - English](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/avs3h2gh1duotns3ythd.png)](https://soc.cr/4ucSbrG)
 
 Power Rankings
 
@@ -214,37 +198,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Houston Dynamo acquire Duncan McGuire from Orlando City](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cj5j4nwrmvvqhsycdtzl)\\
+- [![Daryl Dike re-joins Orlando City after West Brom exit](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cs0jdypwdopjsr98visi)\\
 \\
 Transfer Tracker\\
 \\
-**Houston Dynamo acquire Duncan McGuire from Orlando City**](https://www.mlssoccer.com/news/houston-dynamo-acquire-duncan-mcguire-from-orlando-city "Houston Dynamo acquire Duncan McGuire from Orlando City")
-- [![FC Dallas acquire Daniel from San Jose Earthquakes](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b5iog4psp4quxe9uu98h)\\
+**Daryl Dike re-joins Orlando City after West Brom exit**](https://www.mlssoccer.com/news/daryl-dike-re-joins-orlando-city-after-west-brom-exit "Daryl Dike re-joins Orlando City after West Brom exit")
+- [![Philadelphia Union acquire Kai Wagner from Birmingham City](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/akgkogduhpm1tfdhx1kt)\\
 \\
 Transfer Tracker\\
 \\
-**FC Dallas acquire Daniel from San Jose Earthquakes**](https://www.mlssoccer.com/news/fc-dallas-acquire-daniel-from-san-jose-earthquakes "FC Dallas acquire Daniel from San Jose Earthquakes")
-- [![San Diego FC acquire Gabriel Pirani from DC United](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/obvzwg644ih5jafqw2vs)\\
+**Philadelphia Union acquire Kai Wagner from Birmingham City**](https://www.mlssoccer.com/news/philadelphia-union-acquire-kai-wagner-from-birmingham-city "Philadelphia Union acquire Kai Wagner from Birmingham City")
+- [![Orlando City sign homegrown defender Clovis Archange](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/coqlt3wsudlzzhwmtkjh)\\
 \\
 Transfer Tracker\\
 \\
-**San Diego FC acquire Gabriel Pirani from DC United**](https://www.mlssoccer.com/news/san-diego-fc-acquire-gabriel-pirani-from-dc-united "San Diego FC acquire Gabriel Pirani from DC United")
+**Orlando City sign homegrown defender Clovis Archange**](https://www.mlssoccer.com/news/orlando-city-sign-homegrown-defender-clovis-archange "Orlando City sign homegrown defender Clovis Archange")
 
-- [![San Jose Earthquakes sign Scottish goalkeeper Angus Gunn ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qpxhe7d0gzorrpl9h0ed)\\
+- [![Columbus Crew sign defender Eric Bailly](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/eg9m32mwohd5mdb7oupp)\\
 \\
 Transfer Tracker\\
 \\
-**San Jose Earthquakes sign Scottish goalkeeper Angus Gunn**](https://www.mlssoccer.com/news/san-jose-earthquakes-sign-scottish-goalkeeper-angus-gunn "San Jose Earthquakes sign Scottish goalkeeper Angus Gunn ")
-- [![LA Galaxy transfer Gabriel Pec to Cruzeiro for club-record fee](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/prltwtykdcdudnh3s78i)\\
+**Columbus Crew sign defender Eric Bailly**](https://www.mlssoccer.com/news/columbus-crew-sign-defender-eric-bailly "Columbus Crew sign defender Eric Bailly")
+- [![Inter Miami loan Tomás Avilés to Chilean club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gwvs2unrck0c2zzxvdbt)\\
 \\
 Transfer Tracker\\
 \\
-**LA Galaxy transfer Gabriel Pec to Cruzeiro for club-record fee**](https://www.mlssoccer.com/news/la-galaxy-transfer-gabriel-pec-to-cruzeiro "LA Galaxy transfer Gabriel Pec to Cruzeiro for club-record fee")
-- [![Toronto FC acquire Nelson Palacio from Real Salt Lake](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pdlhscw4xfdkwshgdw72)\\
+**Inter Miami loan Tomás Avilés to Chilean club**](https://www.mlssoccer.com/news/inter-miami-loan-tomas-aviles-to-chilean-club "Inter Miami loan Tomás Avilés to Chilean club")
+- [![New York City FC sign Kevin O'Toole to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pjqacoqtfhktvtmsdzaw)\\
 \\
 Transfer Tracker\\
 \\
-**Toronto FC acquire Nelson Palacio from Real Salt Lake**](https://www.mlssoccer.com/news/toronto-fc-acquire-nelson-palacio-from-real-salt-lake "Toronto FC acquire Nelson Palacio from Real Salt Lake")
+**New York City FC sign Kevin O'Toole to contract extension**](https://www.mlssoccer.com/news/new-york-city-fc-sign-kevin-o-toole-to-contract-extension "New York City FC sign Kevin O'Toole to contract extension")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 

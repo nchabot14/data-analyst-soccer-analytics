@@ -1,8 +1,10 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-07-13T11:47:38.315008+00:00
+scraped_at: 2026-07-20T11:35:14.524282+00:00
 source: fbref.com
 ---
+
+Find any player or team from any Reference site with our new cross-sport search engine. Only on [Sports-Reference.com](https://www.sports-reference.com/).
 
 ![Lionel Messi headshot](https://fbref.com/req/202302030/images/headshots/d70ce98e_2022.jpg)
 
@@ -16,7 +18,7 @@ source: fbref.com
 
 **Born:**
 June 24, 1987
-(Age: 39-019d)
+(Age: 39-026d)
 
 in Rosario, Argentina
 
@@ -39,10 +41,10 @@ More Player Info
 - 4x The Best FIFA Men's Player
 - 9x La Liga Best Player
 - 2x UEFA Men's Player of the Year
+- 2x FIFA World Cup Golden Ball
+- 2026 FIFA World Cup Silver Ball
+- 2x FIFA World Cup Silver Boot
 - 13x Domestic League Champion
-- 4x Champions League Champion
-- 2022 World Cup Champion
-- 17x FIFA FIFPro World XI
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
@@ -133,7 +135,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=1f44ac21&p3yrfrom=2025-2026&player_id4=42fd9c7f&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=1bf33a9a&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - Stats by Competition
 
@@ -186,13 +188,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=1f44ac21&p3yrfrom=2025-2026&player_id4=42fd9c7f&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=1bf33a9a&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_6349140591)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_5972525607)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -547,13 +549,19 @@ Player Club Summary Table
 
 [2022 FIFA World Cup Golden Ball](https://fbref.com/en/awards/wc_golden_ball/FIFA-World-Cup-Golden-Ball)
 
+[2022 FIFA World Cup Silver Boot](https://fbref.com/en/awards/wc_silver_boot/FIFA-World-Cup-Silver-Boot)
+
 [2023 Ballon d'Or](https://fbref.com/en/awards/ballon_dor_m/Ballon-dOr)
 
 [2023 The Best FIFA Men's Player](https://fbref.com/en/awards/fifa_best_m/The-Best-FIFA-Mens-Player)
 
 [2023 FIFA FIFPro World XI](https://fbref.com/en/awards/fifa_fifpro_m/FIFA-FIFPro-World-XI)
 
-31 Awards
+[2026 FIFA World Cup Silver Ball](https://fbref.com/en/awards/wc_silver_ball/FIFA-World-Cup-Silver-Ball)
+
+[2026 FIFA World Cup Silver Boot](https://fbref.com/en/awards/wc_silver_boot/FIFA-World-Cup-Silver-Boot)
+
+34 Awards
 
 #### Continental Awards
 
@@ -1445,7 +1453,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  2.64 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  2.54 (2nd)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  2.54 (1st)
 
 30 Appearances in Top 10
 
@@ -1573,10 +1581,10 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
-· [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
+· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
 · [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
-· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
+· [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com
@@ -1649,4 +1657,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=1f44ac21&p3yrfrom=2025-2026&player_id4=42fd9c7f&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=1bf33a9a&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=42fd9c7f&p3yrfrom=2025-2026&player_id4=1f44ac21&p4yrfrom=2025-2026&player_id5=69384e5d&p5yrfrom=2026&player_id6=82ec26c1&p6yrfrom=2025-2026)

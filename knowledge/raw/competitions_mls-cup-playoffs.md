@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-07-13T11:48:04.072778+00:00
+scraped_at: 2026-07-20T11:35:39.606540+00:00
 source: mlssoccer.com
 ---
 
