@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-07-20T11:35:32.060318+00:00
+scraped_at: 2026-07-27T12:09:04.637158+00:00
 source: mlssoccer.com
 ---
 
@@ -33,29 +33,31 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Lionel Messi's magical World Cup falls just short of repeat](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/m5sacxhugy6oxutxnnwu)\\
+- [![Griezmann transforms Orlando, Casemiro debuts for Miami & more from Matchday 18](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qo9mjzkbymnt0kownj0c)\\
 \\
-National Writer: Charles Boehm\\
-\\
-**Lionel Messi's magical World Cup falls just short of repeat**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-s-magical-world-cup-falls-just-short-of-repeat "Lionel Messi's magical World Cup falls just short of repeat")
+**Griezmann transforms Orlando, Casemiro debuts for Miami & more from Matchday 18**](https://www.mlssoccer.com/news/griezmann-transforms-orlando-casemiro-debuts-for-miami-more-from-matchday-18 "Griezmann transforms Orlando, Casemiro debuts for Miami & more from Matchday 18")
 
-- [![Lionel Messi's legend grows with 2026 World Cup to remember](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gerlpm1ac6y27mfgvkbg)\\
+- [![MLS vs. LIGA MX: What to know about 2026 MLS All-Star Game](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ffgzmsvrvzycdrbfovto)\\
 \\
-**Lionel Messi's legend grows with 2026 World Cup to remember**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/lionel-messi-s-legend-grows-with-2026-world-cup-to-remember "Lionel Messi's legend grows with 2026 World Cup to remember")
-- [![Spain defeat Argentina to win World Cup title](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fx4zlmqxfwxftd3oeukl)\\
+**MLS vs. LIGA MX: What to know about 2026 MLS All-Star Game**](https://www.mlssoccer.com/allstar/2026/news/mls-vs-liga-mx-what-to-know-about-2026-mls-all-star-game "MLS vs. LIGA MX: What to know about 2026 MLS All-Star Game")
+- [![MLS vs. LIGA MX: How to watch, stream 2026 MLS All-Star Game](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uqdj6cccg12baern5way)\\
 \\
-**Spain defeat Argentina to win World Cup title**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/spain-defeat-argentina-to-win-world-cup-title "Spain defeat Argentina to win World Cup title")
-- [![Portland make history, LAFC take El Tráfico & more from Matchday 16](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/txq7aydrnno4xieuwavy)\\
+**MLS vs. LIGA MX: How to watch, stream 2026 MLS All-Star Game**](https://www.mlssoccer.com/allstar/2026/news/mls-vs-liga-mx-how-to-watch-stream-2026-mls-all-star-game "MLS vs. LIGA MX: How to watch, stream 2026 MLS All-Star Game")
+- [![Vote for Goal of the Matchday – MLS Matchday 18](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/orp6fdzjb2ebdf3kvfh6)\\
 \\
-National Writer: Charles Boehm\\
+Goal of the Matchday\\
 \\
-**Portland make history, LAFC take El Tráfico & more from Matchday 16**](https://www.mlssoccer.com/news/portland-make-history-lafc-take-el-trafico-more-from-matchday-16 "Portland make history, LAFC take El Tráfico & more from Matchday 16")
-- [![Son Heung-Min scores statement goal in LAFC’s El Tráfico rout ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zsuwezys47frsiloyjut)\\
+**Vote for Goal of the Matchday – MLS Matchday 18**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-18-2026 "Vote for Goal of the Matchday – MLS Matchday 18")
+- [![Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urd5kasgyqydfaqtar2j)\\
 \\
-**Son Heung-Min scores statement goal in LAFC’s El Tráfico rout**](https://www.mlssoccer.com/news/son-heung-min-scores-statement-first-goal-in-lafc-s-el-trafico-rout "Son Heung-Min scores statement goal in LAFC’s El Tráfico rout ")
-- [![Nashville SC keep up Supporters’ Shield pace in MLS restart](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/p56z0fghgwrnozofivt4)\\
+Energy Moment of the Matchday\\
 \\
-**Nashville SC keep up Supporters’ Shield pace in MLS restart**](https://www.mlssoccer.com/news/nashville-sc-keep-up-supporters-shield-pace-in-mls-restart "Nashville SC keep up Supporters’ Shield pace in MLS restart")
+**Tomáš Ostrák gives St. Louis CITY breakthrough \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tomas-ostrak-gives-st-louis-city-breakthrough-energy-moment-of-the-matchday-18-2026 "Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday")
+- [![LAFC's Denis Bouanga named named Player of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/morwrgdulvnbq1rga6dh)\\
+\\
+Player of the Matchday\\
+\\
+**LAFC's Denis Bouanga named named Player of the Matchday**](https://www.mlssoccer.com/news/lafc-denis-bouanga-named-named-player-of-the-matchday-18-2026 "LAFC's Denis Bouanga named named Player of the Matchday")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -81,10 +83,13 @@ Power Rankings
 Power Rankings
 
 
+- [![Power Rankings: Son Heung-Min & LAFC get El Tráfico boost](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ntmenyrmuojr4bdlr8r6)\\
+\\
+**Power Rankings: Son Heung-Min & LAFC get El Tráfico boost**](https://www.mlssoccer.com/news/power-rankings-son-heung-min-lafc-get "Power Rankings: Son Heung-Min & LAFC get El Tráfico boost")
+
 - [![Power Rankings: Where every team stands at the midseason break](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nc3bzvvyluemmzkzik5e)\\
 \\
 **Power Rankings: Where every team stands at the midseason break**](https://www.mlssoccer.com/news/power-rankings-where-every-team-stands-at-the-midseason-break "Power Rankings: Where every team stands at the midseason break")
-
 - [![Power Rankings: Nashville overtake San Jose, Vancouver for top spot](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pkqkksuaqmutzrujilbp)\\
 \\
 **Power Rankings: Nashville overtake San Jose, Vancouver for top spot**](https://www.mlssoccer.com/news/power-rankings-nashville-overtake-san-jose-vancouver-for-top-spot "Power Rankings: Nashville overtake San Jose, Vancouver for top spot")
@@ -94,9 +99,6 @@ Power Rankings
 - [![Power Rankings: Evander sparks life into FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/x6ykdbketfsaoyindxfl)\\
 \\
 **Power Rankings: Evander sparks life into FC Cincinnati**](https://www.mlssoccer.com/news/power-rankings-evander-sparks-life-into-fc-cincinnati "Power Rankings: Evander sparks life into FC Cincinnati")
-- [![Power Rankings: San Jose Earthquakes surge to the top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bmtvyzen6nngk4x2emtv)\\
-\\
-**Power Rankings: San Jose Earthquakes surge to the top**](https://www.mlssoccer.com/news/power-rankings-san-jose-earthquakes-surge-to-the-top "Power Rankings: San Jose Earthquakes surge to the top")
 
 [More](https://www.mlssoccer.com/news/topics/power-rankings/)
 
@@ -106,10 +108,15 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
+- [![San Jose Earthquakes look to ride World Cup energy into Cali Clásico](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/a6rgm7szcgvejpeizwjj)\\
+\\
+National Writer: Charles Boehm\\
+\\
+**San Jose Earthquakes look to ride World Cup energy into Cali Clásico**](https://www.mlssoccer.com/news/san-jose-earthquakes-look-to-ride-world-cup-energy-into-cali-clasico "San Jose Earthquakes look to ride World Cup energy into Cali Clásico")
+
 - [![Preston Judd gets San Jose Earthquakes back on track](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/afzptinqbvyhxmhdzyxo)\\
 \\
 **Preston Judd gets San Jose Earthquakes back on track**](https://www.mlssoccer.com/news/preston-judd-brace-gets-earthquakes-back-on-track "Preston Judd gets San Jose Earthquakes back on track")
-
 - [![How Preston Judd became San Jose's goal-scoring machine](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qcjrbkgkv2pmkbxunw6i)\\
 \\
 National Writer: Charles Boehm\\
@@ -123,9 +130,6 @@ National Writer: Charles Boehm\\
 National Writer: Charles Boehm\\
 \\
 **Adri Mehmeti: USMNT prospect & Red Bull New York rising star**](https://www.mlssoccer.com/news/adri-mehmeti-usmnt-prospect-red-bull-new-york-rising-star "Adri Mehmeti: USMNT prospect & Red Bull New York rising star")
-- [![Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/w4b8j29wjlup03cf2vn8)\\
-\\
-**Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown**](https://www.mlssoccer.com/news/red-bull-new-york-vs-new-york-city-fc-what-to-know-walmart-saturday-showdown-md14-2026 "Red Bull New York vs. New York City FC: What to know for Walmart Saturday Showdown")
 
 [More](https://www.mlssoccer.com/news/topics/saturday-showdown/)
 
@@ -162,11 +166,11 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Prince Owusu, Luis Suárez net hat tricks](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
+- [![Team of the Matchday: Bouanga heats up, Cali Clásico provides drama](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
-**Team of the Matchday: Prince Owusu, Luis Suárez net hat tricks**](https://www.mlssoccer.com/news/team-of-the-matchday-prince-owusu-luis-suarez-net-hat-tricks "Team of the Matchday: Prince Owusu, Luis Suárez net hat tricks")
+**Team of the Matchday: Bouanga heats up, Cali Clásico provides drama**](https://www.mlssoccer.com/news/team-of-the-matchday-bouanga-heats-up-cali-clasico-provides-drama-md18-2026 "Team of the Matchday: Bouanga heats up, Cali Clásico provides drama")
 
 Goal of the Matchday
 
@@ -174,11 +178,11 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![Inter Miami's Luis Suárez wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ecxdcq2iumglcokd8u9e)\\
+- [![Vote for Goal of the Matchday – MLS Matchday 18](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/orp6fdzjb2ebdf3kvfh6)\\
 \\
 Goal of the Matchday\\
 \\
-**Inter Miami's Luis Suárez wins Goal of the Matchday**](https://www.mlssoccer.com/news/inter-miami-s-luis-suarez-wins-goal-of-the-matchday-md15-2026 "Inter Miami's Luis Suárez wins Goal of the Matchday")
+**Vote for Goal of the Matchday – MLS Matchday 18**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-18-2026 "Vote for Goal of the Matchday – MLS Matchday 18")
 
 Energy Moment of the Matchday
 
@@ -186,11 +190,11 @@ Energy Moment of the Matchday
 Energy Moment of the Matchday
 
 
-- [![Hennadii Synchuk caps epic Montréal comeback | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iz13pprdepqlafas6y7c)\\
+- [![Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urd5kasgyqydfaqtar2j)\\
 \\
 Energy Moment of the Matchday\\
 \\
-**Hennadii Synchuk caps epic Montréal comeback \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/hennadii-synchuk-caps-epic-montreal-comeback-energy-moment-of-the-matchday "Hennadii Synchuk caps epic Montréal comeback | Energy Moment of the Matchday")
+**Tomáš Ostrák gives St. Louis CITY breakthrough \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tomas-ostrak-gives-st-louis-city-breakthrough-energy-moment-of-the-matchday-18-2026 "Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday")
 
 Transfer Tracker
 
@@ -198,37 +202,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Daryl Dike re-joins Orlando City after West Brom exit](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cs0jdypwdopjsr98visi)\\
+- [![New England Revolution acquire Jack Harrison from Leeds United](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/aqoijixsracygbwvlpil)\\
 \\
 Transfer Tracker\\
 \\
-**Daryl Dike re-joins Orlando City after West Brom exit**](https://www.mlssoccer.com/news/daryl-dike-re-joins-orlando-city-after-west-brom-exit "Daryl Dike re-joins Orlando City after West Brom exit")
-- [![Philadelphia Union acquire Kai Wagner from Birmingham City](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/akgkogduhpm1tfdhx1kt)\\
+**New England Revolution acquire Jack Harrison from Leeds United**](https://www.mlssoccer.com/news/new-england-revolution-acquire-jack-harrison-from-leeds-united "New England Revolution acquire Jack Harrison from Leeds United")
+- [![San Diego FC acquire Elias Achouri from FC Copenhagen](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/h9utyul9xvudxvv7gu2w)\\
 \\
 Transfer Tracker\\
 \\
-**Philadelphia Union acquire Kai Wagner from Birmingham City**](https://www.mlssoccer.com/news/philadelphia-union-acquire-kai-wagner-from-birmingham-city "Philadelphia Union acquire Kai Wagner from Birmingham City")
-- [![Orlando City sign homegrown defender Clovis Archange](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/coqlt3wsudlzzhwmtkjh)\\
+**San Diego FC acquire Elias Achouri from FC Copenhagen**](https://www.mlssoccer.com/news/san-diego-fc-acquire-elias-achouri-from-fc-copenhagen "San Diego FC acquire Elias Achouri from FC Copenhagen")
+- [![FC Cincinnati loan Gilberto Flores to Paraguayan club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/claqa1qixwmityjusao0)\\
 \\
 Transfer Tracker\\
 \\
-**Orlando City sign homegrown defender Clovis Archange**](https://www.mlssoccer.com/news/orlando-city-sign-homegrown-defender-clovis-archange "Orlando City sign homegrown defender Clovis Archange")
+**FC Cincinnati loan Gilberto Flores to Paraguayan club**](https://www.mlssoccer.com/news/fc-cincinnati-loan-gilberto-flores-to-paraguayan-club "FC Cincinnati loan Gilberto Flores to Paraguayan club")
 
-- [![Columbus Crew sign defender Eric Bailly](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/eg9m32mwohd5mdb7oupp)\\
+- [![San Diego FC acquire Dagur Dan Thórhallsson from CF Montréal](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pyw1kkb3togip9hytkbf)\\
 \\
 Transfer Tracker\\
 \\
-**Columbus Crew sign defender Eric Bailly**](https://www.mlssoccer.com/news/columbus-crew-sign-defender-eric-bailly "Columbus Crew sign defender Eric Bailly")
-- [![Inter Miami loan Tomás Avilés to Chilean club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gwvs2unrck0c2zzxvdbt)\\
+**San Diego FC acquire Dagur Dan Thórhallsson from CF Montréal**](https://www.mlssoccer.com/news/san-diego-fc-acquire-dagur-dan-thorhallsson-from-cf-montreal "San Diego FC acquire Dagur Dan Thórhallsson from CF Montréal")
+- [![Colorado Rapids sign Wayne Frederick to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/na1w8mvnttwjbtrmopyx)\\
 \\
 Transfer Tracker\\
 \\
-**Inter Miami loan Tomás Avilés to Chilean club**](https://www.mlssoccer.com/news/inter-miami-loan-tomas-aviles-to-chilean-club "Inter Miami loan Tomás Avilés to Chilean club")
-- [![New York City FC sign Kevin O'Toole to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pjqacoqtfhktvtmsdzaw)\\
+**Colorado Rapids sign Wayne Frederick to contract extension**](https://www.mlssoccer.com/news/colorado-rapids-sign-wayne-frederick-to-contract-extension "Colorado Rapids sign Wayne Frederick to contract extension")
+- [![CF Montréal acquire Brayan Ceballos from New England Revolution](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bmhceqjbn0yf0a0hot96)\\
 \\
 Transfer Tracker\\
 \\
-**New York City FC sign Kevin O'Toole to contract extension**](https://www.mlssoccer.com/news/new-york-city-fc-sign-kevin-o-toole-to-contract-extension "New York City FC sign Kevin O'Toole to contract extension")
+**CF Montréal acquire Brayan Ceballos from New England Revolution**](https://www.mlssoccer.com/news/cf-montreal-acquire-brayan-ceballos-from-new-england-revolution "CF Montréal acquire Brayan Ceballos from New England Revolution")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 
