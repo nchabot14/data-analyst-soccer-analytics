@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-07-27T12:08:57.299067+00:00
+scraped_at: 2026-08-03T12:10:12.878456+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 30-356d)
+(Age: 30-363d)
 
 in Copenhagen, Denmark
 
@@ -118,7 +118,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=57d88cf9&p2yrfrom=2025-2026&player_id3=6025fab1&p3yrfrom=2025-2026&player_id4=867239d3&p4yrfrom=2025-2026&player_id5=a9202def&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=6025fab1&p2yrfrom=2025-2026&player_id3=867239d3&p3yrfrom=2025-2026&player_id4=a9202def&p4yrfrom=2025-2026&player_id5=01c3aff5&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
 
 - Stats by Competition
 
@@ -162,13 +162,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=57d88cf9&p2yrfrom=2025-2026&player_id3=6025fab1&p3yrfrom=2025-2026&player_id4=867239d3&p4yrfrom=2025-2026&player_id5=a9202def&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=6025fab1&p2yrfrom=2025-2026&player_id3=867239d3&p3yrfrom=2025-2026&player_id4=a9202def&p4yrfrom=2025-2026&player_id5=01c3aff5&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
 
 - On this page
 
 
   - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
-  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_9498791448)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_5115367219)
   - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
   - [Miscellaneous Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_misc)
@@ -254,7 +254,7 @@ Javascript is required for the selection of a player.
 
 Choice is:
 
-Ex: Jude Bellingham, Luka Modrić, Paul Pogba
+Ex: Luka Modrić, Paul Pogba, Éderson Silva
 
 Career
 
@@ -270,7 +270,7 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News Archive](https://fbref.com/en/news/8b04d6c1)
 - [Player News RSS Feed](https://fbref.com/en/news/8b04d6c1/rss)
 
-- [Sports Reference Linker](https://fbref.com/en/linker/) \-\- Link your blog posts to our site & get your articles in front of thousands of fans.
+- Bloggers! Put your articles here for free. See the [Sports Reference Linker](https://fbref.com/en/linker/) for details.
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
@@ -576,4 +576,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=57d88cf9&p2yrfrom=2025-2026&player_id3=6025fab1&p3yrfrom=2025-2026&player_id4=867239d3&p4yrfrom=2025-2026&player_id5=a9202def&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=6025fab1&p2yrfrom=2025-2026&player_id3=867239d3&p3yrfrom=2025-2026&player_id4=a9202def&p4yrfrom=2025-2026&player_id5=01c3aff5&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)

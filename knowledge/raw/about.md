@@ -1,18 +1,10 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-07-27T12:09:00.688827+00:00
+scraped_at: 2026-08-03T12:10:22.544968+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/about/#main-content)
-
-![All-Star Tickets Slim Alert](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1778617634/assets/logos/mls-clubs/ASW26_week_Logo_Horiz_LTBG_RGB_mgq0k7.png)
-
-Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star Skills Challenge presented by AT&T.
-
-[Game Tickets](https://www.ticketmaster.com/2026-mls-all-star-game-presented-charlotte-north-carolina-07-29-2026/event/2D006462A8FEC872?CAMEFROM=CFC_MLG_MOBILE_APP_2026ASG "Game Tickets")
-
-[Skills Tickets](https://www.ticketmaster.com/2026-mls-skills-challenge-presented-by-charlotte-north-carolina-07-28-2026/event/2D00646C9647BFEB?CAMEFROM=CFC_MLG_WEB_SITE_2026SKILLS "Skills Tickets")
 
 # About MLS
 
@@ -30,8 +22,8 @@ Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star 
 ![share](https://www.mlssoccer.com/assets/images/share.png)
 
 - Copy URL
-- [Share on Facebook](https://www.mlssoccer.com/about/)
-- [Share on X](https://twitter.com/intent/tweet?text=About+Major+League+Soccer&url=https%3A%2F%2Fwww.mlssoccer.com%2Fabout%2F)
+- Share on Facebook
+- Share on X
 
 Major League Soccer
 
@@ -48,5 +40,5 @@ Major League Soccer is the top-flight professional soccer league in the United S
 ![share](https://www.mlssoccer.com/assets/images/share.png)
 
 - Copy URL
-- [Share on Facebook](https://www.mlssoccer.com/about/)
-- [Share on X](https://twitter.com/intent/tweet?text=About+Major+League+Soccer&url=https%3A%2F%2Fwww.mlssoccer.com%2Fabout%2F)
+- Share on Facebook
+- Share on X

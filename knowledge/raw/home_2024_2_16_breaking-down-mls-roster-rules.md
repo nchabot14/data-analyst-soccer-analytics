@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2024/2/16/breaking-down-mls-roster-rules
-scraped_at: 2026-07-27T12:09:20.904453+00:00
+scraped_at: 2026-08-03T12:10:38.960248+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,24 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[![Scream and Shout: an xClaim Model for Goalkeeper Cross Collection](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1785390163930-J0YZ9705RRYJJR777CLH/xclaim_cross_type_clusters_v3.png)](https://www.americansocceranalysis.com/home/2026/7/29/scream-and-shout-an-xclaim-model-for-goalkeeper-cross-collection)
+
+[By Kieran Doyle](https://bsky.app/profile/kierdoyle.bsky.social)
+
+Ever since we built [goals added (g+)](https://www.americansocceranalysis.com/what-are-goals-added) oh so many years ago, I’ve largely been unhappy with how we’ve treated goalkeepers here at ASA. ASA, the masterful puppeteer in the shadows crafting the rise of [Matt Turner and Djordje Petrovic](https://www.americansocceranalysis.com/home/2023/8/28/thomas-bayes-meet-djordje-petrovic) to the Premier League, letting them down! And so, my fellow analytics practitioners, ask not what your goalkeeper can do for you, but what you can do for your goalkeeper.
+
+ASA and the analytics community at large has gotten to a pretty good place with goalkeeper shotstopping, at least with event only data. You scale the saves they make by the quality of chances they face, you accept that’s a pretty noisy metric season to season, it tracks directly to goals, it’s sort of easy. We have done a somewhat less good job looking at how the other parts of being a goalkeeper impact the game. Goals added does an okay job, assigning the value of their sweeping to the situations they interrupt. But it’s an imperfect picture, the whole point of sweeping is that you are preventing a much more dangerous situation from occurring further down the road, but where you are now is not actually that dangerous on its own. The ball playing side is similar, goalkeepers are so far from goal that aside from long kicks up the field, virtually all the passing they do is meaningless in the eye of a possession value model.
+
+Today, though, we start with cross claiming. If you take the entire MLS dataset we have at ASA, the most productive cross claiming season by g+ is about +0.5 g+ across the entire season. Half a goal. Intercepting a cross in the 6 yard box off the head of a striker itself is worth half a goal! It’s wrong, and I won’t stand for this goalkeeper cross claiming erasure #GKUnion.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/7/29/scream-and-shout-an-xclaim-model-for-goalkeeper-cross-collection)
+
+[By David Almona](https://bsky.app/profile/almondanalysis.bsky.social)
+
+At the end of a season in soccer, the Golden Glove is awarded to the goalkeeper that has kept the most clean sheets. It seems intuitive, as being the last line of defense, their job is mainly to stop any shots that make it past the defense from entering the goal. However, a clean sheet is when the _team_ prevents their opponent from scoring, not just the goalkeeper; it’s a team effort.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/7/28/a-new-goalkeeper-metric-clean-sheets-earned-cse)
 
 ## How scoring in the Men's World Cup compares to domestic leagues
 
@@ -75,18 +93,6 @@ _Our 2026 NWSL Season Previews have started and today we hit Racing Louisville a
 _If you’re more of an audio person, our friends at Expected Own Goals podded about San Diego and Louisville,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
 
 [Read More](https://www.americansocceranalysis.com/home/2026/3/7/2026-nwsl-previews-racing-louisville-san-diego-wave)
-
-_Our 2026 NWSL Season Previews have started and today we hit Chicago and Bay. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals spoke to Meredith about both the Dash and the Courage,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/7/2026-nwsl-previews-houston-dash-north-carolina-courage)
-
-_Our 2026 NWSL Season Previews have started and today we hit Chicago and Bay. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals spoke to our own_ [_Catalina Bush on Utah Royals_](https://open.spotify.com/episode/0eimqQKnnYPY3WfnKTsRKm?si=-cemAB9qSG2EIeVmUkVBfg) _, and_ [_Trebor Tracy of Angels on Parade on Angel City_](https://open.spotify.com/episode/7J1c7VOYbqXc0JORD7YU3U?si=8lIMEgkGQ_W6_GNcGrkQBg) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/7/2026-nwsl-previews-utah-royals-angel-city)
 
 0items
 

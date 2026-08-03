@@ -1,18 +1,10 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-07-27T12:09:12.600711+00:00
+scraped_at: 2026-08-03T12:10:32.246951+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/playoffs/2025/#main-content)
-
-![All-Star Tickets Slim Alert](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1778617634/assets/logos/mls-clubs/ASW26_week_Logo_Horiz_LTBG_RGB_mgq0k7.png)
-
-Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star Skills Challenge presented by AT&T.
-
-[Game Tickets](https://www.ticketmaster.com/2026-mls-all-star-game-presented-charlotte-north-carolina-07-29-2026/event/2D006462A8FEC872?CAMEFROM=CFC_MLG_MOBILE_APP_2026ASG "Game Tickets")
-
-[Skills Tickets](https://www.ticketmaster.com/2026-mls-skills-challenge-presented-by-charlotte-north-carolina-07-28-2026/event/2D00646C9647BFEB?CAMEFROM=CFC_MLG_WEB_SITE_2026SKILLS "Skills Tickets")
 
 # Audi 2025 MLS Cup Playoffs
 

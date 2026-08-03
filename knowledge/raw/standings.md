@@ -1,18 +1,10 @@
 ---
 source_url: https://www.mlssoccer.com/standings/
-scraped_at: 2026-07-27T12:09:08.043173+00:00
+scraped_at: 2026-08-03T12:10:28.443254+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/standings/#main-content)
-
-![All-Star Tickets Slim Alert](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1778617634/assets/logos/mls-clubs/ASW26_week_Logo_Horiz_LTBG_RGB_mgq0k7.png)
-
-Secure your seats for the MLS All-Star Game presented by Chime and MLS All-Star Skills Challenge presented by AT&T.
-
-[Game Tickets](https://www.ticketmaster.com/2026-mls-all-star-game-presented-charlotte-north-carolina-07-29-2026/event/2D006462A8FEC872?CAMEFROM=CFC_MLG_MOBILE_APP_2026ASG "Game Tickets")
-
-[Skills Tickets](https://www.ticketmaster.com/2026-mls-skills-challenge-presented-by-charlotte-north-carolina-07-28-2026/event/2D00646C9647BFEB?CAMEFROM=CFC_MLG_WEB_SITE_2026SKILLS "Skills Tickets")
 
 # Standings
 
@@ -30,30 +22,30 @@ Latest News
 Latest News
 
 
-- [![Griezmann transforms Orlando, Casemiro debuts for Miami & more from Matchday 18](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qo9mjzkbymnt0kownj0c)\\
+- [![Lewandowski captivates Chicago, Evander makes history & more from Matchday 19](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iqornvfudgahpjnhvwjo)\\
 \\
-**Griezmann transforms Orlando, Casemiro debuts for Miami & more from Matchday 18**](https://www.mlssoccer.com/news/griezmann-transforms-orlando-casemiro-debuts-for-miami-more-from-matchday-18 "Griezmann transforms Orlando, Casemiro debuts for Miami & more from Matchday 18")
-- [![MLS vs. LIGA MX: What to know about 2026 MLS All-Star Game](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ffgzmsvrvzycdrbfovto)\\
+National Writer: Charles Boehm\\
 \\
-**MLS vs. LIGA MX: What to know about 2026 MLS All-Star Game**](https://www.mlssoccer.com/allstar/2026/news/mls-vs-liga-mx-what-to-know-about-2026-mls-all-star-game "MLS vs. LIGA MX: What to know about 2026 MLS All-Star Game")
-- [![MLS vs. LIGA MX: How to watch, stream 2026 MLS All-Star Game](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uqdj6cccg12baern5way)\\
+**Lewandowski captivates Chicago, Evander makes history & more from Matchday 19**](https://www.mlssoccer.com/news/lewandowski-captivates-chicago-evander-makes-history-more-from-matchday-19 "Lewandowski captivates Chicago, Evander makes history & more from Matchday 19")
+- [![Leagues Cup 2026: Which MLS clubs could win it all?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pymqihzjsvgt7txd4ful)\\
 \\
-**MLS vs. LIGA MX: How to watch, stream 2026 MLS All-Star Game**](https://www.mlssoccer.com/allstar/2026/news/mls-vs-liga-mx-how-to-watch-stream-2026-mls-all-star-game "MLS vs. LIGA MX: How to watch, stream 2026 MLS All-Star Game")
-- [![Vote for Goal of the Matchday – MLS Matchday 18](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/orp6fdzjb2ebdf3kvfh6)\\
+Voices: Joseph Lowery\\
 \\
-Goal of the Matchday\\
+**Leagues Cup 2026: Which MLS clubs could win it all?**](https://www.mlssoccer.com/competitions/leagues-cup/news/leagues-cup-2026-which-mls-clubs-could-win-it-all "Leagues Cup 2026: Which MLS clubs could win it all?")
+- [![Leagues Cup 2026: Key storylines you should know](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/u5zqwfmbpzlmr3dda3sl)\\
 \\
-**Vote for Goal of the Matchday – MLS Matchday 18**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-18-2026 "Vote for Goal of the Matchday – MLS Matchday 18")
-- [![Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urd5kasgyqydfaqtar2j)\\
+**Leagues Cup 2026: Key storylines you should know**](https://www.mlssoccer.com/competitions/leagues-cup/news/leagues-cup-2026-key-storylines-you-should-know "Leagues Cup 2026: Key storylines you should know")
+- [![Atlanta United loan Emmanuel Latte Lath to Union Berlin](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tzy1vadfa2vgmuev8lpl)\\
 \\
-Energy Moment of the Matchday\\
+Transfer Tracker\\
 \\
-**Tomáš Ostrák gives St. Louis CITY breakthrough \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tomas-ostrak-gives-st-louis-city-breakthrough-energy-moment-of-the-matchday-18-2026 "Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday")
-- [![LAFC's Denis Bouanga named named Player of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/morwrgdulvnbq1rga6dh)\\
+**Atlanta United loan Emmanuel Latte Lath to Union Berlin**](https://www.mlssoccer.com/news/atlanta-united-loan-emmanuel-latte-lath-to-union-berlin "Atlanta United loan Emmanuel Latte Lath to Union Berlin")
+- [![Portland Timbers complete season sweep of rival Seattle Sounders](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g4ugfxxems6mzhoxuhce)\\
 \\
-Player of the Matchday\\
+**Portland Timbers complete season sweep of rival Seattle Sounders**](https://www.mlssoccer.com/news/portland-timbers-complete-season-sweep-of-rival-seattle-sounders "Portland Timbers complete season sweep of rival Seattle Sounders")
+- [![Evander's epic game-winner makes history with FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ek4ul0r5rxsjeztqy9b3)\\
 \\
-**LAFC's Denis Bouanga named named Player of the Matchday**](https://www.mlssoccer.com/news/lafc-denis-bouanga-named-named-player-of-the-matchday-18-2026 "LAFC's Denis Bouanga named named Player of the Matchday")
+**Evander's epic game-winner makes history with FC Cincinnati**](https://www.mlssoccer.com/news/evander-s-epic-game-winner-makes-history-with-fc-cincinnati "Evander's epic game-winner makes history with FC Cincinnati")
 
 _Official_ Standings = Updated at conclusion of each match.
 
@@ -65,23 +57,23 @@ Latest Video
 Latest Video
 
 
-- [![Moves of the Matchday: Best skills from Matchday 18](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cgvpabgktys7cdmo39xr)\\
+- [![MLS All-Stars delight vs. LIGA MX All-Stars | Power Cam](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cgzstzrq4merkd8d5hzj)\\
 \\
-1:00\\
+2:33\\
 \\
-**Moves of the Matchday: Best skills from Matchday 18**](https://www.mlssoccer.com/video/moves-of-the-matchday-best-skills-from-matchday-18-2026 "Moves of the Matchday: Best skills from Matchday 18")
-- [![Player of the Matchday 18: Denis Bouanga](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/morwrgdulvnbq1rga6dh)\\
+**MLS All-Stars delight vs. LIGA MX All-Stars \| Power Cam**](https://www.mlssoccer.com/video/mls-all-stars-delight-vs-liga-mx-all-stars-power-cam "MLS All-Stars delight vs. LIGA MX All-Stars | Power Cam")
+- [![WATCH: Brandon Bye's late heroics lead Portland in Cascadia clash](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bi5rmgqneam8utgris3u)\\
 \\
-1:25\\
+10:30\\
 \\
-**Player of the Matchday 18: Denis Bouanga**](https://www.mlssoccer.com/video/player-of-the-matchday-18-denis-bouanga-lafc-2026 "Player of the Matchday 18: Denis Bouanga")
-- [![Energy Moment of the Matchday 18: Tomáš Ostrák](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urd5kasgyqydfaqtar2j)\\
+**WATCH: Brandon Bye's late heroics lead Portland in Cascadia clash**](https://www.mlssoccer.com/video/watch-brandon-bye-s-late-heroics-lead-portland-in-cascadia-clash "WATCH: Brandon Bye's late heroics lead Portland in Cascadia clash")
+- [![MATCH SNAPSHOT: Portland vs. Seattle](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zps6srv1qlefv4ci1pry)\\
 \\
-0:36\\
+0:56\\
 \\
-**Energy Moment of the Matchday 18: Tomáš Ostrák**](https://www.mlssoccer.com/video/energy-moment-of-the-matchday-18-tomas-ostrak-2026 "Energy Moment of the Matchday 18: Tomáš Ostrák")
-- [![WATCH: Every goal from Matchday 18!](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/sijyeitgds90xkpfpkod)\\
+**MATCH SNAPSHOT: Portland vs. Seattle**](https://www.mlssoccer.com/video/match-snapshot-portland-vs-seattle-x4849 "MATCH SNAPSHOT: Portland vs. Seattle")
+- [![Goal: B. Bye vs. SEA, 82'](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yvyobserqacxmygal8um)\\
 \\
-20:05\\
+0:58\\
 \\
-**WATCH: Every goal from Matchday 18!**](https://www.mlssoccer.com/video/watch-every-goal-from-matchday-18-2026 "WATCH: Every goal from Matchday 18!")
+**Goal: B. Bye vs. SEA, 82'**](https://www.mlssoccer.com/video/goal-b-bye-vs-sea-82 "Goal: B. Bye vs. SEA, 82'")
