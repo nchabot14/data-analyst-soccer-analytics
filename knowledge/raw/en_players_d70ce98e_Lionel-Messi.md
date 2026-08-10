@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-08-03T12:09:55.040826+00:00
+scraped_at: 2026-08-10T10:07:24.578010+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 June 24, 1987
-(Age: 39-040d)
+(Age: 39-047d)
 
 in Rosario, Argentina
 
@@ -50,11 +50,15 @@ More Player Info
 
 **MLS**
 
+**Leagues Cup**
+
 **CCC**
 
 **MP**
 
 15
+
+1
 
 2
 
@@ -62,17 +66,23 @@ More Player Info
 
 1280
 
+90
+
 180
 
 **Gls**
 
 12
 
+2
+
 1
 
 **Ast**
 
 7
+
+1
 
 0
 
@@ -133,7 +143,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=1f44ac21&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1bf33a9a&p5yrfrom=2025-2026&player_id6=b19db005&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=69384e5d&p2yrfrom=2026&player_id3=c4486bac&p3yrfrom=2025-2026&player_id4=715bf047&p4yrfrom=2026&player_id5=92e7e919&p5yrfrom=2026&player_id6=4a1a9578&p6yrfrom=2025-2026)
 
 - Stats by Competition
 
@@ -186,13 +196,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=1f44ac21&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1bf33a9a&p5yrfrom=2025-2026&player_id6=b19db005&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=69384e5d&p2yrfrom=2026&player_id3=c4486bac&p3yrfrom=2025-2026&player_id4=715bf047&p4yrfrom=2026&player_id5=92e7e919&p5yrfrom=2026&player_id6=4a1a9578&p6yrfrom=2025-2026)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_5178510163)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_6772872391)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -480,8 +490,8 @@ Miscellaneous Stats: Domestic Leagues Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 6 | 373 | 1 | 2 | 1 | 120 | 0 | 2 | 7 | 624 | 10 | 1 | 14 | 1,117 | 11 | 5 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 19 | 1,489 | 20 | 11 |  |  |  |  | 3 | 229 | 2 | 2 | 22 | 1,718 | 22 | 13 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 28 | 2,421 | 29 | 16 |  |  |  |  | 15 | 1,196 | 8 | 2 | 43 | 3,617 | 37 | 18 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 15 | 1,280 | 12 | 7 |  |  |  |  | 2 | 180 | 1 | 0 | 17 | 1,460 | 13 | 7 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/Lionel-Messi-Match-Logs) |
-| [23 Seasons](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)\* | 3 Clubs |  |  | 645 | 52,640 | 558 | 257 | 49 | 4,495 | 32 | 24 | 191 | 15,933 | 152 | 46 | 885 | 73,068 | 742 | 327 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 15 | 1,280 | 12 | 7 |  |  |  |  | 3 | 270 | 3 | 1 | 18 | 1,550 | 15 | 8 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/Lionel-Messi-Match-Logs) |
+| [23 Seasons](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)\* | 3 Clubs |  |  | 645 | 52,640 | 558 | 257 | 49 | 4,495 | 32 | 24 | 192 | 16,023 | 154 | 47 | 886 | 73,158 | 744 | 328 |  |
 
 Player Club Summary Table
 
@@ -1579,10 +1589,10 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
-· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
-· [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
+· [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
+· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com
@@ -1655,4 +1665,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2025-2026&player_id3=1f44ac21&p3yrfrom=2025-2026&player_id4=69384e5d&p4yrfrom=2026&player_id5=1bf33a9a&p5yrfrom=2025-2026&player_id6=b19db005&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=69384e5d&p2yrfrom=2026&player_id3=c4486bac&p3yrfrom=2025-2026&player_id4=715bf047&p4yrfrom=2026&player_id5=92e7e919&p5yrfrom=2026&player_id6=4a1a9578&p6yrfrom=2025-2026)

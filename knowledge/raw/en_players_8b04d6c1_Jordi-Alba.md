@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-08-03T12:10:12.878456+00:00
+scraped_at: 2026-08-10T10:07:40.221235+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 30-363d)
+(Age: 31-005d)
 
 in Copenhagen, Denmark
 
@@ -118,7 +118,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=6025fab1&p2yrfrom=2025-2026&player_id3=867239d3&p3yrfrom=2025-2026&player_id4=a9202def&p4yrfrom=2025-2026&player_id5=01c3aff5&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&player_id2=57d88cf9&player_id3=53539318&player_id4=6025fab1&player_id5=654f4e63&player_id6=867239d3)
 
 - Stats by Competition
 
@@ -162,13 +162,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=6025fab1&p2yrfrom=2025-2026&player_id3=867239d3&p3yrfrom=2025-2026&player_id4=a9202def&p4yrfrom=2025-2026&player_id5=01c3aff5&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&player_id2=57d88cf9&player_id3=53539318&player_id4=6025fab1&player_id5=654f4e63&player_id6=867239d3)
 
 - On this page
 
 
   - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
-  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_5115367219)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_8349237343)
   - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
   - [Miscellaneous Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_misc)
@@ -229,7 +229,7 @@ Domestic Leagues
 | 2022-2023 | 26 | [Tottenham](https://fbref.com/en/squads/361ca564/2022-2023/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | 8th | 35 | 35 | 3,131 | 34.8 | 4 | 5 | 9 | 4 | 0 | 0 | 5 | 0 | 0.11 | 0.14 | 0.26 | 0.11 | 0.26 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2022-2023/summary/Pierre-Hojbjerg-Match-Logs) |
 | 2023-2024 | 27 | [Tottenham](https://fbref.com/en/squads/361ca564/2023-2024/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | 5th | 36 | 8 | 1,311 | 14.6 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2023-2024/summary/Pierre-Hojbjerg-Match-Logs) |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | 2nd | 30 | 30 | 2,664 | 29.6 | 2 | 4 | 6 | 2 | 0 | 0 | 5 | 0 | 0.07 | 0.14 | 0.20 | 0.07 | 0.20 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2024-2025/summary/Pierre-Hojbjerg-Match-Logs) |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | 5th | 32 | 30 | 2,712 | 30.1 | 4 | 5 | 9 | 4 | 0 | 0 | 4 | 0 | 0.13 | 0.17 | 0.30 | 0.13 | 0.30 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/summary/Pierre-Hojbjerg-Match-Logs) |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | 5th | 32 | 30 | 2,712 | 30.1 | 4 | 5 | 9 | 4 | 0 | 0 | 4 | 0 | 0.13 | 0.17 | 0.30 | 0.13 | 0.30 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/summary/Pierre-Hojbjerg-Match-Logs) |
 | 14 Seasons | 6 Clubs |  | 3 Leagues |  | 372 | 299 | 27,796 | 308.8 | 20 | 29 | 49 | 20 | 0 | 0 | 60 | 3 | 0.06 | 0.09 | 0.16 | 0.06 | 0.16 |  |
 |  | Country | Comp | LgRank | MP | Starts | Min | 90s | Gls | Ast | G+A | G-PK | PK | PKatt | CrdY | CrdR | Gls | Ast | G+A | G-PK | G+A-PK | Matches |
 | Tottenham (4 Seasons) |  | 1 League |  | 145 | 117 | 11,058 | 122.9 | 8 | 11 | 19 | 8 | 0 | 0 | 21 | 0 | 0.07 | 0.09 | 0.15 | 0.07 | 0.15 |  |
@@ -254,12 +254,9 @@ Javascript is required for the selection of a player.
 
 Choice is:
 
-Ex: Luka Modrić, Paul Pogba, Éderson Silva
+Ex: Jude Bellingham, David Beckham, Luka Modrić
 
 Career
-
-
-2025-2026
 
 
 Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-logo.svg)
@@ -270,7 +267,7 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News Archive](https://fbref.com/en/news/8b04d6c1)
 - [Player News RSS Feed](https://fbref.com/en/news/8b04d6c1/rss)
 
-- Bloggers! Put your articles here for free. See the [Sports Reference Linker](https://fbref.com/en/linker/) for details.
+- [Sports Reference Linker](https://fbref.com/en/linker/) \-\- Link your blog posts to our site & get your articles in front of thousands of fans.
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
@@ -298,7 +295,7 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 | 2022-2023 | 26 | [Tottenham](https://fbref.com/en/squads/361ca564/2022-2023/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | 8th | 34.8 | 4 | 33 | 9 | 27.3 | 0.95 | 0.26 | 0.12 | 0.44 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2022-2023/summary/Pierre-Hojbjerg-Match-Logs) |
 | 2023-2024 | 27 | [Tottenham](https://fbref.com/en/squads/361ca564/2023-2024/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | 5th | 14.6 | 0 | 19 | 6 | 31.6 | 1.30 | 0.41 | 0.00 | 0.00 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2023-2024/summary/Pierre-Hojbjerg-Match-Logs) |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | 2nd | 29.6 | 2 | 33 | 8 | 24.2 | 1.11 | 0.27 | 0.06 | 0.25 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2024-2025/summary/Pierre-Hojbjerg-Match-Logs) |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | 5th | 30.1 | 4 | 46 | 14 | 30.4 | 1.53 | 0.46 | 0.09 | 0.29 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/summary/Pierre-Hojbjerg-Match-Logs) |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | 5th | 30.1 | 4 | 46 | 14 | 30.4 | 1.53 | 0.46 | 0.09 | 0.29 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/summary/Pierre-Hojbjerg-Match-Logs) |
 | 14 Seasons | 6 Clubs |  | 3 Leagues |  | 308.8 | 20 | 319 | 113 | 29.8 | 1.15 | 0.37 | 0.06 | 0.18 | 0 | 0 |  |
 |  | Country | Comp | LgRank | 90s | Gls | Sh | SoT | SoT% | Sh/90 | SoT/90 | G/Sh | G/SoT | PK | PKatt | Matches |
 | Tottenham (4 Seasons) |  | 1 League |  | 122.9 | 8 | 97 | 33 | 34.0 | 0.79 | 0.27 | 0.08 | 0.24 | 0 | 0 |  |
@@ -340,7 +337,7 @@ Shooting: Domestic Leagues Table
 | 2022-2023 | 26 | [Tottenham](https://fbref.com/en/squads/361ca564/2022-2023/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | 8th | 35 | 3,131 | 89 | 91.5 | 34.8 | 35 | 89 | 33 | 0 |  | 0 | 1.63 | 64 | 57 | +7 | +0.20 | +0.20 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2022-2023/summary/Pierre-Hojbjerg-Match-Logs) |
 | 2023-2024 | 27 | [Tottenham](https://fbref.com/en/squads/361ca564/2023-2024/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | 5th | 36 | 1,311 | 36 | 38.3 | 14.6 | 8 | 83 | 4 | 28 | 23 | 2 | 1.81 | 32 | 28 | +4 | +0.27 | -0.11 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2023-2024/summary/Pierre-Hojbjerg-Match-Logs) |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | 2nd | 30 | 2,664 | 89 | 87.1 | 29.6 | 30 | 89 | 28 | 0 |  | 1 | 1.97 | 64 | 36 | +28 | +0.95 | +1.17 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2024-2025/summary/Pierre-Hojbjerg-Match-Logs) |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | 5th | 32 | 2,712 | 85 | 88.6 | 30.1 | 30 | 89 | 25 | 2 | 24 | 0 | 1.75 | 54 | 40 | +14 | +0.46 | -0.57 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/summary/Pierre-Hojbjerg-Match-Logs) |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | 5th | 32 | 2,712 | 85 | 88.6 | 30.1 | 30 | 89 | 25 | 2 | 24 | 0 | 1.75 | 54 | 40 | +14 | +0.46 | -0.57 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/summary/Pierre-Hojbjerg-Match-Logs) |
 | 14 Seasons | 6 Clubs |  | 3 Leagues |  | 372 | 27,796 | 75 | 53.6 | 308.8 | 299 | 89 | 257 | 73 | 23 | 40 | 1.57 | 506 | 437 | +69 | +0.23 | -0.11 |  |
 |  | Country | Comp | LgRank | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 | On-Off | Matches |
 | Tottenham (4 Seasons) |  | 1 League |  | 145 | 11,058 | 76 | 80.8 | 122.9 | 117 | 89 | 108 | 28 | 23 | 3 | 1.75 | 230 | 164 | +66 | +0.54 | +0.33 |  |
@@ -381,7 +378,7 @@ Playing Time: Domestic Leagues Table
 | 2022-2023 | 26 | [Tottenham](https://fbref.com/en/squads/361ca564/2022-2023/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | 8th | 34.8 | 5 | 0 | 0 | 38 | 36 | 1 | 15 | 47 | 31 |  |  | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2022-2023/misc/Pierre-Hojbjerg-Match-Logs) |
 | 2023-2024 | 27 | [Tottenham](https://fbref.com/en/squads/361ca564/2023-2024/c9/Tottenham-Hotspur-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | 5th | 14.6 | 4 | 0 | 0 | 20 | 17 | 0 | 14 | 16 | 16 |  |  | 1 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2023-2024/misc/Pierre-Hojbjerg-Match-Logs) |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | 2nd | 29.6 | 5 | 0 | 0 | 30 | 39 | 0 | 19 | 42 | 45 |  |  | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2024-2025/misc/Pierre-Hojbjerg-Match-Logs) |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | 5th | 30.1 | 4 | 0 | 0 | 38 | 46 | 0 | 10 | 26 | 24 |  |  | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/misc/Pierre-Hojbjerg-Match-Logs) |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/c13/Marseille-Stats-Ligue-1) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | 5th | 30.1 | 4 | 0 | 0 | 38 | 46 | 0 | 10 | 26 | 24 |  |  | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/misc/Pierre-Hojbjerg-Match-Logs) |
 | 14 Seasons | 6 Clubs |  | 3 Leagues |  | 308.8 | 60 | 3 | 1 | 430 | 374 | 3 | 173 | 406 | 372 | 0 | 0 | 1 |  |
 |  | Country | Comp | LgRank | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG | Matches |
 | Tottenham (4 Seasons) |  | 1 League |  | 122.9 | 21 | 0 | 0 | 155 | 145 | 1 | 54 | 159 | 142 |  |  | 1 |  |
@@ -423,7 +420,7 @@ Miscellaneous Stats: Domestic Leagues Table
 | 2022-2023 | 26 | [Tottenham](https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | 35 | 3,131 | 4 | 5 | 2 | 135 | 0 | 0 | 7 | 624 | 1 | 2 | 44 | 3,890 | 5 | 7 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2022-2023/Pierre-Hojbjerg-Match-Logs) |
 | 2023-2024 | 27 | [Tottenham](https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | 36 | 1,311 | 0 | 0 | 3 | 223 | 0 | 0 |  |  |  |  | 39 | 1,534 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2023-2024/Pierre-Hojbjerg-Match-Logs) |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | 30 | 2,664 | 2 | 4 | 2 | 180 | 1 | 0 |  |  |  |  | 32 | 2,844 | 3 | 4 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2024-2025/Pierre-Hojbjerg-Match-Logs) |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | 32 | 2,712 | 4 | 5 | 3 | 300 | 1 | 0 | 8 | 659 | 0 | 0 | 43 | 3,671 | 5 | 5 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/Pierre-Hojbjerg-Match-Logs) |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | 32 | 2,712 | 4 | 5 | 3 | 300 | 1 | 0 | 8 | 659 | 0 | 0 | 43 | 3,671 | 5 | 5 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2025-2026/Pierre-Hojbjerg-Match-Logs) |
 | [14 Seasons](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#coverage)\* | 6 Clubs |  |  | 372 | 27,796 | 20 | 29 | 46 | 3,486 | 3 | 4 | 41 | 2,721 | 2 | 2 | 459 | 34,003 | 25 | 35 |  |
 
 Player Club Summary Table
@@ -499,10 +496,10 @@ Player Club Summary Table
 | 2022-2023 | 26 | [Tottenham](https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats) | **£ 100,000** (€ 116,237, $127,101) | **£ 5,200,000** (€ 6,044,330, $6,609,237) |  |
 | 2023-2024 | 27 | [Tottenham](https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats) | **£ 100,000** (€ 118,369, $127,204) | **£ 5,200,000** (€ 6,155,169, $6,614,600) |  |
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | **€ 118,846** (£ 100,296, $134,638) | **€ 6,180,000** (£ 5,215,400, $7,001,184) | Unverified estimation |
-| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,850, $140,917) | **€ 6,360,000** (£ 5,504,195, $7,327,672) | Unverified estimation |
+| 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | **€ 122,308** (£ 105,850, $140,917) | **€ 6,360,000** (£ 5,504,195, $7,327,672) | Unverified estimation |
 |  |  |  |  |  |  |  |  |
-| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,850, $140,917) | **€ 6,360,000** (£ 5,504,195, $7,327,672) | Unverified estimation |
-| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 105,850, $140,917) | **€ 6,360,000** (£ 5,504,195, $7,327,672) | Unverified estimation |
+| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 104,404, $139,090) | **€ 6,360,000** (£ 5,429,012, $7,232,684) | Unverified estimation |
+| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 104,404, $139,090) | **€ 6,360,000** (£ 5,429,012, $7,232,684) | Unverified estimation |
 | [13 Seasons](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#coverage)\* |  | 6 Clubs |  |  |  |  |  |
 
 Wages Table
@@ -510,9 +507,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
-· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
 · [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
+· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
 ### About FBref.com
@@ -576,4 +573,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2025-2026&player_id2=6025fab1&p2yrfrom=2025-2026&player_id3=867239d3&p3yrfrom=2025-2026&player_id4=a9202def&p4yrfrom=2025-2026&player_id5=01c3aff5&p5yrfrom=2025-2026&player_id6=5ff4ab71&p6yrfrom=2025-2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&player_id2=57d88cf9&player_id3=53539318&player_id4=6025fab1&player_id5=654f4e63&player_id6=867239d3)

@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-08-03T12:10:22.544968+00:00
+scraped_at: 2026-08-10T10:07:43.450936+00:00
 source: mlssoccer.com
 ---
 
@@ -22,8 +22,8 @@ source: mlssoccer.com
 ![share](https://www.mlssoccer.com/assets/images/share.png)
 
 - Copy URL
-- Share on Facebook
-- Share on X
+- [Share on Facebook](https://www.mlssoccer.com/about/)
+- [Share on X](https://twitter.com/intent/tweet?text=About+Major+League+Soccer&url=https%3A%2F%2Fwww.mlssoccer.com%2Fabout%2F)
 
 Major League Soccer
 
@@ -40,5 +40,5 @@ Major League Soccer is the top-flight professional soccer league in the United S
 ![share](https://www.mlssoccer.com/assets/images/share.png)
 
 - Copy URL
-- Share on Facebook
-- Share on X
+- [Share on Facebook](https://www.mlssoccer.com/about/)
+- [Share on X](https://twitter.com/intent/tweet?text=About+Major+League+Soccer&url=https%3A%2F%2Fwww.mlssoccer.com%2Fabout%2F)

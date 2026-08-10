@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-08-03T12:10:24.958122+00:00
+scraped_at: 2026-08-10T10:07:46.724103+00:00
 source: mlssoccer.com
 ---
 
@@ -25,31 +25,25 @@ source: mlssoccer.com
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Lewandowski captivates Chicago, Evander makes history & more from Matchday 19](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iqornvfudgahpjnhvwjo)\\
+- [![Robert Lewandowski helps Chicago Fire FC deliver late theatrics](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hftebiv60q6ajp2xffpn)\\
 \\
-National Writer: Charles Boehm\\
-\\
-**Lewandowski captivates Chicago, Evander makes history & more from Matchday 19**](https://www.mlssoccer.com/news/lewandowski-captivates-chicago-evander-makes-history-more-from-matchday-19 "Lewandowski captivates Chicago, Evander makes history & more from Matchday 19")
+**Robert Lewandowski helps Chicago Fire FC deliver late theatrics**](https://www.mlssoccer.com/competitions/leagues-cup/news/robert-lewandowski-helps-chicago-fire-fc-deliver-late-theatrics "Robert Lewandowski helps Chicago Fire FC deliver late theatrics")
 
-- [![Leagues Cup 2026: Which MLS clubs could win it all?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pymqihzjsvgt7txd4ful)\\
+- [![Cavan Sullivan's standout performance sparks Philadelphia Union ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gktldq4c79ywhghykvfg)\\
 \\
-Voices: Joseph Lowery\\
+**Cavan Sullivan's standout performance sparks Philadelphia Union**](https://www.mlssoccer.com/competitions/leagues-cup/news/cavan-sullivan-sparks-philadelphia-union-with-standout-performance-vs-necaxa "Cavan Sullivan's standout performance sparks Philadelphia Union ")
+- [![Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/npx0ih1z03igsbejfd0s)\\
 \\
-**Leagues Cup 2026: Which MLS clubs could win it all?**](https://www.mlssoccer.com/competitions/leagues-cup/news/leagues-cup-2026-which-mls-clubs-could-win-it-all "Leagues Cup 2026: Which MLS clubs could win it all?")
-- [![Leagues Cup 2026: Key storylines you should know](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/u5zqwfmbpzlmr3dda3sl)\\
+**Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick**](https://www.mlssoccer.com/competitions/leagues-cup/news/austin-fc-s-myrto-uzuni-stuns-puebla-with-rapid-fire-hat-trick "Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick ")
+- [![Seattle Sounders crush Querétaro to return to winning ways](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pzzooig1x3nhhxa36znd)\\
 \\
-**Leagues Cup 2026: Key storylines you should know**](https://www.mlssoccer.com/competitions/leagues-cup/news/leagues-cup-2026-key-storylines-you-should-know "Leagues Cup 2026: Key storylines you should know")
-- [![Atlanta United loan Emmanuel Latte Lath to Union Berlin](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tzy1vadfa2vgmuev8lpl)\\
+**Seattle Sounders crush Querétaro to return to winning ways**](https://www.mlssoccer.com/competitions/leagues-cup/news/seattle-sounders-crush-queretaro-to-return-to-winning-ways "Seattle Sounders crush Querétaro to return to winning ways")
+- [![Eddie Segura & LAFC stun Toluca with stoppage-time golazo](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urxvxnkob0emvowgbmsp)\\
 \\
-Transfer Tracker\\
+**Eddie Segura & LAFC stun Toluca with stoppage-time golazo**](https://www.mlssoccer.com/competitions/leagues-cup/news/eddie-segura-lafc-stun-toluca-with-stoppage-time-golazo "Eddie Segura & LAFC stun Toluca with stoppage-time golazo")
+- [![Real Salt Lake build Leagues Cup belief with Atlante rout](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/osgl1o7xygcimmdez6vh)\\
 \\
-**Atlanta United loan Emmanuel Latte Lath to Union Berlin**](https://www.mlssoccer.com/news/atlanta-united-loan-emmanuel-latte-lath-to-union-berlin "Atlanta United loan Emmanuel Latte Lath to Union Berlin")
-- [![Portland Timbers complete season sweep of rival Seattle Sounders](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g4ugfxxems6mzhoxuhce)\\
-\\
-**Portland Timbers complete season sweep of rival Seattle Sounders**](https://www.mlssoccer.com/news/portland-timbers-complete-season-sweep-of-rival-seattle-sounders "Portland Timbers complete season sweep of rival Seattle Sounders")
-- [![Evander's epic game-winner makes history with FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ek4ul0r5rxsjeztqy9b3)\\
-\\
-**Evander's epic game-winner makes history with FC Cincinnati**](https://www.mlssoccer.com/news/evander-s-epic-game-winner-makes-history-with-fc-cincinnati "Evander's epic game-winner makes history with FC Cincinnati")
+**Real Salt Lake build Leagues Cup belief with Atlante rout**](https://www.mlssoccer.com/news/real-salt-lake-build-leagues-cup-belief-with-atlante-rout "Real Salt Lake build Leagues Cup belief with Atlante rout")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -75,10 +69,13 @@ Power Rankings
 Power Rankings
 
 
+- [![Power Rankings: Evander shows elite level in FC Cincinnati thriller](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ucq6mowaxcl3jlgdeolx)\\
+\\
+**Power Rankings: Evander shows elite level in FC Cincinnati thriller**](https://www.mlssoccer.com/news/power-rankings-evander-shows-elite-level-in-fc-cincinnati-thriller "Power Rankings: Evander shows elite level in FC Cincinnati thriller")
+
 - [![Power Rankings: Luis Suárez puts Inter Miami back on top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rbsmmj2f2eyd4mixoxhs)\\
 \\
 **Power Rankings: Luis Suárez puts Inter Miami back on top**](https://www.mlssoccer.com/news/power-rankings-luis-suarez-puts-inter-miami-back-on-top "Power Rankings: Luis Suárez puts Inter Miami back on top")
-
 - [![Power Rankings: Son Heung-Min & LAFC get El Tráfico boost](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ntmenyrmuojr4bdlr8r6)\\
 \\
 **Power Rankings: Son Heung-Min & LAFC get El Tráfico boost**](https://www.mlssoccer.com/news/power-rankings-son-heung-min-lafc-get "Power Rankings: Son Heung-Min & LAFC get El Tráfico boost")
@@ -88,9 +85,6 @@ Power Rankings
 - [![Power Rankings: Nashville overtake San Jose, Vancouver for top spot](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pkqkksuaqmutzrujilbp)\\
 \\
 **Power Rankings: Nashville overtake San Jose, Vancouver for top spot**](https://www.mlssoccer.com/news/power-rankings-nashville-overtake-san-jose-vancouver-for-top-spot "Power Rankings: Nashville overtake San Jose, Vancouver for top spot")
-- [![Power Rankings: Nashville, New England battle for East supremacy](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/kvc48lzjm6ygoqj2ct6j)\\
-\\
-**Power Rankings: Nashville, New England battle for East supremacy**](https://www.mlssoccer.com/news/power-rankings-nashville-new-england-battle-for-east-supremacy "Power Rankings: Nashville, New England battle for East supremacy")
 
 [More](https://www.mlssoccer.com/news/topics/power-rankings/)
 
@@ -156,11 +150,11 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Bouanga heats up, Cali Clásico provides drama](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
+- [![Team of the Matchday: Lewandowski shines, Evander joins MLS elite](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
-**Team of the Matchday: Bouanga heats up, Cali Clásico provides drama**](https://www.mlssoccer.com/news/team-of-the-matchday-bouanga-heats-up-cali-clasico-provides-drama-md18-2026 "Team of the Matchday: Bouanga heats up, Cali Clásico provides drama")
+**Team of the Matchday: Lewandowski shines, Evander joins MLS elite**](https://www.mlssoccer.com/news/team-of-the-matchday-lewandowski-shines-evander-joins-mls-elite "Team of the Matchday: Lewandowski shines, Evander joins MLS elite")
 
 Goal of the Matchday
 
@@ -168,9 +162,11 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![St. Louis CITY's Tomáš Ostrák wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/thul82hs9x05okci0sil)\\
+- [![FC Cincinnati's Evander wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rpwdarpblikzx0xdp6bl)\\
 \\
-**St. Louis CITY's Tomáš Ostrák wins Goal of the Matchday**](https://www.mlssoccer.com/news/st-louis-city-s-tomas-ostrak-wins-goal-of-the-matchday "St. Louis CITY's Tomáš Ostrák wins Goal of the Matchday")
+Goal of the Matchday\\
+\\
+**FC Cincinnati's Evander wins Goal of the Matchday**](https://www.mlssoccer.com/news/fc-cincinnati-s-evander-wins-goal-of-the-matchday-x3395 "FC Cincinnati's Evander wins Goal of the Matchday")
 
 Energy Moment of the Matchday
 
@@ -178,11 +174,11 @@ Energy Moment of the Matchday
 Energy Moment of the Matchday
 
 
-- [![Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urd5kasgyqydfaqtar2j)\\
+- [![Ezekiel Alladoh brings late-game heroics for Philadelphia | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/usjtpbktnpflostsouko)\\
 \\
 Energy Moment of the Matchday\\
 \\
-**Tomáš Ostrák gives St. Louis CITY breakthrough \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tomas-ostrak-gives-st-louis-city-breakthrough-energy-moment-of-the-matchday-18-2026 "Tomáš Ostrák gives St. Louis CITY breakthrough | Energy Moment of the Matchday")
+**Ezekiel Alladoh brings late-game heroics for Philadelphia \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/ezekiel-alladoh-brings-late-game-heroics-for-philadelphia-energy-moment-of-the-matchday "Ezekiel Alladoh brings late-game heroics for Philadelphia | Energy Moment of the Matchday")
 
 Transfer Tracker
 
@@ -190,37 +186,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Atlanta United loan Emmanuel Latte Lath to Union Berlin](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tzy1vadfa2vgmuev8lpl)\\
+- [![San Diego FC transfer Andrés Reyes to Atlético Nacional](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gvfft0ytpqaz7qmb4rde)\\
 \\
 Transfer Tracker\\
 \\
-**Atlanta United loan Emmanuel Latte Lath to Union Berlin**](https://www.mlssoccer.com/news/atlanta-united-loan-emmanuel-latte-lath-to-union-berlin "Atlanta United loan Emmanuel Latte Lath to Union Berlin")
-- [![DC United sign homegrown midfielder Kamil Castillo](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/q3mwnkfybvtrstkgfufy)\\
+**San Diego FC transfer Andrés Reyes to Atlético Nacional**](https://www.mlssoccer.com/news/san-diego-fc-transfer-andres-reyes-to-atletico-nacional "San Diego FC transfer Andrés Reyes to Atlético Nacional")
+- [![LA Galaxy transfer Edwin Cerrillo to Club América](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ahtupcpck7qxkblnzjg6)\\
 \\
 Transfer Tracker\\
 \\
-**DC United sign homegrown midfielder Kamil Castillo**](https://www.mlssoccer.com/news/dc-united-sign-homegrown-midfielder-kamil-castillo "DC United sign homegrown midfielder Kamil Castillo")
-- [![Austin FC sign midfielder Jorge Alastuey](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lwdol0ryzyptakvd7dn7)\\
+**LA Galaxy transfer Edwin Cerrillo to Club América**](https://www.mlssoccer.com/news/la-galaxy-transfer-edwin-cerrillo-to-club-america "LA Galaxy transfer Edwin Cerrillo to Club América")
+- [![LA Galaxy sign Spanish midfielder Sergi Roberto](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/r1qhvb0odv1ruzaruq11)\\
 \\
 Transfer Tracker\\
 \\
-**Austin FC sign midfielder Jorge Alastuey**](https://www.mlssoccer.com/news/austin-fc-sign-midfielder-jorge-alastuey "Austin FC sign midfielder Jorge Alastuey")
+**LA Galaxy sign Spanish midfielder Sergi Roberto**](https://www.mlssoccer.com/news/la-galaxy-sign-spanish-midfielder-sergi-roberto "LA Galaxy sign Spanish midfielder Sergi Roberto")
 
-- [![Austin FC loan Nicolás Dubersarsky to Argentine club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/orasebg30ru3peudgcef)\\
+- [![LA Galaxy acquire Chucky Lozano from San Diego FC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lbz760xvvyjb2v0n98ac)\\
 \\
 Transfer Tracker\\
 \\
-**Austin FC loan Nicolás Dubersarsky to Argentine club**](https://www.mlssoccer.com/news/austin-fc-loan-nicolas-dubersarsky-to-argentine-club "Austin FC loan Nicolás Dubersarsky to Argentine club")
-- [![Colorado Rapids sign French midfielder Youssef Maziz](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zi9lcpmfi5vvbr9akcf3)\\
+**LA Galaxy acquire Chucky Lozano from San Diego FC**](https://www.mlssoccer.com/news/la-galaxy-acquire-chucky-lozano-from-san-diego-fc "LA Galaxy acquire Chucky Lozano from San Diego FC")
+- [![Atlanta United acquire Uruguayan midfielder Mauricio Amaro](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/aow1adxoqpka0sst8hnr)\\
 \\
 Transfer Tracker\\
 \\
-**Colorado Rapids sign French midfielder Youssef Maziz**](https://www.mlssoccer.com/news/colorado-rapids-sign-french-midfielder-youssef-maziz "Colorado Rapids sign French midfielder Youssef Maziz")
-- [![Charlotte FC transfer Kerwin Vargas to Athletico Paranaense](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/v7atqp0lbkqa66gjbjby)\\
+**Atlanta United acquire Uruguayan midfielder Mauricio Amaro**](https://www.mlssoccer.com/news/atlanta-united-acquire-uruguayan-midfielder-mauricio-amaro "Atlanta United acquire Uruguayan midfielder Mauricio Amaro")
+- [![Columbus Crew acquire Chilean forward Gonzalo Tapia](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/omjfayqp4yv6bqksice7)\\
 \\
 Transfer Tracker\\
 \\
-**Charlotte FC transfer Kerwin Vargas to Athletico Paranaense**](https://www.mlssoccer.com/news/charlotte-fc-transfer-kerwin-vargas-to-athletico-paranaense "Charlotte FC transfer Kerwin Vargas to Athletico Paranaense")
+**Columbus Crew acquire Chilean forward Gonzalo Tapia**](https://www.mlssoccer.com/news/columbus-crew-acquire-chilean-forward-gonzalo-tapia "Columbus Crew acquire Chilean forward Gonzalo Tapia")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 
