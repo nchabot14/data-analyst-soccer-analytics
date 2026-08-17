@@ -1,10 +1,12 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-08-10T10:07:40.221235+00:00
+scraped_at: 2026-08-17T09:28:25.150947+00:00
 source: fbref.com
 ---
 
-![Pierre Højbjerg headshot](https://fbref.com/req/202302030/images/headshots/8b04d6c1_2022.jpg)
+We're hiring a Scrum Master to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/p/ba2fef1394d1-scrum-master).
+
+![Pierre Højbjerg headshot](https://fbref.com/req/202608120/images/headshots/8b04d6c1_2022.jpg)
 
 # Pierre Højbjerg
 
@@ -16,7 +18,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 31-005d)
+(Age: 31-012d)
 
 in Copenhagen, Denmark
 
@@ -168,7 +170,7 @@ Stathead & Player Comparison
 
 
   - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
-  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_8349237343)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_2108112068)
   - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
   - [Miscellaneous Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_misc)
@@ -208,8 +210,8 @@ Domestic Leagues
 
 - [Goal Logs](https://fbref.com/en/players/8b04d6c1/goallogs/dom_lg/Pierre-Hojbjerg-Goal-Log)
 
-|  |  | Playing Time | Performance | Per 90 Minutes |  |
-| --- | --- | --- | --- | --- | --- |
+|  | Playing Time | Performance | Per 90 Minutes |  |
+| --- | --- | --- | --- | --- |
 | Season | Age | Squad | Country | Comp | LgRank | MP | Starts | Min | 90s | Gls | Ast | G+A | G-PK | PK | PKatt | CrdY | CrdR | Gls | Ast | G+A | G-PK | G+A-PK | Matches |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-2013 | 16 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2012-2013/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2012-2013/2012-2013-Bundesliga-Stats) | 1st | 2 | 0 | 21 | 0.2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2012-2013/summary/Pierre-Hojbjerg-Match-Logs) |
@@ -316,8 +318,8 @@ Shooting: Domestic Leagues Table
 
 ## Playing Time: Domestic Leagues
 
-|  |  | Playing Time | Starts | Subs | Team Success |  |
-| --- | --- | --- | --- | --- | --- | --- |
+|  | Playing Time | Starts | Subs | Team Success |  |
+| --- | --- | --- | --- | --- | --- |
 | Season | Age | Squad | Country | Comp | LgRank | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 | On-Off | Matches |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2012-2013 | 16 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2012-2013/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2012-2013/2012-2013-Bundesliga-Stats) | 1st | 2 | 21 | 11 | 0.7 | 0.2 | 0 |  |  | 2 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2012-2013/summary/Pierre-Hojbjerg-Match-Logs) |
@@ -498,8 +500,8 @@ Player Club Summary Table
 | 2024-2025 | 28 | [Marseille](https://fbref.com/en/squads/5725cc7b/2024-2025/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2024-2025/2024-2025-Ligue-1-Stats) | **€ 118,846** (£ 100,296, $134,638) | **€ 6,180,000** (£ 5,215,400, $7,001,184) | Unverified estimation |
 | 2025-2026 | 29 | [Marseille](https://fbref.com/en/squads/5725cc7b/2025-2026/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/2025-2026/2025-2026-Ligue-1-Stats) | **€ 122,308** (£ 105,850, $140,917) | **€ 6,360,000** (£ 5,504,195, $7,327,672) | Unverified estimation |
 |  |  |  |  |  |  |  |  |
-| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 104,404, $139,090) | **€ 6,360,000** (£ 5,429,012, $7,232,684) | Unverified estimation |
-| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 104,404, $139,090) | **€ 6,360,000** (£ 5,429,012, $7,232,684) | Unverified estimation |
+| 2026-2027 | 30 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 104,461, $140,944) | **€ 6,360,000** (£ 5,431,985, $7,329,066) | Unverified estimation |
+| 2027-2028 | 31 | [Marseille](https://fbref.com/en/squads/5725cc7b/Marseille-Stats) | [fr](https://fbref.com/en/country/FRA/France-Football) [FRA](https://fbref.com/en/country/FRA/France-Football) | 1. [Ligue 1](https://fbref.com/en/comps/13/Ligue-1-Stats) | **€ 122,308** (£ 104,461, $140,944) | **€ 6,360,000** (£ 5,431,985, $7,329,066) | Unverified estimation |
 | [13 Seasons](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#coverage)\* |  | 6 Clubs |  |  |  |  |  |
 
 Wages Table
@@ -508,8 +510,8 @@ Wages Table
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
-· [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
+· [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
 ### About FBref.com

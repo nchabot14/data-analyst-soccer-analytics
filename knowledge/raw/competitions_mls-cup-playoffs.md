@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-08-10T10:07:54.245520+00:00
+scraped_at: 2026-08-17T09:28:40.195429+00:00
 source: mlssoccer.com
 ---
 
@@ -14,6 +14,8 @@ source: mlssoccer.com
 - [News](https://www.mlssoccer.com/playoffs/2025/news/)
 - [Video](https://www.mlssoccer.com/playoffs/2025/video/)
 - [Bracket Challenge](https://bracket.mlssoccer.com/)
+
+![image unavailable](https://www.mlssoccer.com/assets/images/MLS-simpleloader-200x200.gif)
 
 Sign Up
 

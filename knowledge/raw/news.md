@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-08-10T10:07:46.724103+00:00
+scraped_at: 2026-08-17T09:28:31.241850+00:00
 source: mlssoccer.com
 ---
 
@@ -25,25 +25,29 @@ source: mlssoccer.com
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Robert Lewandowski helps Chicago Fire FC deliver late theatrics](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hftebiv60q6ajp2xffpn)\\
+- [![Nashville's statement, Houston's surge & more from Matchday 20](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ukudjhbhqlloawe1xceh)\\
 \\
-**Robert Lewandowski helps Chicago Fire FC deliver late theatrics**](https://www.mlssoccer.com/competitions/leagues-cup/news/robert-lewandowski-helps-chicago-fire-fc-deliver-late-theatrics "Robert Lewandowski helps Chicago Fire FC deliver late theatrics")
+National Writer: Charles Boehm\\
+\\
+**Nashville's statement, Houston's surge & more from Matchday 20**](https://www.mlssoccer.com/news/nashville-s-statement-houston-s-surge-more-from-matchday-20 "Nashville's statement, Houston's surge & more from Matchday 20")
 
-- [![Cavan Sullivan's standout performance sparks Philadelphia Union ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gktldq4c79ywhghykvfg)\\
+- [![Petar Musa takes Golden Boot lead in heroic Copa Tejas victory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oeuckwn2lpa3nlwjeg6e)\\
 \\
-**Cavan Sullivan's standout performance sparks Philadelphia Union**](https://www.mlssoccer.com/competitions/leagues-cup/news/cavan-sullivan-sparks-philadelphia-union-with-standout-performance-vs-necaxa "Cavan Sullivan's standout performance sparks Philadelphia Union ")
-- [![Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/npx0ih1z03igsbejfd0s)\\
+**Petar Musa takes Golden Boot lead in heroic Copa Tejas victory**](https://www.mlssoccer.com/news/petar-musa-takes-golden-boot-lead-in-heroic-copa-tejas-victory "Petar Musa takes Golden Boot lead in heroic Copa Tejas victory")
+- [![LA Galaxy transfer Miki Yamane to Japanese club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/smeb3fpo885zfnxgcwoe)\\
 \\
-**Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick**](https://www.mlssoccer.com/competitions/leagues-cup/news/austin-fc-s-myrto-uzuni-stuns-puebla-with-rapid-fire-hat-trick "Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick ")
-- [![Seattle Sounders crush Querétaro to return to winning ways](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pzzooig1x3nhhxa36znd)\\
+Transfer Tracker\\
 \\
-**Seattle Sounders crush Querétaro to return to winning ways**](https://www.mlssoccer.com/competitions/leagues-cup/news/seattle-sounders-crush-queretaro-to-return-to-winning-ways "Seattle Sounders crush Querétaro to return to winning ways")
-- [![Eddie Segura & LAFC stun Toluca with stoppage-time golazo](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urxvxnkob0emvowgbmsp)\\
+**LA Galaxy transfer Miki Yamane to Japanese club**](https://www.mlssoccer.com/news/la-galaxy-transfer-miki-yamane-to-japanese-club "LA Galaxy transfer Miki Yamane to Japanese club")
+- [![Cavan Sullivan inspires incredible Philadelphia Union comeback](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tk0bd6az1lfpofhsajqh)\\
 \\
-**Eddie Segura & LAFC stun Toluca with stoppage-time golazo**](https://www.mlssoccer.com/competitions/leagues-cup/news/eddie-segura-lafc-stun-toluca-with-stoppage-time-golazo "Eddie Segura & LAFC stun Toluca with stoppage-time golazo")
-- [![Real Salt Lake build Leagues Cup belief with Atlante rout](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/osgl1o7xygcimmdez6vh)\\
+**Cavan Sullivan inspires incredible Philadelphia Union comeback**](https://www.mlssoccer.com/news/cavan-sullivan-inspires-incredible-philadelphia-union-comeback "Cavan Sullivan inspires incredible Philadelphia Union comeback")
+- [![Nashville SC flex Supporters' Shield credentials in Inter Miami rout](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pjdtrmjbpv9l4mzq5xoo)\\
 \\
-**Real Salt Lake build Leagues Cup belief with Atlante rout**](https://www.mlssoccer.com/news/real-salt-lake-build-leagues-cup-belief-with-atlante-rout "Real Salt Lake build Leagues Cup belief with Atlante rout")
+**Nashville SC flex Supporters' Shield credentials in Inter Miami rout**](https://www.mlssoccer.com/news/nashville-sc-flex-supporters-shield-credentials-with-miami-trouncing "Nashville SC flex Supporters' Shield credentials in Inter Miami rout")
+- [![San Diego FC snatch SoCal bragging rights over LAFC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/eu7xreis2u9mx6onod26)\\
+\\
+**San Diego FC snatch SoCal bragging rights over LAFC**](https://www.mlssoccer.com/news/anders-dreyer-san-diego-fc-snatch-socal-bragging-rights-over-lafc "San Diego FC snatch SoCal bragging rights over LAFC")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -59,7 +63,7 @@ Our top stories, must-see matches, exclusive offers, and more.
 
 |     |     |     |
 | --- | --- | --- |
-|  |  | By checking this box, I hereby consent to receive additional information from Major League Soccer, its Clubs, Soccer United Marketing and each of their respective affiliates and marketing partners and I agree to the MLSSoccer.com [Privacy Policy](https://www.mlssoccer.com/legal/privacy-policy) and [Terms & Conditions](https://www.mlssoccer.com/legal/terms-of-service). |
+|  |  | By checking this box, I hereby consent to receive additional information from Major League Soccer, its Clubs, Soccer United Marketing and each of their respective affiliates and marketing partners and I agree to the MLSSoccer.com [Privacy Policy](https://www.mlssoccer.com/legal/privacy-policy) and [Terms of Service](https://www.mlssoccer.com/legal/terms-of-service). |
 
 Sign Up
 
@@ -94,10 +98,18 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
+- [![How Antoine Griezmann has inspired Orlando City teammates](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ecg6t4scm4lvypxrc98r)\\
+\\
+National Writer: Charles Boehm\\
+\\
+**How Antoine Griezmann has inspired Orlando City teammates**](https://www.mlssoccer.com/news/how-antoine-griezmann-has-inspired-orlando-city-teammates "How Antoine Griezmann has inspired Orlando City teammates")
+
+- [![Griezmann vs. Evander: Orlando City welcome FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/o8ke6rs6yu52nbchussu)\\
+\\
+**Griezmann vs. Evander: Orlando City welcome FC Cincinnati**](https://www.mlssoccer.com/news/griezmann-vs-evander-orlando-city-welcome-fc-cincinnati-md20-2026 "Griezmann vs. Evander: Orlando City welcome FC Cincinnati")
 - [![Evander's epic game-winner makes history with FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ek4ul0r5rxsjeztqy9b3)\\
 \\
 **Evander's epic game-winner makes history with FC Cincinnati**](https://www.mlssoccer.com/news/evander-s-epic-game-winner-makes-history-with-fc-cincinnati "Evander's epic game-winner makes history with FC Cincinnati")
-
 - [![Evander aims to lead FC Cincinnati's second-half turnaround](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/n3basuj9eb5uj0ttoevy)\\
 \\
 National Writer: Charles Boehm\\
@@ -106,14 +118,6 @@ National Writer: Charles Boehm\\
 - [![Evander vs. Werner: FC Cincinnati welcome San Jose Earthquakes](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dzjh4s1pgigctydn0lki)\\
 \\
 **Evander vs. Werner: FC Cincinnati welcome San Jose Earthquakes**](https://www.mlssoccer.com/news/evander-vs-werner-fc-cincinnati-welcome-san-jose-earthquakes "Evander vs. Werner: FC Cincinnati welcome San Jose Earthquakes")
-- [![San Jose Earthquakes look to ride World Cup energy into Cali Clásico](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/a6rgm7szcgvejpeizwjj)\\
-\\
-National Writer: Charles Boehm\\
-\\
-**San Jose Earthquakes look to ride World Cup energy into Cali Clásico**](https://www.mlssoccer.com/news/san-jose-earthquakes-look-to-ride-world-cup-energy-into-cali-clasico "San Jose Earthquakes look to ride World Cup energy into Cali Clásico")
-- [![Preston Judd gets San Jose Earthquakes back on track](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/afzptinqbvyhxmhdzyxo)\\
-\\
-**Preston Judd gets San Jose Earthquakes back on track**](https://www.mlssoccer.com/news/preston-judd-brace-gets-earthquakes-back-on-track "Preston Judd gets San Jose Earthquakes back on track")
 
 [More](https://www.mlssoccer.com/news/topics/saturday-showdown/)
 
@@ -123,24 +127,24 @@ Sunday Night Soccer pres. by Continental Tire
 Sunday Night Soccer pres. by Continental Tire
 
 
+- [![Petar Musa takes Golden Boot lead in heroic Copa Tejas victory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oeuckwn2lpa3nlwjeg6e)\\
+\\
+**Petar Musa takes Golden Boot lead in heroic Copa Tejas victory**](https://www.mlssoccer.com/news/petar-musa-takes-golden-boot-lead-in-heroic-copa-tejas-victory "Petar Musa takes Golden Boot lead in heroic Copa Tejas victory")
+
+- [![Austin FC host FC Dallas for Copa Tejas rivalry match](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/sut6b81pf5cy4cjerbhr)\\
+\\
+**Austin FC host FC Dallas for Copa Tejas rivalry match**](https://www.mlssoccer.com/news/copa-tejas-heats-up-as-austin-fc-host-fc-dallas-on-sunday-night-soccer "Austin FC host FC Dallas for Copa Tejas rivalry match")
+- [![Seattle Sounders & Vancouver Whitecaps resume Cascadia Cup rivalry](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fgf1vvmix3s9dhp15p0c)\\
+\\
+**Seattle Sounders & Vancouver Whitecaps resume Cascadia Cup rivalry**](https://www.mlssoccer.com/news/seattle-sounders-vancouver-whitecaps-face-off-in-cascadia-cup-clash-md20-2026 "Seattle Sounders & Vancouver Whitecaps resume Cascadia Cup rivalry")
 - [![Columbus Crew "of old" soar into World Cup break](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fzlvwpsvzb91cyrgx7xx)\\
 \\
 **Columbus Crew "of old" soar into World Cup break**](https://www.mlssoccer.com/news/columbus-crew-of-old-soar-into-world-cup-break "Columbus Crew \"of old\" soar into World Cup break")
-
 - [![Steven Moreira ready for Cape Verde's historic World Cup journey](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ukmyrkj2cazhal1cvdmp)\\
 \\
 Voices: Sam Jones\\
 \\
 **Steven Moreira ready for Cape Verde's historic World Cup journey**](https://www.mlssoccer.com/competitions/fifa-world-cup/news/steven-moreira-cape-verde-historic-fifa-world-cup-columbus-crew "Steven Moreira ready for Cape Verde's historic World Cup journey")
-- [![Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hunrtazy7wcnembl9lew)\\
-\\
-**Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer**](https://www.mlssoccer.com/news/columbus-crew-atlanta-united-what-to-know-sunday-night-soccer-md15-2026 "Columbus Crew vs. Atlanta United: What to know for Sunday Night Soccer")
-- [![Hany Mukhtar’s must-see hat trick powers Nashville SC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oiawjnrkclndwnqglvoy)\\
-\\
-**Hany Mukhtar’s must-see hat trick powers Nashville SC**](https://www.mlssoccer.com/news/hany-mukhtar-nashville-sc-star-s-brilliant-hat-trick-downs-lafc "Hany Mukhtar’s must-see hat trick powers Nashville SC")
-- [![Lionel Messi dazzles in Inter Miami's first win at Nu Stadium](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/naae1tpiyfigj34cufqv)\\
-\\
-**Lionel Messi dazzles in Inter Miami's first win at Nu Stadium**](https://www.mlssoccer.com/news/history-maker-lionel-messi-dazzles-in-first-inter-miami-win-at-nu-stadium "Lionel Messi dazzles in Inter Miami's first win at Nu Stadium")
 
 [More](https://www.mlssoccer.com/news/topics/sunday-night-soccer/)
 
@@ -186,37 +190,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![San Diego FC transfer Andrés Reyes to Atlético Nacional](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gvfft0ytpqaz7qmb4rde)\\
+- [![LA Galaxy transfer Miki Yamane to Japanese club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/smeb3fpo885zfnxgcwoe)\\
 \\
 Transfer Tracker\\
 \\
-**San Diego FC transfer Andrés Reyes to Atlético Nacional**](https://www.mlssoccer.com/news/san-diego-fc-transfer-andres-reyes-to-atletico-nacional "San Diego FC transfer Andrés Reyes to Atlético Nacional")
-- [![LA Galaxy transfer Edwin Cerrillo to Club América](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ahtupcpck7qxkblnzjg6)\\
+**LA Galaxy transfer Miki Yamane to Japanese club**](https://www.mlssoccer.com/news/la-galaxy-transfer-miki-yamane-to-japanese-club "LA Galaxy transfer Miki Yamane to Japanese club")
+- [![Houston Dynamo transfer Ezequiel Ponce to Elche ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zz3oc8kwtitcrb97zphk)\\
 \\
 Transfer Tracker\\
 \\
-**LA Galaxy transfer Edwin Cerrillo to Club América**](https://www.mlssoccer.com/news/la-galaxy-transfer-edwin-cerrillo-to-club-america "LA Galaxy transfer Edwin Cerrillo to Club América")
-- [![LA Galaxy sign Spanish midfielder Sergi Roberto](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/r1qhvb0odv1ruzaruq11)\\
+**Houston Dynamo transfer Ezequiel Ponce to Elche**](https://www.mlssoccer.com/news/houston-dynamo-transfer-ezequiel-ponce-to-elche "Houston Dynamo transfer Ezequiel Ponce to Elche ")
+- [![Red Bull New York fully acquire Mijahir Jiménez](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ngduqwowfg8rzndibyyc)\\
 \\
 Transfer Tracker\\
 \\
-**LA Galaxy sign Spanish midfielder Sergi Roberto**](https://www.mlssoccer.com/news/la-galaxy-sign-spanish-midfielder-sergi-roberto "LA Galaxy sign Spanish midfielder Sergi Roberto")
+**Red Bull New York fully acquire Mijahir Jiménez**](https://www.mlssoccer.com/news/red-bull-new-york-fully-acquire-mijahir-jimenez "Red Bull New York fully acquire Mijahir Jiménez")
 
-- [![LA Galaxy acquire Chucky Lozano from San Diego FC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lbz760xvvyjb2v0n98ac)\\
+- [![LAFC acquire Armindo Sieb from Bayern Munich](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g8c804m7smy3zgdldqxa)\\
 \\
 Transfer Tracker\\
 \\
-**LA Galaxy acquire Chucky Lozano from San Diego FC**](https://www.mlssoccer.com/news/la-galaxy-acquire-chucky-lozano-from-san-diego-fc "LA Galaxy acquire Chucky Lozano from San Diego FC")
-- [![Atlanta United acquire Uruguayan midfielder Mauricio Amaro](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/aow1adxoqpka0sst8hnr)\\
+**LAFC acquire Armindo Sieb from Bayern Munich**](https://www.mlssoccer.com/news/lafc-acquire-armindo-sieb-from-bayern-munich "LAFC acquire Armindo Sieb from Bayern Munich")
+- [![Minnesota United acquire Aziel Jackson on loan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gd2ho0qi13nudhaare8p)\\
 \\
 Transfer Tracker\\
 \\
-**Atlanta United acquire Uruguayan midfielder Mauricio Amaro**](https://www.mlssoccer.com/news/atlanta-united-acquire-uruguayan-midfielder-mauricio-amaro "Atlanta United acquire Uruguayan midfielder Mauricio Amaro")
-- [![Columbus Crew acquire Chilean forward Gonzalo Tapia](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/omjfayqp4yv6bqksice7)\\
+**Minnesota United acquire Aziel Jackson on loan**](https://www.mlssoccer.com/news/minnesota-united-acquire-aziel-jackson-on-loan "Minnesota United acquire Aziel Jackson on loan")
+- [![New England Revolution acquire defender Tylon Smith from QPR](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/n2detijgfvff5dzboihz)\\
 \\
 Transfer Tracker\\
 \\
-**Columbus Crew acquire Chilean forward Gonzalo Tapia**](https://www.mlssoccer.com/news/columbus-crew-acquire-chilean-forward-gonzalo-tapia "Columbus Crew acquire Chilean forward Gonzalo Tapia")
+**New England Revolution acquire defender Tylon Smith from QPR**](https://www.mlssoccer.com/news/new-england-revolution-acquire-defender-tylon-smith-from-qpr "New England Revolution acquire defender Tylon Smith from QPR")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 

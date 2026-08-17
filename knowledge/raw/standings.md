@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/standings/
-scraped_at: 2026-08-10T10:07:49.822060+00:00
+scraped_at: 2026-08-17T09:28:34.721068+00:00
 source: mlssoccer.com
 ---
 
@@ -22,24 +22,28 @@ Latest News
 Latest News
 
 
-- [![Robert Lewandowski helps Chicago Fire FC deliver late theatrics](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hftebiv60q6ajp2xffpn)\\
+- [![Nashville's statement, Houston's surge & more from Matchday 20](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ukudjhbhqlloawe1xceh)\\
 \\
-**Robert Lewandowski helps Chicago Fire FC deliver late theatrics**](https://www.mlssoccer.com/competitions/leagues-cup/news/robert-lewandowski-helps-chicago-fire-fc-deliver-late-theatrics "Robert Lewandowski helps Chicago Fire FC deliver late theatrics")
-- [![Cavan Sullivan's standout performance sparks Philadelphia Union ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gktldq4c79ywhghykvfg)\\
+National Writer: Charles Boehm\\
 \\
-**Cavan Sullivan's standout performance sparks Philadelphia Union**](https://www.mlssoccer.com/competitions/leagues-cup/news/cavan-sullivan-sparks-philadelphia-union-with-standout-performance-vs-necaxa "Cavan Sullivan's standout performance sparks Philadelphia Union ")
-- [![Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/npx0ih1z03igsbejfd0s)\\
+**Nashville's statement, Houston's surge & more from Matchday 20**](https://www.mlssoccer.com/news/nashville-s-statement-houston-s-surge-more-from-matchday-20 "Nashville's statement, Houston's surge & more from Matchday 20")
+- [![Petar Musa takes Golden Boot lead in heroic Copa Tejas victory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oeuckwn2lpa3nlwjeg6e)\\
 \\
-**Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick**](https://www.mlssoccer.com/competitions/leagues-cup/news/austin-fc-s-myrto-uzuni-stuns-puebla-with-rapid-fire-hat-trick "Austin FC's Myrto Uzuni stuns Puebla with rapid-fire hat trick ")
-- [![Seattle Sounders crush Querétaro to return to winning ways](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pzzooig1x3nhhxa36znd)\\
+**Petar Musa takes Golden Boot lead in heroic Copa Tejas victory**](https://www.mlssoccer.com/news/petar-musa-takes-golden-boot-lead-in-heroic-copa-tejas-victory "Petar Musa takes Golden Boot lead in heroic Copa Tejas victory")
+- [![LA Galaxy transfer Miki Yamane to Japanese club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/smeb3fpo885zfnxgcwoe)\\
 \\
-**Seattle Sounders crush Querétaro to return to winning ways**](https://www.mlssoccer.com/competitions/leagues-cup/news/seattle-sounders-crush-queretaro-to-return-to-winning-ways "Seattle Sounders crush Querétaro to return to winning ways")
-- [![Eddie Segura & LAFC stun Toluca with stoppage-time golazo](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/urxvxnkob0emvowgbmsp)\\
+Transfer Tracker\\
 \\
-**Eddie Segura & LAFC stun Toluca with stoppage-time golazo**](https://www.mlssoccer.com/competitions/leagues-cup/news/eddie-segura-lafc-stun-toluca-with-stoppage-time-golazo "Eddie Segura & LAFC stun Toluca with stoppage-time golazo")
-- [![Real Salt Lake build Leagues Cup belief with Atlante rout](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/osgl1o7xygcimmdez6vh)\\
+**LA Galaxy transfer Miki Yamane to Japanese club**](https://www.mlssoccer.com/news/la-galaxy-transfer-miki-yamane-to-japanese-club "LA Galaxy transfer Miki Yamane to Japanese club")
+- [![Cavan Sullivan inspires incredible Philadelphia Union comeback](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tk0bd6az1lfpofhsajqh)\\
 \\
-**Real Salt Lake build Leagues Cup belief with Atlante rout**](https://www.mlssoccer.com/news/real-salt-lake-build-leagues-cup-belief-with-atlante-rout "Real Salt Lake build Leagues Cup belief with Atlante rout")
+**Cavan Sullivan inspires incredible Philadelphia Union comeback**](https://www.mlssoccer.com/news/cavan-sullivan-inspires-incredible-philadelphia-union-comeback "Cavan Sullivan inspires incredible Philadelphia Union comeback")
+- [![Nashville SC flex Supporters' Shield credentials in Inter Miami rout](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pjdtrmjbpv9l4mzq5xoo)\\
+\\
+**Nashville SC flex Supporters' Shield credentials in Inter Miami rout**](https://www.mlssoccer.com/news/nashville-sc-flex-supporters-shield-credentials-with-miami-trouncing "Nashville SC flex Supporters' Shield credentials in Inter Miami rout")
+- [![San Diego FC snatch SoCal bragging rights over LAFC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/eu7xreis2u9mx6onod26)\\
+\\
+**San Diego FC snatch SoCal bragging rights over LAFC**](https://www.mlssoccer.com/news/anders-dreyer-san-diego-fc-snatch-socal-bragging-rights-over-lafc "San Diego FC snatch SoCal bragging rights over LAFC")
 
 _Official_ Standings = Updated at conclusion of each match.
 
@@ -51,23 +55,23 @@ Latest Video
 Latest Video
 
 
-- [![MATCH SNAPSHOT: Club América vs. Portland Timbers](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/exhqdqqljxrixm5qyuzo)\\
+- [![WATCH: Elloumi, Müller fire Vancouver past Cascadia rivals Seattle](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vr0xrfekk28gayn6zelk)\\
 \\
-0:58\\
+10:32\\
 \\
-**MATCH SNAPSHOT: Club América vs. Portland Timbers**](https://www.mlssoccer.com/video/match-snapshot-club-america-vs-portland-timbers-x0729 "MATCH SNAPSHOT: Club América vs. Portland Timbers")
-- [![HIGHLIGHTS: Club América vs. Portland Timbers | August 9, 2026](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ddjkmpgpxvopjayyvtya)\\
+**WATCH: Elloumi, Müller fire Vancouver past Cascadia rivals Seattle**](https://www.mlssoccer.com/video/highlights-seattle-sounders-fc-vs-vancouver-august-16-2026 "WATCH: Elloumi, Müller fire Vancouver past Cascadia rivals Seattle")
+- [![MATCH SNAPSHOT: Seattle vs. Vancouver](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wna3okcdyipulczygyh4)\\
 \\
-10:29\\
+0:57\\
 \\
-**HIGHLIGHTS: Club América vs. Portland Timbers \| August 9, 2026**](https://www.mlssoccer.com/video/highlights-club-america-vs-portland-timbers-august-9-2026 "HIGHLIGHTS: Club América vs. Portland Timbers | August 9, 2026")
-- [![HIGHLIGHTS: San Diego FC vs. Club Tijuana | August 9, 2026](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qx3bjj5ex9zgt89nvoao)\\
+**MATCH SNAPSHOT: Seattle vs. Vancouver**](https://www.mlssoccer.com/video/match-snapshot-seattle-vs-vancouver-x4670 "MATCH SNAPSHOT: Seattle vs. Vancouver")
+- [![WATCH: Thomas Müller slams door shut on Sounders with cheeky free kick](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rwmrpbkubp0pxirp4rdd)\\
 \\
-10:30\\
+0:39\\
 \\
-**HIGHLIGHTS: San Diego FC vs. Club Tijuana \| August 9, 2026**](https://www.mlssoccer.com/video/highlights-san-diego-fc-vs-club-tijuana-august-9-2026 "HIGHLIGHTS: San Diego FC vs. Club Tijuana | August 9, 2026")
-- [![MATCH SNAPSHOT: San Diego FC vs. Club Tijuana](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wzvq3afow32lqtswdonr)\\
+**WATCH: Thomas Müller slams door shut on Sounders with cheeky free kick**](https://www.mlssoccer.com/video/goal-t-muller-vs-sea-82 "WATCH: Thomas Müller slams door shut on Sounders with cheeky free kick")
+- [![Goal: R. Elloumi vs. SEA, 77'](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lxttkjnwgvfrljw6aojt)\\
 \\
-1:00\\
+1:01\\
 \\
-**MATCH SNAPSHOT: San Diego FC vs. Club Tijuana**](https://www.mlssoccer.com/video/match-snapshot-san-diego-fc-vs-club-tijuana "MATCH SNAPSHOT: San Diego FC vs. Club Tijuana")
+**Goal: R. Elloumi vs. SEA, 77'**](https://www.mlssoccer.com/video/goal-r-elloumi-vs-sea-77 "Goal: R. Elloumi vs. SEA, 77'")

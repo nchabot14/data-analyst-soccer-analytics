@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-08-10T10:07:43.450936+00:00
+scraped_at: 2026-08-17T09:28:28.261303+00:00
 source: mlssoccer.com
 ---
 
