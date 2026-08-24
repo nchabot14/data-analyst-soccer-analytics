@@ -1,10 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-08-17T09:28:40.195429+00:00
+scraped_at: 2026-08-24T09:34:47.840333+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/playoffs/2025/#main-content)
+
+![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+
+Come Kick It! Watch MLS on Apple TV
+
+[Subscribe](https://soc.cr/4krM2op "Subscribe")
+
+[Learn More](https://soc.cr/4rLRnJO "Learn More")
 
 # Audi 2025 MLS Cup Playoffs
 
@@ -15,7 +23,69 @@ source: mlssoccer.com
 - [Video](https://www.mlssoccer.com/playoffs/2025/video/)
 - [Bracket Challenge](https://bracket.mlssoccer.com/)
 
-![image unavailable](https://www.mlssoccer.com/assets/images/MLS-simpleloader-200x200.gif)
+WATCH: Vintage Almirón guides surging Atlanta United
+
+The club legend had a pair of assists in a 2-1 win over Sporting Kansas City on Sunday Night Soccer presented by Continental Tire.
+
+WATCH: Vintage Almirón guides surging Atlanta United
+
+10:32
+
+![WATCH: Vintage Almirón guides surging Atlanta United](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/jo6gjdhyufu0lrfldvbn)
+
+MATCH SNAPSHOT: Atlanta vs. Kansas City
+
+0:57
+
+![MATCH SNAPSHOT: Atlanta vs. Kansas City](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/noyzh01iqb9uatxj8zij)
+
+Goal: S. Afrifa vs. ATL, 70'
+
+0:46
+
+![Goal: S. Afrifa vs. ATL, 70'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/d3dkvtjzfhjhuvrommfw)
+
+Goal: F. Picault vs. SKC, 24'
+
+0:55
+
+![Goal: F. Picault vs. SKC, 24'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/us42raljqvzsy0h0ztom)
+
+Goal: T. Jacob vs. SKC, 13'
+
+1:07
+
+![Goal: T. Jacob vs. SKC, 13'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/lfbst4vhxjjwt2s6p4of)
+
+HIGHLIGHTS: New England Revolution vs. New York City FC \| August 23, 2026
+
+10:31
+
+![HIGHLIGHTS: New England Revolution vs. New York City FC | August 23, 2026](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/wl4lbfg9ggvbi55dy6gb)
+
+MATCH SNAPSHOT: New England vs. New York City
+
+0:57
+
+![MATCH SNAPSHOT: New England vs. New York City](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/g9edxfnafgagedbvgkqj)
+
+Goal: J. Sands vs. NE, 45+1'
+
+0:37
+
+![Goal: J. Sands vs. NE, 45+1'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/wk5si0nvj7bvctm6eakd)
+
+Goal: D. Turgeman vs. NYC, 36'
+
+0:50
+
+![Goal: D. Turgeman vs. NYC, 36'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/y4rawhb3mkngsn2u6qrc)
+
+WATCH: Oh baby! Toddler pitch invader at PayPal Park!
+
+0:44
+
+![WATCH: Oh baby! Toddler pitch invader at PayPal Park!](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/zzkgvemqualtsy4tw5a9)
 
 Sign Up
 

@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2024/2/16/breaking-down-mls-roster-rules
-scraped_at: 2026-08-17T09:28:47.364781+00:00
+scraped_at: 2026-08-24T09:34:55.666307+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,25 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[![Replication Project-ish: Projecting MLS Performance based on  MLS Next Pro Data](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1787460581956-IWVNPERKCDN08XUFSJG9/backtest_wheel_frankie_westfield.png)](https://www.americansocceranalysis.com/home/2026/8/22/replication-project-ish-projecting-mls-performance-based-on-mls-next-pro-data)
+
+[By Kieran Doyle](https://bsky.app/profile/kierdoyle.bsky.social)
+
+In 2022, Daniel Dinsdale and Joe Gallagher of Stats Perform (the artist formerly known as Opta) released an [arXiv of a paper titled “ _Transfer Portal: Accurately Forecasting the Impact of a Player Transfer in Soccer”._](https://arxiv.org/abs/2201.11533) The paper is a worthwhile read, but the idea can sort of be summed up as the three approaches.
+
+1. Identify how the player is currently doing on a per 90’ basis, for the metrics you care about.
+
+2. Identify how their team and league fits into the global hierarchy, in relation to other teams and leagues.
+
+3. For players with insufficient data, weight the average of their small data sample and some prior for the league/age/position etc.
+
+
+Then take all those things, stick it in some neural networks, and try to predict the impact if that player moved from team A to team B. And it works! It’s a pretty good predictor of how players do when they move clubs, reducing mean squared error by 50% compared to assuming their performance translated over one-to-one. This is a cool result, and league translation/transfer projection is an extremely difficult task.
+
+Where my brain went when I read this paper six years ago was, wow, this would be a great approach to trying to figure out how good young players might be. Three months after this, MLS Next Pro started its inaugural season, in March of 2022. While Opta’s work on this was based on some 26,000 samples and 2600 transfers, after four seasons of MLS Next Pro we certainly don’t have 2600 players graduating to their first team, but we might have enough to try.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/8/22/replication-project-ish-projecting-mls-performance-based-on-mls-next-pro-data)
 
 [![Scream and Shout: an xClaim Model for Goalkeeper Cross Collection](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1785390163930-J0YZ9705RRYJJR777CLH/xclaim_cross_type_clusters_v3.png)](https://www.americansocceranalysis.com/home/2026/7/29/scream-and-shout-an-xclaim-model-for-goalkeeper-cross-collection)
 
@@ -87,12 +106,6 @@ _Our 2026 NWSL Season Previews have started and today we hit Seattle and Orlando
 _If you’re more of an audio person, our friends at Expected Own Goals spoke to Kari Anderson from Yahoo about the Reign, and Abigail Segel from The XI and Defector about Orlando,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
 
 [Read More](https://www.americansocceranalysis.com/home/2026/3/9/2026-nwsl-previews-seattle-reign-orlando-pride)
-
-_Our 2026 NWSL Season Previews have started and today we hit Racing Louisville and San Diego Wave. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals podded about San Diego and Louisville,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/7/2026-nwsl-previews-racing-louisville-san-diego-wave)
 
 0items
 

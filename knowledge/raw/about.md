@@ -1,10 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-08-17T09:28:28.261303+00:00
+scraped_at: 2026-08-24T09:34:29.738963+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/about/#main-content)
+
+![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+
+Come Kick It! Watch MLS on Apple TV
+
+[Subscribe](https://soc.cr/4krM2op "Subscribe")
+
+[Learn More](https://soc.cr/4rLRnJO "Learn More")
 
 # About MLS
 
