@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-08-24T09:34:47.840333+00:00
+scraped_at: 2026-08-31T16:27:57.356844+00:00
 source: mlssoccer.com
 ---
 
@@ -22,70 +22,6 @@ Come Kick It! Watch MLS on Apple TV
 - [News](https://www.mlssoccer.com/playoffs/2025/news/)
 - [Video](https://www.mlssoccer.com/playoffs/2025/video/)
 - [Bracket Challenge](https://bracket.mlssoccer.com/)
-
-WATCH: Vintage Almirón guides surging Atlanta United
-
-The club legend had a pair of assists in a 2-1 win over Sporting Kansas City on Sunday Night Soccer presented by Continental Tire.
-
-WATCH: Vintage Almirón guides surging Atlanta United
-
-10:32
-
-![WATCH: Vintage Almirón guides surging Atlanta United](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/jo6gjdhyufu0lrfldvbn)
-
-MATCH SNAPSHOT: Atlanta vs. Kansas City
-
-0:57
-
-![MATCH SNAPSHOT: Atlanta vs. Kansas City](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/noyzh01iqb9uatxj8zij)
-
-Goal: S. Afrifa vs. ATL, 70'
-
-0:46
-
-![Goal: S. Afrifa vs. ATL, 70'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/d3dkvtjzfhjhuvrommfw)
-
-Goal: F. Picault vs. SKC, 24'
-
-0:55
-
-![Goal: F. Picault vs. SKC, 24'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/us42raljqvzsy0h0ztom)
-
-Goal: T. Jacob vs. SKC, 13'
-
-1:07
-
-![Goal: T. Jacob vs. SKC, 13'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/lfbst4vhxjjwt2s6p4of)
-
-HIGHLIGHTS: New England Revolution vs. New York City FC \| August 23, 2026
-
-10:31
-
-![HIGHLIGHTS: New England Revolution vs. New York City FC | August 23, 2026](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/wl4lbfg9ggvbi55dy6gb)
-
-MATCH SNAPSHOT: New England vs. New York City
-
-0:57
-
-![MATCH SNAPSHOT: New England vs. New York City](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/g9edxfnafgagedbvgkqj)
-
-Goal: J. Sands vs. NE, 45+1'
-
-0:37
-
-![Goal: J. Sands vs. NE, 45+1'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/wk5si0nvj7bvctm6eakd)
-
-Goal: D. Turgeman vs. NYC, 36'
-
-0:50
-
-![Goal: D. Turgeman vs. NYC, 36'](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/y4rawhb3mkngsn2u6qrc)
-
-WATCH: Oh baby! Toddler pitch invader at PayPal Park!
-
-0:44
-
-![WATCH: Oh baby! Toddler pitch invader at PayPal Park!](https://images.mlssoccer.com/image/private/w_175,c_scale/f_auto/mls/zzkgvemqualtsy4tw5a9)
 
 Sign Up
 
@@ -109,12 +45,16 @@ Latest News & Video
 Latest News & Video
 
 
+- [![If the Audi 2026 MLS Cup Playoffs started today: Matchday 24](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iyjogb96tqcuf5diubt4)\\
+\\
+**If the Audi 2026 MLS Cup Playoffs started today: Matchday 24** \\
+\\
+Just over two months remain in the regular season, bringing the Audi 2026 MLS Cup Playoffs picture into view.\\
+Below are the would-be matchups and qualifiers if the postseason started today.](https://www.mlssoccer.com/playoffs/2025/news/if-audi-2026-mls-cup-playoffs-started-today-matchups-scenarios-teams-qualified "If the Audi 2026 MLS Cup Playoffs started today: Matchday 24")
+
 - [![Audi 2026 MLS Cup Playoffs: Key dates & schedule information](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fr6zohzula1j70ywfgga)\\
 \\
-**Audi 2026 MLS Cup Playoffs: Key dates & schedule information** \\
-\\
-Major League Soccer has announced the schedule and key dates for the Audi 2026 MLS Cup Playoffs.](https://www.mlssoccer.com/playoffs/2025/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information "Audi 2026 MLS Cup Playoffs: Key dates & schedule information")
-
+**Audi 2026 MLS Cup Playoffs: Key dates & schedule information**](https://www.mlssoccer.com/playoffs/2025/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information "Audi 2026 MLS Cup Playoffs: Key dates & schedule information")
 - [![MLS Cup 2025 delivers record viewership & social engagement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ticqtqqngobpipoiezuk)\\
 \\
 **MLS Cup 2025 delivers record viewership & social engagement**](https://www.mlssoccer.com/playoffs/2025/news/mls-cup-delivers-record-viewership-and-social-engagement-x6909 "MLS Cup 2025 delivers record viewership & social engagement")
@@ -134,9 +74,6 @@ Major League Soccer has announced the schedule and key dates for the Audi 2026 M
 6:30\\
 \\
 **Inter Miami bring home MLS Cup! \| Power Cam**](https://www.mlssoccer.com/video/inter-miami-bring-home-mls-cup-power-cam "Inter Miami bring home MLS Cup! | Power Cam")
-- [![Inter Miami: From “sleepless nights” to MLS Cup champions](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vmn6n27cw5odwcbxediu)\\
-\\
-**Inter Miami: From “sleepless nights” to MLS Cup champions**](https://www.mlssoccer.com/playoffs/2025/news/inter-miami-from-sleepless-nights-to-mls-cup-champions "Inter Miami: From “sleepless nights” to MLS Cup champions")
 
 ![Playoff Format Explained](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/mls/oqshy0fm1wdhwkovkmz2.png)
 

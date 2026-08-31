@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-08-24T09:34:33.523894+00:00
+scraped_at: 2026-08-31T16:27:28.925062+00:00
 source: mlssoccer.com
 ---
 
@@ -33,29 +33,31 @@ Come Kick It! Watch MLS on Apple TV
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Nashville hit another gear, Vancouver bounce back & more from Matchday 22](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ktnvjbszw7fb7dhfbmeo)\\
+- [![Vote for Goal of the Matchday – MLS Matchday 23](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jevsgsmgplh5rjcphkmx)\\
+\\
+Goal of the Matchday\\
+\\
+**Vote for Goal of the Matchday – MLS Matchday 23**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-23-2026 "Vote for Goal of the Matchday – MLS Matchday 23")
+
+- [![Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pilwawi5xgdmcwqe4u90)\\
+\\
+Energy Moment of the Matchday\\
+\\
+**Tyrese Spicer saves Orlando at the death \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tyrese-spicer-saves-orlando-at-the-death-energy-moment-of-the-matchday "Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday")
+- [![Golden Boot: Lionel Messi takes lead over Petar Musa](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ukngqyfm8em3aevinuqg)\\
+\\
+**Golden Boot: Lionel Messi takes lead over Petar Musa**](https://www.mlssoccer.com/news/mls-golden-boot-tracker-2026-season-top-scorer "Golden Boot: Lionel Messi takes lead over Petar Musa")
+- [![Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fu38ifrjwup30ewnj9qb)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Nashville hit another gear, Vancouver bounce back & more from Matchday 22**](https://www.mlssoccer.com/news/nashville-hit-another-gear-vancouver-bounce-back-more-from-matchday-22 "Nashville hit another gear, Vancouver bounce back & more from Matchday 22")
-
-- [![Atlanta United acquire Swiss striker Breel Embolo](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tdntyrgcnrsjkugumhgn)\\
+**Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23**](https://www.mlssoccer.com/news/cavan-sullivan-goes-primetime-messi-scores-a-poker-more-from-matchday-23 "Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23")
+- [![Carles Gil joins elite club with New England Revolution masterclass](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fn3caad9tzcejmdv8jab)\\
 \\
-Transfer Tracker\\
+**Carles Gil joins elite club with New England Revolution masterclass**](https://www.mlssoccer.com/news/carles-gil-joins-elite-club-with-new-england-revolution-masterclass "Carles Gil joins elite club with New England Revolution masterclass")
+- [![Chucky's revenge: Lozano nets first LA Galaxy goal vs. San Diego](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/r03sxi0qpnf0hrp5lqyw)\\
 \\
-**Atlanta United acquire Swiss striker Breel Embolo**](https://www.mlssoccer.com/news/atlanta-united-acquire-swiss-striker-breel-embolo "Atlanta United acquire Swiss striker Breel Embolo")
-- [![Nashville SC's epic comeback makes MLS history](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dnvhj6tmxqqcwhpmdyin)\\
-\\
-**Nashville SC's epic comeback makes MLS history**](https://www.mlssoccer.com/news/nashville-sc-s-epic-comeback-makes-mls-history "Nashville SC's epic comeback makes MLS history")
-- [![Vancouver return to Western Conference summit in Dallas rout](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/upc66sis6kidwoia9shx)\\
-\\
-**Vancouver return to Western Conference summit in Dallas rout**](https://www.mlssoccer.com/news/vancouver-return-to-western-conference-summit-in-dallas-rout "Vancouver return to Western Conference summit in Dallas rout")
-- [![Adorable interruption! Baby pitch invader crashes San Jose-Minnesota](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/n02y9umxkulpist90knp)\\
-\\
-**Adorable interruption! Baby pitch invader crashes San Jose-Minnesota**](https://www.mlssoccer.com/news/baby-pitch-invader-crashes-san-jose-earthquakes-minnesota-united "Adorable interruption! Baby pitch invader crashes San Jose-Minnesota")
-- [![Goal of the Year?! Minnesota's Joaquín Pereyra makes case with rabona ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/f0gompqwqnpxlyvzsg5d)\\
-\\
-**Goal of the Year?! Minnesota's Joaquín Pereyra makes case with rabona**](https://www.mlssoccer.com/news/goal-of-the-year-joaquin-pereyra-makes-case-with-insane-rabona "Goal of the Year?! Minnesota's Joaquín Pereyra makes case with rabona ")
+**Chucky's revenge: Lozano nets first LA Galaxy goal vs. San Diego**](https://www.mlssoccer.com/news/chucky-s-revenge-lozano-nets-first-la-galaxy-goal-vs-san-diego "Chucky's revenge: Lozano nets first LA Galaxy goal vs. San Diego")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -81,10 +83,13 @@ Power Rankings
 Power Rankings
 
 
+- [![Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z1d7zfvxcznuwdrm0ezk)\\
+\\
+**Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs**](https://www.mlssoccer.com/news/power-rankings-chicago-fire-st-louis-city-extend-unbeaten-runs "Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs")
+
 - [![Power Rankings: Hany Mukhtar guides Nashville SC back on top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fbdoiwkdq5fjdgpq3rjq)\\
 \\
 **Power Rankings: Hany Mukhtar guides Nashville SC back on top**](https://www.mlssoccer.com/news/power-rankings-hany-mukhtar-guides-nashville-sc-back-on-top "Power Rankings: Hany Mukhtar guides Nashville SC back on top")
-
 - [![Power Rankings: Evander shows elite level in FC Cincinnati thriller](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ucq6mowaxcl3jlgdeolx)\\
 \\
 **Power Rankings: Evander shows elite level in FC Cincinnati thriller**](https://www.mlssoccer.com/news/power-rankings-evander-shows-elite-level-in-fc-cincinnati-thriller "Power Rankings: Evander shows elite level in FC Cincinnati thriller")
@@ -94,9 +99,6 @@ Power Rankings
 - [![Power Rankings: Son Heung-Min & LAFC get El Tráfico boost](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ntmenyrmuojr4bdlr8r6)\\
 \\
 **Power Rankings: Son Heung-Min & LAFC get El Tráfico boost**](https://www.mlssoccer.com/news/power-rankings-son-heung-min-lafc-get "Power Rankings: Son Heung-Min & LAFC get El Tráfico boost")
-- [![Power Rankings: Where every team stands at the midseason break](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nc3bzvvyluemmzkzik5e)\\
-\\
-**Power Rankings: Where every team stands at the midseason break**](https://www.mlssoccer.com/news/power-rankings-where-every-team-stands-at-the-midseason-break "Power Rankings: Where every team stands at the midseason break")
 
 [More](https://www.mlssoccer.com/news/topics/power-rankings/)
 
@@ -106,12 +108,15 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
+- [![Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z8chbpxjrwzmw3oewjtg)\\
+\\
+**Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up**](https://www.mlssoccer.com/news/paxten-aaronson-vs-diego-luna-rocky-mountain-cup-rivalry-heats-up "Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up")
+
 - [![Red Bull New York's youth movement more than an identity](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b4nia13ovkzwqeigo6hd)\\
 \\
 National Writer: Charles Boehm\\
 \\
 **Red Bull New York's youth movement more than an identity**](https://www.mlssoccer.com/news/michael-bradley-s-youth-movement-takes-hold-at-red-bull-new-york "Red Bull New York's youth movement more than an identity")
-
 - [![Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yzqdfrnhosl2dozh8qr3)\\
 \\
 **Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown**](https://www.mlssoccer.com/news/red-bull-new-york-vs-chicago-fire-what-to-know-for-saturday-showdown "Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown")
@@ -123,9 +128,6 @@ National Writer: Charles Boehm\\
 - [![Griezmann vs. Evander: Orlando City welcome FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/o8ke6rs6yu52nbchussu)\\
 \\
 **Griezmann vs. Evander: Orlando City welcome FC Cincinnati**](https://www.mlssoccer.com/news/griezmann-vs-evander-orlando-city-welcome-fc-cincinnati-md20-2026 "Griezmann vs. Evander: Orlando City welcome FC Cincinnati")
-- [![Evander's epic game-winner makes history with FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ek4ul0r5rxsjeztqy9b3)\\
-\\
-**Evander's epic game-winner makes history with FC Cincinnati**](https://www.mlssoccer.com/news/evander-s-epic-game-winner-makes-history-with-fc-cincinnati "Evander's epic game-winner makes history with FC Cincinnati")
 
 [More](https://www.mlssoccer.com/news/topics/saturday-showdown/)
 
@@ -135,22 +137,24 @@ Sunday Night Soccer pres. by Continental Tire
 Sunday Night Soccer pres. by Continental Tire
 
 
+- [![St. Louis CITY's new identity fuels historic turnaround](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ezjeqbpj1mywmdduhom8)\\
+\\
+National Writer: Charles Boehm\\
+\\
+**St. Louis CITY's new identity fuels historic turnaround**](https://www.mlssoccer.com/news/st-louis-city-s-new-identity-fuels-historic-turnaround "St. Louis CITY's new identity fuels historic turnaround")
+
+- [![St. Louis CITY vs. FC Dallas: What to know for Sunday Night Soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/j7zftstelsttwly8eygt)\\
+\\
+**St. Louis CITY vs. FC Dallas: What to know for Sunday Night Soccer**](https://www.mlssoccer.com/news/st-louis-city-vs-fc-dallas-what-to-know-for-sunday-night-soccer-md23-2026 "St. Louis CITY vs. FC Dallas: What to know for Sunday Night Soccer")
 - [![Sporting Kansas City roster rebuild continues: "We must improve"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/smsnmeffgca6y0zjwdvc)\\
 \\
 **Sporting Kansas City roster rebuild continues: "We must improve"**](https://www.mlssoccer.com/news/sporting-kansas-city-roster-rebuild-continues-we-must-improve "Sporting Kansas City roster rebuild continues: \"We must improve\"")
-
 - [![Atlanta United vs. Sporting Kansas City: What to know for Sunday Night Soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/s6z9ygxi4jx9dv2ztavd)\\
 \\
 **Atlanta United vs. Sporting Kansas City: What to know for Sunday Night Soccer**](https://www.mlssoccer.com/news/atlanta-united-vs-sporting-kansas-city-what-to-know-for-sunday-night-soccer "Atlanta United vs. Sporting Kansas City: What to know for Sunday Night Soccer")
 - [![Thomas Müller guides Vancouver Whitecaps to Cascadia Cup crown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uw0hdpn4q1tccolpsxfw)\\
 \\
 **Thomas Müller guides Vancouver Whitecaps to Cascadia Cup crown**](https://www.mlssoccer.com/news/thomas-muller-guides-vancouver-whitecaps-to-cascadia-cup-crown "Thomas Müller guides Vancouver Whitecaps to Cascadia Cup crown")
-- [![Petar Musa takes Golden Boot lead in heroic Copa Tejas victory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oeuckwn2lpa3nlwjeg6e)\\
-\\
-**Petar Musa takes Golden Boot lead in heroic Copa Tejas victory**](https://www.mlssoccer.com/news/petar-musa-takes-golden-boot-lead-in-heroic-copa-tejas-victory "Petar Musa takes Golden Boot lead in heroic Copa Tejas victory")
-- [![Austin FC host FC Dallas for Copa Tejas rivalry match](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/sut6b81pf5cy4cjerbhr)\\
-\\
-**Austin FC host FC Dallas for Copa Tejas rivalry match**](https://www.mlssoccer.com/news/copa-tejas-heats-up-as-austin-fc-host-fc-dallas-on-sunday-night-soccer "Austin FC host FC Dallas for Copa Tejas rivalry match")
 
 [More](https://www.mlssoccer.com/news/topics/sunday-night-soccer/)
 
@@ -160,11 +164,11 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Musa, Evander deliver clutch goals](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
+- [![Team of the Matchday: Griezmann plays hero, Pereyra scores stunner](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
-**Team of the Matchday: Musa, Evander deliver clutch goals**](https://www.mlssoccer.com/news/team-of-the-matchday-musa-evander-deliver-clutch-goals "Team of the Matchday: Musa, Evander deliver clutch goals")
+**Team of the Matchday: Griezmann plays hero, Pereyra scores stunner**](https://www.mlssoccer.com/news/team-of-the-matchday-griezmann-plays-hero-pereyra-scores-stunner "Team of the Matchday: Griezmann plays hero, Pereyra scores stunner")
 
 Goal of the Matchday
 
@@ -172,11 +176,11 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![Austin FC's Guilherme Biro wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xowt5tvmpg4clwt2lmvl)\\
+- [![Vote for Goal of the Matchday – MLS Matchday 23](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jevsgsmgplh5rjcphkmx)\\
 \\
 Goal of the Matchday\\
 \\
-**Austin FC's Guilherme Biro wins Goal of the Matchday**](https://www.mlssoccer.com/news/austin-fc-s-guilherme-biro-wins-goal-of-the-matchday-md21-2026 "Austin FC's Guilherme Biro wins Goal of the Matchday")
+**Vote for Goal of the Matchday – MLS Matchday 23**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-23-2026 "Vote for Goal of the Matchday – MLS Matchday 23")
 
 Energy Moment of the Matchday
 
@@ -184,11 +188,11 @@ Energy Moment of the Matchday
 Energy Moment of the Matchday
 
 
-- [![Evander's late magic lifts FC Cincinnati | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/exysn3jwmgfwuwdqt7qf)\\
+- [![Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pilwawi5xgdmcwqe4u90)\\
 \\
 Energy Moment of the Matchday\\
 \\
-**Evander's late magic lifts FC Cincinnati \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/evander-s-late-magic-lifts-fc-cincinnati-energy-moment-of-the-matchday "Evander's late magic lifts FC Cincinnati | Energy Moment of the Matchday")
+**Tyrese Spicer saves Orlando at the death \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tyrese-spicer-saves-orlando-at-the-death-energy-moment-of-the-matchday "Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday")
 
 Transfer Tracker
 
@@ -196,37 +200,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Atlanta United acquire Swiss striker Breel Embolo](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tdntyrgcnrsjkugumhgn)\\
+- [![CF Montréal acquire Dante Sealy from Colorado Rapids](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/puug6567pjqfijv7zoyg)\\
 \\
 Transfer Tracker\\
 \\
-**Atlanta United acquire Swiss striker Breel Embolo**](https://www.mlssoccer.com/news/atlanta-united-acquire-swiss-striker-breel-embolo "Atlanta United acquire Swiss striker Breel Embolo")
-- [![Real Salt Lake acquire Colin Guske from Orlando City](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nmnoxncnkwsuizut4o7k)\\
+**CF Montréal acquire Dante Sealy from Colorado Rapids**](https://www.mlssoccer.com/news/cf-montreal-acquire-dante-sealy-from-colorado-rapids "CF Montréal acquire Dante Sealy from Colorado Rapids")
+- [![Vancouver Whitecaps sign Tate Johnson to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zcknx2tcpubednmmlf1l)\\
 \\
 Transfer Tracker\\
 \\
-**Real Salt Lake acquire Colin Guske from Orlando City**](https://www.mlssoccer.com/news/real-salt-lake-acquire-colin-guske-from-orlando-city "Real Salt Lake acquire Colin Guske from Orlando City")
-- [![DC United transfer Jacob Murrell to Scottish club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/x6qj4ujbb0kn7k2hzidp)\\
+**Vancouver Whitecaps sign Tate Johnson to contract extension**](https://www.mlssoccer.com/news/vancouver-whitecaps-sign-tate-johnson-to-contract-extension "Vancouver Whitecaps sign Tate Johnson to contract extension")
+- [![Houston Dynamo transfer Ondřej Lingr to Polish club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zdggnts7adqnq3yeot5v)\\
 \\
 Transfer Tracker\\
 \\
-**DC United transfer Jacob Murrell to Scottish club**](https://www.mlssoccer.com/news/dc-united-transfer-jacob-murrell-to-scottish-club "DC United transfer Jacob Murrell to Scottish club")
+**Houston Dynamo transfer Ondřej Lingr to Polish club**](https://www.mlssoccer.com/news/houston-dynamo-transfer-ondrej-lingr-to-polish-club "Houston Dynamo transfer Ondřej Lingr to Polish club")
 
-- [![Vancouver Whitecaps acquire defender Sebastián Ramírez](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/i0oriihxjydkpqe2hdik)\\
+- [![FC Dallas transfer Louicius Deedson to French team](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/keio7c13f233varbz0vu)\\
 \\
 Transfer Tracker\\
 \\
-**Vancouver Whitecaps acquire defender Sebastián Ramírez**](https://www.mlssoccer.com/news/vancouver-whitecaps-acquire-defender-sebastian-ramirez "Vancouver Whitecaps acquire defender Sebastián Ramírez")
-- [![Real Salt Lake transfer Zavier Gozo to Crystal Palace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jjtmdbxjeiod14rbanjt)\\
+**FC Dallas transfer Louicius Deedson to French team**](https://www.mlssoccer.com/news/fc-dallas-transfer-louicius-deedson-to-french-team "FC Dallas transfer Louicius Deedson to French team")
+- [![Red Bull New York sign Julian Hall to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mwk1wqxyyimcm4pdb36p)\\
 \\
 Transfer Tracker\\
 \\
-**Real Salt Lake transfer Zavier Gozo to Crystal Palace**](https://www.mlssoccer.com/news/real-salt-lake-transfer-zavier-gozo-to-crystal-palace "Real Salt Lake transfer Zavier Gozo to Crystal Palace")
-- [![Sporting Kansas City acquire André Luiz in club-record deal](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xtmdwbhe0nki4m6lpils)\\
+**Red Bull New York sign Julian Hall to contract extension**](https://www.mlssoccer.com/news/red-bull-new-york-sign-julian-hall-to-contract-extension "Red Bull New York sign Julian Hall to contract extension")
+- [![New England Revolution sign homegrown midfielder Judah Siqueira](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vx5hicwpanucvmvquv3j)\\
 \\
 Transfer Tracker\\
 \\
-**Sporting Kansas City acquire André Luiz in club-record deal**](https://www.mlssoccer.com/news/sporting-kansas-city-acquire-andre-luiz-in-club-record-deal "Sporting Kansas City acquire André Luiz in club-record deal")
+**New England Revolution sign homegrown midfielder Judah Siqueira**](https://www.mlssoccer.com/news/new-england-revolution-sign-homegrown-midfielder-judah-siqueira "New England Revolution sign homegrown midfielder Judah Siqueira")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 
