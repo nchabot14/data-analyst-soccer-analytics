@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-08-31T16:27:57.356844+00:00
+scraped_at: 2026-09-07T14:32:23.805522+00:00
 source: mlssoccer.com
 ---
 
@@ -45,12 +45,12 @@ Latest News & Video
 Latest News & Video
 
 
-- [![If the Audi 2026 MLS Cup Playoffs started today: Matchday 24](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/iyjogb96tqcuf5diubt4)\\
+- [![If the Audi 2026 MLS Cup Playoffs started today: Matchday 25](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lwthb6xhjpwlgmdmb3ld)\\
 \\
-**If the Audi 2026 MLS Cup Playoffs started today: Matchday 24** \\
+**If the Audi 2026 MLS Cup Playoffs started today: Matchday 25** \\
 \\
-Just over two months remain in the regular season, bringing the Audi 2026 MLS Cup Playoffs picture into view.\\
-Below are the would-be matchups and qualifiers if the postseason started today.](https://www.mlssoccer.com/playoffs/2025/news/if-audi-2026-mls-cup-playoffs-started-today-matchups-scenarios-teams-qualified "If the Audi 2026 MLS Cup Playoffs started today: Matchday 24")
+Two months remain in the regular season, bringing the Audi 2026 MLS Cup Playoffs picture into view.\\
+Below are the would-be matchups and qualifiers if the postseason started today.](https://www.mlssoccer.com/playoffs/2025/news/if-audi-2026-mls-cup-playoffs-started-today-matchups-scenarios-teams-qualified "If the Audi 2026 MLS Cup Playoffs started today: Matchday 25")
 
 - [![Audi 2026 MLS Cup Playoffs: Key dates & schedule information](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fr6zohzula1j70ywfgga)\\
 \\

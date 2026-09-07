@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-08-31T16:27:28.925062+00:00
+scraped_at: 2026-09-07T14:32:11.673343+00:00
 source: mlssoccer.com
 ---
 
@@ -33,31 +33,27 @@ Come Kick It! Watch MLS on Apple TV
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Vote for Goal of the Matchday – MLS Matchday 23](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jevsgsmgplh5rjcphkmx)\\
-\\
-Goal of the Matchday\\
-\\
-**Vote for Goal of the Matchday – MLS Matchday 23**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-23-2026 "Vote for Goal of the Matchday – MLS Matchday 23")
-
-- [![Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pilwawi5xgdmcwqe4u90)\\
-\\
-Energy Moment of the Matchday\\
-\\
-**Tyrese Spicer saves Orlando at the death \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tyrese-spicer-saves-orlando-at-the-death-energy-moment-of-the-matchday "Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday")
-- [![Golden Boot: Lionel Messi takes lead over Petar Musa](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ukngqyfm8em3aevinuqg)\\
-\\
-**Golden Boot: Lionel Messi takes lead over Petar Musa**](https://www.mlssoccer.com/news/mls-golden-boot-tracker-2026-season-top-scorer "Golden Boot: Lionel Messi takes lead over Petar Musa")
-- [![Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fu38ifrjwup30ewnj9qb)\\
+- [![Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qigwm1ck0o3xrmuh5j8u)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23**](https://www.mlssoccer.com/news/cavan-sullivan-goes-primetime-messi-scores-a-poker-more-from-matchday-23 "Cavan Sullivan goes primetime, Messi scores a poker & more from Matchday 23")
-- [![Carles Gil joins elite club with New England Revolution masterclass](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fn3caad9tzcejmdv8jab)\\
+**Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24**](https://www.mlssoccer.com/news/janssen-s-hat-trick-cavan-s-lebron-salute-more-from-matchday-24 "Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24")
+
+- [![St. Louis CITY extend unbeaten run with Vancouver upset](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wywbxfv8edxie365vd08)\\
 \\
-**Carles Gil joins elite club with New England Revolution masterclass**](https://www.mlssoccer.com/news/carles-gil-joins-elite-club-with-new-england-revolution-masterclass "Carles Gil joins elite club with New England Revolution masterclass")
-- [![Chucky's revenge: Lozano nets first LA Galaxy goal vs. San Diego](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/r03sxi0qpnf0hrp5lqyw)\\
+**St. Louis CITY extend unbeaten run with Vancouver upset**](https://www.mlssoccer.com/news/st-louis-city-extend-unbeaten-run-with-vancouver-upset "St. Louis CITY extend unbeaten run with Vancouver upset")
+- [![History! Vincent Janssen scores first Portland Timbers hat trick](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/csmgrbcigck5tuptzdi7)\\
 \\
-**Chucky's revenge: Lozano nets first LA Galaxy goal vs. San Diego**](https://www.mlssoccer.com/news/chucky-s-revenge-lozano-nets-first-la-galaxy-goal-vs-san-diego "Chucky's revenge: Lozano nets first LA Galaxy goal vs. San Diego")
+**History! Vincent Janssen scores first Portland Timbers hat trick**](https://www.mlssoccer.com/news/history-vincent-janssen-scores-first-portland-timbers-hat-trick "History! Vincent Janssen scores first Portland Timbers hat trick")
+- [![Cavan Sullivan channels LeBron James in record-setting performance](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/c8buorxos89ovbhlatxs)\\
+\\
+**Cavan Sullivan channels LeBron James in record-setting performance**](https://www.mlssoccer.com/news/cavan-sullivan-channels-lebron-james-record-setting-performance "Cavan Sullivan channels LeBron James in record-setting performance")
+- [![Lionel Messi makes history in first game since Argentina retirement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/himebdul29tlgh8hf6nv)\\
+\\
+**Lionel Messi makes history in first game since Argentina retirement**](https://www.mlssoccer.com/news/lionel-messi-makes-history-in-first-game-since-argentina-retirement "Lionel Messi makes history in first game since Argentina retirement")
+- [![Josh Sargent scores first hat trick in wild Toronto FC goalfest](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qdiiidqo55t70wmbnzjs)\\
+\\
+**Josh Sargent scores first hat trick in wild Toronto FC goalfest**](https://www.mlssoccer.com/news/josh-sargent-scores-first-toronto-fc-hat-trick-in-wild-draw "Josh Sargent scores first hat trick in wild Toronto FC goalfest")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -83,10 +79,13 @@ Power Rankings
 Power Rankings
 
 
+- [![Power Rankings: Philadelphia Union continue epic ascent](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tkzpk4ex1evcib9gw1xx)\\
+\\
+**Power Rankings: Philadelphia Union continue epic ascent**](https://www.mlssoccer.com/news/power-rankings-nashv "Power Rankings: Philadelphia Union continue epic ascent")
+
 - [![Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z1d7zfvxcznuwdrm0ezk)\\
 \\
 **Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs**](https://www.mlssoccer.com/news/power-rankings-chicago-fire-st-louis-city-extend-unbeaten-runs "Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs")
-
 - [![Power Rankings: Hany Mukhtar guides Nashville SC back on top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fbdoiwkdq5fjdgpq3rjq)\\
 \\
 **Power Rankings: Hany Mukhtar guides Nashville SC back on top**](https://www.mlssoccer.com/news/power-rankings-hany-mukhtar-guides-nashville-sc-back-on-top "Power Rankings: Hany Mukhtar guides Nashville SC back on top")
@@ -96,9 +95,6 @@ Power Rankings
 - [![Power Rankings: Luis Suárez puts Inter Miami back on top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rbsmmj2f2eyd4mixoxhs)\\
 \\
 **Power Rankings: Luis Suárez puts Inter Miami back on top**](https://www.mlssoccer.com/news/power-rankings-luis-suarez-puts-inter-miami-back-on-top "Power Rankings: Luis Suárez puts Inter Miami back on top")
-- [![Power Rankings: Son Heung-Min & LAFC get El Tráfico boost](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ntmenyrmuojr4bdlr8r6)\\
-\\
-**Power Rankings: Son Heung-Min & LAFC get El Tráfico boost**](https://www.mlssoccer.com/news/power-rankings-son-heung-min-lafc-get "Power Rankings: Son Heung-Min & LAFC get El Tráfico boost")
 
 [More](https://www.mlssoccer.com/news/topics/power-rankings/)
 
@@ -108,10 +104,18 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
+- [![LA Galaxy "freshen the group" with busy summer transfer window](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nmwghwsdfisx3j0vherh)\\
+\\
+National Writer: Charles Boehm\\
+\\
+**LA Galaxy "freshen the group" with busy summer transfer window**](https://www.mlssoccer.com/news/la-galaxy-freshen-the-group-with-busy-summer-transfer-window "LA Galaxy \"freshen the group\" with busy summer transfer window")
+
+- [![LA Galaxy vs. New England Revolution: What to know for Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/f2pjtz6d7jguc0xqtrst)\\
+\\
+**LA Galaxy vs. New England Revolution: What to know for Saturday Showdown**](https://www.mlssoccer.com/news/la-galaxy-vs-new-england-revolution-what-to-know-for-saturday-showdown "LA Galaxy vs. New England Revolution: What to know for Saturday Showdown")
 - [![Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z8chbpxjrwzmw3oewjtg)\\
 \\
 **Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up**](https://www.mlssoccer.com/news/paxten-aaronson-vs-diego-luna-rocky-mountain-cup-rivalry-heats-up "Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up")
-
 - [![Red Bull New York's youth movement more than an identity](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b4nia13ovkzwqeigo6hd)\\
 \\
 National Writer: Charles Boehm\\
@@ -120,14 +124,6 @@ National Writer: Charles Boehm\\
 - [![Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yzqdfrnhosl2dozh8qr3)\\
 \\
 **Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown**](https://www.mlssoccer.com/news/red-bull-new-york-vs-chicago-fire-what-to-know-for-saturday-showdown "Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown")
-- [![How Antoine Griezmann has inspired Orlando City teammates](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ecg6t4scm4lvypxrc98r)\\
-\\
-National Writer: Charles Boehm\\
-\\
-**How Antoine Griezmann has inspired Orlando City teammates**](https://www.mlssoccer.com/news/how-antoine-griezmann-has-inspired-orlando-city-teammates "How Antoine Griezmann has inspired Orlando City teammates")
-- [![Griezmann vs. Evander: Orlando City welcome FC Cincinnati](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/o8ke6rs6yu52nbchussu)\\
-\\
-**Griezmann vs. Evander: Orlando City welcome FC Cincinnati**](https://www.mlssoccer.com/news/griezmann-vs-evander-orlando-city-welcome-fc-cincinnati-md20-2026 "Griezmann vs. Evander: Orlando City welcome FC Cincinnati")
 
 [More](https://www.mlssoccer.com/news/topics/saturday-showdown/)
 
@@ -164,11 +160,11 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Griezmann plays hero, Pereyra scores stunner](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
+- [![Team of the Matchday: Messi makes magic, Cavan crafts history](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
-**Team of the Matchday: Griezmann plays hero, Pereyra scores stunner**](https://www.mlssoccer.com/news/team-of-the-matchday-griezmann-plays-hero-pereyra-scores-stunner "Team of the Matchday: Griezmann plays hero, Pereyra scores stunner")
+**Team of the Matchday: Messi makes magic, Cavan crafts history**](https://www.mlssoccer.com/news/team-of-the-matchday-messi-makes-magic-cavan-crafts-history "Team of the Matchday: Messi makes magic, Cavan crafts history")
 
 Goal of the Matchday
 
@@ -176,11 +172,11 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![Vote for Goal of the Matchday – MLS Matchday 23](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jevsgsmgplh5rjcphkmx)\\
+- [![Inter Miami's Lionel Messi wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pwlh1h5jvwv8ldmhn2n5)\\
 \\
 Goal of the Matchday\\
 \\
-**Vote for Goal of the Matchday – MLS Matchday 23**](https://www.mlssoccer.com/news/vote-for-goal-of-the-matchday-mls-matchday-23-2026 "Vote for Goal of the Matchday – MLS Matchday 23")
+**Inter Miami's Lionel Messi wins Goal of the Matchday**](https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-goal-of-the-matchday-md23-2026 "Inter Miami's Lionel Messi wins Goal of the Matchday")
 
 Energy Moment of the Matchday
 
@@ -200,37 +196,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![CF Montréal acquire Dante Sealy from Colorado Rapids](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/puug6567pjqfijv7zoyg)\\
+- [![Real Salt Lake sign Canadian defender Luc de Fougerolles](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hrzblsipzabu0j0e2hmd)\\
 \\
 Transfer Tracker\\
 \\
-**CF Montréal acquire Dante Sealy from Colorado Rapids**](https://www.mlssoccer.com/news/cf-montreal-acquire-dante-sealy-from-colorado-rapids "CF Montréal acquire Dante Sealy from Colorado Rapids")
-- [![Vancouver Whitecaps sign Tate Johnson to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zcknx2tcpubednmmlf1l)\\
+**Real Salt Lake sign Canadian defender Luc de Fougerolles**](https://www.mlssoccer.com/news/real-salt-lake-sign-canadian-defender-luc-de-fougerolles "Real Salt Lake sign Canadian defender Luc de Fougerolles")
+- [![Real Salt Lake loan Victor Olatunji to SK Beveren](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oj7ogne6pomuvhww0sme)\\
 \\
 Transfer Tracker\\
 \\
-**Vancouver Whitecaps sign Tate Johnson to contract extension**](https://www.mlssoccer.com/news/vancouver-whitecaps-sign-tate-johnson-to-contract-extension "Vancouver Whitecaps sign Tate Johnson to contract extension")
-- [![Houston Dynamo transfer Ondřej Lingr to Polish club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zdggnts7adqnq3yeot5v)\\
+**Real Salt Lake loan Victor Olatunji to SK Beveren**](https://www.mlssoccer.com/news/real-salt-lake-loan-victor-olatunji-to-sk-beveren "Real Salt Lake loan Victor Olatunji to SK Beveren")
+- [![Toronto FC transfer Deandre Kerr to Portuguese club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yby84yxngoqkkvpgxmfp)\\
 \\
 Transfer Tracker\\
 \\
-**Houston Dynamo transfer Ondřej Lingr to Polish club**](https://www.mlssoccer.com/news/houston-dynamo-transfer-ondrej-lingr-to-polish-club "Houston Dynamo transfer Ondřej Lingr to Polish club")
+**Toronto FC transfer Deandre Kerr to Portuguese club**](https://www.mlssoccer.com/news/toronto-fc-transfer-deandre-kerr-to-portuguese-club "Toronto FC transfer Deandre Kerr to Portuguese club")
 
-- [![FC Dallas transfer Louicius Deedson to French team](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/keio7c13f233varbz0vu)\\
+- [![Colorado Rapids acquire Morgan Whittaker in club-record deal](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ki0wxnrzzu6nyuc4atin)\\
 \\
 Transfer Tracker\\
 \\
-**FC Dallas transfer Louicius Deedson to French team**](https://www.mlssoccer.com/news/fc-dallas-transfer-louicius-deedson-to-french-team "FC Dallas transfer Louicius Deedson to French team")
-- [![Red Bull New York sign Julian Hall to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mwk1wqxyyimcm4pdb36p)\\
+**Colorado Rapids acquire Morgan Whittaker in club-record deal**](https://www.mlssoccer.com/news/colorado-rapids-acquire-morgan-whittaker-club-record-deal-middlesbrough "Colorado Rapids acquire Morgan Whittaker in club-record deal")
+- [![Toronto FC sign Colombian winger Alejandro Piedrahita](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hwzawqbso1jld0hwf4q9)\\
 \\
 Transfer Tracker\\
 \\
-**Red Bull New York sign Julian Hall to contract extension**](https://www.mlssoccer.com/news/red-bull-new-york-sign-julian-hall-to-contract-extension "Red Bull New York sign Julian Hall to contract extension")
-- [![New England Revolution sign homegrown midfielder Judah Siqueira](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vx5hicwpanucvmvquv3j)\\
+**Toronto FC sign Colombian winger Alejandro Piedrahita**](https://www.mlssoccer.com/news/toronto-fc-sign-colombian-winger-alejandro-piedrahita "Toronto FC sign Colombian winger Alejandro Piedrahita")
+- [![LAFC acquire Brazilian forward Thayllon Roberth](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zpfgmcwogctqvrjgorvf)\\
 \\
 Transfer Tracker\\
 \\
-**New England Revolution sign homegrown midfielder Judah Siqueira**](https://www.mlssoccer.com/news/new-england-revolution-sign-homegrown-midfielder-judah-siqueira "New England Revolution sign homegrown midfielder Judah Siqueira")
+**LAFC acquire Brazilian forward Thayllon Roberth**](https://www.mlssoccer.com/news/lafc-acquire-brazilian-forward-thayllon-roberth "LAFC acquire Brazilian forward Thayllon Roberth")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 

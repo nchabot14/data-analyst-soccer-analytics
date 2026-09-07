@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-08-31T16:27:09.496678+00:00
+scraped_at: 2026-09-07T14:31:43.668289+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 June 24, 1987
-(Age: 39-068d)
+(Age: 39-075d)
 
 in Rosario, Argentina
 
@@ -56,7 +56,7 @@ More Player Info
 
 **MP**
 
-19
+20
 
 2
 
@@ -64,7 +64,7 @@ More Player Info
 
 **Min**
 
-1640
+1730
 
 135
 
@@ -80,7 +80,7 @@ More Player Info
 
 **Ast**
 
-9
+10
 
 1
 
@@ -202,7 +202,7 @@ Stathead & Player Comparison
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_5900983124)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_3128740873)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -239,11 +239,11 @@ Domestic Leagues
 | --- | --- | --- |
 | Date | Day | Round | Venue | Result | Squad | Opponent | Start | Pos | Min | Gls | Ast | PK | PKatt | Sh | SoT | CrdY | CrdR | Fls | Fld | Off | Crs | TklW | Int | OG | PKwon | PKcon | Match Report |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [2026-09-05](https://fbref.com/en/matches/688f7f16/Inter-Miami-Atlanta-United-September-5-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | D 2–2 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | Y\* | FW | 90 | 0 | 1 | 0 | 0 | 6 | 1 | 0 | 0 | 0 | 3 | 1 | 6 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/688f7f16/Inter-Miami-Atlanta-United-September-5-2026-Major-League-Soccer) |
 | [2026-08-29](https://fbref.com/en/matches/3d89c2e2/Inter-Miami-CF-Montreal-August-29-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | W 7–1 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | Y\* | FW | 90 | 4 | 1 | 0 | 0 | 8 | 5 | 0 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/3d89c2e2/Inter-Miami-CF-Montreal-August-29-2026-Major-League-Soccer) |
 | [2026-08-22](https://fbref.com/en/matches/2bb5e1fa/Inter-Miami-Toronto-FC-August-22-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | L 1–2 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | Y\* | AM | 90 | 1 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 2 | 0 | 4 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/2bb5e1fa/Inter-Miami-Toronto-FC-August-22-2026-Major-League-Soccer) |
 | [2026-08-19](https://fbref.com/en/matches/3f104bf2/Philadelphia-Union-Inter-Miami-August-19-2026-Major-League-Soccer) | Wed | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Away | D 2–2 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | Y\* | FW | 90 | 1 | 0 | 0 | 0 | 3 | 1 | 0 | 0 | 1 | 2 | 1 | 2 | 1 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/3f104bf2/Philadelphia-Union-Inter-Miami-August-19-2026-Major-League-Soccer) |
 | [2026-08-15](https://fbref.com/en/matches/e2983058/Nashville-SC-Inter-Miami-August-15-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Away | L 1–4 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | Y\* | FW | 90 | 0 | 1 | 0 | 1 | 11 | 2 | 1 | 0 | 0 | 2 | 1 | 2 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/e2983058/Nashville-SC-Inter-Miami-August-15-2026-Major-League-Soccer) |
-| [2026-08-01](https://fbref.com/en/matches/02de3f68/Inter-Miami-Columbus-Crew-August-1-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | D 2–2 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | N |  | 38 | 0 | 0 | 0 | 0 | 4 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/02de3f68/Inter-Miami-Columbus-Crew-August-1-2026-Major-League-Soccer) |
 
 Last 5 Matches Table
 
@@ -322,15 +322,15 @@ POWERED BY
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 27th | 6 | 4 | 373 | 4.1 | 1 | 2 | 3 | 1 | 0 | 0 | 0 | 0 | 0.24 | 0.48 | 0.72 | 0.24 | 0.72 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/summary/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 1st | 19 | 15 | 1,489 | 16.5 | 20 | 11 | 31 | 19 | 1 | 1 | 2 | 0 | 1.21 | 0.66 | 1.87 | 1.15 | 1.81 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/summary/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 2nd | 28 | 26 | 2,421 | 26.9 | 29 | 16 | 45 | 28 | 1 | 2 | 2 | 0 | 1.08 | 0.59 | 1.67 | 1.04 | 1.64 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/summary/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 19 | 18 | 1,640 | 18.2 | 18 | 9 | 27 | 17 | 1 | 2 | 3 | 0 | 0.99 | 0.49 | 1.48 | 0.93 | 1.43 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
-| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 649 | 583 | 53,000 | 588.9 | 564 | 259 | 823 | 500 | 64 | 80 | 57 | 0 | 0.96 | 0.44 | 1.40 | 0.85 | 1.29 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 20 | 19 | 1,730 | 19.2 | 18 | 10 | 28 | 17 | 1 | 2 | 3 | 0 | 0.94 | 0.52 | 1.46 | 0.88 | 1.40 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
+| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 650 | 584 | 53,090 | 589.9 | 564 | 260 | 824 | 500 | 64 | 80 | 57 | 0 | 0.96 | 0.44 | 1.40 | 0.85 | 1.29 |  |
 |  | Country | Comp | LgRank | MP | Starts | Min | 90s | Gls | Ast | G+A | G-PK | PK | PKatt | CrdY | CrdR | Gls | Ast | G+A | G-PK | G+A-PK | Matches |
 | Barcelona (17 Seasons) |  | 1 League |  | 519 | 464 | 42,087 | 467.6 | 474 | 191 | 665 | 413 | 61 | 75 | 50 | 0 | 1.01 | 0.41 | 1.42 | 0.88 | 1.29 |  |
-| Inter Miami (4 Seasons) |  | 1 League |  | 72 | 63 | 5,923 | 65.8 | 68 | 38 | 106 | 65 | 3 | 5 | 7 | 0 | 1.03 | 0.58 | 1.61 | 0.99 | 1.57 |  |
+| Inter Miami (4 Seasons) |  | 1 League |  | 73 | 64 | 6,013 | 66.8 | 68 | 39 | 107 | 65 | 3 | 5 | 7 | 0 | 1.02 | 0.58 | 1.60 | 0.97 | 1.56 |  |
 | PSG (2 Seasons) |  | 1 League |  | 58 | 56 | 4,990 | 55.4 | 22 | 30 | 52 | 22 | 0 | 0 | 0 | 0 | 0.40 | 0.54 | 0.94 | 0.40 | 0.94 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | La Liga (17 Seasons) |  |  |  | 519 | 464 | 42,087 | 467.6 | 474 | 191 | 665 | 413 | 61 | 75 | 50 | 0 | 1.01 | 0.41 | 1.42 | 0.88 | 1.29 |  |
-| MLS (4 Seasons) |  |  |  | 72 | 63 | 5,923 | 65.8 | 68 | 38 | 106 | 65 | 3 | 5 | 7 | 0 | 1.03 | 0.58 | 1.61 | 0.99 | 1.57 |  |
+| MLS (4 Seasons) |  |  |  | 73 | 64 | 6,013 | 66.8 | 68 | 39 | 107 | 65 | 3 | 5 | 7 | 0 | 1.02 | 0.58 | 1.60 | 0.97 | 1.56 |  |
 | Ligue 1 (2 Seasons) |  |  |  | 58 | 56 | 4,990 | 55.4 | 22 | 30 | 52 | 22 | 0 | 0 | 0 | 0 | 0.40 | 0.54 | 0.94 | 0.40 | 0.94 |  |
 
 Standard Stats: Domestic Leagues Table
@@ -365,15 +365,15 @@ Standard Stats: Domestic Leagues Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 27th | 4.1 | 1 | 20 | 7 | 35.0 | 4.83 | 1.69 | 0.05 | 0.14 | 0 | 0 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/summary/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 1st | 16.5 | 20 | 84 | 41 | 48.8 | 5.08 | 2.48 | 0.24 | 0.49 | 1 | 1 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/summary/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 2nd | 26.9 | 29 | 157 | 71 | 45.2 | 5.84 | 2.64 | 0.18 | 0.41 | 1 | 2 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/summary/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 18.2 | 18 | 112 | 45 | 40.2 | 6.15 | 2.47 | 0.16 | 0.40 | 1 | 2 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
-| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 588.9 | 564 | 1648 | 1461 | 45.3 | 5.28 | 2.48 | 0.17 | 0.39 | 64 | 80 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 19.2 | 18 | 118 | 46 | 39.0 | 6.14 | 2.39 | 0.15 | 0.39 | 1 | 2 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
+| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 589.9 | 564 | 1654 | 1462 | 45.2 | 5.28 | 2.48 | 0.17 | 0.39 | 64 | 80 |  |
 |  | Country | Comp | LgRank | 90s | Gls | Sh | SoT | SoT% | Sh/90 | SoT/90 | G/Sh | G/SoT | PK | PKatt | Matches |
 | Barcelona (17 Seasons) |  | 1 League |  | 467.6 | 474 | 1057 | 1211 | 47.0 | 5.54 | 2.59 | 0.18 | 0.39 | 61 | 75 |  |
-| Inter Miami (4 Seasons) |  | 1 League |  | 65.8 | 68 | 373 | 164 | 44.0 | 5.67 | 2.49 | 0.18 | 0.41 | 3 | 5 |  |
+| Inter Miami (4 Seasons) |  | 1 League |  | 66.8 | 68 | 379 | 165 | 43.5 | 5.67 | 2.47 | 0.18 | 0.41 | 3 | 5 |  |
 | PSG (2 Seasons) |  | 1 League |  | 55.4 | 22 | 218 | 86 | 39.4 | 3.93 | 1.55 | 0.10 | 0.26 | 0 | 0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | La Liga (17 Seasons) |  |  |  | 467.6 | 474 | 1057 | 1211 | 47.0 | 5.54 | 2.59 | 0.18 | 0.39 | 61 | 75 |  |
-| MLS (4 Seasons) |  |  |  | 65.8 | 68 | 373 | 164 | 44.0 | 5.67 | 2.49 | 0.18 | 0.41 | 3 | 5 |  |
+| MLS (4 Seasons) |  |  |  | 66.8 | 68 | 379 | 165 | 43.5 | 5.67 | 2.47 | 0.18 | 0.41 | 3 | 5 |  |
 | Ligue 1 (2 Seasons) |  |  |  | 55.4 | 22 | 218 | 86 | 39.4 | 3.93 | 1.55 | 0.10 | 0.26 | 0 | 0 |  |
 
 Shooting: Domestic Leagues Table
@@ -406,15 +406,15 @@ Shooting: Domestic Leagues Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 27th | 6 | 373 | 62 | 12.2 | 4.1 | 4 | 77 | 3 | 2 | 34 | 0 | 1.67 | 4 | 3 | +1 | +0.24 | +0.71 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/summary/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 1st | 19 | 1,489 | 78 | 48.7 | 16.5 | 15 | 90 | 15 | 4 | 35 | 0 | 2.05 | 47 | 22 | +25 | +1.51 | +1.22 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/summary/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 2nd | 28 | 2,421 | 86 | 79.1 | 26.9 | 26 | 90 | 26 | 2 | 41 | 1 | 2.12 | 69 | 45 | +24 | +0.89 | +0.61 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/summary/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 19 | 1,640 | 86 | 82.8 | 18.2 | 18 | 89 | 17 | 1 | 38 | 0 | 1.84 | 48 | 38 | +10 | +0.55 | -0.77 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
-| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 649 | 53,000 | 82 | 69.6 | 588.9 | 583 | 88 | 522 | 66 | 34 | 1 | 2.26 | 909 | 345 | +564 | +1.61 | +1.04 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 20 | 1,730 | 87 | 83.6 | 19.2 | 19 | 89 | 18 | 1 | 38 | 0 | 1.80 | 50 | 40 | +10 | +0.52 | -0.80 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
+| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 650 | 53,090 | 82 | 69.6 | 589.9 | 584 | 88 | 523 | 66 | 34 | 1 | 2.26 | 911 | 347 | +564 | +1.61 | +1.03 |  |
 |  | Country | Comp | LgRank | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 | On-Off | Matches |
 | Barcelona (17 Seasons) |  | 1 League |  | 519 | 42,087 | 81 | 72.4 | 467.6 | 464 | 88 | 412 | 55 | 34 | 0 | 2.34 | 610 | 183 | +427 | +1.87 | +0.73 |  |
-| Inter Miami (4 Seasons) |  | 1 League |  | 72 | 5,923 | 82 | 53.1 | 65.8 | 63 | 89 | 61 | 9 | 36 | 1 | 1.99 | 168 | 108 | +60 | +0.91 | +0.95 |  |
+| Inter Miami (4 Seasons) |  | 1 League |  | 73 | 6,013 | 82 | 53.4 | 66.8 | 64 | 89 | 62 | 9 | 36 | 1 | 1.98 | 170 | 110 | +60 | +0.90 | +0.93 |  |
 | PSG (2 Seasons) |  | 1 League |  | 58 | 4,990 | 86 | 73.0 | 55.4 | 56 | 88 | 49 | 2 | 27 | 0 | 2.24 | 131 | 54 | +77 | +1.39 | +0.12 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | La Liga (17 Seasons) |  |  |  | 519 | 42,087 | 81 | 72.4 | 467.6 | 464 | 88 | 412 | 55 | 34 | 0 | 2.34 | 610 | 183 | +427 | +1.87 | +0.73 |  |
-| MLS (4 Seasons) |  |  |  | 72 | 5,923 | 82 | 53.1 | 65.8 | 63 | 89 | 61 | 9 | 36 | 1 | 1.99 | 168 | 108 | +60 | +0.91 | +0.95 |  |
+| MLS (4 Seasons) |  |  |  | 73 | 6,013 | 82 | 53.4 | 66.8 | 64 | 89 | 62 | 9 | 36 | 1 | 1.98 | 170 | 110 | +60 | +0.90 | +0.93 |  |
 | Ligue 1 (2 Seasons) |  |  |  | 58 | 4,990 | 86 | 73.0 | 55.4 | 56 | 88 | 49 | 2 | 27 | 0 | 2.24 | 131 | 54 | +77 | +1.39 | +0.12 |  |
 
 Playing Time: Domestic Leagues Table
@@ -447,15 +447,15 @@ Playing Time: Domestic Leagues Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 27th | 4.1 | 0 | 0 | 0 | 3 | 13 | 1 | 9 | 1 | 1 |  |  | 0 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/misc/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 1st | 16.5 | 2 | 0 | 0 | 8 | 26 | 8 | 30 | 2 | 6 |  |  | 0 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/misc/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 2nd | 26.9 | 2 | 0 | 0 | 9 | 35 | 7 | 62 | 4 | 9 |  |  | 0 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/misc/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 18.2 | 3 | 0 | 0 | 13 | 30 | 12 | 48 | 2 | 5 |  |  | 0 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/misc/Lionel-Messi-Match-Logs) |
-| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 588.9 | 57 | 0 | 0 | 392 | 630 | 107 | 734 | 49 | 105 | 3 | 0 | 0 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 19.2 | 3 | 0 | 0 | 13 | 33 | 13 | 54 | 2 | 5 |  |  | 0 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/misc/Lionel-Messi-Match-Logs) |
+| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 589.9 | 57 | 0 | 0 | 392 | 633 | 108 | 740 | 49 | 105 | 3 | 0 | 0 |  |
 |  | Country | Comp | LgRank | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG | Matches |
 | Barcelona (17 Seasons) |  | 1 League |  | 467.6 | 50 | 0 | 0 | 345 | 455 | 63 | 460 | 34 | 63 | 3 | 0 | 0 |  |
-| Inter Miami (4 Seasons) |  | 1 League |  | 65.8 | 7 | 0 | 0 | 33 | 104 | 28 | 149 | 9 | 21 |  |  | 0 |  |
+| Inter Miami (4 Seasons) |  | 1 League |  | 66.8 | 7 | 0 | 0 | 33 | 107 | 29 | 155 | 9 | 21 |  |  | 0 |  |
 | PSG (2 Seasons) |  | 1 League |  | 55.4 | 0 | 0 | 0 | 14 | 71 | 16 | 125 | 6 | 21 |  |  | 0 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | La Liga (17 Seasons) |  |  |  | 467.6 | 50 | 0 | 0 | 345 | 455 | 63 | 460 | 34 | 63 | 3 | 0 | 0 |  |
-| MLS (4 Seasons) |  |  |  | 65.8 | 7 | 0 | 0 | 33 | 104 | 28 | 149 | 9 | 21 |  |  | 0 |  |
+| MLS (4 Seasons) |  |  |  | 66.8 | 7 | 0 | 0 | 33 | 107 | 29 | 155 | 9 | 21 |  |  | 0 |  |
 | Ligue 1 (2 Seasons) |  |  |  | 55.4 | 0 | 0 | 0 | 14 | 71 | 16 | 125 | 6 | 21 |  |  | 0 |  |
 
 Miscellaneous Stats: Domestic Leagues Table
@@ -488,8 +488,8 @@ Miscellaneous Stats: Domestic Leagues Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 6 | 373 | 1 | 2 | 1 | 120 | 0 | 2 | 7 | 624 | 10 | 1 | 14 | 1,117 | 11 | 5 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 19 | 1,489 | 20 | 11 |  |  |  |  | 3 | 229 | 2 | 2 | 22 | 1,718 | 22 | 13 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 28 | 2,421 | 29 | 16 |  |  |  |  | 15 | 1,196 | 8 | 2 | 43 | 3,617 | 37 | 18 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 19 | 1,640 | 18 | 9 |  |  |  |  | 4 | 315 | 3 | 1 | 23 | 1,955 | 21 | 10 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/Lionel-Messi-Match-Logs) |
-| [23 Seasons](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)\* | 3 Clubs |  |  | 649 | 53,000 | 564 | 259 | 49 | 4,495 | 32 | 24 | 193 | 16,068 | 154 | 47 | 891 | 73,563 | 750 | 330 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 20 | 1,730 | 18 | 10 |  |  |  |  | 4 | 315 | 3 | 1 | 24 | 2,045 | 21 | 11 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/Lionel-Messi-Match-Logs) |
+| [23 Seasons](https://fbref.com/en/players/d70ce98e/Lionel-Messi#coverage)\* | 3 Clubs |  |  | 650 | 53,090 | 564 | 260 | 49 | 4,495 | 32 | 24 | 193 | 16,068 | 154 | 47 | 892 | 73,653 | 750 | 331 |  |
 
 Player Club Summary Table
 
@@ -759,7 +759,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  1.08 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.99 (2nd)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.94 (3rd)
 
 28 Appearances in Top 10
 
@@ -823,7 +823,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  16 (2nd)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  9 (3rd)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  10 (1st)
 
 30 Appearances in Top 10
 
@@ -871,7 +871,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  0.59 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.49 (6th)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.52 (5th)
 
 22 Appearances in Top 10
 
@@ -941,7 +941,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  45 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  27 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  28 (1st)
 
 33 Appearances in Top 10
 
@@ -1015,7 +1015,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  1.67 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  1.48 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  1.46 (1st)
 
 35 Appearances in Top 10
 
@@ -1181,7 +1181,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  1.04 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.93 (2nd)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  0.88 (2nd)
 
 30 Appearances in Top 10
 
@@ -1253,7 +1253,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  1.64 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  1.43 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  1.40 (1st)
 
 34 Appearances in Top 10
 
@@ -1291,7 +1291,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  157 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  112 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  118 (1st)
 
 17 Appearances in Top 10
 
@@ -1331,7 +1331,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  5.84 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  6.15 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  6.14 (1st)
 
 18 Appearances in Top 10
 
@@ -1395,7 +1395,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  71 (2nd)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  45 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  46 (1st)
 
 30 Appearances in Top 10
 
@@ -1459,7 +1459,7 @@ Player Club Summary Table
 
 [2025 Major League Soccer](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats)  2.64 (1st)
 
-[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  2.47 (1st)
+[2026 Major League Soccer](https://fbref.com/en/comps/22/Major-League-Soccer-Stats)  2.39 (1st)
 
 30 Appearances in Top 10
 
@@ -1587,9 +1587,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
+· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
 · [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
-· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
 · [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
