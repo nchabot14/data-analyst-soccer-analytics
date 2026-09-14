@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-09-07T14:32:23.805522+00:00
+scraped_at: 2026-09-14T15:19:58.889313+00:00
 source: mlssoccer.com
 ---
 
@@ -45,19 +45,12 @@ Latest News & Video
 Latest News & Video
 
 
-- [![If the Audi 2026 MLS Cup Playoffs started today: Matchday 25](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lwthb6xhjpwlgmdmb3ld)\\
-\\
-**If the Audi 2026 MLS Cup Playoffs started today: Matchday 25** \\
-\\
-Two months remain in the regular season, bringing the Audi 2026 MLS Cup Playoffs picture into view.\\
-Below are the would-be matchups and qualifiers if the postseason started today.](https://www.mlssoccer.com/playoffs/2025/news/if-audi-2026-mls-cup-playoffs-started-today-matchups-scenarios-teams-qualified "If the Audi 2026 MLS Cup Playoffs started today: Matchday 25")
-
-- [![Audi 2026 MLS Cup Playoffs: Key dates & schedule information](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fr6zohzula1j70ywfgga)\\
-\\
-**Audi 2026 MLS Cup Playoffs: Key dates & schedule information**](https://www.mlssoccer.com/playoffs/2025/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information "Audi 2026 MLS Cup Playoffs: Key dates & schedule information")
 - [![MLS Cup 2025 delivers record viewership & social engagement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ticqtqqngobpipoiezuk)\\
 \\
-**MLS Cup 2025 delivers record viewership & social engagement**](https://www.mlssoccer.com/playoffs/2025/news/mls-cup-delivers-record-viewership-and-social-engagement-x6909 "MLS Cup 2025 delivers record viewership & social engagement")
+**MLS Cup 2025 delivers record viewership & social engagement** \\
+\\
+MLS Cup 2025 presented by Audi between Inter Miami CF and Vancouver Whitecaps FC delivered record-breaking multi-platform consumption and social engagement.](https://www.mlssoccer.com/playoffs/2025/news/mls-cup-delivers-record-viewership-and-social-engagement-x6909 "MLS Cup 2025 delivers record viewership & social engagement")
+
 - [![Ref Cam! Inter Miami down Vancouver Whitecaps in MLS Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jeugrieixbuzfa47ga2b)\\
 \\
 7:02\\
@@ -74,6 +67,12 @@ Below are the would-be matchups and qualifiers if the postseason started today.]
 6:30\\
 \\
 **Inter Miami bring home MLS Cup! \| Power Cam**](https://www.mlssoccer.com/video/inter-miami-bring-home-mls-cup-power-cam "Inter Miami bring home MLS Cup! | Power Cam")
+- [![Inter Miami: From “sleepless nights” to MLS Cup champions](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vmn6n27cw5odwcbxediu)\\
+\\
+**Inter Miami: From “sleepless nights” to MLS Cup champions**](https://www.mlssoccer.com/playoffs/2025/news/inter-miami-from-sleepless-nights-to-mls-cup-champions "Inter Miami: From “sleepless nights” to MLS Cup champions")
+- [![Lionel Messi delivers MLS Cup to Inter Miami: "It’s very beautiful"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mwzo6koagsonft4n2n4z)\\
+\\
+**Lionel Messi delivers MLS Cup to Inter Miami: "It’s very beautiful"**](https://www.mlssoccer.com/playoffs/2025/news/lionel-messi-delivers-mls-cup-to-inter-miami-it-s-very-beautiful "Lionel Messi delivers MLS Cup to Inter Miami: \"It’s very beautiful\"")
 
 ![Playoff Format Explained](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/mls/oqshy0fm1wdhwkovkmz2.png)
 

@@ -1,6 +1,6 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-09-07T14:32:11.673343+00:00
+scraped_at: 2026-09-14T15:19:46.058292+00:00
 source: mlssoccer.com
 ---
 
@@ -33,27 +33,27 @@ Come Kick It! Watch MLS on Apple TV
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qigwm1ck0o3xrmuh5j8u)\\
+- [![CF Montréal vs. Vancouver Whitecaps: How to watch, stream Canadian Championship semifinal](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jlsbm5rhwvzzhxnih9xd)\\
+\\
+**CF Montréal vs. Vancouver Whitecaps: How to watch, stream Canadian Championship semifinal**](https://www.mlssoccer.com/news/cf-montreal-vs-vancouver-whitecaps-how-to-watch-stream-canadian-championship-semifinal "CF Montréal vs. Vancouver Whitecaps: How to watch, stream Canadian Championship semifinal")
+
+- [![Colorado Rapids vs. St. Louis CITY: How to watch, stream US Open Cup semifinal](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/v4s0giuxizanl9psflaa)\\
+\\
+**Colorado Rapids vs. St. Louis CITY: How to watch, stream US Open Cup semifinal**](https://www.mlssoccer.com/competitions/u-s-open-cup/news/colorado-rapids-vs-st-louis-city-how-to-watch-stream-us-open-cup-semifinal "Colorado Rapids vs. St. Louis CITY: How to watch, stream US Open Cup semifinal")
+- [![Columbus Crew vs. Orlando City: How to watch, stream US Open Cup semifinal](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vdgzb9gkyrsmf482bdcs)\\
+\\
+**Columbus Crew vs. Orlando City: How to watch, stream US Open Cup semifinal**](https://www.mlssoccer.com/competitions/u-s-open-cup/news/columbus-crew-vs-orlando-city-how-to-watch-stream-us-open-cup-semifinal "Columbus Crew vs. Orlando City: How to watch, stream US Open Cup semifinal")
+- [![Cavan's epic brace, Nashville's Shield grip & more from Matchday 26](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fwhvvpfulrrb1rzqtcr3)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24**](https://www.mlssoccer.com/news/janssen-s-hat-trick-cavan-s-lebron-salute-more-from-matchday-24 "Janssen's hat trick, Cavan's LeBron salute & more from Matchday 24")
-
-- [![St. Louis CITY extend unbeaten run with Vancouver upset](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wywbxfv8edxie365vd08)\\
+**Cavan's epic brace, Nashville's Shield grip & more from Matchday 26**](https://www.mlssoccer.com/news/cavan-sullivan-epic-brace-nashville-supporter-shield-grip-more-from-matchday-26 "Cavan's epic brace, Nashville's Shield grip & more from Matchday 26")
+- [![Cavan Sullivan continues ridiculous form with brilliant brace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gbsdfsotbwrvrjyhfhkq)\\
 \\
-**St. Louis CITY extend unbeaten run with Vancouver upset**](https://www.mlssoccer.com/news/st-louis-city-extend-unbeaten-run-with-vancouver-upset "St. Louis CITY extend unbeaten run with Vancouver upset")
-- [![History! Vincent Janssen scores first Portland Timbers hat trick](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/csmgrbcigck5tuptzdi7)\\
+**Cavan Sullivan continues ridiculous form with brilliant brace**](https://www.mlssoccer.com/news/cavan-sullivan-continues-ridiculous-form-with-brilliant-brace "Cavan Sullivan continues ridiculous form with brilliant brace")
+- [![Peyton Miller stars in huge New England Revolution win](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/orcb6zpmskroicmiqf1z)\\
 \\
-**History! Vincent Janssen scores first Portland Timbers hat trick**](https://www.mlssoccer.com/news/history-vincent-janssen-scores-first-portland-timbers-hat-trick "History! Vincent Janssen scores first Portland Timbers hat trick")
-- [![Cavan Sullivan channels LeBron James in record-setting performance](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/c8buorxos89ovbhlatxs)\\
-\\
-**Cavan Sullivan channels LeBron James in record-setting performance**](https://www.mlssoccer.com/news/cavan-sullivan-channels-lebron-james-record-setting-performance "Cavan Sullivan channels LeBron James in record-setting performance")
-- [![Lionel Messi makes history in first game since Argentina retirement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/himebdul29tlgh8hf6nv)\\
-\\
-**Lionel Messi makes history in first game since Argentina retirement**](https://www.mlssoccer.com/news/lionel-messi-makes-history-in-first-game-since-argentina-retirement "Lionel Messi makes history in first game since Argentina retirement")
-- [![Josh Sargent scores first hat trick in wild Toronto FC goalfest](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qdiiidqo55t70wmbnzjs)\\
-\\
-**Josh Sargent scores first hat trick in wild Toronto FC goalfest**](https://www.mlssoccer.com/news/josh-sargent-scores-first-toronto-fc-hat-trick-in-wild-draw "Josh Sargent scores first hat trick in wild Toronto FC goalfest")
+**Peyton Miller stars in huge New England Revolution win**](https://www.mlssoccer.com/news/peyton-miller-stars-in-huge-new-england-revolution-win "Peyton Miller stars in huge New England Revolution win")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -79,10 +79,13 @@ Power Rankings
 Power Rankings
 
 
+- [![Power Rankings: Orlando City, St. Louis CITY keep climbing](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xskdiv7bbshvhazd99lx)\\
+\\
+**Power Rankings: Orlando City, St. Louis CITY keep climbing**](https://www.mlssoccer.com/news/power-rankings-orlando-city-st-louis-city-keep-climbing "Power Rankings: Orlando City, St. Louis CITY keep climbing")
+
 - [![Power Rankings: Philadelphia Union continue epic ascent](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tkzpk4ex1evcib9gw1xx)\\
 \\
 **Power Rankings: Philadelphia Union continue epic ascent**](https://www.mlssoccer.com/news/power-rankings-nashv "Power Rankings: Philadelphia Union continue epic ascent")
-
 - [![Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z1d7zfvxcznuwdrm0ezk)\\
 \\
 **Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs**](https://www.mlssoccer.com/news/power-rankings-chicago-fire-st-louis-city-extend-unbeaten-runs "Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs")
@@ -92,9 +95,6 @@ Power Rankings
 - [![Power Rankings: Evander shows elite level in FC Cincinnati thriller](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ucq6mowaxcl3jlgdeolx)\\
 \\
 **Power Rankings: Evander shows elite level in FC Cincinnati thriller**](https://www.mlssoccer.com/news/power-rankings-evander-shows-elite-level-in-fc-cincinnati-thriller "Power Rankings: Evander shows elite level in FC Cincinnati thriller")
-- [![Power Rankings: Luis Suárez puts Inter Miami back on top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rbsmmj2f2eyd4mixoxhs)\\
-\\
-**Power Rankings: Luis Suárez puts Inter Miami back on top**](https://www.mlssoccer.com/news/power-rankings-luis-suarez-puts-inter-miami-back-on-top "Power Rankings: Luis Suárez puts Inter Miami back on top")
 
 [More](https://www.mlssoccer.com/news/topics/power-rankings/)
 
@@ -104,26 +104,24 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
+- [![Leo Messi, Sam Surridge shine in Miami-Nashville slugfest](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/palpx4wlvd5jzvkbaisv)\\
+\\
+**Leo Messi, Sam Surridge shine in Miami-Nashville slugfest**](https://www.mlssoccer.com/news/lionel-messi-sam-surridge-shine-in-supporters-shield-slugfest "Leo Messi, Sam Surridge shine in Miami-Nashville slugfest")
+
+- [![Nashville SC flip the switch on Inter Miami in 2026](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ffdkqxp0z1izx3lefttq)\\
+\\
+**Nashville SC flip the switch on Inter Miami in 2026**](https://www.mlssoccer.com/news/nashville-sc-have-flipped-the-switch-on-inter-miami-in-2026 "Nashville SC flip the switch on Inter Miami in 2026")
+- [![Rivals reunited: Lionel Messi & Inter Miami host Nashville SC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/faorsam7aehx1noeguna)\\
+\\
+**Rivals reunited: Lionel Messi & Inter Miami host Nashville SC**](https://www.mlssoccer.com/news/rivals-reunited-lionel-messi-inter-miami-host-nashville-sc "Rivals reunited: Lionel Messi & Inter Miami host Nashville SC")
 - [![LA Galaxy "freshen the group" with busy summer transfer window](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nmwghwsdfisx3j0vherh)\\
 \\
 National Writer: Charles Boehm\\
 \\
 **LA Galaxy "freshen the group" with busy summer transfer window**](https://www.mlssoccer.com/news/la-galaxy-freshen-the-group-with-busy-summer-transfer-window "LA Galaxy \"freshen the group\" with busy summer transfer window")
-
 - [![LA Galaxy vs. New England Revolution: What to know for Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/f2pjtz6d7jguc0xqtrst)\\
 \\
 **LA Galaxy vs. New England Revolution: What to know for Saturday Showdown**](https://www.mlssoccer.com/news/la-galaxy-vs-new-england-revolution-what-to-know-for-saturday-showdown "LA Galaxy vs. New England Revolution: What to know for Saturday Showdown")
-- [![Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z8chbpxjrwzmw3oewjtg)\\
-\\
-**Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up**](https://www.mlssoccer.com/news/paxten-aaronson-vs-diego-luna-rocky-mountain-cup-rivalry-heats-up "Paxten Aaronson vs. Diego Luna: Rocky Mountain Cup rivalry heats up")
-- [![Red Bull New York's youth movement more than an identity](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b4nia13ovkzwqeigo6hd)\\
-\\
-National Writer: Charles Boehm\\
-\\
-**Red Bull New York's youth movement more than an identity**](https://www.mlssoccer.com/news/michael-bradley-s-youth-movement-takes-hold-at-red-bull-new-york "Red Bull New York's youth movement more than an identity")
-- [![Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yzqdfrnhosl2dozh8qr3)\\
-\\
-**Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown**](https://www.mlssoccer.com/news/red-bull-new-york-vs-chicago-fire-what-to-know-for-saturday-showdown "Red Bull New York vs. Chicago Fire: What to know for Saturday Showdown")
 
 [More](https://www.mlssoccer.com/news/topics/saturday-showdown/)
 
@@ -133,24 +131,26 @@ Sunday Night Soccer pres. by Continental Tire
 Sunday Night Soccer pres. by Continental Tire
 
 
+- [![Cavan Sullivan continues ridiculous form with brilliant brace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gbsdfsotbwrvrjyhfhkq)\\
+\\
+**Cavan Sullivan continues ridiculous form with brilliant brace**](https://www.mlssoccer.com/news/cavan-sullivan-continues-ridiculous-form-with-brilliant-brace "Cavan Sullivan continues ridiculous form with brilliant brace")
+
+- [![How Cavan Sullivan took the leap with Philadelphia Union](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mgmarcpicrvqbozgdawu)\\
+\\
+National Writer: Charles Boehm\\
+\\
+**How Cavan Sullivan took the leap with Philadelphia Union**](https://www.mlssoccer.com/news/how-cavan-sullivan-took-the-leap-with-philadelphia-union "How Cavan Sullivan took the leap with Philadelphia Union")
+- [![Cavan Sullivan & Philadelphia Union face San Diego FC test](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zjc2diycycox7dxjs2pe)\\
+\\
+**Cavan Sullivan & Philadelphia Union face San Diego FC test**](https://www.mlssoccer.com/news/cavan-sullivan-philadelphia-union-face-san-diego-fc-test "Cavan Sullivan & Philadelphia Union face San Diego FC test")
 - [![St. Louis CITY's new identity fuels historic turnaround](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ezjeqbpj1mywmdduhom8)\\
 \\
 National Writer: Charles Boehm\\
 \\
 **St. Louis CITY's new identity fuels historic turnaround**](https://www.mlssoccer.com/news/st-louis-city-s-new-identity-fuels-historic-turnaround "St. Louis CITY's new identity fuels historic turnaround")
-
 - [![St. Louis CITY vs. FC Dallas: What to know for Sunday Night Soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/j7zftstelsttwly8eygt)\\
 \\
 **St. Louis CITY vs. FC Dallas: What to know for Sunday Night Soccer**](https://www.mlssoccer.com/news/st-louis-city-vs-fc-dallas-what-to-know-for-sunday-night-soccer-md23-2026 "St. Louis CITY vs. FC Dallas: What to know for Sunday Night Soccer")
-- [![Sporting Kansas City roster rebuild continues: "We must improve"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/smsnmeffgca6y0zjwdvc)\\
-\\
-**Sporting Kansas City roster rebuild continues: "We must improve"**](https://www.mlssoccer.com/news/sporting-kansas-city-roster-rebuild-continues-we-must-improve "Sporting Kansas City roster rebuild continues: \"We must improve\"")
-- [![Atlanta United vs. Sporting Kansas City: What to know for Sunday Night Soccer](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/s6z9ygxi4jx9dv2ztavd)\\
-\\
-**Atlanta United vs. Sporting Kansas City: What to know for Sunday Night Soccer**](https://www.mlssoccer.com/news/atlanta-united-vs-sporting-kansas-city-what-to-know-for-sunday-night-soccer "Atlanta United vs. Sporting Kansas City: What to know for Sunday Night Soccer")
-- [![Thomas Müller guides Vancouver Whitecaps to Cascadia Cup crown](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/uw0hdpn4q1tccolpsxfw)\\
-\\
-**Thomas Müller guides Vancouver Whitecaps to Cascadia Cup crown**](https://www.mlssoccer.com/news/thomas-muller-guides-vancouver-whitecaps-to-cascadia-cup-crown "Thomas Müller guides Vancouver Whitecaps to Cascadia Cup crown")
 
 [More](https://www.mlssoccer.com/news/topics/sunday-night-soccer/)
 
@@ -160,11 +160,11 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Messi makes magic, Cavan crafts history](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
+- [![Team of the Matchday: Cavan Sullivan, Antoine Griezmann again prove heroic](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
-**Team of the Matchday: Messi makes magic, Cavan crafts history**](https://www.mlssoccer.com/news/team-of-the-matchday-messi-makes-magic-cavan-crafts-history "Team of the Matchday: Messi makes magic, Cavan crafts history")
+**Team of the Matchday: Cavan Sullivan, Antoine Griezmann again prove heroic**](https://www.mlssoccer.com/news/team-of-the-matchday-cavan-sullivan-antoine-griezmann-again-prove-heroic "Team of the Matchday: Cavan Sullivan, Antoine Griezmann again prove heroic")
 
 Goal of the Matchday
 
@@ -172,11 +172,9 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![Inter Miami's Lionel Messi wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pwlh1h5jvwv8ldmhn2n5)\\
+- [![Chicago Fire's Robert Lewandowski wins Goal of Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hypqz4uuvb4aff9xvath)\\
 \\
-Goal of the Matchday\\
-\\
-**Inter Miami's Lionel Messi wins Goal of the Matchday**](https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-goal-of-the-matchday-md23-2026 "Inter Miami's Lionel Messi wins Goal of the Matchday")
+**Chicago Fire's Robert Lewandowski wins Goal of Matchday**](https://www.mlssoccer.com/news/chicago-fire-s-robert-lewandowski-wins-goal-of-matchday-md25-2026 "Chicago Fire's Robert Lewandowski wins Goal of Matchday")
 
 Energy Moment of the Matchday
 
@@ -184,11 +182,11 @@ Energy Moment of the Matchday
 Energy Moment of the Matchday
 
 
-- [![Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pilwawi5xgdmcwqe4u90)\\
+- [![Mateusz Bogusz gives Houston Dynamo late winner | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/sp1dkkndxa3wza1e66af)\\
 \\
 Energy Moment of the Matchday\\
 \\
-**Tyrese Spicer saves Orlando at the death \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/tyrese-spicer-saves-orlando-at-the-death-energy-moment-of-the-matchday "Tyrese Spicer saves Orlando at the death | Energy Moment of the Matchday")
+**Mateusz Bogusz gives Houston Dynamo late winner \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/mateusz-bogusz-gives-houston-dynamo-late-winner-energy-moment-of-the-matchday "Mateusz Bogusz gives Houston Dynamo late winner | Energy Moment of the Matchday")
 
 Transfer Tracker
 

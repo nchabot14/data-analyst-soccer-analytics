@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2024/8/27/state-of-the-mls-academy-system
-scraped_at: 2026-09-07T14:32:31.363658+00:00
+scraped_at: 2026-09-14T15:20:05.461484+00:00
 source: americansocceranalysis.com
 ---
 

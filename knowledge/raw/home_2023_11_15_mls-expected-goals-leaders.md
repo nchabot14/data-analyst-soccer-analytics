@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2023/11/15/mls-expected-goals-leaders
-scraped_at: 2026-09-07T14:32:43.712368+00:00
+scraped_at: 2026-09-14T15:20:17.327038+00:00
 source: americansocceranalysis.com
 ---
 
