@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2023/11/15/mls-expected-goals-leaders
-scraped_at: 2026-09-14T15:20:17.327038+00:00
+scraped_at: 2026-09-21T15:24:01.423392+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,14 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[![Hot... Foot? Fallacy](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1789694856711-VTMKDSTGCD96EWVYEDG2/02_01-raw-conversion_conversion-rate-by-what-came-before.png)](https://www.americansocceranalysis.com/home/2026/9/17/hot-foot-fallacy)
+
+[By Kieran Doyle](https://bsky.app/profile/kierdoyle.bsky.social)
+
+Finishing is a fairly contentious topic when it comes to the world of soccer analytics. The somewhat mainstream analytics practitioner opinion can be summed up as follows: finishing is objectively a skill that exists, but the majority of players possess a skill level that impacts the underlying finishing rate to a much smaller degree than the random noise of sometimes ball go in. This is the thing with soccer as a sport as a whole. Feet are just so much worse than hands. One topic that this has made me think about is the whole hot hand fallacy. Do feet, which are much less good at manipulating balls than hands, get hot? I’m going to try and avoid being too academic and stiff here, but bear with me.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/9/17/hot-foot-fallacy)
 
 [![Replication Project-ish: Projecting MLS Performance based on  MLS Next Pro Data](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1787460581956-IWVNPERKCDN08XUFSJG9/backtest_wheel_frankie_westfield.png)](https://www.americansocceranalysis.com/home/2026/8/22/replication-project-ish-projecting-mls-performance-based-on-mls-next-pro-data)
 
@@ -100,12 +108,6 @@ _Our 2026 NWSL Season Previews have started and today we hit Portland and KC.. I
 _If you’re more of an audio person, our friends at Expected Own Goals spoke to Phuoc Nguyen from Stumptown Footy to talk Portland, and Cindy Lara from the KC Sports Journal on the Current,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
 
 [Read More](https://www.americansocceranalysis.com/home/2026/3/10/2026-nwsl-previews-portland-thorns-kc-current)
-
-_Our 2026 NWSL Season Previews have started and today we hit Seattle and Orlando. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals spoke to Kari Anderson from Yahoo about the Reign, and Abigail Segel from The XI and Defector about Orlando,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/9/2026-nwsl-previews-seattle-reign-orlando-pride)
 
 0items
 
