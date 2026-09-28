@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-09-21T15:23:37.136354+00:00
+scraped_at: 2026-09-28T17:05:44.534045+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 31-047d)
+(Age: 31-054d)
 
 in Copenhagen, Denmark
 
@@ -119,7 +119,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=de31038e&p6yrfrom=2026-2027)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=0ddabe9e&p6yrfrom=2026)
 
 - Stats by Competition
 
@@ -164,13 +164,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=de31038e&p6yrfrom=2026-2027)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=0ddabe9e&p6yrfrom=2026)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_2699209737)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_3510270610)
   - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
@@ -243,7 +243,7 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News Archive](https://fbref.com/en/news/8b04d6c1)
 - [Player News RSS Feed](https://fbref.com/en/news/8b04d6c1/rss)
 
-- [Sports Reference Linker](https://fbref.com/en/linker/) \-\- Link your blog posts to our site & get your articles in front of thousands of fans.
+- Bloggers! Put your articles here for free. See the [Sports Reference Linker](https://fbref.com/en/linker/) for details.
 
 ## Standard Stats: Domestic Leagues
 
@@ -383,11 +383,11 @@ Playing Time: Domestic Leagues Table
 | --- | --- | --- |
 | Season | Age | Squad | Country | Comp | LgRank | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG | Matches |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2012-2013 | 16 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2012-2013/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2012-2013/2012-2013-Bundesliga-Stats) | 1st | 0.2 | 0 | 0 |  | 0 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2012-2013/misc/Pierre-Hojbjerg-Match-Logs) |
-| 2013-2014 | 17 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2013-2014/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2013-2014/2013-2014-Bundesliga-Stats) | 1st | 3.2 | 0 | 0 |  | 5 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2013-2014/misc/Pierre-Hojbjerg-Match-Logs) |
-| 2014-2015 | 18 | [Augsburg](https://fbref.com/en/squads/0cdc4311/2014-2015/c20/Augsburg-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2014-2015/2014-2015-Bundesliga-Stats) | 5th | 11.2 | 4 | 0 |  | 25 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2014-2015/misc/Pierre-Hojbjerg-Match-Logs) |
-| 2014-2015 | 18 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2014-2015/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2014-2015/2014-2015-Bundesliga-Stats) | 1st | 3.2 | 1 | 0 |  | 6 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2014-2015/misc/Pierre-Hojbjerg-Match-Logs) |
-| 2015-2016 | 19 | [Schalke 04](https://fbref.com/en/squads/c539e393/2015-2016/c20/Schalke-04-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2015-2016/2015-2016-Bundesliga-Stats) | 5th | 14.2 | 3 | 0 |  | 26 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2015-2016/misc/Pierre-Hojbjerg-Match-Logs) |
+| 2012-2013 | 16 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2012-2013/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2012-2013/2012-2013-Bundesliga-Stats) | 1st | 0.2 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2012-2013/misc/Pierre-Hojbjerg-Match-Logs) |
+| 2013-2014 | 17 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2013-2014/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2013-2014/2013-2014-Bundesliga-Stats) | 1st | 3.2 | 0 | 0 | 0 | 5 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2013-2014/misc/Pierre-Hojbjerg-Match-Logs) |
+| 2014-2015 | 18 | [Augsburg](https://fbref.com/en/squads/0cdc4311/2014-2015/c20/Augsburg-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2014-2015/2014-2015-Bundesliga-Stats) | 5th | 11.2 | 4 | 0 | 0 | 25 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2014-2015/misc/Pierre-Hojbjerg-Match-Logs) |
+| 2014-2015 | 18 | [Bayern Munich](https://fbref.com/en/squads/054efa67/2014-2015/c20/Bayern-Munich-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2014-2015/2014-2015-Bundesliga-Stats) | 1st | 3.2 | 1 | 0 | 0 | 6 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2014-2015/misc/Pierre-Hojbjerg-Match-Logs) |
+| 2015-2016 | 19 | [Schalke 04](https://fbref.com/en/squads/c539e393/2015-2016/c20/Schalke-04-Stats-Bundesliga) | [de](https://fbref.com/en/country/GER/Germany-Football) [GER](https://fbref.com/en/country/GER/Germany-Football) | 1. [Bundesliga](https://fbref.com/en/comps/20/2015-2016/2015-2016-Bundesliga-Stats) | 5th | 14.2 | 3 | 0 | 0 | 26 |  |  |  |  |  |  |  |  | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2015-2016/misc/Pierre-Hojbjerg-Match-Logs) |
 | 2016-2017 | 20 | [Southampton](https://fbref.com/en/squads/33c895d4/2016-2017/c9/Southampton-Stats-Premier-League) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | 1. [Premier League](https://fbref.com/en/comps/9/2016-2017/2016-2017-Premier-League-Stats) | 8th | 14.5 | 2 | 0 | 0 | 17 | 30 | 0 | 21 | 31 | 31 | 0 | 0 | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2016-2017/misc/Pierre-Hojbjerg-Match-Logs) |
 | 2016-2017 | 20 | [Southampton](https://fbref.com/en/squads/ed54a8b3/2016-2017/c852/Southampton-U23-Stats-Premier-League-2) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | Jr. [PL2 — Div. 1](https://fbref.com/en/comps/852/2016-2017/2016-2017-Premier-League-2-Stats) | 12th | 2.0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2016-2017/misc/Pierre-Hojbjerg-Match-Logs) |
 | 2017-2018 | 21 | [Southampton](https://fbref.com/en/squads/ed54a8b3/2017-2018/c853/Southampton-U23-Stats-Premier-League-2----Division-2) | [eng](https://fbref.com/en/country/ENG/England-Football) [ENG](https://fbref.com/en/country/ENG/England-Football) | Jr. [PL2 — Div. 2](https://fbref.com/en/comps/853/2017-2018/2017-2018-Premier-League-2----Division-2-Stats) | 6th | 3.0 | 2 | 0 | 0 |  |  |  |  |  |  |  |  | 0 | [Matches](https://fbref.com/en/players/8b04d6c1/matchlogs/2017-2018/misc/Pierre-Hojbjerg-Match-Logs) |
@@ -405,14 +405,14 @@ Playing Time: Domestic Leagues Table
 |  | Country | Comp | LgRank | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG | Matches |
 | Tottenham (4 Seasons) |  | 1 League |  | 122.9 | 21 | 0 | 0 | 155 | 145 | 1 | 54 | 159 | 142 |  |  | 1 |  |
 | Southampton (4 Seasons) |  | 1 League |  | 94.3 | 22 | 3 | 1 | 145 | 144 | 2 | 90 | 179 | 161 | 0 | 0 | 0 |  |
-| Bayern Munich (4 Seasons) |  | 1 League |  | 6.6 | 1 | 0 |  | 11 |  |  |  |  |  |  |  |  |  |
+| Bayern Munich (4 Seasons) |  | 1 League |  | 6.6 | 1 | 0 | 0 | 11 |  |  |  |  |  |  |  |  |  |
 | Marseille (3 Seasons) |  | 1 League |  | 64.7 | 9 | 0 | 0 | 74 | 87 | 0 | 32 | 77 | 76 |  |  | 0 |  |
 | Southampton (2 Seasons) |  | 2 Leagues |  | 5.0 | 2 | 0 | 0 |  |  |  |  |  |  |  |  | 0 |  |
-| Schalke 04 (1 Season) |  | 1 League |  | 14.2 | 3 | 0 |  | 26 |  |  |  |  |  |  |  |  |  |
-| Augsburg (1 Season) |  | 1 League |  | 11.2 | 4 | 0 |  | 25 |  |  |  |  |  |  |  |  |  |
+| Schalke 04 (1 Season) |  | 1 League |  | 14.2 | 3 | 0 | 0 | 26 |  |  |  |  |  |  |  |  |  |
+| Augsburg (1 Season) |  | 1 League |  | 11.2 | 4 | 0 | 0 | 25 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Premier League (8 Seasons) |  |  |  | 217.1 | 43 | 3 | 1 | 300 | 289 | 3 | 144 | 338 | 303 | 0 | 0 | 1 |  |
-| Bundesliga (4 Seasons) |  |  |  | 32.0 | 8 | 0 |  | 62 |  |  |  |  |  |  |  |  |  |
+| Bundesliga (4 Seasons) |  |  |  | 32.0 | 8 | 0 | 0 | 62 |  |  |  |  |  |  |  |  |  |
 | Ligue 1 (3 Seasons) |  |  |  | 64.7 | 9 | 0 | 0 | 74 | 87 | 0 | 32 | 77 | 76 |  |  | 0 |  |
 | PL2 — Div. 2 (1 Season) |  |  |  | 3.0 | 2 | 0 | 0 |  |  |  |  |  |  |  |  | 0 |  |
 | PL2 — Div. 1 (1 Season) |  |  |  | 2.0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  | 0 |  |
@@ -498,9 +498,9 @@ Player Club Summary Table
 
 #### Red Cards
 
-[2018-2019 Premier League](https://fbref.com/en/comps/9/2018-2019/2018-2019-Premier-League-Stats)  3 (1st)
+[2018-2019 Premier League](https://fbref.com/en/comps/9/2018-2019/2018-2019-Premier-League-Stats)  3 (2nd)
 
-[2018-2019 Big 5 European Leagues](https://fbref.com/en/comps/Big5/2018-2019/2018-2019-Big-5-European-Leagues-Stats)  3 (1st)
+[2018-2019 Big 5 European Leagues](https://fbref.com/en/comps/Big5/2018-2019/2018-2019-Big-5-European-Leagues-Stats)  3 (2nd)
 
 2 Appearances in Top 10
 
@@ -534,8 +534,8 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
-· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
+· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
@@ -601,4 +601,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=de31038e&p6yrfrom=2026-2027)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=0ddabe9e&p6yrfrom=2026)
