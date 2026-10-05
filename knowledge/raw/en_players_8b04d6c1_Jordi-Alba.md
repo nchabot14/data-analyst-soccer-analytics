@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-09-28T17:05:44.534045+00:00
+scraped_at: 2026-10-05T17:29:52.946708+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 31-054d)
+(Age: 31-061d)
 
 in Copenhagen, Denmark
 
@@ -119,7 +119,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=0ddabe9e&p6yrfrom=2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0ddabe9e&p5yrfrom=2026&player_id6=0d9b2d31&p6yrfrom=2026-2027)
 
 - Stats by Competition
 
@@ -164,13 +164,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=0ddabe9e&p6yrfrom=2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0ddabe9e&p5yrfrom=2026&player_id6=0d9b2d31&p6yrfrom=2026-2027)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_3510270610)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_339245765)
   - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
@@ -601,4 +601,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0d9b2d31&p5yrfrom=2026-2027&player_id6=0ddabe9e&p6yrfrom=2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=6025fab1&p3yrfrom=2026-2027&player_id4=56f7a928&p4yrfrom=2026-2027&player_id5=0ddabe9e&p5yrfrom=2026&player_id6=0d9b2d31&p6yrfrom=2026-2027)

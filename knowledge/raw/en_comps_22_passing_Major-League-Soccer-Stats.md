@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/comps/22/passing/Major-League-Soccer-Stats
-scraped_at: 2026-09-28T17:05:19.857380+00:00
+scraped_at: 2026-10-05T17:29:22.696364+00:00
 source: fbref.com
 ---
 
@@ -139,13 +139,13 @@ Opponent Stats
 | [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 35 |  |  |  |  |  |
 | [Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 38 |  |  |  |  |  |
 | [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 35 |  |  |  |  |  |
-| [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 31 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 24 |  |  |  |  |  |
+| [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 24 |  |  |  |  |  |
 | [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 34 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 32 |  |  |  |  |  |
 | [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 32 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 34 |  |  |  |  |  |
-| [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 31 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 25 |  |  |  |  |  |
+| [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 26 |  |  |  |  |  |
 | [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 37 |  |  |  |  |  |
-| [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 22 |  |  |  |  |  |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 30 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 29 |  |  |  |  |  |
+| [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 23 |  |  |  |  |  |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 30 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 31 |  |  |  |  |  |
 | [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 33 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 28 |  |  |  |  |  |
 | [Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 30 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 37 |  |  |  |  |  |
 
@@ -176,13 +176,13 @@ Squad Passing 2026 Major League Soccer Table
 | [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 48 |  |  |  |  |  |
 | [vs Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 32 |  |  |  |  |  |
 | [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 39 |  |  |  |  |  |
-| [vs RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 31 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 35 |  |  |  |  |  |
+| [vs RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 37 |  |  |  |  |  |
 | [vs Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 34 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 32 |  |  |  |  |  |
 | [vs San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 32 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 36 |  |  |  |  |  |
-| [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 31 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 27 |  |  |  |  |  |
+| [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 28 |  |  |  |  |  |
 | [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 32 |  |  |  |  |  |
-| [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 45 |  |  |  |  |  |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 30 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 23 |  |  |  |  |  |
+| [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 46 |  |  |  |  |  |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 30 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 23 |  |  |  |  |  |
 | [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 33 | 27.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 33 |  |  |  |  |  |
 | [vs Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 30 | 26.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 20 |  |  |  |  |  |
 
