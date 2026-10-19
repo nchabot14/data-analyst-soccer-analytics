@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2024/2/16/breaking-down-mls-roster-rules
-scraped_at: 2026-10-12T18:17:44.923529+00:00
+scraped_at: 2026-10-19T15:56:14.275877+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,12 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[![Winter Is Coming](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1791957039144-QT8JYLC7HBE2ICQ6NK4D/Gemini_Generated_Image_qqg1rgqqg1rgqqg1.jpeg)](https://www.americansocceranalysis.com/home/2026/10/14/winter-is-coming)
+
+For reasons unbeknownst to me, the algorithm decided to surface a lot of people talking about the upcoming change in the MLS schedule for the 2027/28 season. Maybe it’s the crisp fall air, the departure from the hottest summer I’ve ever experienced, [people excited for a super El Nino](https://weather.com/2026/10/08/news/weather/super-el-nino-update-winter), I don’t know.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/10/14/winter-is-coming)
 
 [![Hot... Foot? Fallacy](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1789694856711-VTMKDSTGCD96EWVYEDG2/02_01-raw-conversion_conversion-rate-by-what-came-before.png)](https://www.americansocceranalysis.com/home/2026/9/17/hot-foot-fallacy)
 
@@ -102,12 +108,6 @@ _Our 2026 NWSL Season Previews have started and today we hit the Washington Spir
 _If you’re more of an audio person, our friends at Expected Own Goals spoke to Riss Willett of Shea Butter FC to talk Spirit, and Jenna Tonelli of Sports Illustrated on Gotham,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
 
 [Read More](https://www.americansocceranalysis.com/home/2026/3/10/2026-nwsl-previews-washington-spirit-gotham-fc)
-
-_Our 2026 NWSL Season Previews have started and today we hit Portland and KC.. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals spoke to Phuoc Nguyen from Stumptown Footy to talk Portland, and Cindy Lara from the KC Sports Journal on the Current,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/10/2026-nwsl-previews-portland-thorns-kc-current)
 
 0items
 
