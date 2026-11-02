@@ -1,10 +1,10 @@
 ---
 source_url: https://fbref.com/en/comps/22/possession/Major-League-Soccer-Stats
-scraped_at: 2026-10-26T15:32:14.767700+00:00
+scraped_at: 2026-11-02T18:54:10.850214+00:00
 source: fbref.com
 ---
 
-![ Logo](https://cdn.ssref.net/req/202610120/tlogo/fb/22.png)
+![ Logo](https://cdn.ssref.net/req/202610290/tlogo/fb/22.png)
 
 # 2026 Major League Soccer Possession Stats
 
@@ -16,11 +16,11 @@ source: fbref.com
 
 **Gender**: Male
 
-**Most Goals**: [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) (Inter Miami) - 25
+**Most Goals**: [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) (Inter Miami) - 26
 
-**Most Assists**: [Cristian Espinoza](https://fbref.com/en/players/9c794a80/Cristian-Espinoza) (Nashville SC), [Son Heung-min](https://fbref.com/en/players/92e7e919/Son-Heung-min) (Los Angeles FC)... - 12
+**Most Assists**: [Cristian Espinoza](https://fbref.com/en/players/9c794a80/Cristian-Espinoza) (Nashville SC), [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) (Inter Miami)... - 13
 
-**Most Clean Sheets**: [Brian Schwake](https://fbref.com/en/players/e287eefa/Brian-Schwake) (Nashville SC) - 14
+**Most Clean Sheets**: [Brian Schwake](https://fbref.com/en/players/e287eefa/Brian-Schwake) (Nashville SC) - 15
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
@@ -118,36 +118,36 @@ Opponent Stats
 | --- | --- | --- | --- | --- |
 | Squad | \# Pl | Poss | 90s | Touches | Def Pen | Def 3rd | Mid 3rd | Att 3rd | Att Pen | Live | Att | Succ | Succ% | Tkld | Tkld% | Carries | TotDist | PrgDist | 1/3 | CPA | Mis | Dis | Rec |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 34 | 50.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 27 | 49.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 48.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 25 | 46.6 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 31 | 51.7 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 55.6 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 55.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 26 | 39.4 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 28 | 51.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 42.7 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 48.3 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 57.3 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 47.8 | 32.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 46.6 | 32.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 45.8 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 54.0 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 50.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 54.2 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 50.0 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 47.5 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 51.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 52.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 49.3 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 60.2 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 51.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 48.8 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 44.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 31 | 52.3 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 44.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 30 | 55.4 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 34 | 50.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 28 | 48.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 48.2 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 26 | 46.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 32 | 51.6 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 55.7 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 55.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 26 | 39.3 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 29 | 50.8 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 43.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 47.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 57.0 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 48.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 46.7 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 46.2 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 54.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 50.3 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 53.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 50.0 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 47.2 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 50.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 51.6 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 49.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 59.7 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 51.7 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 48.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 45.2 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 32 | 52.4 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 45.6 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 31 | 54.8 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Squad Possession 2026 Major League Soccer Table
 
@@ -155,36 +155,36 @@ Squad Possession 2026 Major League Soccer Table
 | --- | --- | --- | --- | --- |
 | Squad | \# Pl | Poss | 90s | Touches | Def Pen | Def 3rd | Mid 3rd | Att 3rd | Att Pen | Live | Att | Succ | Succ% | Tkld | Tkld% | Carries | TotDist | PrgDist | 1/3 | CPA | Mis | Dis | Rec |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 34 | 49.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 27 | 50.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 51.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 25 | 53.4 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 31 | 48.3 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 44.4 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 44.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 26 | 60.6 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 28 | 48.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 57.3 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 51.7 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 42.7 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 52.2 | 32.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 53.4 | 32.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 54.2 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 46.0 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 49.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 45.8 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 50.0 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 52.5 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 48.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 47.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 50.7 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 39.8 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 48.9 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 51.2 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 55.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 31 | 47.7 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 55.1 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [vs Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 30 | 44.6 | 31.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 34 | 49.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 28 | 51.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 51.8 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 26 | 53.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 32 | 48.4 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 44.3 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 44.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 26 | 60.7 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 29 | 49.2 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 56.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 52.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 43.0 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 51.9 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 53.3 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 53.8 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 45.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 49.7 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 46.1 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 50.0 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 52.8 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 49.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 48.4 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 50.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 40.3 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 48.3 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 51.5 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 54.8 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 32 | 47.6 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 54.4 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [vs Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 31 | 45.2 | 33.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Squad Possession 2026 Major League Soccer Table
 
