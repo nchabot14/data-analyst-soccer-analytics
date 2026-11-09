@@ -1,97 +1,63 @@
 ---
 source_url: https://www.mlssoccer.com/competitions/mls-cup-playoffs
-scraped_at: 2026-10-12T18:17:36.688736+00:00
+scraped_at: 2026-11-09T19:16:31.316078+00:00
 source: mlssoccer.com
 ---
 
-[Skip to main content](https://www.mlssoccer.com/playoffs/2025/#main-content)
+[Skip to main content](https://www.mlssoccer.com/playoffs/2026/#main-content)
 
-![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+![Bracket Challenge 2026](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1789568104/assets/branded-logos/2026_BracketChallenge_V_BLK_2x_as5mpq.png)
 
-Come Kick It! Watch MLS on Apple TV
+The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
 
-[Subscribe](https://soc.cr/4krM2op "Subscribe")
+[Play Now](https://soc.cr/48xhZGD "Play Now")
 
-[Learn More](https://soc.cr/4rLRnJO "Learn More")
+# Audi 2026 MLS Cup Playoffs
 
-# Audi 2025 MLS Cup Playoffs
+- [Latest](https://www.mlssoccer.com/playoffs/2026/)
+- [Schedule](https://www.mlssoccer.com/playoffs/2026/schedule/)
+- [Bracket Challenge](https://soc.cr/4AMvuzb)
+- [News](https://www.mlssoccer.com/playoffs/2026/news/)
+- [Bracket](https://www.mlssoccer.com/playoffs/2026/bracket/)
 
-- [Latest](https://www.mlssoccer.com/playoffs/2025/)
-- [Bracket](https://www.mlssoccer.com/playoffs/2025/bracket/)
-- [Schedule](https://www.mlssoccer.com/playoffs/2025/schedule/)
-- [News](https://www.mlssoccer.com/playoffs/2025/news/)
-- [Video](https://www.mlssoccer.com/playoffs/2025/video/)
-- [Bracket Challenge](https://bracket.mlssoccer.com/)
-
-Sign Up
-
-
-Sign Up
-
-
-## Stay in the Game - Right from Your Inbox
-
-Our top stories, must-see matches, exclusive offers, and more.
-
-|     |     |     |
-| --- | --- | --- |
-|  |  | By checking this box, I hereby consent to receive additional information from Major League Soccer, its Clubs, Soccer United Marketing and each of their respective affiliates and marketing partners and I agree to the MLSSoccer.com [Privacy Policy](https://www.mlssoccer.com/legal/privacy-policy) and [Terms & Conditions](https://www.mlssoccer.com/legal/terms-of-service). |
-
-Sign Up
-
-Latest News & Video
-
-
-Latest News & Video
-
-
-- [![MLS Cup 2025 delivers record viewership & social engagement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ticqtqqngobpipoiezuk)\\
+- [![Wild Card format & key info: Audi 2026 MLS Cup Playoffs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pttpc9hppxreljs6h3et)\\
 \\
-**MLS Cup 2025 delivers record viewership & social engagement** \\
+**Wild Card format & key info: Audi 2026 MLS Cup Playoffs** \\
 \\
-MLS Cup 2025 presented by Audi between Inter Miami CF and Vancouver Whitecaps FC delivered record-breaking multi-platform consumption and social engagement.](https://www.mlssoccer.com/playoffs/2025/news/mls-cup-delivers-record-viewership-and-social-engagement-x6909 "MLS Cup 2025 delivers record viewership & social engagement")
+The Audi 2026 MLS Cup Playoffs begin on Thursday, Nov. 19 with two Wild Card matches.](https://www.mlssoccer.com/playoffs/2026/news/wild-card-format-key-info-audi-2026-mls-cup-playoffs "Wild Card format & key info: Audi 2026 MLS Cup Playoffs")
 
-- [![Ref Cam! Inter Miami down Vancouver Whitecaps in MLS Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jeugrieixbuzfa47ga2b)\\
+- [![Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/euaml1enqw2gylcx4abw)\\
 \\
-7:02\\
+**Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule**](https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-round-one-wild-card-matchups "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule")
+- [![MLS Cup 2026 hosting scenarios: Where could the final be held?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xqh9elnumsepzqohyixj)\\
 \\
-**Ref Cam! Inter Miami down Vancouver Whitecaps in MLS Cup**](https://www.mlssoccer.com/video/ref-cam-inter-miami-down-vancouver-whitecaps-in-mls-cup "Ref Cam! Inter Miami down Vancouver Whitecaps in MLS Cup")
-- [![Busquets, De Paul & Messi: Inter Miami's World Cup champions make MLS history](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/jlwxbh69kuayqkgic26k)\\
+**MLS Cup 2026 hosting scenarios: Where could the final be held?**](https://www.mlssoccer.com/playoffs/2026/news/mls-cup-2026-hosting-scenarios-where-could-the-final-be-held "MLS Cup 2026 hosting scenarios: Where could the final be held?")
+- [![Real Salt Lake clinch Audi 2026 MLS Cup Playoffs spot](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bxi9hk3lnfx9j7rlnrgh)\\
 \\
-**Busquets, De Paul & Messi: Inter Miami's World Cup champions make MLS history**](https://www.mlssoccer.com/playoffs/2025/news/busquets-de-paul-messi-inter-miami-s-world-cup-champions-make-mls-history "Busquets, De Paul & Messi: Inter Miami's World Cup champions make MLS history")
-- [![Javier Mascherano guides Inter Miami to MLS Cup in first season](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yhwpca0tbuitcbfkz7it)\\
-\\
-**Javier Mascherano guides Inter Miami to MLS Cup in first season**](https://www.mlssoccer.com/playoffs/2025/news/javier-mascherano-guides-inter-miami-to-mls-cup-in-first-season "Javier Mascherano guides Inter Miami to MLS Cup in first season")
-- [![Inter Miami bring home MLS Cup! | Power Cam](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/b0gixihmc38g8ecrpujz)\\
-\\
-6:30\\
-\\
-**Inter Miami bring home MLS Cup! \| Power Cam**](https://www.mlssoccer.com/video/inter-miami-bring-home-mls-cup-power-cam "Inter Miami bring home MLS Cup! | Power Cam")
-- [![Inter Miami: From “sleepless nights” to MLS Cup champions](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vmn6n27cw5odwcbxediu)\\
-\\
-**Inter Miami: From “sleepless nights” to MLS Cup champions**](https://www.mlssoccer.com/playoffs/2025/news/inter-miami-from-sleepless-nights-to-mls-cup-champions "Inter Miami: From “sleepless nights” to MLS Cup champions")
-- [![Lionel Messi delivers MLS Cup to Inter Miami: "It’s very beautiful"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mwzo6koagsonft4n2n4z)\\
-\\
-**Lionel Messi delivers MLS Cup to Inter Miami: "It’s very beautiful"**](https://www.mlssoccer.com/playoffs/2025/news/lionel-messi-delivers-mls-cup-to-inter-miami-it-s-very-beautiful "Lionel Messi delivers MLS Cup to Inter Miami: \"It’s very beautiful\"")
+**Real Salt Lake clinch Audi 2026 MLS Cup Playoffs spot**](https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-clinch-audi-2026-mls-cup-playoffs-spot "Real Salt Lake clinch Audi 2026 MLS Cup Playoffs spot")
 
-![Playoff Format Explained](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/mls/oqshy0fm1wdhwkovkmz2.png)
+[More](https://www.mlssoccer.com/playoffs/2026/news/)
 
-## Playoff Format Explained
+![Build Your Bracket for a Chance to Win!](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lyofspg9hhvsxna7dqcu.jpg)
 
-The playoff race is heating up — are you ready? Get the full breakdown of the Audi 2025 MLS Cup Playoffs format and key information.
+## Build Your Bracket for a Chance to Win!
 
-- [Learn More](https://soc.cr/4ncsPb3 "Learn More")
+Think you’ve got the winning bracket? The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open! Build your bracket for a chance to win, including a $2,000 Ticketmaster Gift Card grand prize.
 
-![Key Dates & Schedule Information](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/mls/ppzaiz1l2ntgzgwofzph.png)
+- [Play Now](https://soc.cr/4iZCrpM "Play Now")
+
+![Key Dates & Schedule Information](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/mls/fr6zohzula1j70ywfgga.png)
 
 ## Key Dates & Schedule Information
 
-Mark your calendar for the Audi 2025 MLS Cup Playoffs! Track every matchup and don’t miss a single moment on the path to MLS Cup 2025.
+Mark your calendar for the Audi 2026 MLS Cup Playoffs! Track every matchup and don’t miss a single moment on the path to MLS Cup 2026.
 
-- [Learn More](https://soc.cr/4nwYTWA "Learn More")
+- [Learn More](https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information "Learn More")
 
-[![16x9 - Tickets (2)](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/u7fktx0clgcsmjm0zstc.png)](https://soc.cr/4orHNdn)
+![Playoff Format Explained](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/mls/oggz3odztj0ucg7knnsz.png)
 
-[![16x9 - MLSSP (2)](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/xu7dfojplaqcep7cjui9.png)](https://soc.cr/3Mvtu6p)
+## Playoff Format Explained
 
-[![16x9 - Shop (2)](https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_png/mls/bi8tyngox4kn4j1ss6jy.png)](https://soc.cr/4n9Z2i6)
+The playoff race is heating up — are you ready? Get the full breakdown of the Audi 2026 MLS Cup Playoffs format and key information.
+
+- [Learn More](https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-format-how-it-works "Learn More")

@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2023/11/15/mls-expected-goals-leaders
-scraped_at: 2026-10-19T15:56:17.941816+00:00
+scraped_at: 2026-11-09T19:16:42.216244+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,20 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[![2026 MLS End of Season Awards Ballot](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1794176118353-MQGXNYE9UBBFYXGEB804/net-gplus-best-xi-2026.png)](https://www.americansocceranalysis.com/home/2026/11/8/2026-mls-end-of-season-awards-ballot)
+
+It’s that time of year. Decision day has come and gone, the playoff matchups are set. It’s awards time. Here is our ballot at ASA.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/11/8/2026-mls-end-of-season-awards-ballot)
+
+[![Pressure in the Aggregate](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1793668807109-X0BBRCMU1Q7KHQ07EB2Y/moneyball.png)](https://www.americansocceranalysis.com/home/2026/11/2/pressure-in-the-aggregate)
+
+[By Nate Gilman](https://bsky.app/profile/nrgilman.bsky.social)
+
+Without publicly available pressing data (RIP pressing data on FBref), understanding how much and where teams pressured opponents has become more and more difficult. We’re left with less precise measures like the raw counts of standard defensive actions in the final third, PPDA (passes per defensive action), and the average height of defensive actions, to try to piece together a more complete picture of how much teams are pressing. All of these metrics can inform how we analyze pressing and pressure, but is there a better way to quantify it?
+
+[Read More](https://www.americansocceranalysis.com/home/2026/11/2/pressure-in-the-aggregate)
 
 [![Winter Is Coming](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1791957039144-QT8JYLC7HBE2ICQ6NK4D/Gemini_Generated_Image_qqg1rgqqg1rgqqg1.jpeg)](https://www.americansocceranalysis.com/home/2026/10/14/winter-is-coming)
 
@@ -94,20 +108,6 @@ While ideologically we believe it’s called soccer, the app definitely does wha
 Expected Threat (xT) is a model that estimates the value of a pass or carry based on its likelihood of leading to a shot and the danger associated with that shot. Unlike [Karun Singh’s original xT framework](https://karun.in/blog/expected-threat.html), which relies entirely on historical transition probabilities, this version incorporates a logistic expected goals (xG) component to better capture shot quality. This analysis is inspired by [similar work conducted by Chloe Sainsbury in 2025](https://beyondthetouchline.substack.com/p/who-is-the-most-dangerous-passer).
 
 [Read More](https://www.americansocceranalysis.com/home/2026/7/7/a-2026-nwsl-midseason-analysis-from-the-lens-of-expected-threat)
-
-## Towards a manual for the most common restart
-
-[By Ben Bellman](https://bsky.app/profile/beninquiring.bsky.social)
-
-Whether you love long attacking throw-ins or hate them, there is no denying that they’ve become both a key feature and flashpoint in men’ssoccer in the past year. John Muller likely sparked a renaissance of the tactic (and a soon-to-be Arsenal title) with his [2023 article for The Athletic](https://www.nytimes.com/athletic/4297050/2023/03/11/get-it-launched-explaining-why-long-throw-ins-into-the-box-are-undervalued/), and Joe Lowery and I [borrowed his method for Backheeled](https://www.backheeled.com/how-some-mls-teams-are-using-long-throw-ins-to-play-smarter-soccer/) when Minnesota United started longthrowmaxxing in 2025 ( _Editor’s note: Minnesota work with Mike Imburgio through ASA’s firewalled consulting arm_). But while each game has about 40 throw-ins on average, only about 10 of those throws happen close enough to reach the box. But apart from Formerly Called Twitter jokes about consultant [Thomas Grønnemark](https://www.sloansportsconference.com/people/thomas-gronnemark), there hasn’t been much commentary about all the other ones in popular media or public analytics circles. The only exceptions I’m aware of are Eliot McKinley’s 2018 [two-part](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins) [opus](https://www.americansocceranalysis.com/home/2018/12/4/a-feast-for-throws) on this very website, and some [recent academic work](https://shura.shu.ac.uk/35132/1/Stone-AnalysisOfThrowInsStrategy%28AM%29.pdf) on the top 5 European leagues that, if you like in-text citations and interpreting regressions, is an excellent spoiler for the rest of this article.
-
-[Read More](https://www.americansocceranalysis.com/home/2026/4/15/throw-in-it-back)
-
-_Our 2026 NWSL Season Previews have started and today we hit the Washington Spirit and NJ/NY Gotham. If you want to support this coverage of the league,_ [_you can head to our Patreon_](https://www.patreon.com/americansocceranalysis) _. For $5 a month you can get access to a lot of the data visualization tools we use to make these previews._
-
-_If you’re more of an audio person, our friends at Expected Own Goals spoke to Riss Willett of Shea Butter FC to talk Spirit, and Jenna Tonelli of Sports Illustrated on Gotham,_ [_available wherever you get your pods_](https://open.spotify.com/show/30ThmaUENe9hTGo00YLFyl?si=b77d14aa019c4a22) _. If you want to support them,_ [_you can head to their Patreon_](https://www.patreon.com/xOwnGoals) _._
-
-[Read More](https://www.americansocceranalysis.com/home/2026/3/10/2026-nwsl-previews-washington-spirit-gotham-fc)
 
 0items
 

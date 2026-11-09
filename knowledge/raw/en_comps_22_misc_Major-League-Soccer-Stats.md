@@ -1,10 +1,10 @@
 ---
 source_url: https://fbref.com/en/comps/22/misc/Major-League-Soccer-Stats
-scraped_at: 2026-11-02T18:54:14.213055+00:00
+scraped_at: 2026-11-09T19:15:58.053623+00:00
 source: fbref.com
 ---
 
-![ Logo](https://cdn.ssref.net/req/202610290/tlogo/fb/22.png)
+![ Logo](https://cdn.ssref.net/req/202611040/tlogo/fb/22.png)
 
 # 2026 Major League Soccer Miscellaneous Stats
 
@@ -18,9 +18,9 @@ source: fbref.com
 
 **Most Goals**: [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) (Inter Miami) - 26
 
-**Most Assists**: [Cristian Espinoza](https://fbref.com/en/players/9c794a80/Cristian-Espinoza) (Nashville SC), [Lionel Messi](https://fbref.com/en/players/d70ce98e/Lionel-Messi) (Inter Miami)... - 13
+**Most Assists**: [Cristian Espinoza](https://fbref.com/en/players/9c794a80/Cristian-Espinoza) (Nashville SC), [Albert Rusnák](https://fbref.com/en/players/0adeafaa/Albert-Rusnak) (Seattle Sounders)... - 13
 
-**Most Clean Sheets**: [Brian Schwake](https://fbref.com/en/players/e287eefa/Brian-Schwake) (Nashville SC) - 15
+**Most Clean Sheets**: [Brian Schwake](https://fbref.com/en/players/e287eefa/Brian-Schwake) (Nashville SC) - 16
 
 [Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=fb&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
@@ -118,36 +118,36 @@ Opponent Stats
 | --- | --- |
 | Squad | \# Pl | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 34 | 33.0 | 72 | 1 | 0 | 382 | 319 | 76 | 561 | 320 | 335 |  |  | 1 |
-| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 28 | 33.0 | 61 | 3 | 1 | 339 | 390 | 41 | 546 | 253 | 275 |  |  | 3 |
-| [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 33.0 | 74 | 2 | 0 | 429 | 376 | 70 | 589 | 322 | 306 |  |  | 2 |
-| [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 26 | 33.0 | 66 | 4 | 3 | 331 | 361 | 52 | 516 | 244 | 229 |  |  | 1 |
-| [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 32 | 33.0 | 76 | 3 | 2 | 422 | 334 | 62 | 484 | 292 | 307 |  |  | 1 |
-| [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 33.0 | 86 | 7 | 1 | 483 | 454 | 45 | 559 | 311 | 275 |  |  | 3 |
-| [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 33.0 | 58 | 1 | 1 | 343 | 342 | 63 | 531 | 308 | 328 |  |  | 0 |
-| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 26 | 33.0 | 67 | 2 | 2 | 442 | 336 | 42 | 645 | 341 | 373 |  |  | 1 |
-| [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 29 | 33.0 | 67 | 7 | 1 | 365 | 344 | 47 | 488 | 290 | 313 |  |  | 3 |
-| [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 33.0 | 77 | 1 | 0 | 442 | 337 | 60 | 476 | 322 | 324 |  |  | 1 |
-| [Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 33.0 | 65 | 7 | 2 | 338 | 425 | 43 | 405 | 300 | 255 |  |  | 3 |
-| [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 33.0 | 87 | 3 | 1 | 429 | 376 | 55 | 383 | 299 | 308 |  |  | 3 |
-| [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 33.0 | 69 | 6 | 4 | 338 | 403 | 56 | 378 | 320 | 321 |  |  | 1 |
-| [LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 33.0 | 58 | 1 | 0 | 362 | 358 | 56 | 551 | 282 | 308 |  |  | 2 |
-| [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 33.0 | 67 | 1 | 1 | 420 | 367 | 51 | 556 | 305 | 338 |  |  | 1 |
-| [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 33.0 | 54 | 1 | 1 | 386 | 329 | 73 | 494 | 249 | 290 |  |  | 1 |
-| [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 33.0 | 55 | 0 | 0 | 312 | 402 | 59 | 509 | 288 | 261 |  |  | 2 |
-| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 33.0 | 56 | 1 | 1 | 387 | 429 | 73 | 474 | 267 | 336 |  |  | 0 |
-| [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 33.0 | 75 | 2 | 1 | 359 | 396 | 46 | 436 | 250 | 316 |  |  | 3 |
-| [Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 33.0 | 74 | 4 | 1 | 502 | 374 | 47 | 758 | 446 | 346 |  |  | 1 |
-| [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 33.0 | 57 | 4 | 2 | 331 | 414 | 71 | 626 | 322 | 298 |  |  | 0 |
-| [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 33.0 | 67 | 2 | 1 | 417 | 321 | 45 | 514 | 311 | 317 |  |  | 3 |
-| [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 33.0 | 74 | 1 | 0 | 403 | 360 | 65 | 508 | 305 | 322 |  |  | 1 |
-| [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 33.0 | 63 | 8 | 6 | 360 | 436 | 71 | 504 | 280 | 298 |  |  | 1 |
-| [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 33.0 | 53 | 1 | 1 | 351 | 300 | 54 | 581 | 293 | 308 |  |  | 0 |
-| [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 33.0 | 74 | 2 | 1 | 412 | 425 | 46 | 702 | 282 | 305 |  |  | 1 |
-| [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 33.0 | 60 | 3 | 1 | 417 | 362 | 40 | 480 | 306 | 300 |  |  | 2 |
-| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 32 | 33.0 | 67 | 3 | 3 | 472 | 391 | 65 | 501 | 341 | 308 |  |  | 0 |
-| [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 33.0 | 60 | 3 | 0 | 364 | 402 | 53 | 617 | 352 | 310 |  |  | 3 |
-| [Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 31 | 33.0 | 65 | 3 | 1 | 468 | 409 | 50 | 697 | 302 | 354 |  |  | 0 |
+| [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 35 | 34.0 | 73 | 1 | 0 | 392 | 334 | 77 | 577 | 330 | 343 |  |  | 1 |
+| [Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 28 | 34.0 | 62 | 3 | 1 | 348 | 400 | 41 | 573 | 258 | 285 |  |  | 3 |
+| [CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 34.0 | 76 | 2 | 0 | 444 | 391 | 72 | 600 | 332 | 320 |  |  | 2 |
+| [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 26 | 34.0 | 67 | 4 | 3 | 337 | 375 | 53 | 527 | 253 | 235 |  |  | 1 |
+| [Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 32 | 34.0 | 80 | 3 | 2 | 436 | 346 | 65 | 501 | 296 | 323 |  |  | 1 |
+| [Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 34.0 | 88 | 7 | 1 | 496 | 465 | 49 | 573 | 322 | 285 |  |  | 3 |
+| [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 34.0 | 60 | 1 | 1 | 357 | 356 | 64 | 546 | 318 | 342 |  |  | 0 |
+| [D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 27 | 34.0 | 68 | 2 | 2 | 450 | 350 | 47 | 661 | 349 | 379 |  |  | 1 |
+| [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 29 | 34.0 | 72 | 7 | 1 | 378 | 350 | 49 | 507 | 296 | 324 |  |  | 3 |
+| [FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 34.0 | 77 | 1 | 0 | 453 | 350 | 64 | 498 | 334 | 331 |  |  | 1 |
+| [Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 34.0 | 66 | 7 | 2 | 344 | 437 | 43 | 428 | 305 | 263 |  |  | 3 |
+| [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 34.0 | 88 | 3 | 1 | 443 | 380 | 59 | 393 | 306 | 313 |  |  | 3 |
+| [LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 34.0 | 70 | 6 | 4 | 348 | 414 | 57 | 403 | 329 | 332 |  |  | 1 |
+| [LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 34.0 | 59 | 1 | 0 | 377 | 372 | 57 | 578 | 291 | 314 |  |  | 2 |
+| [Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 34.0 | 70 | 1 | 1 | 436 | 381 | 53 | 582 | 319 | 349 |  |  | 1 |
+| [Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 34.0 | 56 | 1 | 1 | 392 | 342 | 75 | 503 | 255 | 302 |  |  | 1 |
+| [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 34.0 | 55 | 0 | 0 | 322 | 410 | 62 | 536 | 301 | 268 |  |  | 2 |
+| [NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 34.0 | 58 | 1 | 1 | 402 | 437 | 74 | 481 | 272 | 341 |  |  | 0 |
+| [Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 34.0 | 76 | 2 | 1 | 367 | 406 | 48 | 446 | 257 | 326 |  |  | 3 |
+| [Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 34.0 | 76 | 4 | 1 | 517 | 385 | 51 | 771 | 456 | 357 |  |  | 1 |
+| [Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 34.0 | 57 | 4 | 2 | 341 | 423 | 72 | 635 | 330 | 304 |  |  | 0 |
+| [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 34.0 | 68 | 2 | 1 | 432 | 331 | 46 | 528 | 316 | 332 |  |  | 3 |
+| [Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 34.0 | 78 | 1 | 0 | 415 | 370 | 66 | 520 | 320 | 331 |  |  | 2 |
+| [San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 34.0 | 66 | 8 | 6 | 371 | 449 | 72 | 525 | 289 | 304 |  |  | 1 |
+| [Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 34.0 | 56 | 1 | 1 | 366 | 315 | 58 | 590 | 306 | 323 |  |  | 0 |
+| [SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 34.0 | 77 | 2 | 1 | 426 | 440 | 46 | 716 | 299 | 310 |  |  | 2 |
+| [Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 34.0 | 62 | 3 | 1 | 430 | 373 | 42 | 484 | 315 | 312 |  |  | 2 |
+| [St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 32 | 34.0 | 67 | 3 | 3 | 485 | 397 | 66 | 518 | 349 | 316 |  |  | 0 |
+| [Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 34.0 | 62 | 3 | 0 | 375 | 416 | 55 | 626 | 360 | 318 |  |  | 3 |
+| [Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 32 | 34.0 | 68 | 3 | 1 | 483 | 423 | 50 | 717 | 314 | 366 |  |  | 0 |
 
 Squad Miscellaneous Stats 2026 Major League Soccer Table
 
@@ -155,36 +155,36 @@ Squad Miscellaneous Stats 2026 Major League Soccer Table
 | --- | --- |
 | Squad | \# Pl | 90s | CrdY | CrdR | 2CrdY | Fls | Fld | Off | Crs | Int | TklW | PKwon | PKcon | OG |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 34 | 33.0 | 62 | 1 | 0 | 337 | 357 | 77 | 557 | 287 | 280 |  |  | 2 |
-| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 28 | 33.0 | 70 | 1 | 1 | 415 | 324 | 41 | 583 | 277 | 283 |  |  | 1 |
-| [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 33.0 | 61 | 4 | 1 | 395 | 413 | 41 | 493 | 265 | 314 |  |  | 0 |
-| [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 26 | 33.0 | 79 | 4 | 1 | 384 | 310 | 47 | 673 | 275 | 338 |  |  | 0 |
-| [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 32 | 33.0 | 65 | 2 | 1 | 352 | 403 | 67 | 547 | 369 | 316 |  |  | 2 |
-| [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 33.0 | 74 | 8 | 2 | 464 | 458 | 101 | 456 | 318 | 346 |  |  | 2 |
-| [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 33.0 | 71 | 3 | 1 | 367 | 337 | 67 | 470 | 324 | 373 |  |  | 4 |
-| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 26 | 33.0 | 64 | 2 | 1 | 356 | 422 | 43 | 561 | 271 | 270 |  |  | 1 |
-| [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 29 | 33.0 | 57 | 0 | 0 | 360 | 353 | 65 | 628 | 282 | 356 |  |  | 1 |
-| [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 33.0 | 68 | 3 | 2 | 350 | 430 | 42 | 610 | 292 | 279 |  |  | 1 |
-| [vs Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 33.0 | 75 | 6 | 2 | 439 | 321 | 41 | 620 | 257 | 294 |  |  | 0 |
-| [vs Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 33.0 | 60 | 2 | 1 | 395 | 409 | 46 | 445 | 357 | 255 |  |  | 2 |
-| [vs LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 33.0 | 76 | 4 | 2 | 420 | 331 | 57 | 576 | 275 | 303 |  |  | 1 |
-| [vs LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 33.0 | 70 | 5 | 2 | 369 | 341 | 40 | 543 | 291 | 319 |  |  | 3 |
-| [vs Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 33.0 | 57 | 2 | 1 | 381 | 403 | 38 | 504 | 355 | 357 |  |  | 1 |
-| [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 33.0 | 50 | 1 | 1 | 341 | 360 | 26 | 463 | 268 | 320 |  |  | 3 |
-| [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 33.0 | 59 | 3 | 1 | 416 | 303 | 35 | 586 | 251 | 289 |  |  | 0 |
-| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 33.0 | 97 | 4 | 3 | 446 | 366 | 54 | 477 | 297 | 293 |  |  | 1 |
-| [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 33.0 | 68 | 1 | 0 | 427 | 341 | 108 | 656 | 302 | 313 |  |  | 0 |
-| [vs Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 33.0 | 76 | 4 | 1 | 388 | 472 | 53 | 422 | 308 | 278 |  |  | 3 |
-| [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 33.0 | 69 | 2 | 0 | 438 | 317 | 46 | 580 | 269 | 324 |  |  | 2 |
-| [vs RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 33.0 | 58 | 2 | 1 | 337 | 392 | 91 | 500 | 376 | 364 |  |  | 3 |
-| [vs Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 33.0 | 69 | 2 | 2 | 375 | 386 | 55 | 548 | 339 | 266 |  |  | 3 |
-| [vs San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 33.0 | 75 | 4 | 2 | 461 | 348 | 64 | 431 | 358 | 286 |  |  | 1 |
-| [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 33.0 | 45 | 0 | 0 | 318 | 336 | 40 | 602 | 314 | 306 |  |  | 0 |
-| [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 33.0 | 61 | 5 | 2 | 444 | 391 | 76 | 544 | 315 | 319 |  |  | 1 |
-| [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 33.0 | 61 | 1 | 0 | 380 | 402 | 35 | 570 | 293 | 295 |  |  | 0 |
-| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 32 | 33.0 | 70 | 5 | 3 | 401 | 450 | 55 | 493 | 317 | 297 |  |  | 1 |
-| [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 33.0 | 64 | 4 | 3 | 425 | 344 | 61 | 535 | 278 | 295 |  |  | 4 |
-| [vs Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 31 | 33.0 | 73 | 2 | 2 | 425 | 452 | 65 | 396 | 323 | 336 |  |  | 1 |
+| [vs Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | 35 | 34.0 | 63 | 1 | 0 | 352 | 367 | 78 | 571 | 292 | 295 |  |  | 2 |
+| [vs Austin FC](https://fbref.com/en/squads/b918956d/Austin-FC-Stats) | 28 | 34.0 | 70 | 1 | 1 | 425 | 333 | 42 | 591 | 284 | 290 |  |  | 1 |
+| [vs CF Montréal](https://fbref.com/en/squads/fc22273c/CF-Montreal-Stats) | 32 | 34.0 | 64 | 4 | 1 | 410 | 427 | 41 | 513 | 277 | 326 |  |  | 0 |
+| [vs Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | 26 | 34.0 | 80 | 4 | 1 | 398 | 314 | 51 | 683 | 282 | 343 |  |  | 0 |
+| [vs Chicago Fire](https://fbref.com/en/squads/f9940243/Chicago-Fire-Stats) | 32 | 34.0 | 67 | 2 | 1 | 366 | 417 | 68 | 562 | 379 | 330 |  |  | 2 |
+| [vs Colorado Rapids](https://fbref.com/en/squads/415b4465/Colorado-Rapids-Stats) | 32 | 34.0 | 74 | 8 | 2 | 475 | 471 | 105 | 478 | 330 | 353 |  |  | 2 |
+| [vs Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | 33 | 34.0 | 75 | 3 | 1 | 381 | 349 | 70 | 487 | 328 | 389 |  |  | 4 |
+| [vs D.C. United](https://fbref.com/en/squads/44117292/DC-United-Stats) | 27 | 34.0 | 66 | 2 | 1 | 371 | 430 | 44 | 568 | 276 | 275 |  |  | 1 |
+| [vs FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | 29 | 34.0 | 59 | 0 | 0 | 366 | 366 | 67 | 637 | 288 | 368 |  |  | 1 |
+| [vs FC Dallas](https://fbref.com/en/squads/15cf8f40/FC-Dallas-Stats) | 28 | 34.0 | 70 | 3 | 2 | 363 | 441 | 46 | 624 | 303 | 289 |  |  | 1 |
+| [vs Houston](https://fbref.com/en/squads/0d885416/Houston-Dynamo-Stats) | 27 | 34.0 | 75 | 6 | 2 | 452 | 327 | 42 | 638 | 266 | 301 |  |  | 0 |
+| [vs Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | 29 | 34.0 | 61 | 2 | 1 | 401 | 423 | 47 | 456 | 366 | 261 |  |  | 2 |
+| [vs LA Galaxy](https://fbref.com/en/squads/d8b46897/LA-Galaxy-Stats) | 30 | 34.0 | 80 | 4 | 2 | 432 | 341 | 58 | 588 | 290 | 312 |  |  | 2 |
+| [vs LAFC](https://fbref.com/en/squads/81d817a3/Los-Angeles-FC-Stats) | 34 | 34.0 | 73 | 5 | 2 | 384 | 356 | 44 | 552 | 304 | 334 |  |  | 3 |
+| [vs Minnesota Utd](https://fbref.com/en/squads/99ea75a6/Minnesota-United-Stats) | 30 | 34.0 | 60 | 2 | 1 | 395 | 418 | 38 | 518 | 372 | 362 |  |  | 2 |
+| [vs Nashville SC](https://fbref.com/en/squads/35f1b818/Nashville-SC-Stats) | 24 | 34.0 | 55 | 1 | 1 | 354 | 366 | 28 | 482 | 274 | 331 |  |  | 3 |
+| [vs NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | 32 | 34.0 | 60 | 3 | 1 | 424 | 313 | 37 | 596 | 258 | 299 |  |  | 0 |
+| [vs NYCFC](https://fbref.com/en/squads/64e81410/New-York-City-FC-Stats) | 30 | 34.0 | 98 | 4 | 3 | 454 | 380 | 59 | 493 | 305 | 299 |  |  | 1 |
+| [vs Orlando City](https://fbref.com/en/squads/46ef01d0/Orlando-City-Stats) | 31 | 34.0 | 68 | 1 | 0 | 437 | 349 | 111 | 683 | 315 | 320 |  |  | 0 |
+| [vs Philadelphia](https://fbref.com/en/squads/46024eeb/Philadelphia-Union-Stats) | 30 | 34.0 | 78 | 4 | 1 | 399 | 486 | 55 | 431 | 316 | 286 |  |  | 3 |
+| [vs Portland Timbers](https://fbref.com/en/squads/d076914e/Portland-Timbers-Stats) | 26 | 34.0 | 70 | 2 | 0 | 447 | 327 | 46 | 607 | 274 | 335 |  |  | 2 |
+| [vs RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | 34 | 34.0 | 59 | 2 | 1 | 347 | 407 | 92 | 516 | 386 | 372 |  |  | 3 |
+| [vs Real Salt Lake](https://fbref.com/en/squads/f7d86a43/Real-Salt-Lake-Stats) | 35 | 34.0 | 70 | 2 | 2 | 385 | 397 | 56 | 573 | 348 | 277 |  |  | 3 |
+| [vs San Diego FC](https://fbref.com/en/squads/91b092e1/San-Diego-FC-Stats) | 33 | 34.0 | 77 | 4 | 2 | 474 | 359 | 66 | 435 | 367 | 298 |  |  | 1 |
+| [vs Seattle Sounders](https://fbref.com/en/squads/6218ebd4/Seattle-Sounders-Stats) | 32 | 34.0 | 46 | 0 | 0 | 333 | 350 | 41 | 629 | 323 | 312 |  |  | 0 |
+| [vs SJ Earthquakes](https://fbref.com/en/squads/ca460650/San-Jose-Earthquakes-Stats) | 28 | 34.0 | 64 | 5 | 2 | 460 | 405 | 78 | 570 | 329 | 330 |  |  | 1 |
+| [vs Sporting KC](https://fbref.com/en/squads/4acb0537/Sporting-Kansas-City-Stats) | 30 | 34.0 | 64 | 1 | 0 | 391 | 415 | 36 | 591 | 302 | 301 |  |  | 0 |
+| [vs St. Louis City](https://fbref.com/en/squads/bd97ac1f/St-Louis-City-Stats) | 32 | 34.0 | 71 | 5 | 3 | 407 | 462 | 55 | 516 | 322 | 304 |  |  | 1 |
+| [vs Toronto FC](https://fbref.com/en/squads/130f43fa/Toronto-FC-Stats) | 34 | 34.0 | 66 | 4 | 3 | 440 | 355 | 65 | 548 | 288 | 306 |  |  | 4 |
+| [vs Vancouver](https://fbref.com/en/squads/ab41cb90/Vancouver-Whitecaps-Stats) | 32 | 34.0 | 75 | 2 | 2 | 440 | 467 | 67 | 407 | 333 | 350 |  |  | 1 |
 
 Squad Miscellaneous Stats 2026 Major League Soccer Table
 
