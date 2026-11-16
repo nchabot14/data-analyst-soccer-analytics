@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/comps/22/possession/Major-League-Soccer-Stats
-scraped_at: 2026-11-09T19:15:54.926608+00:00
+scraped_at: 2026-11-16T18:59:14.021228+00:00
 source: fbref.com
 ---
 

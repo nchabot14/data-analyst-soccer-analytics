@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home/2023/11/15/mls-expected-goals-leaders
-scraped_at: 2026-11-09T19:16:42.216244+00:00
+scraped_at: 2026-11-16T19:01:47.836219+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,14 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[By Evan Davis](https://bsky.app/profile/evandavissports.bsky.social)
+
+Today is the day! We’ve got our NWSL awards finalists in place, and fan voting is open until **8pm ET on Wednesday November 11th.** Every race is pretty tight, and no clear favorites exist. Ballots can be found [here](https://g1j9uuaobs1.typeform.com/NWSLfans).
+
+How will you vote? I can’t know that. I’m not your conscience. I am a voting member of the NWSL media, however, so I can at least share how I put together my ballot.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/11/9/how-i-voted-in-the-nwsl-awards-race)
 
 [![2026 MLS End of Season Awards Ballot](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1794176118353-MQGXNYE9UBBFYXGEB804/net-gplus-best-xi-2026.png)](https://www.americansocceranalysis.com/home/2026/11/8/2026-mls-end-of-season-awards-ballot)
 
@@ -102,12 +110,6 @@ _The new app that makes football make sense. Follow your favorite teams and play
 While ideologically we believe it’s called soccer, the app definitely does what it says on the tin. As such, I thought it’d be fun to dig in and see what Futi tells me to keep an eye on as we welcome MLS Saturday night’s back into our hearts. If you like what you see here (every image in here will be right out of the iOS app), head to [futi.live](https://futi.live/) and check it out for yourself.
 
 [Read More](https://www.americansocceranalysis.com/home/2026/7/11/mls-is-back-futi-style)
-
-[By Theresa Pham](https://www.linkedin.com/in/theresap90/)
-
-Expected Threat (xT) is a model that estimates the value of a pass or carry based on its likelihood of leading to a shot and the danger associated with that shot. Unlike [Karun Singh’s original xT framework](https://karun.in/blog/expected-threat.html), which relies entirely on historical transition probabilities, this version incorporates a logistic expected goals (xG) component to better capture shot quality. This analysis is inspired by [similar work conducted by Chloe Sainsbury in 2025](https://beyondthetouchline.substack.com/p/who-is-the-most-dangerous-passer).
-
-[Read More](https://www.americansocceranalysis.com/home/2026/7/7/a-2026-nwsl-midseason-analysis-from-the-lens-of-expected-threat)
 
 0items
 

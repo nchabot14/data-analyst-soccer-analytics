@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/comps/22/misc/Major-League-Soccer-Stats
-scraped_at: 2026-11-09T19:15:58.053623+00:00
+scraped_at: 2026-11-16T18:59:37.479550+00:00
 source: fbref.com
 ---
 

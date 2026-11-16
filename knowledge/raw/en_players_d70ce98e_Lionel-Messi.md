@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-11-09T19:16:02.501480+00:00
+scraped_at: 2026-11-16T19:00:31.377309+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 June 24, 1987
-(Age: 39-138d)
+(Age: 39-145d)
 
 in Rosario, Argentina
 
@@ -202,7 +202,7 @@ Stathead & Player Comparison
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_1526220610)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_4022180813)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -1581,10 +1581,10 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
-· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
+· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
 · [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
-· [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
+· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com

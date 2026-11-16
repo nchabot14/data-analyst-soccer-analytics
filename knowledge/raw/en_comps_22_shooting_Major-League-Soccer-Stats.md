@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/comps/22/shooting/Major-League-Soccer-Stats
-scraped_at: 2026-11-09T19:15:41.124011+00:00
+scraped_at: 2026-11-16T18:58:52.070617+00:00
 source: fbref.com
 ---
 

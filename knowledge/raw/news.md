@@ -1,18 +1,16 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-09-21T15:23:42.426782+00:00
+scraped_at: 2026-11-16T19:01:25.176259+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/news/#main-content)
 
-![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+![Bracket Challenge 2026](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1789568104/assets/branded-logos/2026_BracketChallenge_V_BLK_2x_as5mpq.png)
 
-Come Kick It! Watch MLS on Apple TV
+The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
 
-[Subscribe](https://soc.cr/4krM2op "Subscribe")
-
-[Learn More](https://soc.cr/4rLRnJO "Learn More")
+[Play Now](https://soc.cr/48xhZGD "Play Now")
 
 # News
 
@@ -33,29 +31,27 @@ Come Kick It! Watch MLS on Apple TV
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Reid Roberts hits point-saving golazo for Quakes | Energy Moment ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/abiomykxbdparehfycka)\\
+- [![Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ghtxq2pz2tqz9fpxax3o)\\
 \\
-Energy Moment of the Matchday\\
-\\
-**Reid Roberts hits point-saving golazo for Quakes \| Energy Moment**](https://www.mlssoccer.com/news/reid-roberts-hits-point-saving-golazo-for-quakes-energy-moment "Reid Roberts hits point-saving golazo for Quakes | Energy Moment ")
+**Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series**](https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-5-biggest-storylines-for-round-one-series "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series")
 
-- [![Lionel Messi joins Denis Bouanga in elite MLS club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dd0pfir9fczji6kt2q4u)\\
+- [![Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/avpyucjnqx094zfr0erm)\\
 \\
-**Lionel Messi joins Denis Bouanga in elite MLS club**](https://www.mlssoccer.com/news/lionel-messi-reaches-mls-milestone-with-inter-miami-free-kick "Lionel Messi joins Denis Bouanga in elite MLS club")
-- [![USMNT youngsters deliver, Nashville clinch playoffs & more from Matchday 27](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/e1ay6ujf0vdl1rbp52p6)\\
+**Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One**](https://www.mlssoccer.com/playoffs/2026/news/chicago-fire-fc-vs-charlotte-fc-5-biggest-storylines-for-eastern-conference-round-one "Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One")
+- [![New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hbi6e8e7crhdpc57q1qa)\\
 \\
-National Writer: Charles Boehm\\
+**New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series**](https://www.mlssoccer.com/playoffs/2026/news/new-england-revolution-vs-philadelphia-union-5-biggest-storylines-for-round-one-series "New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series")
+- [![FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vdqvnkfhkgwvkbv8mjh5)\\
 \\
-**USMNT youngsters deliver, Nashville clinch playoffs & more from Matchday 27**](https://www.mlssoccer.com/news/usmnt-youngsters-deliver-nashville-clinch-playoffs-more-from-matchday-27 "USMNT youngsters deliver, Nashville clinch playoffs & more from Matchday 27")
-- [![St. Louis CITY's Damion Downs replaces Ricardo Pepi on USMNT roster](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/y5jnjzfo05yhghbbmiu2)\\
+**FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One**](https://www.mlssoccer.com/playoffs/2026/news/fc-dallas-vs-portland-timbers-5-biggest-storylines-for-western-conference-round-one "FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One")
+- [![Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qorywsi77tj20ucsi7ce)\\
 \\
-**St. Louis CITY's Damion Downs replaces Ricardo Pepi on USMNT roster**](https://www.mlssoccer.com/news/st-louis-city-damions-downs-replaces-ricardo-pepi-on-usmnt-roster "St. Louis CITY's Damion Downs replaces Ricardo Pepi on USMNT roster")
-- [![Nashville SC eye bigger dreams after clinching playoff spot](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hnuq7hxtlassrmpshkd8)\\
+Defender of the Year\\
 \\
-**Nashville SC eye bigger dreams after clinching playoff spot**](https://www.mlssoccer.com/news/nashville-sc-eye-bigger-dreams-after-clinching-playoff-spot "Nashville SC eye bigger dreams after clinching playoff spot")
-- [![Morgan Whittaker announces himself with Colorado Rapids brace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/i0mxstjvzkhahnhcvlxx)\\
+**Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year**](https://www.mlssoccer.com/news/nashville-sc-maxwell-woledzi-named-2026-mls-defender-of-the-year "Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year")
+- [![Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lxxnpl6ilb4ozno8hnuk)\\
 \\
-**Morgan Whittaker announces himself with Colorado Rapids brace**](https://www.mlssoccer.com/news/morgan-whittaker-announces-himself-with-colorado-rapids-brace "Morgan Whittaker announces himself with Colorado Rapids brace")
+**Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1**](https://www.mlssoccer.com/playoffs/2026/news/chicago-fire-fc-vs-charlotte-fc-how-to-watch-stream-eastern-conference-round-one-game-1 "Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -81,22 +77,22 @@ Power Rankings
 Power Rankings
 
 
-- [![Power Rankings: Philadelphia Union turnaround reaches new heights](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pit0nkuhlbwpv8m8vllw)\\
+- [![Power Rankings: Where does your team rank after Decision Day?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hub3cgvttilxq6tdol1e)\\
 \\
-**Power Rankings: Philadelphia Union turnaround reaches new heights**](https://www.mlssoccer.com/news/power-rankings-philadelphia-surge-into-top-five "Power Rankings: Philadelphia Union turnaround reaches new heights")
+**Power Rankings: Where does your team rank after Decision Day?**](https://www.mlssoccer.com/news/power-rankings-where-does-your-team-rank-after-decision-day-2026 "Power Rankings: Where does your team rank after Decision Day?")
 
-- [![Power Rankings: Orlando City, St. Louis CITY keep climbing](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xskdiv7bbshvhazd99lx)\\
+- [![Power Rankings: Where your team stands before Decision Day](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ggr7uqpehflihgxsxo0v)\\
 \\
-**Power Rankings: Orlando City, St. Louis CITY keep climbing**](https://www.mlssoccer.com/news/power-rankings-orlando-city-st-louis-city-keep-climbing "Power Rankings: Orlando City, St. Louis CITY keep climbing")
-- [![Power Rankings: Philadelphia Union continue epic ascent](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/tkzpk4ex1evcib9gw1xx)\\
+**Power Rankings: Where your team stands before Decision Day**](https://www.mlssoccer.com/news/power-rankings-where-your-team-stands-before-decision-day "Power Rankings: Where your team stands before Decision Day")
+- [![Power Rankings: New England, Dallas prove contender status](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gf5fb6qazwjondv2k6do)\\
 \\
-**Power Rankings: Philadelphia Union continue epic ascent**](https://www.mlssoccer.com/news/power-rankings-nashv "Power Rankings: Philadelphia Union continue epic ascent")
-- [![Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/z1d7zfvxcznuwdrm0ezk)\\
+**Power Rankings: New England, Dallas prove contender status**](https://www.mlssoccer.com/news/power-rankings-new-england-dallas-prove-contender-status "Power Rankings: New England, Dallas prove contender status")
+- [![Power Rankings: Nashville SC chase history as playoff races tighten](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/kic5o1xd3vccm72lrsp3)\\
 \\
-**Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs**](https://www.mlssoccer.com/news/power-rankings-chicago-fire-st-louis-city-extend-unbeaten-runs "Power Rankings: Chicago Fire, St. Louis CITY extend unbeaten runs")
-- [![Power Rankings: Hany Mukhtar guides Nashville SC back on top](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fbdoiwkdq5fjdgpq3rjq)\\
+**Power Rankings: Nashville SC chase history as playoff races tighten**](https://www.mlssoccer.com/news/power-rankings-nashville-sc-chase-history-as-playoff-races-tighten "Power Rankings: Nashville SC chase history as playoff races tighten")
+- [![Power Rankings: Can anyone slow down St. Louis CITY SC?](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mclcfmadoroabb4uzxru)\\
 \\
-**Power Rankings: Hany Mukhtar guides Nashville SC back on top**](https://www.mlssoccer.com/news/power-rankings-hany-mukhtar-guides-nashville-sc-back-on-top "Power Rankings: Hany Mukhtar guides Nashville SC back on top")
+**Power Rankings: Can anyone slow down St. Louis CITY SC?**](https://www.mlssoccer.com/news/power-rankings-can-anyone-slow-down-st-louis-city-sc "Power Rankings: Can anyone slow down St. Louis CITY SC?")
 
 [More](https://www.mlssoccer.com/news/topics/power-rankings/)
 
@@ -106,26 +102,26 @@ Walmart Saturday Showdown
 Walmart Saturday Showdown
 
 
-- [![Denis Bouanga passes Carlos Vela for another LAFC milestone](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rhfr6ipjtjilsdvw25jb)\\
-\\
-**Denis Bouanga passes Carlos Vela for another LAFC milestone**](https://www.mlssoccer.com/news/denis-bouanga-passes-carlos-vela-for-another-lafc-milestone "Denis Bouanga passes Carlos Vela for another LAFC milestone")
-
-- [![Niko Tsakiris grows into starring role for San Jose Earthquakes](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mxbmcvzxmpzxoujsnicd)\\
+- [![St. Louis CITY: History, supporters & culture fuel bounceback year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nj9ajy4la3rvkq0zk0qq)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Niko Tsakiris grows into starring role for San Jose Earthquakes**](https://www.mlssoccer.com/news/niko-tsakiris-grows-into-starring-role-for-san-jose-earthquakes "Niko Tsakiris grows into starring role for San Jose Earthquakes")
-- [![San Jose Earthquakes & LAFC battle for playoff positioning](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ur0a1pwmai1xptht0axu)\\
+**St. Louis CITY: History, supporters & culture fuel bounceback year**](https://www.mlssoccer.com/news/st-louis-city-history-supporters-culture-fuel-bounceback-year "St. Louis CITY: History, supporters & culture fuel bounceback year")
+
+- [![St. Louis CITY seek bounce-back against San Diego FC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hpkhgddw6qm3df22ydhk)\\
 \\
-Saturday Showdown\\
+**St. Louis CITY seek bounce-back against San Diego FC**](https://www.mlssoccer.com/news/st-louis-city-seek-bounce-back-against-san-diego-fc "St. Louis CITY seek bounce-back against San Diego FC")
+- [![Antoine Griezmann & Martín Ojeda make history with Orlando City](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fhxrnorfsdyvzl5hcz0w)\\
 \\
-**San Jose Earthquakes & LAFC battle for playoff positioning**](https://www.mlssoccer.com/news/san-jose-earthquakes-lafc-battle-for-playoff-positioning "San Jose Earthquakes & LAFC battle for playoff positioning")
-- [![Leo Messi, Sam Surridge shine in Miami-Nashville slugfest](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/palpx4wlvd5jzvkbaisv)\\
+**Antoine Griezmann & Martín Ojeda make history with Orlando City**](https://www.mlssoccer.com/news/antoine-griezmann-martin-ojeda-make-history-with-orlando-city "Antoine Griezmann & Martín Ojeda make history with Orlando City")
+- [![Justin Ellis: Griezmann’s new bestie rises with Orlando City, USMNT](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cnt6wxktlrok0numglix)\\
 \\
-**Leo Messi, Sam Surridge shine in Miami-Nashville slugfest**](https://www.mlssoccer.com/news/lionel-messi-sam-surridge-shine-in-supporters-shield-slugfest "Leo Messi, Sam Surridge shine in Miami-Nashville slugfest")
-- [![Nashville SC flip the switch on Inter Miami in 2026](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ffdkqxp0z1izx3lefttq)\\
+National Writer: Charles Boehm\\
 \\
-**Nashville SC flip the switch on Inter Miami in 2026**](https://www.mlssoccer.com/news/nashville-sc-have-flipped-the-switch-on-inter-miami-in-2026 "Nashville SC flip the switch on Inter Miami in 2026")
+**Justin Ellis: Griezmann’s new bestie rises with Orlando City, USMNT**](https://www.mlssoccer.com/news/justin-ellis-antoine-griezmann-s-new-bestie-takes-the-leap-with-orlando-city-usmnt "Justin Ellis: Griezmann’s new bestie rises with Orlando City, USMNT")
+- [![Antoine Griezmann & Orlando City roll into New York City FC test](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/s2fzt3i5yqwsar0be1um)\\
+\\
+**Antoine Griezmann & Orlando City roll into New York City FC test**](https://www.mlssoccer.com/news/antoine-griezmann-orlando-city-roll-into-nycfc-test-md32-2026 "Antoine Griezmann & Orlando City roll into New York City FC test")
 
 [More](https://www.mlssoccer.com/news/topics/saturday-showdown/)
 
@@ -135,28 +131,24 @@ Sunday Night Soccer pres. by Continental Tire
 Sunday Night Soccer pres. by Continental Tire
 
 
-- [![Lionel Messi joins Denis Bouanga in elite MLS club](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/dd0pfir9fczji6kt2q4u)\\
+- [![Lionel Messi heroics lead Inter Miami to Concacaf Champions Cup](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/g1qjgthpvuzohinp5z4d)\\
 \\
-**Lionel Messi joins Denis Bouanga in elite MLS club**](https://www.mlssoccer.com/news/lionel-messi-reaches-mls-milestone-with-inter-miami-free-kick "Lionel Messi joins Denis Bouanga in elite MLS club")
+**Lionel Messi heroics lead Inter Miami to Concacaf Champions Cup**](https://www.mlssoccer.com/news/lionel-messi-heroics-lead-inter-miami-to-champions-cup "Lionel Messi heroics lead Inter Miami to Concacaf Champions Cup")
 
-- [![Réunion to MLS: Elias Achouri's winding road to San Diego FC](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xdnhwjnwudwcja9jp5vq)\\
+- [![New England Revolution evolve into MLS Cup contender: "Never satisfied"](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hrrbjftv9ea8z7ux8whu)\\
 \\
 National Writer: Charles Boehm\\
 \\
-**Réunion to MLS: Elias Achouri's winding road to San Diego FC**](https://www.mlssoccer.com/news/reunion-to-mls-elias-achouri-s-winding-road-to-san-diego-fc "Réunion to MLS: Elias Achouri's winding road to San Diego FC")
-- [![Lionel Messi & Inter Miami host San Diego in cross-conference clash](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lqkpaewycrkdlrolf6nj)\\
+**New England Revolution evolve into MLS Cup contender: "Never satisfied"**](https://www.mlssoccer.com/news/new-england-revolution-evolve-into-mls-cup-contender-never-satisfied "New England Revolution evolve into MLS Cup contender: \"Never satisfied\"")
+- [![New England Revolution host Inter Miami in heavyweight clash](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zjeu0a57eeyrofzjwxay)\\
 \\
-Sunday Night Soccer\\
+**New England Revolution host Inter Miami in heavyweight clash**](https://www.mlssoccer.com/news/new-england-revolution-host-inter-miami-in-heavyweight-clash "New England Revolution host Inter Miami in heavyweight clash")
+- [![LAFC's furious El Tráfico comeback sparks playoff hopes](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wnbrhpovpy81odgkyhpi)\\
 \\
-**Lionel Messi & Inter Miami host San Diego in cross-conference clash**](https://www.mlssoccer.com/news/lionel-messi-inter-miami-host-san-diego-in-cross-conference-clash "Lionel Messi & Inter Miami host San Diego in cross-conference clash")
-- [![Cavan Sullivan continues ridiculous form with brilliant brace](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gbsdfsotbwrvrjyhfhkq)\\
+**LAFC's furious El Tráfico comeback sparks playoff hopes**](https://www.mlssoccer.com/news/lafc-s-furious-el-trafico-comeback-sparks-confidence-boost-ahead-of-playoffs "LAFC's furious El Tráfico comeback sparks playoff hopes")
+- [![LAFC vs. LA Galaxy: Playoff chase raises El Tráfico stakes](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yv6znkauiizvrdhlhnaf)\\
 \\
-**Cavan Sullivan continues ridiculous form with brilliant brace**](https://www.mlssoccer.com/news/cavan-sullivan-continues-ridiculous-form-with-brilliant-brace "Cavan Sullivan continues ridiculous form with brilliant brace")
-- [![How Cavan Sullivan took the leap with Philadelphia Union](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/mgmarcpicrvqbozgdawu)\\
-\\
-National Writer: Charles Boehm\\
-\\
-**How Cavan Sullivan took the leap with Philadelphia Union**](https://www.mlssoccer.com/news/how-cavan-sullivan-took-the-leap-with-philadelphia-union "How Cavan Sullivan took the leap with Philadelphia Union")
+**LAFC vs. LA Galaxy: Playoff chase raises El Tráfico stakes**](https://www.mlssoccer.com/news/lafc-vs-la-galaxy-playoff-chase-raises-el-trafico-stakes "LAFC vs. LA Galaxy: Playoff chase raises El Tráfico stakes")
 
 [More](https://www.mlssoccer.com/news/topics/sunday-night-soccer/)
 
@@ -166,11 +158,11 @@ Team of the Matchday
 Team of the Matchday
 
 
-- [![Team of the Matchday: Sullivan, Surridge score sensational braces](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
+- [![Team of the Matchday: Surridge, Rusnák deliver Decision Day drama](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fjk0yqffnscpngxsdbol)\\
 \\
 Team of the Matchday\\
 \\
-**Team of the Matchday: Sullivan, Surridge score sensational braces**](https://www.mlssoccer.com/news/team-of-the-matchday-sullivan-surridge-score-sensational-braces "Team of the Matchday: Sullivan, Surridge score sensational braces")
+**Team of the Matchday: Surridge, Rusnák deliver Decision Day drama**](https://www.mlssoccer.com/news/team-of-the-matchday-surridge-rusnak-deliver-decision-day-drama "Team of the Matchday: Surridge, Rusnák deliver Decision Day drama")
 
 Goal of the Matchday
 
@@ -178,9 +170,11 @@ Goal of the Matchday
 Goal of the Matchday
 
 
-- [![Inter Miami's Lionel Messi wins Goal of Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ydovt93zw1fwtsf5n3xx)\\
+- [![LAFC's Sergio Vásquez wins Goal of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/rm5njkozdbe7lfe8fm0h)\\
 \\
-**Inter Miami's Lionel Messi wins Goal of Matchday**](https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-goal-of-matchday-md26-2026 "Inter Miami's Lionel Messi wins Goal of Matchday")
+Goal of the Matchday\\
+\\
+**LAFC's Sergio Vásquez wins Goal of the Matchday**](https://www.mlssoccer.com/news/lafc-s-sergio-vasquez-wins-goal-of-the-matchday "LAFC's Sergio Vásquez wins Goal of the Matchday")
 
 Energy Moment of the Matchday
 
@@ -188,11 +182,11 @@ Energy Moment of the Matchday
 Energy Moment of the Matchday
 
 
-- [![Reid Roberts hits point-saving golazo for Quakes | Energy Moment ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/abiomykxbdparehfycka)\\
+- [![Brais Méndez delivers Decision Day drama | Energy Moment of the Matchday](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/c12ys98syl1n6nl7oj2g)\\
 \\
 Energy Moment of the Matchday\\
 \\
-**Reid Roberts hits point-saving golazo for Quakes \| Energy Moment**](https://www.mlssoccer.com/news/reid-roberts-hits-point-saving-golazo-for-quakes-energy-moment "Reid Roberts hits point-saving golazo for Quakes | Energy Moment ")
+**Brais Méndez delivers Decision Day drama \| Energy Moment of the Matchday**](https://www.mlssoccer.com/news/brais-mendez-delivers-decision-day-drama-energy-moment-of-the-matchday "Brais Méndez delivers Decision Day drama | Energy Moment of the Matchday")
 
 Transfer Tracker
 
@@ -200,37 +194,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![FC Cincinnati sign Dutch defender Tyrell Malacia](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oep6rbnu49p5utw8bdpu)\\
+- [![Thiago Martins, Keaton Parks depart: New York City FC roster update](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/caktobhdihknrx8hxtid)\\
 \\
 Transfer Tracker\\
 \\
-**FC Cincinnati sign Dutch defender Tyrell Malacia**](https://www.mlssoccer.com/news/fc-cincinnati-sign-dutch-defender-tyrell-malacia "FC Cincinnati sign Dutch defender Tyrell Malacia")
-- [![Red Bull New York sign homegrown forward Dennis Nelich](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/zqs57rz55kopxhpeew82)\\
+**Thiago Martins, Keaton Parks depart: New York City FC roster update**](https://www.mlssoccer.com/news/thiago-martins-keaton-parks-depart-new-york-city-fc-roster-update "Thiago Martins, Keaton Parks depart: New York City FC roster update")
+- [![Nashville SC sign homegrown midfielder Xavier Aguilar ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yy7swm7gzwrvyhutaz6x)\\
 \\
 Transfer Tracker\\
 \\
-**Red Bull New York sign homegrown forward Dennis Nelich**](https://www.mlssoccer.com/news/red-bull-new-york-sign-homegrown-forward-dennis-nelich "Red Bull New York sign homegrown forward Dennis Nelich")
-- [![FC Cincinnati sign homegrown goalkeeper Connor Dale](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/gky6i4skr4xrtom9ywsk)\\
+**Nashville SC sign homegrown midfielder Xavier Aguilar**](https://www.mlssoccer.com/news/nashville-sc-sign-homegrown-midfielder-xavier-aguilar "Nashville SC sign homegrown midfielder Xavier Aguilar ")
+- [![Nashville SC sign homegrown winger Liam Stribling](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bisg1cq5rkqf1umwez6m)\\
 \\
 Transfer Tracker\\
 \\
-**FC Cincinnati sign homegrown goalkeeper Connor Dale**](https://www.mlssoccer.com/news/fc-cincinnati-sign-homegrown-goalkeeper-connor-dale "FC Cincinnati sign homegrown goalkeeper Connor Dale")
+**Nashville SC sign homegrown winger Liam Stribling**](https://www.mlssoccer.com/news/nashville-sc-sign-homegrown-winger-liam-stribling "Nashville SC sign homegrown winger Liam Stribling")
 
-- [![FC Cincinnati waive defender Matt Miazga](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/i8csvb7qd0hskgmi1avr)\\
+- [![Sporting Kansas City roster update: John Pulskamp out of contract](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wttggxcmq5xcfbyuepta)\\
 \\
 Transfer Tracker\\
 \\
-**FC Cincinnati waive defender Matt Miazga**](https://www.mlssoccer.com/news/fc-cincinnati-waive-defender-matt-miazga "FC Cincinnati waive defender Matt Miazga")
-- [![Real Salt Lake sign Canadian defender Luc de Fougerolles](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hrzblsipzabu0j0e2hmd)\\
+**Sporting Kansas City roster update: John Pulskamp out of contract**](https://www.mlssoccer.com/news/sporting-kansas-city-roster-update-john-pulskamp-out-of-contract "Sporting Kansas City roster update: John Pulskamp out of contract")
+- [![Vancouver Whitecaps defender Belal Halbouni diagnosed with Hodgkin lymphoma](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/e7xfcsnw5ctdtfbyzyqa)\\
 \\
 Transfer Tracker\\
 \\
-**Real Salt Lake sign Canadian defender Luc de Fougerolles**](https://www.mlssoccer.com/news/real-salt-lake-sign-canadian-defender-luc-de-fougerolles "Real Salt Lake sign Canadian defender Luc de Fougerolles")
-- [![Real Salt Lake loan Victor Olatunji to SK Beveren](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/oj7ogne6pomuvhww0sme)\\
+**Vancouver Whitecaps defender Belal Halbouni diagnosed with Hodgkin lymphoma**](https://www.mlssoccer.com/news/vancouver-whitecaps-defender-belal-halbouni-diagnosed-with-hodgkin-lymphoma-diagnosis "Vancouver Whitecaps defender Belal Halbouni diagnosed with Hodgkin lymphoma")
+- [![Red Bull New York defender Tim Parker announces retirement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xhz5md9mqegjrr8xwhzp)\\
 \\
 Transfer Tracker\\
 \\
-**Real Salt Lake loan Victor Olatunji to SK Beveren**](https://www.mlssoccer.com/news/real-salt-lake-loan-victor-olatunji-to-sk-beveren "Real Salt Lake loan Victor Olatunji to SK Beveren")
+**Red Bull New York defender Tim Parker announces retirement**](https://www.mlssoccer.com/news/red-bull-new-york-defender-tim-parker-announces-retirement "Red Bull New York defender Tim Parker announces retirement")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 

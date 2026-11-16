@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/00e7e57b/Sergio-Busquets
-scraped_at: 2026-11-09T19:16:04.937853+00:00
+scraped_at: 2026-11-16T19:00:37.950997+00:00
 source: fbref.com
 ---
 
@@ -22,4 +22,4 @@ error was encountered while trying to use an ErrorDocument to handle the request
 
 * * *
 
-Apache/2.4.68 (Debian) Server at fbref.com Port 443
+Apache/2.4.71 (Debian) Server at fbref.com Port 443

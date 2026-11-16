@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/8b04d6c1/Jordi-Alba
-scraped_at: 2026-11-09T19:16:10.774197+00:00
+scraped_at: 2026-11-16T19:01:17.460379+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 August 5, 1995
-(Age: 31-096d)
+(Age: 31-103d)
 
 in Copenhagen, Denmark
 
@@ -119,7 +119,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=5ff4ab71&p3yrfrom=2026-2027&player_id4=0ddabe9e&p4yrfrom=2026&player_id5=6025fab1&p5yrfrom=2026-2027&player_id6=82518f62&p6yrfrom=2026-2027)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=5ff4ab71&p3yrfrom=2026-2027&player_id4=0ddabe9e&p4yrfrom=2026&player_id5=6025fab1&p5yrfrom=2026-2027&player_id6=0d9b2d31&p6yrfrom=2026-2027)
 
 - Stats by Competition
 
@@ -164,13 +164,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=5ff4ab71&p3yrfrom=2026-2027&player_id4=0ddabe9e&p4yrfrom=2026&player_id5=6025fab1&p5yrfrom=2026-2027&player_id6=82518f62&p6yrfrom=2026-2027)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=5ff4ab71&p3yrfrom=2026-2027&player_id4=0ddabe9e&p4yrfrom=2026&player_id5=6025fab1&p5yrfrom=2026-2027&player_id6=0d9b2d31&p6yrfrom=2026-2027)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_6150674321)
+  - [Player News](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_3687729349)
   - [Standard Stats](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/8b04d6c1/Pierre-Hojbjerg#all_stats_playing_time)
@@ -245,7 +245,7 @@ Sports Reference Hub is your free, customizable homepage for the teams, leagues,
 - [Player News Archive](https://fbref.com/en/news/8b04d6c1)
 - [Player News RSS Feed](https://fbref.com/en/news/8b04d6c1/rss)
 
-- Bloggers! Put your articles here for free. See the [Sports Reference Linker](https://fbref.com/en/linker/) for details.
+- [Sports Reference Linker](https://fbref.com/en/linker/) \-\- Link your blog posts to our site & get your articles in front of thousands of fans.
 
 ## Standard Stats: Domestic Leagues
 
@@ -534,9 +534,9 @@ Wages Table
 ## Additional Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Emile%20H%C3%B8jbjerg)
+· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Soccerway.com](https://int.soccerway.com/players/pierre-emil--hojbjerg/182609/)
 · [FIFA.com](https://fbref.com/en/players/8b04d6c1/336128)
-· [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/167799)
 · [Wikidata](https://www.wikidata.org/wiki/Q11059683)
 
 ### About FBref.com
@@ -601,4 +601,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=8b04d6c1&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=5ff4ab71&p3yrfrom=2026-2027&player_id4=0ddabe9e&p4yrfrom=2026&player_id5=6025fab1&p5yrfrom=2026-2027&player_id6=82518f62&p6yrfrom=2026-2027)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=8b04d6c1&p1yrfrom=2026-2027&player_id2=57d88cf9&p2yrfrom=2026-2027&player_id3=5ff4ab71&p3yrfrom=2026-2027&player_id4=0ddabe9e&p4yrfrom=2026&player_id5=6025fab1&p5yrfrom=2026-2027&player_id6=0d9b2d31&p6yrfrom=2026-2027)

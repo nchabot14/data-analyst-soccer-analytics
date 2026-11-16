@@ -1,18 +1,16 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-09-14T15:19:41.514126+00:00
+scraped_at: 2026-11-16T19:01:21.536952+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/about/#main-content)
 
-![How to watch - Come kick it](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1771347470/assets/branded-logos/MLS_Apple_TV_Black_2_dlduci.png)
+![Bracket Challenge 2026](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1789568104/assets/branded-logos/2026_BracketChallenge_V_BLK_2x_as5mpq.png)
 
-Come Kick It! Watch MLS on Apple TV
+The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
 
-[Subscribe](https://soc.cr/4krM2op "Subscribe")
-
-[Learn More](https://soc.cr/4rLRnJO "Learn More")
+[Play Now](https://soc.cr/48xhZGD "Play Now")
 
 # About MLS
 
