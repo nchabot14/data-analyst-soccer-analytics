@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/00e7e57b/Sergio-Busquets
-scraped_at: 2026-11-16T19:00:37.950997+00:00
+scraped_at: 2026-11-23T20:39:32.258972+00:00
 source: fbref.com
 ---
 

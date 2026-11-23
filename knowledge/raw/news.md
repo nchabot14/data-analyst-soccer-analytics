@@ -1,16 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/news/
-scraped_at: 2026-11-16T19:01:25.176259+00:00
+scraped_at: 2026-11-23T20:39:49.142774+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/news/#main-content)
 
-![Bracket Challenge 2026](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1789568104/assets/branded-logos/2026_BracketChallenge_V_BLK_2x_as5mpq.png)
+![Playoffs 2026 bracket](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1795108976/assets/branded-logos/CPL26_Logo-RGB_ENG_1c_LTBG_mxt6gi.png)
 
-The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
+Every Match Matters - Checkout the Audi 2026 MLS Cup Playoffs Bracket
 
-[Play Now](https://soc.cr/48xhZGD "Play Now")
+[View Bracket](https://soc.cr/4jqBRR9 "View Bracket")
+
+[Watch Live](https://soc.cr/4zWnlY4 "Watch Live")
 
 # News
 
@@ -31,27 +33,29 @@ The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
   - [Injury Report](https://www.mlssoccer.com/league-reports/player-availability-report/)
   - [Disciplinary Report](https://www.mlssoccer.com/league-reports/disciplinary-summary/)
 
-- [![Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ghtxq2pz2tqz9fpxax3o)\\
+- [![Real Salt Lake vs. Vancouver Whitecaps: How to watch, stream Western Conference Round One Game 2](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pwuezmc97ooxdpsovaho)\\
 \\
-**Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series**](https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-5-biggest-storylines-for-round-one-series "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series")
+**Real Salt Lake vs. Vancouver Whitecaps: How to watch, stream Western Conference Round One Game 2**](https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-vs-vancouver-whitecaps-how-to-watch-stream-western-conference-round-one-game-2 "Real Salt Lake vs. Vancouver Whitecaps: How to watch, stream Western Conference Round One Game 2")
 
-- [![Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/avpyucjnqx094zfr0erm)\\
+- [![Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/s0e1jdq56m8ewtdapv86)\\
 \\
-**Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One**](https://www.mlssoccer.com/playoffs/2026/news/chicago-fire-fc-vs-charlotte-fc-5-biggest-storylines-for-eastern-conference-round-one "Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One")
-- [![New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hbi6e8e7crhdpc57q1qa)\\
+**Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2**](https://www.mlssoccer.com/playoffs/2026/news/columbus-crew-vs-inter-miami-how-to-watch-stream-round-one-game-2 "Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2")
+- [![San Jose Earthquakes enter uncharted MLS Cup Playoffs territory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/j692s0nkuykkjtxxvhem)\\
 \\
-**New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series**](https://www.mlssoccer.com/playoffs/2026/news/new-england-revolution-vs-philadelphia-union-5-biggest-storylines-for-round-one-series "New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series")
-- [![FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vdqvnkfhkgwvkbv8mjh5)\\
+**San Jose Earthquakes enter uncharted MLS Cup Playoffs territory**](https://www.mlssoccer.com/playoffs/2026/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory "San Jose Earthquakes enter uncharted MLS Cup Playoffs territory")
+- [![San Jose Earthquakes’ Eduard Löwen named 2026 MLS Comeback Player of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xe8jlvaeeuaouu5kooru)\\
 \\
-**FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One**](https://www.mlssoccer.com/playoffs/2026/news/fc-dallas-vs-portland-timbers-5-biggest-storylines-for-western-conference-round-one "FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One")
-- [![Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qorywsi77tj20ucsi7ce)\\
+Comeback Player of the Year\\
 \\
-Defender of the Year\\
+**San Jose Earthquakes’ Eduard Löwen named 2026 MLS Comeback Player of the Year**](https://www.mlssoccer.com/news/san-jose-earthquakes-eduard-lowen-named-2026-mls-comeback-player-of-the-year-x6898 "San Jose Earthquakes’ Eduard Löwen named 2026 MLS Comeback Player of the Year")
+- [![Philadelphia Union's Cavan Sullivan named 2026 MLS Young Player of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cjjdvf4dwhndoqbndqsx)\\
 \\
-**Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year**](https://www.mlssoccer.com/news/nashville-sc-maxwell-woledzi-named-2026-mls-defender-of-the-year "Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year")
-- [![Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lxxnpl6ilb4ozno8hnuk)\\
+Young Player of the Year\\
 \\
-**Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1**](https://www.mlssoccer.com/playoffs/2026/news/chicago-fire-fc-vs-charlotte-fc-how-to-watch-stream-eastern-conference-round-one-game-1 "Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1")
+**Philadelphia Union's Cavan Sullivan named 2026 MLS Young Player of the Year**](https://www.mlssoccer.com/news/philadelphia-union-cavan-sullivan-named-2026-mls-young-player-of-the-year "Philadelphia Union's Cavan Sullivan named 2026 MLS Young Player of the Year")
+- [![Vancouver Whitecaps set MLS Cup tone after dominant Game 1 victory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xvenx6fdkujijyximkba)\\
+\\
+**Vancouver Whitecaps set MLS Cup tone after dominant Game 1 victory**](https://www.mlssoccer.com/playoffs/2026/news/vancouver-whitecaps-set-mls-cup-tone-after-dominant-game-1-victory "Vancouver Whitecaps set MLS Cup tone after dominant Game 1 victory")
 
 [More](https://www.mlssoccer.com/news/more/1)
 
@@ -194,37 +198,37 @@ Transfer Tracker
 Transfer Tracker
 
 
-- [![Thiago Martins, Keaton Parks depart: New York City FC roster update](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/caktobhdihknrx8hxtid)\\
+- [![San Diego FC roster update: Aníbal Godoy in talks, Cédric Bakambu departs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/howxwsvlidgogmlyq6bs)\\
 \\
 Transfer Tracker\\
 \\
-**Thiago Martins, Keaton Parks depart: New York City FC roster update**](https://www.mlssoccer.com/news/thiago-martins-keaton-parks-depart-new-york-city-fc-roster-update "Thiago Martins, Keaton Parks depart: New York City FC roster update")
-- [![Nashville SC sign homegrown midfielder Xavier Aguilar ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/yy7swm7gzwrvyhutaz6x)\\
+**San Diego FC roster update: Aníbal Godoy in talks, Cédric Bakambu departs**](https://www.mlssoccer.com/news/san-diego-fc-roster-update-anibal-godoy-in-talks-cedric-bakambu-departs "San Diego FC roster update: Aníbal Godoy in talks, Cédric Bakambu departs")
+- [![LA Galaxy roster update: Chucky Lozano loan ends, Maya Yoshida departs](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/afmotrjdkg2b8wib679c)\\
 \\
 Transfer Tracker\\
 \\
-**Nashville SC sign homegrown midfielder Xavier Aguilar**](https://www.mlssoccer.com/news/nashville-sc-sign-homegrown-midfielder-xavier-aguilar "Nashville SC sign homegrown midfielder Xavier Aguilar ")
-- [![Nashville SC sign homegrown winger Liam Stribling](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/bisg1cq5rkqf1umwez6m)\\
+**LA Galaxy roster update: Chucky Lozano loan ends, Maya Yoshida departs**](https://www.mlssoccer.com/news/la-galaxy-roster-update-chucky-lozano-loan-ends-maya-yoshida-departs "LA Galaxy roster update: Chucky Lozano loan ends, Maya Yoshida departs")
+- [![CF Montréal sign Daniel Ríos to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/st3esmw2ebifmvyukr1u)\\
 \\
 Transfer Tracker\\
 \\
-**Nashville SC sign homegrown winger Liam Stribling**](https://www.mlssoccer.com/news/nashville-sc-sign-homegrown-winger-liam-stribling "Nashville SC sign homegrown winger Liam Stribling")
+**CF Montréal sign Daniel Ríos to contract extension**](https://www.mlssoccer.com/news/cf-montreal-sign-daniel-rios-to-contract-extension "CF Montréal sign Daniel Ríos to contract extension")
 
-- [![Sporting Kansas City roster update: John Pulskamp out of contract](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wttggxcmq5xcfbyuepta)\\
+- [![Minnesota United roster update: Michael Boxall, Wil Trapp in talks to return](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ybnxjses2ppkrmtuczek)\\
 \\
 Transfer Tracker\\
 \\
-**Sporting Kansas City roster update: John Pulskamp out of contract**](https://www.mlssoccer.com/news/sporting-kansas-city-roster-update-john-pulskamp-out-of-contract "Sporting Kansas City roster update: John Pulskamp out of contract")
-- [![Vancouver Whitecaps defender Belal Halbouni diagnosed with Hodgkin lymphoma](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/e7xfcsnw5ctdtfbyzyqa)\\
+**Minnesota United roster update: Michael Boxall, Wil Trapp in talks to return**](https://www.mlssoccer.com/news/minnesota-united-roster-update-michael-boxall-wil-trapp-in-talks-to-return "Minnesota United roster update: Michael Boxall, Wil Trapp in talks to return")
+- [![Minnesota United fully acquire defender Cherrion Valerius](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/nkrq9zgpxe4ao6bwcwrj)\\
 \\
 Transfer Tracker\\
 \\
-**Vancouver Whitecaps defender Belal Halbouni diagnosed with Hodgkin lymphoma**](https://www.mlssoccer.com/news/vancouver-whitecaps-defender-belal-halbouni-diagnosed-with-hodgkin-lymphoma-diagnosis "Vancouver Whitecaps defender Belal Halbouni diagnosed with Hodgkin lymphoma")
-- [![Red Bull New York defender Tim Parker announces retirement](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xhz5md9mqegjrr8xwhzp)\\
+**Minnesota United fully acquire defender Cherrion Valerius**](https://www.mlssoccer.com/news/minnesota-united-fully-acquire-defender-cherrion-valerius "Minnesota United fully acquire defender Cherrion Valerius")
+- [![Minnesota United sign Drake Callender to contract extension](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hfnrhmsg0fmwah8y9ygs)\\
 \\
 Transfer Tracker\\
 \\
-**Red Bull New York defender Tim Parker announces retirement**](https://www.mlssoccer.com/news/red-bull-new-york-defender-tim-parker-announces-retirement "Red Bull New York defender Tim Parker announces retirement")
+**Minnesota United sign Drake Callender to contract extension**](https://www.mlssoccer.com/news/minnesota-united-sign-drake-callender-to-contract-extension "Minnesota United sign Drake Callender to contract extension")
 
 ![Download the MLS App](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/fpo759y9ns98jv0pl0wi.jpg)
 

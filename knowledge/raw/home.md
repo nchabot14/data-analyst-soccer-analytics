@@ -1,6 +1,6 @@
 ---
 source_url: https://www.americansocceranalysis.com/home
-scraped_at: 2026-11-16T19:01:51.687894+00:00
+scraped_at: 2026-11-23T20:40:14.893103+00:00
 source: americansocceranalysis.com
 ---
 
@@ -17,6 +17,40 @@ American Soccer Analysis — American Soccer Analysis
 [![American Soccer Analysis](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1435180609079-51SLX979FJ44N8A4R9PG/banner-03.png?format=1500w)](https://www.americansocceranalysis.com/)
 
 No results found
+
+[![The Defense Problem: Why WAR doesn't work for soccer yet, and what we're learning on the way](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1795412564864-WK8O7BSOQE2EMHDRDQI3/image4.png)](https://www.americansocceranalysis.com/home/2026/11/23/the-defense-problem-why-war-doesnt-work-for-soccer-yet-and-what-were-learning-on-the-way)
+
+By Christopher Gerrish [draftchalkboard.com](http://draftchalkboard.com/)
+
+The soccer analytics community has spent a lot of time trying to build a WAR (wins above replacement) model for soccer. We've built off-ball positioning models, on-ball action models, and xG systems, but it just isn't quite coming together. It's too difficult to attribute individual actions to players in such a team dependent sport, particularly on the defensive side of the ball. That doesn't mean we aren't getting closer. Here's what we're learning and why we need more data.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/11/23/the-defense-problem-why-war-doesnt-work-for-soccer-yet-and-what-were-learning-on-the-way)
+
+[![2026 MLS Analytics Survey](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1795024034339-UEQKDK4D8MLUTDSZNSZP/most+least+title.png)](https://www.americansocceranalysis.com/home/2026/11/18/2026-mls-analytics-survey)
+
+By [Eliot McKinley](https://bsky.app/profile/eliotmckinley.com) and [Ben Bellman](https://bsky.app/profile/beninquiring.bsky.social)
+
+Every year, we update the [State of MLS Analytics](https://www.americansocceranalysis.com/home/2026/11/16/the-state-of-mls-analytics-2026) by putting teams into tiers based upon how many analytics staff they have. However, the number of analytics staff members doesn’t necessarily say anything about the quality of work that a club is producing or if analytics is being incorporated into team decision making. Unfortunately, we can never really know what is going on inside a club’s analytics department. For the fourth straight year, we decided to do the best we could to get behind the scenes and asked club analytics staff for their input.
+
+An 11 question survey was sent to a member of the analytics staff at the 27 MLS clubs (an all time high) that have at least one analytics staff member. Responses were anonymous and teams were allowed to skip any question or comment. In the end, we received responses from 17 clubs which were collated and summarized below - note that not all questions were answered by each team. Thanks to all of the analytics staffers who responded for their time and thoughtful responses.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/11/18/2026-mls-analytics-survey)
+
+[![The State of MLS Analytics: 2026](https://images.squarespace-cdn.com/content/v1/5352fb7ce4b0bf79997bfc81/1794872091591-HH3QDUY1JBN0AKYI6IOF/MLS+Analytics+Tiers%402x.png)](https://www.americansocceranalysis.com/home/2026/11/16/the-state-of-mls-analytics-2026)
+
+Thirteen years ago when we started ASA, if an MLS club had one person “doing analytics” it was a big deal. Now a majority of clubs have multiple full time employees in actual analytics departments, and a team is seen as backwards if they don’t have at least one staff member primarily focused on game analytics. Every year, we comb team websites, LinkedIn, and ask those who would know about how many people each team employs to determine [The Tiers of MLS Analytics.](https://www.americansocceranalysis.com/home/category/State+of+MLS+Analytics)
+
+Former ASA Contributor Kevin Minkus, now Director of Analytics for Chicago Fire, wrote [Soccer Analytics 101](https://www.mlssoccer.com/news/soccer-analytics-101) over at MLSsoccer.com where he defined analytics as “using data and statistics to better understand something.” For the purposes of deciding what MLS teams have an analytics staff member the “something” is player recruitment and tactical analysis. We’re talking about using numbers and mathematical models (e.g. xG, xA, g+) to help evaluate transfer targets and team and player performance.
+
+The starting point here is math, not video, although video and the eye test will always be an important step in the process. We’re defining this as separate from sports science, where data and statistics are used to mainly evaluate a team’s own players’ _physical_ performance, things like training loads and injury prevention. Furthermore, it is different from _business_ analytics where data and statistics are used to drive more monetary value for a club, but is not focused on the sporting side even though they may contribute there as well.
+
+There is no doubt that MLS staff members wear multiple hats. Just because you have the job title of “data analyst” doesn’t mean you won’t be recruited to film a training session, break down video, or [drive new players to Canada to get a visa](https://theathletic.com/1200554/2019/09/10/the-seattle-sounders-guide-to-onboarding-new-players-from-abroad/). Similarly, a sports scientist, video analyst, or performance analyst may spend part of their time looking at statistics or even coding. **But there is a difference between using analytics as part of your job and analytics being your job, and for this we will be counting the latter.**
+
+As a reminder, we only count full-time employees - not interns or part time employees - for the tiers, but if we know of them they may get a mention.
+
+Based upon public knowledge and some private communications, and knowing full well that anyone outside a club can’t really know what is going on inside (if we missed anyone or got a job title wrong, please [reach out](https://bsky.app/profile/americansocceranalysis.com)), here are the Tiers of MLS Analytics and what we know about each team as of November 2026. The league continues to move in the right direction, nine teams have moved up at least one tier and only one team moved down.
+
+[Read More](https://www.americansocceranalysis.com/home/2026/11/16/the-state-of-mls-analytics-2026)
 
 [By Evan Davis](https://bsky.app/profile/evandavissports.bsky.social)
 
@@ -84,32 +118,6 @@ ASA and the analytics community at large has gotten to a pretty good place with 
 Today, though, we start with cross claiming. If you take the entire MLS dataset we have at ASA, the most productive cross claiming season by g+ is about +0.5 g+ across the entire season. Half a goal. Intercepting a cross in the 6 yard box off the head of a striker itself is worth half a goal! It’s wrong, and I won’t stand for this goalkeeper cross claiming erasure #GKUnion.
 
 [Read More](https://www.americansocceranalysis.com/home/2026/7/29/scream-and-shout-an-xclaim-model-for-goalkeeper-cross-collection)
-
-[By David Almona](https://bsky.app/profile/almondanalysis.bsky.social)
-
-At the end of a season in soccer, the Golden Glove is awarded to the goalkeeper that has kept the most clean sheets. It seems intuitive, as being the last line of defense, their job is mainly to stop any shots that make it past the defense from entering the goal. However, a clean sheet is when the _team_ prevents their opponent from scoring, not just the goalkeeper; it’s a team effort.
-
-[Read More](https://www.americansocceranalysis.com/home/2026/7/28/a-new-goalkeeper-metric-clean-sheets-earned-cse)
-
-## How scoring in the Men's World Cup compares to domestic leagues
-
-By [Jamon Moore](https://bsky.app/profile/jamonm.bsky.social)
-
-During the pandemic, when [Carlon Carpenter](https://bsky.app/profile/carloncarpenter.bsky.social) and I researched the impact of certain types of soccer passes, we were blown away by how important they were to goal scoring. We wrote 10 articles about them throughout 2021, called the “ [Where Goals Come From](https://www.americansocceranalysis.com/?offset=1614099600614&tag=Where+Goals+Come+From)” series. Even from those 10 articles, we never imagined the reach they would have in clubs across the world.
-
-Now, we examine the world’s premier competition and compare it to our original and ongoing research on how shots are created and goals are scored in domestic league competitions.
-
-[Read More](https://www.americansocceranalysis.com/home/2026/7/18/where-goals-come-from-fifa-mens-world-cup-edition)
-
-[By Kieran Doyle](https://bsky.app/profile/kierdoyle.bsky.social)
-
-MLS is back on Thursday, as we return from the World Cup break into a season finely poised to be one of the most fun we’ve had in quite some time. At the same time, our friends [John Muller](https://bsky.app/profile/johnspacemuller.com) and [Mike Imburgio](https://bsky.app/profile/mimburgio.bsky.social) have launched their new app, [Futi](https://bsky.app/profile/futi.live). I’m sure they agonized over every word of their tagline, so I’ll copy it here:
-
-_The new app that makes football make sense. Follow your favorite teams and players with real-time scores, shareable data visuals and pro analytics made simple._
-
-While ideologically we believe it’s called soccer, the app definitely does what it says on the tin. As such, I thought it’d be fun to dig in and see what Futi tells me to keep an eye on as we welcome MLS Saturday night’s back into our hearts. If you like what you see here (every image in here will be right out of the iOS app), head to [futi.live](https://futi.live/) and check it out for yourself.
-
-[Read More](https://www.americansocceranalysis.com/home/2026/7/11/mls-is-back-futi-style)
 
 0items
 

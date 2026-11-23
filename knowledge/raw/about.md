@@ -1,16 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/about/
-scraped_at: 2026-11-16T19:01:21.536952+00:00
+scraped_at: 2026-11-23T20:39:45.120899+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/about/#main-content)
 
-![Bracket Challenge 2026](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1789568104/assets/branded-logos/2026_BracketChallenge_V_BLK_2x_as5mpq.png)
+![Playoffs 2026 bracket](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1795108976/assets/branded-logos/CPL26_Logo-RGB_ENG_1c_LTBG_mxt6gi.png)
 
-The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
+Every Match Matters - Checkout the Audi 2026 MLS Cup Playoffs Bracket
 
-[Play Now](https://soc.cr/48xhZGD "Play Now")
+[View Bracket](https://soc.cr/4jqBRR9 "View Bracket")
+
+[Watch Live](https://soc.cr/4zWnlY4 "Watch Live")
 
 # About MLS
 

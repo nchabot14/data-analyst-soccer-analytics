@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/players/d70ce98e/Lionel-Messi
-scraped_at: 2026-11-16T19:00:31.377309+00:00
+scraped_at: 2026-11-23T20:39:26.905306+00:00
 source: fbref.com
 ---
 
@@ -16,7 +16,7 @@ source: fbref.com
 
 **Born:**
 June 24, 1987
-(Age: 39-145d)
+(Age: 39-152d)
 
 in Rosario, Argentina
 
@@ -143,7 +143,7 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2026-2027&player_id3=42fd9c7f&p3yrfrom=2026-2027&player_id4=1f44ac21&p4yrfrom=2026-2027&player_id5=82ec26c1&p5yrfrom=2026-2027&player_id6=69384e5d&p6yrfrom=2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2026-2027&player_id3=42fd9c7f&p3yrfrom=2026-2027&player_id4=82ec26c1&p4yrfrom=2026-2027&player_id5=1f44ac21&p5yrfrom=2026-2027&player_id6=69384e5d&p6yrfrom=2026)
 
 - Stats by Competition
 
@@ -196,13 +196,13 @@ Stathead & Player Comparison
 
   - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
   - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2026-2027&player_id3=42fd9c7f&p3yrfrom=2026-2027&player_id4=1f44ac21&p4yrfrom=2026-2027&player_id5=82ec26c1&p5yrfrom=2026-2027&player_id6=69384e5d&p6yrfrom=2026)
+  - [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2026-2027&player_id3=42fd9c7f&p3yrfrom=2026-2027&player_id4=82ec26c1&p4yrfrom=2026-2027&player_id5=1f44ac21&p5yrfrom=2026-2027&player_id6=69384e5d&p6yrfrom=2026)
 
 - On this page
 
 
   - [Last 5 Matches](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_last_5_matchlogs)
-  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_4022180813)
+  - [Player News](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_2102898420)
   - [Standard Stats](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_standard)
   - [Shooting](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_shooting)
   - [Playing Time](https://fbref.com/en/players/d70ce98e/Lionel-Messi#all_stats_playing_time)
@@ -235,15 +235,29 @@ Domestic Leagues
 
 ## Last 5 Matches
 
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+
 |  | Performance |  |
 | --- | --- | --- |
 | Date | Day | Round | Venue | Result | Squad | Opponent | Start | Pos | Min | Gls | Ast | PK | PKatt | Sh | SoT | CrdY | CrdR | Fls | Fld | Off | Crs | TklW | Int | OG | PKwon | PKcon | Match Report |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [2026-11-21](https://fbref.com/en/matches/e87da505/Inter-Miami-Columbus-Crew-November-21-2026-Major-League-Soccer) | Sat | [Round One](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | L 0–3 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Columbus Crew](https://fbref.com/en/squads/529ba333/Columbus-Crew-Stats) | Y\* | FW | 90 | 0 | 0 | 0 | 0 | 2 | 2 | 1 | 0 | 1 | 1 | 0 | 6 | 0 | 1 | 0 |  |  | [Match Report](https://fbref.com/en/matches/e87da505/Inter-Miami-Columbus-Crew-November-21-2026-Major-League-Soccer) |
 | [2026-11-07](https://fbref.com/en/matches/561a52d1/Inter-Miami-Charlotte-FC-November-7-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | D 3–3 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Charlotte](https://fbref.com/en/squads/eb57545a/Charlotte-FC-Stats) | Y\* | FW | 90 | 0 | 0 | 0 | 0 | 4 | 2 | 0 | 0 | 1 | 1 | 0 | 6 | 1 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/561a52d1/Inter-Miami-Charlotte-FC-November-7-2026-Major-League-Soccer) |
 | [2026-11-01](https://fbref.com/en/matches/b72378e3/New-England-Revolution-Inter-Miami-November-1-2026-Major-League-Soccer) | Sun | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Away | W 2–1 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [NE Revolution](https://fbref.com/en/squads/3c079def/New-England-Revolution-Stats) | Y\* | FW | 90 | 1 | 1 | 0 | 0 | 4 | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/b72378e3/New-England-Revolution-Inter-Miami-November-1-2026-Major-League-Soccer) |
 | [2026-10-28](https://fbref.com/en/matches/946c6532/Inter-Miami-FC-Cincinnati-October-28-2026-Major-League-Soccer) | Wed | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Home | D 2–2 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [FC Cincinnati](https://fbref.com/en/squads/e9ea41b2/FC-Cincinnati-Stats) | Y\* | FW | 90 | 0 | 0 | 0 | 0 | 5 | 0 | 1 | 0 | 0 | 0 | 0 | 4 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/946c6532/Inter-Miami-FC-Cincinnati-October-28-2026-Major-League-Soccer) |
 | [2026-10-24](https://fbref.com/en/matches/ddb35dba/Red-Bull-New-York-Inter-Miami-October-24-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Away | L 0–2 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [RB New York](https://fbref.com/en/squads/69a0fb10/Red-Bull-New-York-Stats) | N |  | 35 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 0 | 0 | 0 |  |  | [Match Report](https://fbref.com/en/matches/ddb35dba/Red-Bull-New-York-Inter-Miami-October-24-2026-Major-League-Soccer) |
-| [2026-10-17](https://fbref.com/en/matches/3369d6b0/Atlanta-United-Inter-Miami-October-17-2026-Major-League-Soccer) | Sat | [Regular Season](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | Away | W 3–1 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/Inter-Miami-Stats) | [Atlanta Utd](https://fbref.com/en/squads/1ebc1a5b/Atlanta-United-Stats) | Y\* | FW | 90 | 2 | 0 | 0 | 0 | 5 | 4 | 1 | 0 | 2 | 2 | 0 | 2 | 0 | 1 | 0 |  |  | [Match Report](https://fbref.com/en/matches/3369d6b0/Atlanta-United-Inter-Miami-October-17-2026-Major-League-Soccer) |
 
 Last 5 Matches Table
 
@@ -253,7 +267,7 @@ Javascript is required for the selection of a player.
 
 Choice is:
 
-Ex: Neymar, Alexis Sánchez, Son Heung-min
+Ex: Neymar, Son Heung-min, Antoine Griezmann
 
 Career
 
@@ -277,6 +291,8 @@ Sports Reference Hub is your free, customizable homepage for the teams, leagues,
 - [Player News Archive](https://fbref.com/en/news/d70ce98e)
 - [Player News RSS Feed](https://fbref.com/en/news/d70ce98e/rss)
 
+- **11/20** [Philly Sports Reports: What to know ahead of Union’s MLS Cup Playoffs run](https://phillysportsreports.com/2026/11/20/what-to-know-ahead-of-unions-mls-cup-playoffs-run/): _For the ninth time since 2016, the Philadelphia Union feature_...
+
 - **9/11** [Dallas Sports Journal: ‘A Little Less Funny’: Kylian Mbappé Pushes Back On ‘Dictator’ Memes After World Cup](https://dallassportsjournal.com/kylian-mbappe-dictator-memes-world-cup-france/): _PARIS — In an interview with France Football published Friday,_...
 
 - **9/8** [Dallas Sports Journal: Petar Musa’s 97th-Minute Penalty Lifts FC Dallas Past Sporting KC, Ties Lionel Messi In Golden Boot Race](https://dallassportsjournal.com/petar-musa-fc-dallas-sporting-kc-golden-boot-lionel-messi/): _FRISCO, Texas — Petar Musa converted a penalty kick seven minutes_...
@@ -285,12 +301,24 @@ Sports Reference Hub is your free, customizable homepage for the teams, leagues,
 
 - **6/10** [Philly Sports Reports: The World Cup is Almost Here, Philadelphia: All the Details](https://phillysportsreports.com/2026/06/10/the-world-cup-is-almost-here-philadelphia-all-the-details/): _The city of Philadelphia is preparing not just for the MLB All-Star_...
 
-- **6/9** [Vendetta Sports Media: Divock Origi Retires From Professional Soccer](https://vendettasportsmedia.com/divock-origi-retires-from-professional-soccer/): _Divock Origi Retires From Professional Soccer Earlier today, soccer_...
-
 
 ## Standard Stats: Domestic Leagues
 
 - [Goal Logs](https://fbref.com/en/players/d70ce98e/goallogs/dom_lg/Lionel-Messi-Goal-Log)
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+- Toggle Per90 Stats
 
 |  |  | Playing Time | Performance | Per 90 Minutes |  |
 | --- | --- | --- | --- | --- | --- |
@@ -334,6 +362,20 @@ Standard Stats: Domestic Leagues Table
 ## Shooting: Domestic Leagues
 
 - [Goal Logs](https://fbref.com/en/players/d70ce98e/goallogs/dom_lg/Lionel-Messi-Goal-Log)
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+- Toggle Per90 Stats
 
 |  | Standard |  |
 | --- | --- | --- |
@@ -376,6 +418,21 @@ Shooting: Domestic Leagues Table
 
 ## Playing Time: Domestic Leagues
 
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+- Toggle Per90 Stats
+
 |  |  | Playing Time | Starts | Subs | Team Success |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Season | Age | Squad | Country | Comp | LgRank | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 | On-Off | Matches |
@@ -402,20 +459,35 @@ Shooting: Domestic Leagues Table
 | 2023 | 35 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2023/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats) | 27th | 6 | 373 | 62 | 12.2 | 4.1 | 4 | 77 | 3 | 2 | 34 | 0 | 1.67 | 4 | 3 | +1 | +0.24 | +0.71 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2023/summary/Lionel-Messi-Match-Logs) |
 | 2024 | 36 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2024/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats) | 1st | 19 | 1,489 | 78 | 48.7 | 16.5 | 15 | 90 | 15 | 4 | 35 | 0 | 2.05 | 47 | 22 | +25 | +1.51 | +1.22 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2024/summary/Lionel-Messi-Match-Logs) |
 | 2025 | 37 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2025/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/2025/2025-Major-League-Soccer-Stats) | 2nd | 28 | 2,421 | 86 | 79.1 | 26.9 | 26 | 90 | 26 | 2 | 41 | 1 | 2.12 | 69 | 45 | +24 | +0.89 | +0.61 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2025/summary/Lionel-Messi-Match-Logs) |
-| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 31 | 2,665 | 86 | 87.1 | 29.6 | 29 | 89 | 28 | 2 | 37 | 0 | 1.71 | 72 | 55 | +17 | +0.57 | -0.34 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
-| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 661 | 54,025 | 82 | 70.0 | 600.3 | 594 | 88 | 533 | 67 | 34 | 1 | 2.24 | 933 | 362 | +571 | +1.58 | +1.02 |  |
+| 2026 | 38 | [Inter Miami](https://fbref.com/en/squads/cb8b86a2/2026/c22/Inter-Miami-Stats-Major-League-Soccer) | [us](https://fbref.com/en/country/USA/United-States-Football) [USA](https://fbref.com/en/country/USA/United-States-Football) | 1. [MLS](https://fbref.com/en/comps/22/Major-League-Soccer-Stats) | 3rd | 31 | 2,665 | 86 | 87.1 | 29.6 | 29 | 89 | 28 | 2 | 37 | 0 | 1.66 | 72 | 55 | +17 | +0.57 | -0.34 | [Matches](https://fbref.com/en/players/d70ce98e/matchlogs/2026/summary/Lionel-Messi-Match-Logs) |
+| 23 Seasons | 3 Clubs |  | 3 Leagues |  | 661 | 54,025 | 82 | 70.0 | 600.3 | 594 | 88 | 533 | 67 | 34 | 1 | 2.23 | 933 | 362 | +571 | +1.58 | +1.02 |  |
 |  | Country | Comp | LgRank | MP | Min | Mn/MP | Min% | 90s | Starts | Mn/Start | Compl | Subs | Mn/Sub | unSub | PPM | onG | onGA | +/- | +/-90 | On-Off | Matches |
 | Barcelona (17 Seasons) |  | 1 League |  | 519 | 42,087 | 81 | 72.4 | 467.6 | 464 | 88 | 412 | 55 | 34 | 0 | 2.34 | 610 | 183 | +427 | +1.87 | +0.73 |  |
-| Inter Miami (4 Seasons) |  | 1 League |  | 84 | 6,948 | 83 | 56.8 | 77.2 | 74 | 89 | 72 | 10 | 36 | 1 | 1.92 | 192 | 125 | +67 | +0.87 | +0.92 |  |
+| Inter Miami (4 Seasons) |  | 1 League |  | 84 | 6,948 | 83 | 56.8 | 77.2 | 74 | 89 | 72 | 10 | 36 | 1 | 1.90 | 192 | 125 | +67 | +0.87 | +0.92 |  |
 | Paris SG (2 Seasons) |  | 1 League |  | 58 | 4,990 | 86 | 73.0 | 55.4 | 56 | 88 | 49 | 2 | 27 | 0 | 2.24 | 131 | 54 | +77 | +1.39 | +0.12 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | La Liga (17 Seasons) |  |  |  | 519 | 42,087 | 81 | 72.4 | 467.6 | 464 | 88 | 412 | 55 | 34 | 0 | 2.34 | 610 | 183 | +427 | +1.87 | +0.73 |  |
-| MLS (4 Seasons) |  |  |  | 84 | 6,948 | 83 | 56.8 | 77.2 | 74 | 89 | 72 | 10 | 36 | 1 | 1.92 | 192 | 125 | +67 | +0.87 | +0.92 |  |
+| MLS (4 Seasons) |  |  |  | 84 | 6,948 | 83 | 56.8 | 77.2 | 74 | 89 | 72 | 10 | 36 | 1 | 1.90 | 192 | 125 | +67 | +0.87 | +0.92 |  |
 | Ligue 1 (2 Seasons) |  |  |  | 58 | 4,990 | 86 | 73.0 | 55.4 | 56 | 88 | 49 | 2 | 27 | 0 | 2.24 | 131 | 54 | +77 | +1.39 | +0.12 |  |
 
 Playing Time: Domestic Leagues Table
 
 ## Miscellaneous Stats: Domestic Leagues
+
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+- Toggle Per90 Stats
 
 |  | Performance |  |
 | --- | --- | --- |
@@ -457,6 +529,20 @@ Playing Time: Domestic Leagues Table
 Miscellaneous Stats: Domestic Leagues Table
 
 ## Player Club Summary
+
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
 
 |  | Domestic Leagues | Domestic Cups | International Cups | All Competitions |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1554,6 +1640,19 @@ Player Club Summary Table
 ## Wages
 
 - Data via [Capology](https://www.capology.com/).
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
 
 | Year | Age | Squad | Country | Comp | Weekly Wages | Annual Wages | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1582,9 +1681,9 @@ Wages Table
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lionel%20Messi)
 · [FIFA.com](https://fbref.com/en/players/d70ce98e/229397)
+· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [BDFutbol.com](http://www.bdfutbol.com/en/j/j1753.html)
 · [Transfermarkt.com](https://www.transfermarkt.com/xx-xx/profil/spieler/28003)
-· [Soccerway.com](http://www.soccerway.com/matches/2007/09/22/spain/primera-division/futbol-club-barcelona/sevilla-fut)
 · [Wikidata](https://www.wikidata.org/wiki/Q615)
 
 ### About FBref.com
@@ -1657,4 +1756,4 @@ Stathead & Player Comparison
 
 - [Player Match Finder](https://www.sports-reference.com/stathead/fbref/player-match-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
 - [Player Season Finder](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?player_id=d70ce98e&comp_gender=m&utm_source=fb&utm_medium=sr_xsite&utm_campaign=2023_11_player_innernav_stathead)
-- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2026-2027&player_id3=42fd9c7f&p3yrfrom=2026-2027&player_id4=1f44ac21&p4yrfrom=2026-2027&player_id5=82ec26c1&p5yrfrom=2026-2027&player_id6=69384e5d&p6yrfrom=2026)
+- [Player Comparison](https://fbref.com/en/stathead/player_comparison.cgi?show_form=1&request=1&sum=0&comp_type=by_type&dom_lg=1&player_id1=d70ce98e&p1yrfrom=2026&player_id2=dea698d9&p2yrfrom=2026-2027&player_id3=42fd9c7f&p3yrfrom=2026-2027&player_id4=82ec26c1&p4yrfrom=2026-2027&player_id5=1f44ac21&p5yrfrom=2026-2027&player_id6=69384e5d&p6yrfrom=2026)

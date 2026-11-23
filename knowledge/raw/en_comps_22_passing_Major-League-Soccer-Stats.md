@@ -1,6 +1,6 @@
 ---
 source_url: https://fbref.com/en/comps/22/passing/Major-League-Soccer-Stats
-scraped_at: 2026-11-16T18:58:58.748818+00:00
+scraped_at: 2026-11-23T20:38:57.470099+00:00
 source: fbref.com
 ---
 
@@ -108,7 +108,37 @@ Other 2026 Leagues
 
 ## Squad Passing 2026 Major League Soccer
 
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+- Toggle Per90 Stats
+
 ## Squad Passing 2026 Major League Soccer
+
+- Share & Export
+
+
+  - Modify, Export & Share Table
+  - Get as Excel Workbook
+  - Get table as CSV (for Excel)
+  - Get Link to Table
+  - About Sharing Tools
+  - [Video: SR Sharing Tools & How-to](https://www.youtube.com/watch?v=MWapXbaWs_U&feature=youtu.be)
+  - [Video: Stats Table Tips & Tricks](https://www.youtube.com/watch?v=JkDLV0roT14&feature=youtu.be)
+  - [Data Usage Terms](https://www.sports-reference.com/data_use.html)
+
+- Glossary
+- Toggle Per90 Stats
 
 Squad Stats
 

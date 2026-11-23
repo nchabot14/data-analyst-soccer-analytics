@@ -1,16 +1,18 @@
 ---
 source_url: https://www.mlssoccer.com/standings/
-scraped_at: 2026-11-16T19:01:30.069700+00:00
+scraped_at: 2026-11-23T20:39:53.519528+00:00
 source: mlssoccer.com
 ---
 
 [Skip to main content](https://www.mlssoccer.com/standings/#main-content)
 
-![Bracket Challenge 2026](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1789568104/assets/branded-logos/2026_BracketChallenge_V_BLK_2x_as5mpq.png)
+![Playoffs 2026 bracket](https://images.mlssoccer.com/image/upload/t_slim-alert-logo/v1795108976/assets/branded-logos/CPL26_Logo-RGB_ENG_1c_LTBG_mxt6gi.png)
 
-The Audi 2026 MLS Cup Playoffs Bracket Challenge is now open!
+Every Match Matters - Checkout the Audi 2026 MLS Cup Playoffs Bracket
 
-[Play Now](https://soc.cr/48xhZGD "Play Now")
+[View Bracket](https://soc.cr/4jqBRR9 "View Bracket")
+
+[Watch Live](https://soc.cr/4zWnlY4 "Watch Live")
 
 # Standings
 
@@ -26,7 +28,7 @@ Thursday November 19Thu 11/19
 
 Audi 2026 MLS Cup Playoffs
 
-7:30PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747769281/assets/logos/mls-clubs/Club_Logo-Orlando_ryyn7a.png)
 
@@ -36,13 +38,13 @@ ORL
 
 CIN
 
-Apple TV
+13
 
 [Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/seavsrsl-11-19-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-10:00PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748265125/assets/logos/mls-clubs/Club_Logo-Seattle_e6jk2x.png)
 
@@ -52,7 +54,9 @@ SEA
 
 RSL
 
-Apple TV
+11
+
+RSL wins 4:2 on PKs
 
 Saturday November 21Sat 11/21
 
@@ -60,7 +64,7 @@ Saturday November 21Sat 11/21
 
 Audi 2026 MLS Cup Playoffs
 
-2:00PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1766020750/assets/NE_Logo_PRI_FC_RGB_480x480_fdx2us.png)
 
@@ -70,13 +74,13 @@ NE
 
 PHI
 
-Apple TV
+20
 
 [Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/dalvspor-11-21-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-4:00PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500567/assets/logos/mls-clubs/Club_Logo-Dallas_sysmtj.png)
 
@@ -86,13 +90,13 @@ DAL
 
 POR
 
-Apple TV
+30
 
 [Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/miavsclb-11-21-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-6:00PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747755405/assets/logos/mls-clubs/Club_Logo-Miami_tyqe64.png)
 
@@ -102,31 +106,31 @@ MIA
 
 CLB
 
-Apple TV
+03
 
 Sunday November 22Sun 11/22
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvstbc-11-22-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-11-22-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-4:00PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747755999/assets/logos/mls-clubs/Club_Logo-Nashville_rb9vwu.png)
 
 NSH
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1760949685/assets/logos/fallback-club-logo-grey.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500249/assets/logos/mls-clubs/Club_Logo-Cincinnati_jwgkps.png)
 
-TBC
+CIN
 
-Apple TV
+01
 
 [Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/chivsclt-11-22-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-6:30PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500178/assets/logos/mls-clubs/Club_Logo-Chicago_jm2yev.png)
 
@@ -136,25 +140,25 @@ CHI
 
 CLT
 
-Apple TV
+12
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/vanvstbc-11-22-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/vanvsrsl-11-22-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-8:30PM
+Final
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748265547/assets/logos/mls-clubs/Club_Logo-Vancouver_ao9phl.png)
 
 VAN
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1760949685/assets/logos/fallback-club-logo-grey.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747776403/assets/logos/mls-clubs/Club_Logo-Salt_Lake_City_hpvde5.png)
 
-TBC
+RSL
 
-Apple TV
+20
 
-Monday November 23Mon 11/23
+TodayMon 11/23
 
 [Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/stlvslafc-11-23-2026/)
 
@@ -170,7 +174,7 @@ STL
 
 LAFC
 
-Apple TV
+Apple TV, FOX Deportes, FS1
 
 Tuesday November 24Tue 11/24
 
@@ -188,7 +192,7 @@ SJ
 
 HOU
 
-Apple TV
+Apple TV, FOX Deportes, FS1
 
 Friday November 27Fri 11/27
 
@@ -206,23 +210,23 @@ CLB
 
 MIA
 
-Apple TV
+Apple TV, FOX Deportes, FS1
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/tbcvsvan-11-27-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/rslvsvan-11-27-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
 10:00PM
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1760949685/assets/logos/fallback-club-logo-grey.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747776403/assets/logos/mls-clubs/Club_Logo-Salt_Lake_City_hpvde5.png)
 
-TBC
+RSL
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748265547/assets/logos/mls-clubs/Club_Logo-Vancouver_ao9phl.png)
 
 VAN
 
-Apple TV
+Apple TV, FOX Deportes, FS1, FOX
 
 Saturday November 28Sat 11/28
 
@@ -274,15 +278,15 @@ NE
 
 Apple TV
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/tbcvsnsh-11-28-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/cinvsnsh-11-28-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
 6:30PM
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1760949685/assets/logos/fallback-club-logo-grey.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500249/assets/logos/mls-clubs/Club_Logo-Cincinnati_jwgkps.png)
 
-TBC
+CIN
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747755999/assets/logos/mls-clubs/Club_Logo-Nashville_rb9vwu.png)
 
@@ -320,23 +324,23 @@ POR
 
 DAL
 
-Apple TV
+Apple TV, FOX Deportes, FS1
 
 Wednesday December 2Wed 12/02
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/chivsclt-12-02-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/vanvsrsl-12-02-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
 TBD
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500178/assets/logos/mls-clubs/Club_Logo-Chicago_jm2yev.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748265547/assets/logos/mls-clubs/Club_Logo-Vancouver_ao9phl.png)
 
-CHI
+VAN
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500045/assets/logos/mls-clubs/Club_Logo-Charlotte_p7sznf.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747776403/assets/logos/mls-clubs/Club_Logo-Salt_Lake_City_hpvde5.png)
 
-CLT
+RSL
 
 Apple TV
 
@@ -344,7 +348,7 @@ Apple TV
 
 Audi 2026 MLS Cup Playoffs
 
-TBD
+7:00PM
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1766020750/assets/NE_Logo_PRI_FC_RGB_480x480_fdx2us.png)
 
@@ -360,7 +364,7 @@ Apple TV
 
 Audi 2026 MLS Cup Playoffs
 
-TBD
+7:30PM
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747755405/assets/logos/mls-clubs/Club_Logo-Miami_tyqe64.png)
 
@@ -372,35 +376,35 @@ CLB
 
 Apple TV
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvstbc-12-02-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/chivsclt-12-02-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-TBD
+8:00PM
+
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500178/assets/logos/mls-clubs/Club_Logo-Chicago_jm2yev.png)
+
+CHI
+
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500045/assets/logos/mls-clubs/Club_Logo-Charlotte_p7sznf.png)
+
+CLT
+
+Apple TV
+
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-12-02-2026/)
+
+Audi 2026 MLS Cup Playoffs
+
+8:00PM
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747755999/assets/logos/mls-clubs/Club_Logo-Nashville_rb9vwu.png)
 
 NSH
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1760949685/assets/logos/fallback-club-logo-grey.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500249/assets/logos/mls-clubs/Club_Logo-Cincinnati_jwgkps.png)
 
-TBC
-
-Apple TV
-
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/sjvshou-12-02-2026/)
-
-Audi 2026 MLS Cup Playoffs
-
-TBD
-
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748262048/assets/logos/mls-clubs/Club_Logo-San_Jose_opzlmo.png)
-
-SJ
-
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500939/assets/logos/mls-clubs/Club_Logo-Houston_oifm77.png)
-
-HOU
+CIN
 
 Apple TV
 
@@ -408,7 +412,7 @@ Apple TV
 
 Audi 2026 MLS Cup Playoffs
 
-TBD
+8:00PM
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747771858/assets/logos/mls-clubs/Club_Logo-Saint_Louis_guz12c.png)
 
@@ -424,7 +428,7 @@ Apple TV
 
 Audi 2026 MLS Cup Playoffs
 
-TBD
+8:00PM
 
 ![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500567/assets/logos/mls-clubs/Club_Logo-Dallas_sysmtj.png)
 
@@ -436,19 +440,19 @@ POR
 
 Apple TV
 
-[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/vanvstbc-12-02-2026/)
+[Match Details](https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/sjvshou-12-02-2026/)
 
 Audi 2026 MLS Cup Playoffs
 
-TBD
+10:00PM
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748265547/assets/logos/mls-clubs/Club_Logo-Vancouver_ao9phl.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1748262048/assets/logos/mls-clubs/Club_Logo-San_Jose_opzlmo.png)
 
-VAN
+SJ
 
-![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1760949685/assets/logos/fallback-club-logo-grey.png)
+![](https://images.mlssoccer.com/image/upload/w_128,h_128,c_pad/f_auto/v1747500939/assets/logos/mls-clubs/Club_Logo-Houston_oifm77.png)
 
-TBC
+HOU
 
 Apple TV
 
@@ -584,26 +588,28 @@ Latest News
 Latest News
 
 
-- [![Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ghtxq2pz2tqz9fpxax3o)\\
+- [![Real Salt Lake vs. Vancouver Whitecaps: How to watch, stream Western Conference Round One Game 2](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/pwuezmc97ooxdpsovaho)\\
 \\
-**Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series**](https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-5-biggest-storylines-for-round-one-series "Inter Miami vs. Columbus Crew: 5 biggest storylines for Round One series")
-- [![Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/avpyucjnqx094zfr0erm)\\
+**Real Salt Lake vs. Vancouver Whitecaps: How to watch, stream Western Conference Round One Game 2**](https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-vs-vancouver-whitecaps-how-to-watch-stream-western-conference-round-one-game-2 "Real Salt Lake vs. Vancouver Whitecaps: How to watch, stream Western Conference Round One Game 2")
+- [![Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/s0e1jdq56m8ewtdapv86)\\
 \\
-**Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One**](https://www.mlssoccer.com/playoffs/2026/news/chicago-fire-fc-vs-charlotte-fc-5-biggest-storylines-for-eastern-conference-round-one "Chicago Fire FC vs. Charlotte FC: 5 biggest storylines for Eastern Conference Round One")
-- [![New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/hbi6e8e7crhdpc57q1qa)\\
+**Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2**](https://www.mlssoccer.com/playoffs/2026/news/columbus-crew-vs-inter-miami-how-to-watch-stream-round-one-game-2 "Columbus Crew vs. Inter Miami: How to watch, stream Round One Game 2")
+- [![San Jose Earthquakes enter uncharted MLS Cup Playoffs territory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/j692s0nkuykkjtxxvhem)\\
 \\
-**New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series**](https://www.mlssoccer.com/playoffs/2026/news/new-england-revolution-vs-philadelphia-union-5-biggest-storylines-for-round-one-series "New England Revolution vs. Philadelphia Union: 5 biggest storylines for Round One series")
-- [![FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/vdqvnkfhkgwvkbv8mjh5)\\
+**San Jose Earthquakes enter uncharted MLS Cup Playoffs territory**](https://www.mlssoccer.com/playoffs/2026/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory "San Jose Earthquakes enter uncharted MLS Cup Playoffs territory")
+- [![San Jose Earthquakes’ Eduard Löwen named 2026 MLS Comeback Player of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xe8jlvaeeuaouu5kooru)\\
 \\
-**FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One**](https://www.mlssoccer.com/playoffs/2026/news/fc-dallas-vs-portland-timbers-5-biggest-storylines-for-western-conference-round-one "FC Dallas vs. Portland Timbers: 5 biggest storylines for Western Conference Round One")
-- [![Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qorywsi77tj20ucsi7ce)\\
+Comeback Player of the Year\\
 \\
-Defender of the Year\\
+**San Jose Earthquakes’ Eduard Löwen named 2026 MLS Comeback Player of the Year**](https://www.mlssoccer.com/news/san-jose-earthquakes-eduard-lowen-named-2026-mls-comeback-player-of-the-year-x6898 "San Jose Earthquakes’ Eduard Löwen named 2026 MLS Comeback Player of the Year")
+- [![Philadelphia Union's Cavan Sullivan named 2026 MLS Young Player of the Year](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cjjdvf4dwhndoqbndqsx)\\
 \\
-**Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year**](https://www.mlssoccer.com/news/nashville-sc-maxwell-woledzi-named-2026-mls-defender-of-the-year "Nashville SC's Maxwell Woledzi named 2026 MLS Defender of the Year")
-- [![Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/lxxnpl6ilb4ozno8hnuk)\\
+Young Player of the Year\\
 \\
-**Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1**](https://www.mlssoccer.com/playoffs/2026/news/chicago-fire-fc-vs-charlotte-fc-how-to-watch-stream-eastern-conference-round-one-game-1 "Chicago Fire FC vs. Charlotte FC: How to watch, stream Eastern Conference Round One Game 1")
+**Philadelphia Union's Cavan Sullivan named 2026 MLS Young Player of the Year**](https://www.mlssoccer.com/news/philadelphia-union-cavan-sullivan-named-2026-mls-young-player-of-the-year "Philadelphia Union's Cavan Sullivan named 2026 MLS Young Player of the Year")
+- [![Vancouver Whitecaps set MLS Cup tone after dominant Game 1 victory](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xvenx6fdkujijyximkba)\\
+\\
+**Vancouver Whitecaps set MLS Cup tone after dominant Game 1 victory**](https://www.mlssoccer.com/playoffs/2026/news/vancouver-whitecaps-set-mls-cup-tone-after-dominant-game-1-victory "Vancouver Whitecaps set MLS Cup tone after dominant Game 1 victory")
 
 Latest Video
 
@@ -611,23 +617,23 @@ Latest Video
 Latest Video
 
 
-- [![2026 MLS Defender of the Year: Maxwell Woledzi](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/qorywsi77tj20ucsi7ce)\\
+- [![Columbus Crew shut down Inter Miami in Game 1 upset | Audi MLS Cup Playoff Rewind](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/txlca2imd2cbesimpkgh)\\
 \\
-1:04\\
+2:03\\
 \\
-**2026 MLS Defender of the Year: Maxwell Woledzi**](https://www.mlssoccer.com/video/2026-mls-defender-of-the-year-maxwell-woledzi "2026 MLS Defender of the Year: Maxwell Woledzi")
-- [![ALL FOR THE CUP: Audi 2026 MLS Cup Playoffs are here!](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/ty812xfcyctkjp2mwfdr)\\
+**Columbus Crew shut down Inter Miami in Game 1 upset \| Audi MLS Cup Playoff Rewind**](https://www.mlssoccer.com/video/columbus-crew-shut-down-inter-miami-in-game-1 "Columbus Crew shut down Inter Miami in Game 1 upset | Audi MLS Cup Playoff Rewind")
+- [![2026 MLS Comeback Player of the Year: Eduard Löwen](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/xe8jlvaeeuaouu5kooru)\\
 \\
-0:30\\
+1:21\\
 \\
-**ALL FOR THE CUP: Audi 2026 MLS Cup Playoffs are here!**](https://www.mlssoccer.com/video/all-for-the-cup-audi-2026-mls-cup-playoffs-are-here "ALL FOR THE CUP: Audi 2026 MLS Cup Playoffs are here!")
-- [![Matchday 35: MIA-CLT Suarez Simulation-Embellishment 82min ](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/wld7wd4pgkhbuwyknxyv)\\
+**2026 MLS Comeback Player of the Year: Eduard Löwen**](https://www.mlssoccer.com/video/2026-mls-comeback-player-of-the-year-eduard-lowen "2026 MLS Comeback Player of the Year: Eduard Löwen")
+- [![2026 MLS Young Player of the Year: Cavan Sullivan](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/cjjdvf4dwhndoqbndqsx)\\
 \\
-0:16\\
+0:55\\
 \\
-**Matchday 35: MIA-CLT Suarez Simulation-Embellishment 82min**](https://www.mlssoccer.com/video/matchday-35-mia-clt-suarez-simulation-embellishment-82min "Matchday 35: MIA-CLT Suarez Simulation-Embellishment 82min ")
-- [![Matchday 35: SEA-LAFC Ragen Serious Foul Play Shaffelburg 76min](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/grqzabur4icywzwg0zgb)\\
+**2026 MLS Young Player of the Year: Cavan Sullivan**](https://www.mlssoccer.com/video/2026-mls-young-player-of-the-year-cavan-sullivan "2026 MLS Young Player of the Year: Cavan Sullivan")
+- [![Peyton Miller & New England blank Philadelphia | Audi MLS Cup Playoff Rewind](https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls/julgq4zfnyo2nsiwutmz)\\
 \\
-0:45\\
+2:46\\
 \\
-**Matchday 35: SEA-LAFC Ragen Serious Foul Play Shaffelburg 76min**](https://www.mlssoccer.com/video/matchday-35-sea-lafc-ragen-serious-foul-play-shaffelburg-76min "Matchday 35: SEA-LAFC Ragen Serious Foul Play Shaffelburg 76min")
+**Peyton Miller & New England blank Philadelphia \| Audi MLS Cup Playoff Rewind**](https://www.mlssoccer.com/video/new-england-revolution-vs-philadelphia-union-audi-mls-cup-playoff-rewind "Peyton Miller & New England blank Philadelphia | Audi MLS Cup Playoff Rewind")
